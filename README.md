@@ -14,8 +14,8 @@ Collaborating on GitHub:
 7. Collaborate with your partner: By this time, your partner should have completed their task as well, and they can make a pull request to merge their feature into the owner's repository. Only the owner of the repository can actually merge. You may get merge conflicts, but you can reduce the likelihood of a conflict by making sure that both partners' repo's master branch is updated and that the branch you are submitting a pull request for is up-to-date with master on both repositories.
 
 ## Put your items here
-### How to create an oracle VM instance
-1. Add items to the list
+### Things you learned
+1. How to create an Oracle VM instance
 ### Things you don't understand about what we are doing / web development.
 1. Add items to the list
 ### Things you want to know next
