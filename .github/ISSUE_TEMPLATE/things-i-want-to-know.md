@@ -1,10 +1,10 @@
 ---
-name: Things I don't know
+name: Things I want to know
 about: This is for adding things I don't understand
 title: ''
-labels: ''
+labels: I want to know
 assignees: ''
 
 ---
 
-Fill in what you don't understand here
+Fill in what you want to know
