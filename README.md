@@ -1,6 +1,18 @@
 # MyWebClass collaboration and brainstorming activity to identify required content for mywebclass
 
-The purpose of this assignment is to practice collaborating using GIT/GitHub and to do this you need to create a list of things that you have learned in this class, things that you don't understand , and things that you want to learn.  
+The purpose of this assignment is to practice collaborating using GIT/GitHub.  To accomplish this task we are going to create three lists(What I Know, What I Don't Know, and What I Want To Learn) that consolidate the items from everyone in the class.  We will accomplish this project in 3 phases:
+
+1.  Each person will follow the instructions below to create issues -> project task -> issue branch -> fetch -> checkout issue branch -> resolve issue -> commit -> push branch -> pull request -> merge & close issue-> update master locally -> repeat
+
+2.  Find a partner and then make a pull requests for each item on your list to THEIR repository.  
+Learning Objectives:
+
+1.  You will be able to create an issue
+2.  You will learn to fork a github repo
+3.  You will be able to to create a project and a task
+4.  You will be able to create a branch and check the branch out for development
+5.  You will learn to create a pull request 
+6.  You will learn to generate an SSH key and add it to GitHub
 
 ## Instructions
 Collaborating on GitHub:
