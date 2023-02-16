@@ -32,4 +32,4 @@ Collaborating on GitHub:
 ### Things you don't understand about what we are doing / web development.
 1. I do not understand how to create a Docker file
 ### Things you want to know next
-1. How to connect viewjs to elastic search
+1. How to setup a project for development (file structure, docker files, etc)
