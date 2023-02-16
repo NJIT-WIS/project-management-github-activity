@@ -28,7 +28,7 @@ Collaborating on GitHub:
 
 ## Put your items here
 ### Things you understand so far
-1. Whatever
+1. I learned how to create a new SSH Key and add it to the github
 ### Things you don't understand about what we are doing / web development.
 1. Add items to the list
 ### Things you want to know next
