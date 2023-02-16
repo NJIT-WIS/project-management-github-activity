@@ -9,7 +9,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  You will learn to merge pull requests and resolve merge conflicts
 3.  You will learn to manage a basic project using GitHub Project.
 
-### Complete the Assignment By adding your issues to these 3 lists and we need a count how many times each issue is mentioned.  The number in the bracket next to each issue is the count, you should set your count at 1 for your issue.
+### Complete the Assignment By adding your issues to these 3 lists and count how many times each issue is mentioned.  We need a count of how many times each issue is mentioned.  The number in the bracket next to each issue is the count, you should set your count at 1 for your issue.
 
 ### Your list should look like this:
 #### Things we understand**
