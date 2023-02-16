@@ -30,6 +30,6 @@ Collaborating on GitHub:
 ### Things you understand so far
 1. I learned how to create a new SSH Key and add it to the github settings
 ### Things you don't understand about what we are doing / web development.
-1. Add items to the list
+1. I do not understand how to create a Docker file
 ### Things you want to know next
 1. How to connect viewjs to elastic search
