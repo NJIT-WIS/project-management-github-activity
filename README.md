@@ -1,11 +1,6 @@
 # MyWebClass collaboration and brainstorming activity to identify required content for mywebclass
 
-The purpose of this assignment is to practice collaborating using GIT/GitHub.  To accomplish this task we are going to create three lists(What I Know, What I Don't Know, and What I Want To Learn) that consolidate the items from everyone in the class.  We will accomplish this project in 3 phases:
-
-1.  Each person will follow the instructions below to create issues -> project task -> issue branch -> fetch -> checkout issue branch -> resolve issue -> commit -> push branch -> pull request -> merge & close issue-> update master locally -> repeat
-
-2.  Find a partner and then make a pull requests for each item on your list to THEIR repository.  
-Learning Objectives:
+### Learning Objectives:
 
 1.  You will be able to create an issue
 2.  You will learn to fork a github repo
@@ -13,6 +8,47 @@ Learning Objectives:
 4.  You will be able to create a branch and check the branch out for development
 5.  You will learn to create a pull request 
 6.  You will learn to generate an SSH key and add it to GitHub
+7.  You will learn to merge pull requests and resolve merge conflicts
+8.  You will learn to manage a basic project using GitHub Project.
+
+## Overview
+
+The purpose of this assignment is to practice collaborating using GIT/GitHub.  To accomplish this task we are going to create three lists(What I Know, What I Don't Know, and What I Want To Learn) that consolidate the items from everyone in the class.  You need at least 3 items for each list and you should plan that these items are going to be used for project 1 as the basis for the possible topics that people can choose to build online tutorials about.   In project one each person will need to create 3 tutorial (one item from each list).  You should develop your issue templates to collect the information from someone filing an issue that you might want to know to develop the correct tutorial article.
+
+## We will accomplish this project in 5 phases:
+
+1.  Each person will follow the instructions below to create issues -> project task -> issue branch -> fetch -> checkout issue branch -> resolve issue -> commit -> push branch -> pull request -> merge & close issue-> update master locally -> repeat
+
+2.  Find a person in class and then make a pull request for each item on your list to THEIR repository. Create an issue using the template "Submitting Assignment List" and reference the pull request that you make in the comment.
+
+This person should then merge the pull requests and resolve the merge conflict to add new items to their list and increment the count on dupilicate items.  We want to know how many people said the same thing, so that we can prioritize the requirement, when we decide on what tutorials to make in project 1.  
+
+3.  Once you have merged the pull requests from someone in class, you need to find someone new in class to submit a pull request called "merge my list".  that asks to merge your master into their master, so that they can add new items to their list and increment the duplicate issue count for each item in the list.  Create an issue using the template "Submitting Assignment List" and reference the pull request that you make in the comment.
+
+4. The person that receives the pull request from #3 needs to resolve merge conflics and merge, so that the new issues are added and duplicate counts are incrimented as necessary.
+
+5. Once you have merged someone else's list into your project make a pull request on this repository that asks to merge your list into the branch "complete_list".  Submit this pull request to canvas to finish the assignment.  Create an issue using the template "Submitting Assignment List" and reference the pull request that you make in the comment.
+
+### You are done when you have completed the following:
+ 
+1.  Added your issues individually and resolved them
+2.  Made pull requests to another person for each item that contains the branch you want to merge 
+3.  Made a pull request to another person with your master branch that contains the consolidated list 
+4.  Merged the pull request of someone with a compiled list
+5.  Submmited a pull request to this repository to have your complete list merged and create an issue using the template "Submitting Assignment List" and attach the pull request to the issue.
+
+### Submission instructions
+
+To submit this assignment you need to submit the result of step #4 to canvas.  When you look at the commits for your project you should see at least 3 different users have contributed items to the list.  If you don't have at least 3 different people's commits on the. project you will lose 33 points for each person not found.
+
+### Each list should look like this:
+
+### Things I know
+1. Creating an SSH public key[2]. <-count of duplicated issues should be in brackets
+2. Setting up a Traefik 
+
+## Prerequisite
+Add your ssh public key to github
 
 ## Instructions
 Collaborating on GitHub:
