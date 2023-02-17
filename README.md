@@ -29,10 +29,10 @@ Collaborating on GitHub:
 ## Put your items here
 ### Things you understand so far
 
-1. I know how to make an SSH key and add it to github so I don't need to login with a password.
 
 1. I know how to make an SSH key and add it to github so I don't need to login with a password
 2. learned github issues
+3. how to do a commit and push on pycharm
 
 ### Things you don't understand about what we are doing / web development.
 1. Need help on the assignments
