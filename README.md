@@ -15,7 +15,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we understand**
 1.  Git Work Flow
 2.  DevOps Deployment
-3.  Merge Conflict
+3.  MergeConflict
 #### Things we don't understand
 1. I wish I knew something
 2. GIt pull[2]
