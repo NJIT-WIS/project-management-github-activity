@@ -30,6 +30,7 @@ Collaborating on GitHub:
 ### Things you understand so far
 1. I know how to make an SSH Key and add it to Github so I dont need to login with a password
 2. I learned Github issues
+3. The importance of having Docker running.
 ### Things you don't understand about what we are doing / web development.
 1. I wish I knew how to read different errors on command line.
 2. The purpose of Github Actions.
