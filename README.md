@@ -37,3 +37,4 @@ Collaborating on GitHub:
 3. Resolving merge conflicts.
 ### Things you want to know next
 1. Using different applications to create one final webpage.
+2. Becoming more comfortable with Docker.
