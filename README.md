@@ -17,7 +17,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. Flask API
 3. VIM 
 #### Things we don't understand
-1. Git Stash[1]
+1. marshmallow
 2. GIt pull[2]
 3. GIT status[1]
 #### Things we want to know next**
