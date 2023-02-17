@@ -33,5 +33,6 @@ Collaborating on GitHub:
 ### Things you don't understand about what we are doing / web development.
 1. I wish I knew how to read different errors on command line.
 2. The purpose of Github Actions.
+3. Resolving merge conflicts.
 ### Things you want to know next
 1. How to connect viewjs to elastic search
