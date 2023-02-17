@@ -19,7 +19,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we don't understand
 1. Git flags (-m, -a, etc.)[1]
 2. Python [1]
-3. [1]
+3. SQL [1]
 #### Things we want to know next**
 1.  VIM [1]
 2.  [1]
