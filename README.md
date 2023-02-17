@@ -28,7 +28,9 @@ Collaborating on GitHub:
 
 ## Put your items here
 ### Things you understand so far
-1. Add items to the list
+1. How to create a new branch
+2. How to switch branches
+3. How to push using gui in vscode
 ### Things you don't understand about what we are doing / web development.
 1. syncing vs merging
 2. the proccess of resolving merge conflicts
