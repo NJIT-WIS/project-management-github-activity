@@ -37,5 +37,6 @@ Collaborating on GitHub:
 ### Things you don't understand about what we are doing / web development.
 1. Need help on the assignments
 2. Need help with the commands on pycharm
+3. Some of the terminology used in class.
 ### Things you want to know next
 1. How to connect viewjs to elastic search
