@@ -96,6 +96,7 @@ Collaborating on GitHub:
 ## Put your items here
 ### Things you understand so far
 1. Creating a SSH key and implementing it to github
+2. Creating issues with github
 ### Things you don't understand about what we are doing / web development.
 1. Add items to the list
 ### Things you want to know next
