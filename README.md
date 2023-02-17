@@ -13,7 +13,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1. Docker CLI
+1. Docker images and containers
 2. Flask API
 3. VIM 
 #### Things we don't understand
