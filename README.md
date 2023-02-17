@@ -18,7 +18,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  MergeConflict
 #### Things we don't understand
 1. Docker Image
-2. GIt pull[2]
+2. DockerFile
 3. GIT status[1]
 #### Things we want to know next**
 1.  Elastic Search Indexing [1]
