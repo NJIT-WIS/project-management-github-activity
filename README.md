@@ -40,4 +40,5 @@ Collaborating on GitHub:
 3. Some of the terminology used in class.
 ### Things you want to know next
 1. How to merge and resolve merge conflicts.
-2. Understadning how pycharm, github and docker go hand in hand.
+2. Understanding how pycharm, github and docker go hand in hand.
+3. Learn more about dockerhub
