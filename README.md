@@ -36,4 +36,4 @@ Collaborating on GitHub:
 2. The purpose of Github Actions.
 3. Resolving merge conflicts.
 ### Things you want to know next
-1. How to connect viewjs to elastic search
+1. Using different applications to create one final webpage.
