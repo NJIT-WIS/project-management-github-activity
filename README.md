@@ -35,6 +35,7 @@ Collaborating on GitHub:
 2. learned github issues
 
 ### Things you don't understand about what we are doing / web development.
-1. Add items to the list
+1. Need help on the assignments
+2. 
 ### Things you want to know next
 1. How to connect viewjs to elastic search
