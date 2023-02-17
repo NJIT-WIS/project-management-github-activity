@@ -34,6 +34,7 @@ Collaborating on GitHub:
 ### Things you don't understand about what we are doing / web development.
 1. syncing vs merging
 2. the proccess of resolving merge conflicts
+3. watchtower
 ### Things you want to know next
 1. How to connect viewjs to elastic search
 2. Browser dev tools
