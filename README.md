@@ -39,4 +39,5 @@ Collaborating on GitHub:
 2. Need help with the commands on pycharm
 3. Some of the terminology used in class.
 ### Things you want to know next
-1. How to connect viewjs to elastic search
+1. How to merge and resolve merge conflicts.
+2. 
