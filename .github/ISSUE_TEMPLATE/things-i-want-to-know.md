@@ -7,4 +7,4 @@ assignees: srinivasbojja369
 
 ---
 
-I Want to learn DevOps.
+I Want to learn DevOps
