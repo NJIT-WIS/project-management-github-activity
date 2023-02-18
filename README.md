@@ -13,7 +13,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  [1]
+1.  Creating SSH public key [1]
 2.  [1] 
 3.  [1]
 #### Things we don't understand
