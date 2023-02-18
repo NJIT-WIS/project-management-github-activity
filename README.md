@@ -15,7 +15,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we understand**
 1.  Github repositories[1]
 2.  Github classroom assignments[1] 
-3.  Docker Installation[1]
+3.  Autograder[1]
 #### Things we don't understand
 1. Simple and well explained definitions needed[1]
 2. Simple explanation of what everything is used for[1]
