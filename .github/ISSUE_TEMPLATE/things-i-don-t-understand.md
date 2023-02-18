@@ -7,4 +7,5 @@ assignees: srinivasbojja369
 
 ---
 
-I don't understand how to use docker 
+I don't understand how to use docker
+I dont understand push request
