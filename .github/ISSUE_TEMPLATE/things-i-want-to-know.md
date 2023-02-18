@@ -1,8 +1,8 @@
 ---
 name: Things I want to know
-about: Things I want to know
-title: Thing I want to know <Item>{Thing I want to know}
-labels: Things I Want to know
+about: Describe this issue template's purpose here.
+title: 'Thing I want to know: <file in title> [Thing I want to Knows]'
+labels: Things I learned
 assignees: ''
 
 ---
