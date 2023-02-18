@@ -21,7 +21,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. I don't know what teraform is or how to use it
 3. I don't understand how to use git stash and how it temporarily gets rid of changes
 #### Things we want to know next**
-1.  
+1.  I want to learn more about git commands so that I could just use the terminal quickly
 2.  
 3.  
 
