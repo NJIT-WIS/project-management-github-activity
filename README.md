@@ -94,8 +94,11 @@ Collaborating on GitHub:
 2. The purpose of Github Actions.
 3. Resolving merge conflicts.
 ### Things you want to know next
+
+1. Using different applications to create one final webpage.
+
 1. How to connect viewjs to elastic search
-=======
+
 2. Enable issues: If you don't see the "Issues" tab in the main menu, you should enable it in the repository settings. 
 3. Go to the "Issues" tab, and click "Milestones" to add a 0.1.0 milestone and describe it as a consolidated list of issues from your team.  
 4. Go to the issues tab you should also create labels for "I Know", "Want to Know", "Don't Understand", and "Master List".  
@@ -124,5 +127,6 @@ Collaborating on GitHub:
 12.  Check that your task is moved from in progress to done
 13.  update your local main branch with the changes from the merge by doing git pull origin main
 14. Repeat again, and again, and again
+
 
 
