@@ -18,8 +18,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  Docker Installation[1]
 #### Things we don't understand
 1. Simple and well explained definitions needed[1]
-2. Simple explanation of what everything is used for[2]
-3. GIT status[1]
+2. Simple explanation of what everything is used for[1]
+3. Explain Pycharm terminal and commands[1]
 #### Things we want to know next**
 1.  Elastic Search Indexing [1]
 2.  Cloud deployment with Kubernetes[2]
