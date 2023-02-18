@@ -17,6 +17,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we don't understand
 1. Git Fetch
 2. Git Rebase
+3. Docker Images
 #### Things we want to know next**
 1.  
 
