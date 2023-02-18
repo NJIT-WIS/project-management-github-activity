@@ -8,3 +8,4 @@ assignees: srinivasbojja369
 ---
 
 I Want to learn DevOpss
+I want to know python
