@@ -8,3 +8,4 @@ assignees: srinivasbojja369
 ---
 
 I don't understand how to use docker in high-end-based projects.
+I wish I knew Everything
