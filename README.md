@@ -125,3 +125,17 @@ Collaborating on GitHub:
 2. Becoming more comfortable with Docker.
 3. Learning how to use other applications that are needed in the field.
 
+
+
+1. I know how to make an SSH key and add it to github so I don't need to login with a password
+2. learned github issues
+3. how to do a commit and push on pycharm
+
+### Things you don't understand about what we are doing / web development.
+1. Need help on the assignments
+2. Need help with the commands on pycharm
+3. Some of the terminology used in class.
+### Things you want to know next
+1. How to merge and resolve merge conflicts.
+2. Understanding how pycharm, github and docker go hand in hand.
+3. Learn more about dockerhub
