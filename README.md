@@ -18,7 +18,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3. VIM Command Line
 #### Things we don't understand
 1. marshmallow
-2. GIt pull[2]
+2. DevOps
 3. GIT status[1]
 #### Things we want to know next**
 1.  Auth0
