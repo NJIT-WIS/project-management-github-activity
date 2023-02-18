@@ -13,7 +13,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  Docker Cli
+1. Docker CLI  
 2.  Mobile Responsiveness
 3.  CI/CD
 #### Things we don't understand
