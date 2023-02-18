@@ -13,17 +13,17 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  Creating SSH public key [1]
-2.  Docker installation [1] 
-3.  Git Commands [1]
+1.  [1]
+2.  [1] 
+3.   [1]
 #### Things we don't understand
-1. Git flags (-m, -a, etc.)[1]
-2. Python [1]
-3. SQL [1]
+1. [1]
+2. [1]
+3. [1]
 #### Things we want to know next**
-1.  VIM [1]
-2.  Python basics [1]
-3.  JAVA [1]
+1.  [1]
+2.  [1]
+3.  [1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
