@@ -27,9 +27,10 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 5. DockerFile [1]
 6. Docker [1]
 #### Things we want to know next**
-1.  VIM [1]
-2.  Python [1]
-3.  JAVA [1]
+1. VIM [1]
+2. Python [1]
+3. JAVA [1]
+4. SQL [1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
