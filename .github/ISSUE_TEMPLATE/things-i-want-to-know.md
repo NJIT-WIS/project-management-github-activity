@@ -7,6 +7,6 @@ assignees: srinivasbojja369
 
 ---
 
-I Want to learn DevOpss
-I want to know python
-I want to know how automation works in web systems.
+I Want to learn DevOpss[1]
+I want to know python[1]
+I want to know how automation works in web systems.[1]

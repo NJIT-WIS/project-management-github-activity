@@ -7,6 +7,6 @@ assignees: srinivasbojja369
 
 ---
 
-I don't understand how to use docker
-I dont understand push request
-I dont understand pycharm
+I don't understand how to use docker [1]
+I dont understand push request [1]
+I dont understand pycharm [1]
