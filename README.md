@@ -21,7 +21,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. Python [1]
 3. SQL [1]
 #### Things we want to know next**
-1.  [1]
+1.  VIM [1]
 2.  [1]
 3.  [1]
 
