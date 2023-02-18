@@ -17,7 +17,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  Mobile Responsiveness
 3.  CI/CD
 #### Things we don't understand
-1.  
+1. User Authentication 
 2. MVC
 3. Elastic Search
 #### Things we want to know next**
