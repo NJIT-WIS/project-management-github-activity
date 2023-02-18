@@ -7,4 +7,5 @@ assignees: ''
 
 ---
 
-I don't understand The ened use of Docker
+I don't understand The end use of Docker
+I don't understand How to resolve Merge Conflicts
