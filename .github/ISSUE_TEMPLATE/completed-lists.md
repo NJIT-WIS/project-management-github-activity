@@ -2,7 +2,7 @@
 name: Completed Lists
 about: This is for your main pull request to merge your main into this repo.
 title: Put your UCID as the title (replace this text)
-labels: Master List
+labels: Main List
 assignees: ''
 
 ---
