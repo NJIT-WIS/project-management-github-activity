@@ -18,7 +18,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  CI/CD
 #### Things we don't understand
 1. User Authentication
-2. GIt pull[2]
+2. MVC
 3. GIT status[1]
 #### Things we want to know next**
 1.  Elastic Search Indexing [1]
