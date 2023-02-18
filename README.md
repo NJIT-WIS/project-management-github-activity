@@ -96,3 +96,4 @@ Collaborating on GitHub:
 ### Things I don't understand
 1. Pull requests - how to do it effectively and are they the same as merges?
 ### Things I Want to Know
+1. CI (Continuous Integreation) - what it is and how it works
