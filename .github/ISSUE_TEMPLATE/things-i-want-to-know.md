@@ -10,3 +10,4 @@ assignees: ''
 I want to learn Kubernetes with an example project
 I want to learn how to deploy a website to cloud 
 I want to Learn CI/CD Tools
+I want to learn to Automate the whole process
