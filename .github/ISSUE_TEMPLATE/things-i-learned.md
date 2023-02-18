@@ -7,4 +7,4 @@ assignees: srinivasbojja369
 
 ---
 
-I learned how to use git and GitHub for software projects.
+I learned how to use git.
