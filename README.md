@@ -86,6 +86,7 @@ Collaborating on GitHub:
 
 ## Put your items here
 ### Things you understand so far
+1. I know how to make an SSH key and add it to github so I don't need to login with a password
 1. I know how to make an SSH Key and add it to Github so I dont need to login with a password
 2. I learned Github issues
 3. The importance of having Docker running.
