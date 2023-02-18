@@ -15,7 +15,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we understand**
 1.  Docker Cli
 2.  Flask
-3.  Docker Installation[1]
+3.  CI/CD
 #### Things we don't understand
 1. User Authentication
 2. GIt pull[2]
