@@ -17,8 +17,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  git fetch [1] 
 3.  git checkout [1]
 #### Things we don't understand
-1. Clarity on who Merges a pull request [1]
-2. 
+1.  Clarity on who Merges a pull request [1]
+2.  Difference between Docker build  & Docker compose  
 3. 
 #### Things we want to know next**
 1.  
