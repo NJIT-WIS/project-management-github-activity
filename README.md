@@ -21,7 +21,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  Difference between Docker build  & Docker compose  [1] 
 3.  How docker pushes to dockerhub [1]
 #### Things we want to know next**
-1.  
+1.  How to better work as a PM or as a subordinate [1]
 2.  
 3.  
 
