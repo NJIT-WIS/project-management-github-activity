@@ -25,6 +25,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3. SQL [1]
 4. Docker Image [1]
 5. DockerFile [1]
+6. Docker [1]
 #### Things we want to know next**
 1.  VIM [1]
 2.  Python [1]
