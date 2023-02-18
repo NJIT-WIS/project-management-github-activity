@@ -22,7 +22,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3. Coding in Java
 #### Things we want to know next**
 1.  Creating an application using MySQL
-2.  Cloud deployment with Kubernetes[2]
+2.  DRY and Yagni
 3.  Teraform[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
