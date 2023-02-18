@@ -15,7 +15,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we understand**
 1.  Linux terminal and bash
 2.  Python libraries
-3.  Docker Installation[1]
+3.  Set up an oracle server
 #### Things we don't understand
 1. sql and database
 2. traefik
