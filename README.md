@@ -22,7 +22,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3. I don't understand how to use git stash and how it temporarily gets rid of changes
 #### Things we want to know next**
 1.  I want to learn more about git commands so that I could just use the terminal quickly
-2.  
+2.  I want to learn how to use vuejs instead of reactjs
 3.  
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
