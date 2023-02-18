@@ -13,7 +13,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  I learned to use docker for running and building containers
+1.  Docker Cli
 2.  Linux Directory listing[2] 
 3.  Docker Installation[1]
 #### Things we don't understand
