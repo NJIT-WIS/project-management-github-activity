@@ -14,12 +14,12 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Your list should look like this:
 #### Things we understand**
 1.  Docker Cli
-2.  Flask
+2.  Mobile Responsiveness
 3.  CI/CD
 #### Things we don't understand
 1. User Authentication
 2. MVC
-3. Mobile Responsiveness
+3. 
 #### Things we want to know next**
 1.  Elastic Search Indexing [1]
 2.  Cloud deployment with Kubernetes[2]
