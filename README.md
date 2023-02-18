@@ -17,7 +17,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  Docker Commands[1] 
 3.  GitHub Issue Management[1]
 #### Things we don't understand
-1. Git Stash[1]
+1. PyCharm IDE Visual Merge Conflict Handling[1]
 2. GIt pull[2]
 3. GIT status[1]
 #### Things we want to know next**
