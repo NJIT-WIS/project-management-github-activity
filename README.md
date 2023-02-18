@@ -20,6 +20,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1. PyCharm IDE Visual Merge Conflict Handling[1]
 2. Docker Compose File Structure[1]
 3. Git Rebase Versus Git Merge[1]
+4. Pythong Jargon [1]
 #### Things we want to know next**
 1.  Storybook and Component Driven Development[1]
 2.  Api Mocking With Docker[1]
