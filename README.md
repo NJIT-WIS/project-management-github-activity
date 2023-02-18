@@ -98,6 +98,9 @@ Collaborating on GitHub:
 1. Using different applications to create one final webpage.
 2. Becoming more comfortable with Docker.
 
+3. Learning how to use other applications that are needed in the field.
+
+
 1. How to connect viewjs to elastic search
 
 2. Enable issues: If you don't see the "Issues" tab in the main menu, you should enable it in the repository settings. 
