@@ -13,7 +13,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  git status
+1.  git status [1]
 2.   
 3.  
 #### Things we don't understand
