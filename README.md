@@ -87,6 +87,7 @@ Collaborating on GitHub:
 ## Put your items here
 ### Things you understand so far
 1. I know how to make an SSH Key and add it to Github so I dont need to login with a password
+2. I learned Github issues
 ### Things you don't understand about what we are doing / web development.
 1. Add items to the list
 ### Things you want to know next
