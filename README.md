@@ -18,6 +18,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  Git Commands (status, pull, push, add, commit, etc.) [1]
 4.  Git Work Flow [1]
 5.  DevOps Deployment [1]
+6.  MergeConflict [1]
 #### Things we don't understand
 1. Git flags (-m, -a, etc.) [1]
 2. Python [1]
