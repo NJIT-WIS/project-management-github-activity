@@ -18,7 +18,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  Creating Repos in Docker
 #### Things we don't understand
 1. Python jargon
-2. GIt pull[2]
+2. Object oriented design patterns
 3. GIT status[1]
 #### Things we want to know next**
 1.  Elastic Search Indexing [1]
