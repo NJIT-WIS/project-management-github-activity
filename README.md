@@ -92,3 +92,7 @@ Collaborating on GitHub:
 13.  update your local main branch with the changes from the merge by doing git pull origin main
 14. Repeat again, and again, and again
 
+## Complete the Assignment By adding it here
+### Things I don't understand
+1. Pull requests - how to do it effectively and are they the same as merges?
+### Things I Want to Know
