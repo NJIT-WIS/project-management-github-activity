@@ -18,13 +18,14 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  Docker Installation[1]
 4.  Docker Command[1]
 5.  Github Command[1]
-6.  Docker Pull[1]
+6.  Git Pull[1]
 #### Things we don't understand
 1. Git Stash[1]
 2. GIt pull[2]
 3. GIT status[1]
 4. HTTPD Docker[1]
 5. Docker Images[1]
+6. Dockerfile Input[1]
 #### Things we want to know next**
 1.  Elastic Search Indexing [1]
 2.  Cloud deployment with Kubernetes[2]
