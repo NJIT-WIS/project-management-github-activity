@@ -21,7 +21,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. Docker Compose File Structure[1]
 3. Git Rebase Versus Git Merge[1]
 #### Things we want to know next**
-1.  Elastic Search Indexing [1]
+1.  Storybook and Component Driven Development[1]
 2.  Cloud deployment with Kubernetes[2]
 3.  Teraform[1]
 
