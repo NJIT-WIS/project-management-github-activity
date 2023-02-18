@@ -17,7 +17,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  Python libraries
 3.  Set up an oracle server
 #### Things we don't understand
-1. sql and database
+1. Sql and database
 2. traefik
 3. Javascript
 #### Things we want to know next**
