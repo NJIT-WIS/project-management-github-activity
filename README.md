@@ -19,7 +19,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we don't understand
 1. marshmallow
 2. devops
-3. GIT status[1]
+3. traefik
 #### Things we want to know next**
 1.  Auth0
 2.  Vue
