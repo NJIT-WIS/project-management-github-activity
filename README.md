@@ -105,6 +105,8 @@ Collaborating on GitHub:
 3. Resolving merge conflicts.
 ### Things you want to know next
 1. How to merge and resolve merge conflicts.
+2. Understanding how pycharm, github and docker go hand in hand.
+3. Learn more about dockerhub
 2. Understadning how pycharm, github and docker go hand in hand.
 2. 
 
