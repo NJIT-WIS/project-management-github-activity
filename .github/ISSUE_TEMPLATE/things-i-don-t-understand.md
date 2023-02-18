@@ -9,3 +9,4 @@ assignees: srinivasbojja369
 
 I don't understand how to use docker
 I dont understand push request
+I dont understand pycharm
