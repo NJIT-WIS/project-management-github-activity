@@ -19,7 +19,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we don't understand
 1. sql and database
 2. traefik
-3. GIT status[1]
+3. Javascript
 #### Things we want to know next**
 1.  web maintenance & security
 2.  Cloud deployment with Kubernetes[2]
