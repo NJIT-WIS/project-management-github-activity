@@ -15,7 +15,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we understand**
 1.  I learned how to add ssh key to github account and how to connect with local environment
 2.  I learned how to use docker to create web applications and how using images can be effective and useful.
-3.  
+3.  I learned about how to ReactJS to build web applications.
 #### Things we don't understand
 1. How to use and implement vuejs
 2. I don't know what teraform is or how to use it
