@@ -22,7 +22,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  How docker pushes to dockerhub [1]
 #### Things we want to know next**
 1.  How to better work as a PM or as a subordinate [1]
-2.  
+2.  Use Python program to write Hello World [1]
 3.  
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
