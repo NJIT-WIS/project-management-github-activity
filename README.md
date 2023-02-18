@@ -15,7 +15,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we understand**
 1. Docker images and containers
 2. Flask API
-3. VIM 
+3. VIM Command Line
 #### Things we don't understand
 1. marshmallow
 2. GIt pull[2]
