@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-I learned git commands
+I learned Git Commands
