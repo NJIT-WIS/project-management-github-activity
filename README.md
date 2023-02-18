@@ -20,7 +20,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we don't understand
 1. Git Stash
 2. Dockerfile
-3. GIT status[1]
+3. GitHub Collaboration 
 #### Things we want to know next**
 1.  Python Flask
 2.  AWS - cloud development 
