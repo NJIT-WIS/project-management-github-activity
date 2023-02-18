@@ -13,17 +13,21 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  Git Work Flow
-2.  DevOps Deployment
-3.  MergeConflict
+1.  Creating SSH public key. [1]
+2.  Docker installation [1] 
+3.  Git Commands (status, pull, push, add, commit, etc.) [1]
+4.  Git Work Flow [1]
+5.  DevOps Deployment [1]
+6.  MergeConflict [1]
 #### Things we don't understand
-1. Docker Image
-2. GIt pull[2]
-3. GIT status[1]
+1. Git flags (-m, -a, etc.) [1]
+2. Python [1]
+3. SQL [1]
+4. Docker Image [1]
 #### Things we want to know next**
-1.  Elastic Search Indexing [1]
-2.  Cloud deployment with Kubernetes[2]
-3.  Teraform[1]
+1.  VIM [1]
+2.  Python [1]
+3.  JAVA [1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
