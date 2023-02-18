@@ -1,7 +1,7 @@
 ---
 name: Completed Lists
 about: This is for your master pull request to merge your master into this repo.
-title: rsk6
+title: Put your UCID as the title (replace this text)
 labels: ''
 assignees: ''
 
