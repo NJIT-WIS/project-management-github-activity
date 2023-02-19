@@ -18,7 +18,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  How to clone a github repo in Pycharm
 #### Things we don't understand
 1. How to revert a commit
-2. 
+2. How git stores previous versions
 3. 
 #### Things we want to know next**
 1.  
