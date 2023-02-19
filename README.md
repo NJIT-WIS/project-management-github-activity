@@ -13,7 +13,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  how to make SSH key in the macbook, add it to the Github, GitHub Repository, Git Pull[1]
+1. how to make SSH key in the macbook, add it to the Github, GitHub Repository, Git Pull[1]
+2. GitHub Milestones, Labels[1]
 #### Things we don't understand
 #### Things we want to know next**
 
