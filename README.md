@@ -15,7 +15,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we understand**
 1.  I know how to make SSH key in the macbook & add it to the Github
 2.  I learned GitHub Issues and creating Branch
-3.  I learned GitHub Milestones and Labels
+3.  I learned GitHub Milestones, Labels and how to use them
 #### Things we don't understand
 1. Git Stash[1]
 2. GIt pull[2]
