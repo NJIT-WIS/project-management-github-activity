@@ -17,7 +17,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 #### Things we don't understand
 1. How to create and manage a database for a web app.[1]
-
+2. How to integrate third-party services and APIs into a web application.[2]
 #### Things we want to know next**
 
 
