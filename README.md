@@ -41,7 +41,7 @@ possible topics that people can choose to build online tutorials about.
 7. How to optimize website performance and improve page load speed [1]
 8. How to create and manage a database for a web app. [1]
 9. How to use Kubernetes. [1]
-10. How to optimize website performance and improve page load speed [1]
+
 
 
 #### Things we want to know next
