@@ -22,8 +22,7 @@ possible topics that people can choose to build online tutorials about.
 #### Things we understand
 1. Responsive design is important for ensuring web pages display correctly on various devices.[1]
 2. Frameworks like React, Angular, and Vue are commonly used in web development. [2]
-
-
+3. HTML is used for creating the structure of web pages, while CSS is used for styling. [3]
 
 
 #### Things we don't understand
