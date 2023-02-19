@@ -26,11 +26,12 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4.  git rebase[2]
 5.  GIT status[1]
 #### Things we want to know next**
-1. Cloud deployment with Kubernetes [1]
-2.  Teraform [1]
-3.  how this all relates[1]
-4.  how to make a website[1]
-5.  debugging[1]
+1.  Elastic Search Indexing - What is it? [1]
+2.  Cloud deployment with Kubernetes [1]
+3.  Teraform [1]
+4.  how this all relates[1]
+5.  how to make a website[1]
+6.  debugging[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
