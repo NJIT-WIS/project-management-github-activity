@@ -25,6 +25,7 @@ possible topics that people can choose to build online tutorials about.
 3. How to make a pull request. [1]
 4. How to make instances using Oracle Cloud. [1]
 5. Setting up and using Docker. [1]
+6. How to use version control systems like Git to manage and collaborate on code [1]
 
 #### Things we don't understand
 1. How git stash works [1]
