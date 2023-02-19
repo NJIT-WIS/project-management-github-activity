@@ -20,6 +20,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1. Git Stash - what is it? 
 2. Git Rebase - what is it? [2]
 3. GIT Actions - Complete Workflow
+4. Docker Images [2]
 #### Things we want to know next**
 1. Teraform 
 2. Cloud deployment with Kubernetes
