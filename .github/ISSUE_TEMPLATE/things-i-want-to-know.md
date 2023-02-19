@@ -8,6 +8,7 @@ assignees: ''
 ---
 
 
+I want to understand all steps of the Devops Automation[1]
 I want to know Devops tools and their Use[1]
 I want to learn Kubernetes with an example project [1]
 I want to learn how to deploy a website to cloud [1]
