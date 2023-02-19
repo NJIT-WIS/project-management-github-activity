@@ -13,12 +13,14 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
+
 1.  PyCharm IDE[1]
 2.  Docker Commands[2] 
 3.  Docker Installation[1]
 4.  Github Command[1]
 5.  Git Pull[1]
 6.  GitHub Issue Management[1]
+
 #### Things we don't understand
 1. PyCharm IDE Visual Merge Conflict Handling[1]
 2. Docker Compose File Structure[1]
@@ -28,6 +30,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 6. HTTPD Docker[1]
 7. Docker Images[1]
 8. Dockerfile Input[1]
+
 #### Things we want to know next**
 1.  Storybook and Component Driven Development[1]
 2.  Api Mocking With Docker[1]
