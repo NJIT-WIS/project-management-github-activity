@@ -37,6 +37,10 @@ possible topics that people can choose to build online tutorials about.
 5. How to use Kubernetes. [1]
 
 #### Things we want to know next
+1. How to create a responsive design that looks good on any device. [1]
+
+
+
 
 1. How to unit test. [1]
 2. How to use debugging tools. [1]
