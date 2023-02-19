@@ -13,11 +13,19 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1. how to make SSH key in the macbook, add it to the Github, GitHub Repository, Git Pull[1]
-2. GitHub Milestones, Labels[1]
+1. GitHub Milestones, Labels[1]
+2.  how to make SSH key in the macbook, add it to the Github, GitHub Repository, Git Pull[1]
+3.  docker installation[1]
+4.  adding modified files[2] 
+5.  git status[1]
 #### Things we don't understand
+1. git commit
+2. git rebase
+3. GIT status[1]
 #### Things we want to know next**
-
+1.  how this all relates[1]
+2.  how to make a website[2]
+3.  debugging[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
