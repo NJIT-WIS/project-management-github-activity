@@ -23,8 +23,7 @@ possible topics that people can choose to build online tutorials about.
 
 #### Things we don't understand
 
-1. How git stash works [1]
-2. How to use React or other front-end frameworks to build modern, responsive user interfaces [1]
+1. How to use HTML and CSS to create a basic webpage layout and style it
 
 #### Things we want to know next
 
