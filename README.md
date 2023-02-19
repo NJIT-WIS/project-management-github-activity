@@ -28,7 +28,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 5. Git Actions[1]
 #### Things we want to know next**
 1.  SQL[1]
-2.  Cloud deployment with Kubernetes[2]
+2.  Elastic Search Indexing[1]
 3.  Teraform[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
