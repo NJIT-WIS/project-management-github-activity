@@ -22,8 +22,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3. GIT Actions - Complete Workflow
 #### Things we want to know next**
 1. Teraform 
-2. Elastic Search Indexing 
-3. Cloud deployment with Kubernetes[2]
+2. Cloud deployment with Kubernetes
+3. Elastic Search Indexing
 4. fdsafsda
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
