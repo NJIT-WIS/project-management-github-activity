@@ -32,6 +32,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3. Recommended Stack For Modern Web Apps[1]
 4. DRY and Yagni
 5. Creating an application using MySQL
+6. Design and User Interface
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
