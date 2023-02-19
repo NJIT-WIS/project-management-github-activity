@@ -20,30 +20,40 @@ possible topics that people can choose to build online tutorials about.
 ### Complete the Assignment By adding your issues to these 3 lists and count how many times each issue is mentioned. The number in the bracket next to each issue is the count, you should set your count at 1 for your issue. We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
 
 #### Things we understand
+
 1. How to use JavaScript to add interactivity and dynamic behavior to a webpage [1]
 2. How to use HTML and CSS to create a basic webpage layout and style it [1]
 3. How to make a pull request. [1]
 4. How to make instances using Oracle Cloud. [1]
 5. Setting up and using Docker. [1]
 6. How to use version control systems like Git to manage and collaborate on code [1]
+7. Responsive design is important for ensuring web pages display correctly on various devices.[1]
+8. Frameworks like React, Angular, and Vue are commonly used in web development. [1]
+9. HTML is used for creating the structure of web pages, while CSS is used for styling. [1]
 
 #### Things we don't understand
-1. How git stash works [1]
-2. How to use React or other front-end frameworks to build modern, responsive user interfaces [2]
-3. How to make websites accessible to users with disabilities and comply with accessibility standards [1]
-4. How to optimize website performance and improve page load speed [1]
-5. How to create and manage a database for a web app. [1]
-6. How to use Kubernetes. [1]
+1. How to create and manage a database for a web app.[1]
+2. How to integrate third-party services and APIs into a web application.[1]
+3. How to create a responsive design that looks good on any device [1]
+4. How git stash works [1]
+5. How to use React or other front-end frameworks to build modern, responsive user interfaces [2]
+6. How to make websites accessible to users with disabilities and comply with accessibility standards [1]
 7. How to optimize website performance and improve page load speed [1]
+8. How to create and manage a database for a web app. [1]
+9. How to use Kubernetes. [1]
+10. How to optimize website performance and improve page load speed [1]
 
 
 #### Things we want to know next
+1. How to create a responsive design that looks good on any device. [1]
+2. How to use containerization and other DevOps practices to streamline web application development and deployment. [1]
+3. How to create and deploy a RESTful API for a web application. [1]
+4. How to unit test. [1]
+5. How to use debugging tools. [1]
+6. How to use Terraform. [1]
+7. How to set up and configure a web server and deploy a website to it [1]
+8. How to use containerization technologies like Docker to build and deploy web applications [1]
 
-1. How to unit test. [1]
-2. How to use debugging tools. [1]
-3. How to use Terraform. [1]
-4. How to set up and configure a web server and deploy a website to it [1]
-5. How to use containerization technologies like Docker to build and deploy web applications [1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 
