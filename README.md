@@ -43,6 +43,7 @@ possible topics that people can choose to build online tutorials about.
 2. How to use debugging tools. [1]
 3. How to use Terraform. [1]
 4. How to set up and configure a web server and deploy a website to it [1]
+5. How to use containerization technologies like Docker to build and deploy web applications [1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 
