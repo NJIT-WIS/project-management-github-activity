@@ -17,6 +17,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. GitHub Milestones, Labels[1]
 3. GitHub Milestones, Labels and how to use them [1]
 #### Things we don't understand
+1. Git Stash[1]
 #### Things we want to know next**
 
 
