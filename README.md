@@ -18,9 +18,9 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. GitHub Milestones, Labels[1]
 3. GitHub Milestones, Labels and how to use them [1]
 #### Things we don't understand
-1. Git Stash[1]
-2. Git Rebase[1]
-3. GIT Actions - Complete Workflow[1]
+1. Git Stash - what is it? [2]
+2. Git Rebase - what is it? [2]
+3. GIT Actions - Complete Workflow [1]
 #### Things we want to know next**
 1. Teraform [1]
 2. Cloud deployment with Kubernetes [1]
