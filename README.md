@@ -13,9 +13,9 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand** 
-1.  We know how to make SSH key in the macbook, add it to the Github, GitHub Repository, Git Pull, Merge Conflict, Git Status and Git fetch[3]
-2.  I learned GitHub Issues and creating Branch[3]
-3.  I learned GitHub Milestones, Labels and how to use them[1]
+1. We know how to make SSH key in the macbook, add it to the Github, GitHub Repository, Git Pull, Merge Conflict, Git Status and Git fetch[3]
+2. I learned GitHub Issues and creating Branch[3]
+3. I learned GitHub Milestones, Labels and how to use them[1]
 4. Docker Installation [2]
 #### Things we don't understand
 1. Git Stash - what is it? [3]
@@ -26,8 +26,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1. Teraform [2]
 2. Cloud deployment with Kubernetes [2]
 3. Elastic Search Indexing - What is it? [2]
-4. SQL [1]
-5. Javascript Frameworks [2]
+4. SQL [2]
+5. Javascript Frameworks [3]
 6. Debugging [1]
 7. How to make website[1]
 
