@@ -20,19 +20,27 @@ possible topics that people can choose to build online tutorials about.
 ### Complete the Assignment By adding your issues to these 3 lists and count how many times each issue is mentioned. The number in the bracket next to each issue is the count, you should set your count at 1 for your issue. We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
 
 #### Things we understand
-1. Responsive design is important for ensuring web pages display correctly on various devices.[1]
-2. Frameworks like React, Angular, and Vue are commonly used in web development. [2]
-3. HTML is used for creating the structure of web pages, while CSS is used for styling. [3]
 
+1. Responsive design is important for ensuring web pages display correctly on various devices.[1]
+2. How to make a pull request. [1]
+3. How to make instances using Oracle Cloud. [1]
+4. Setting up and using Docker. [1]
+5. Frameworks like React, Angular, and Vue are commonly used in web development. [1]
+6. HTML is used for creating the structure of web pages, while CSS is used for styling. [1]
 
 #### Things we don't understand
+
 1. How to create and manage a database for a web app.[1]
-2. How to integrate third-party services and APIs into a web application.[2]
-3. How to create a responsive design that looks good on any device [3]
+2. How to integrate third-party services and APIs into a web application.[1]
+3. How to create a responsive design that looks good on any device [2]
 4. How git stash works [1]
-5. How to use React or other front-end frameworks to build modern, responsive user interfaces [1]
+5. How to use Kubernetes. [1]
 
 #### Things we want to know next
+
+1. How to unit test. [1]
+2. How to use debugging tools. [1]
+3. How to use Terraform. [1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 
