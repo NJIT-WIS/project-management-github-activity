@@ -18,8 +18,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  git status[1]
 #### Things we don't understand
 1. i don't get this[1]
-2. things i don't understand[2]
-3. GIT pull[1]
+2. git rebase
+3. GIT status[1]
 #### Things we want to know next**
 1.  how this all relates[1]
 2.  how to make a website[2]
