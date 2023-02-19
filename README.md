@@ -14,7 +14,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Your list should look like this:
 #### Things we understand**
 1.  How to make SSH on MacBook and add it to Github[1]
-2.  Github Repository[2]
+2.  Github Repository[1]
 3.  Git checkout[1]
 4. Git status[1]
 5. Git commit[1]
@@ -27,7 +27,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4. Git Rebase[1]
 5. Git Actions[1]
 #### Things we want to know next**
-1.  Elastic Search Indexing[1]
+1.  SQL[1]
 2.  Cloud deployment with Kubernetes[2]
 3.  Teraform[1]
 
