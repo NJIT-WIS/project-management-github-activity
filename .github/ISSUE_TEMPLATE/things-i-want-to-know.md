@@ -9,3 +9,4 @@ assignees: ''
 
 I want to learn CI/CD tools
 I want to know Devops tools and their Use
+I want to understand all steps of the Devops Automation
