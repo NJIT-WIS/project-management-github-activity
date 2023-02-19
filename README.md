@@ -13,10 +13,9 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  Python Print[1]
-2.  Linux Directory listing[2] 
-3.  Docker Installation[1]
-4.  Pycharm and Github workflow and integration process
+1.  Python Print[2]
+2.  Linux Directory listing[2]
+3.  Pycharm and Github workflow and integration process[1]
 #### Things we don't understand
 1. Git Stash[1]
 2. GIt pull[2]
