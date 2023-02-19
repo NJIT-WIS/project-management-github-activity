@@ -19,6 +19,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4.  Docker Command[1]
 5.  Github Command[1]
 6.  Git Pull[1]
+7.  GitHub Issue Management[1]
 #### Things we don't understand
 1. Git Stash[1]
 2. GIt pull[2]
