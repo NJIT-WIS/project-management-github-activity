@@ -16,6 +16,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  PyCharm IDE[1]
 2.  Docker Commands[1] 
 3.  GitHub Issue Management[1]
+4. Merging in Git and PyCharm
 #### Things we don't understand
 1. PyCharm IDE Visual Merge Conflict Handling[1]
 2. Docker Compose File Structure[1]
