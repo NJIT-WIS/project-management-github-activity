@@ -31,6 +31,7 @@ possible topics that people can choose to build online tutorials about.
 2. How to create and manage a database for a web app. [1]
 3. How to use Kubernetes. [1]
 4. How to use a frontend framework. [1]
+5. How to integrate third-party services and APIs into a web application.[1]
 
 #### Things we want to know next
 
