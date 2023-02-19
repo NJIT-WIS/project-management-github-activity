@@ -20,12 +20,11 @@ possible topics that people can choose to build online tutorials about.
 ### Complete the Assignment By adding your issues to these 3 lists and count how many times each issue is mentioned. The number in the bracket next to each issue is the count, you should set your count at 1 for your issue. We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
 
 #### Things we understand
-1.Responsive design is important for ensuring web pages display correctly on various devices.[1]
 
-
-1. How to make a pull request. [1]
-2. How to make instances using Oracle Cloud. [1]
-3. Setting up and using Docker. [1]
+1. Responsive design is important for ensuring web pages display correctly on various devices.[1]
+2. How to make a pull request. [1]
+3. How to make instances using Oracle Cloud. [1]
+4. Setting up and using Docker. [1]
 
 #### Things we don't understand
 
@@ -33,15 +32,7 @@ possible topics that people can choose to build online tutorials about.
 2. How to integrate third-party services and APIs into a web application.[1]
 3. How to create a responsive design that looks good on any device [2]
 4. How git stash works [1]
-6. How to use Kubernetes. [1]
-
-#### Things we don't understand
-
-1. How git stash works. [1]
-2. How to create and manage a database for a web app. [1]
-3. How to use Kubernetes. [1]
-4. How to use a frontend framework. [1]
-5. How to integrate third-party services and APIs into a web application.[1]
+5. How to use Kubernetes. [1]
 
 #### Things we want to know next
 
