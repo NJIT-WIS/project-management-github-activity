@@ -23,6 +23,7 @@ possible topics that people can choose to build online tutorials about.
 
 1. How to make a pull request. [1]
 2. How to make instances using Oracle Cloud. [1]
+3. Setting up and using Docker. [1]
 
 #### Things we don't understand
 
