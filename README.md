@@ -25,7 +25,8 @@ possible topics that people can choose to build online tutorials about.
 2. How to make a pull request. [1]
 3. How to make instances using Oracle Cloud. [1]
 4. Setting up and using Docker. [1]
-5. Frameworks like React, Angular, and Vue are commonly used in web development. [2]
+5. Frameworks like React, Angular, and Vue are commonly used in web development. [1]
+6. HTML is used for creating the structure of web pages, while CSS is used for styling. [1]
 
 #### Things we don't understand
 
