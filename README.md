@@ -27,13 +27,14 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  Most development processes outside of this class besides some system analysis and design[1]
 2.  Git Stash[2]
 3.  Linux Directory Listing[1]
-4.  Git Rebase[1]
+4.  Git Rebase[2]
 5.  Git Actions[1]
+6.  Docker Images [1]
 #### Things we want to know next**
 1.  SQL[1]
 2.  Elastic Search Indexing[1]
 3.  Cloud deployment with Kubernetes[2]
-4.  Teraform[1]
+4.  Teraform[2]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
