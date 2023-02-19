@@ -21,14 +21,26 @@ possible topics that people can choose to build online tutorials about.
 
 #### Things we understand
 1. How to use JavaScript to add interactivity and dynamic behavior to a webpage [1]
+2. How to use HTML and CSS to create a basic webpage layout and style it [1]
+3. How to make a pull request. [1]
+4. How to make instances using Oracle Cloud. [1]
+5. Setting up and using Docker. [1]
 
 #### Things we don't understand
 1. How git stash works [1]
-2. How to use React or other front-end frameworks to build modern, responsive user interfaces [1]
+2. How to use React or other front-end frameworks to build modern, responsive user interfaces [2]
 3. How to make websites accessible to users with disabilities and comply with accessibility standards [1]
 4. How to optimize website performance and improve page load speed [1]
+5. How to create and manage a database for a web app. [1]
+6. How to use Kubernetes. [1]
+7. How to optimize website performance and improve page load speed [1]
+
 
 #### Things we want to know next
+
+1. How to unit test. [1]
+2. How to use debugging tools. [1]
+3. How to use Terraform. [1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 
