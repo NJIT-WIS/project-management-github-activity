@@ -21,6 +21,8 @@ possible topics that people can choose to build online tutorials about.
 
 #### Things we understand
 
+1. How to make a pull request. [1]
+
 #### Things we don't understand
 
 1. How git stash works [1]
