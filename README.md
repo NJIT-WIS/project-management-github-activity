@@ -20,6 +20,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1. Git Stash Usage[1]
 2. Git rebase Usage[1]
 3. Git show Usage[1]
+6. What makes git the standard in version control[1]
 #### Things we want to know next**
 1.  How to deploy a web app with a database on the cloud[1]
 2.  Cloud deployment with Kubernetes[1]
