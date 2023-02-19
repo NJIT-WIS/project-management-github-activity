@@ -13,12 +13,13 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand** 
-1.  We know how to make SSH key in the macbook, add it to the Github, GitHub Repository, Git Pull, Merge Conflict and Git fetch[2]
-2.  I learned GitHub Issues and creating Branch
-3.  I learned GitHub Milestones, Labels and how to use them
+1.  We know how to make SSH key in the macbook, add it to the Github, GitHub Repository, Git Pull, Merge Conflict, Git Status and Git fetch[3]
+2.  I learned GitHub Issues and creating Branch[3]
+3.  I learned GitHub Milestones, Labels and how to use them[1]
+4. Docker Installation [2]
 #### Things we don't understand
-1. Git Stash - what is it? [2]
-2. Git Rebase - what is it? [2]
+1. Git Stash - what is it? [3]
+2. Git Rebase - what is it? [3]
 3. GIT Actions - Complete Workflow [2]
 4. Docker Images [2]
 #### Things we want to know next**
@@ -27,7 +28,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3. Elastic Search Indexing - What is it? [2]
 4. SQL [1]
 5. Javascript Frameworks [2]
-
+6. Debugging [1]
+7. How to make website[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
