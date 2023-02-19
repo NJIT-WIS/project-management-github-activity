@@ -22,7 +22,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we don't understand
 1.  Git Stash[1]
 2.  git commit[1]
-3.  git rebase[1]
+3.  git rebase[2]
 4.  GIT status[1]
 #### Things we want to know next**
 1.  how this all relates[1]
