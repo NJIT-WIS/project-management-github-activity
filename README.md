@@ -39,7 +39,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. Api Mocking With Docker[1]
 3. Recommended Stack For Modern Web Apps[1]
 4. DRY and Yagni[1]
-5. Creating an application using MySQLi[1]
+5. Creating an application using MySQL[1]
 6. Design and User Interface[1]
 7. Linux Command Line[1]
 8. Cloud deployment with Kubernetes[1]
