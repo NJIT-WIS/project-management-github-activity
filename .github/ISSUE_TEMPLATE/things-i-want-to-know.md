@@ -8,3 +8,4 @@ assignees: ''
 ---
 
 I want to learn CI/CD tools
+I want to know Devops tools and their Use
