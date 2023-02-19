@@ -26,6 +26,7 @@ possible topics that people can choose to build online tutorials about.
 1. How git stash works. [1]
 2. How to create and manage a database for a web app. [1]
 3. How to use Kubernetes. [1]
+4. How to use a frontend framework. [1]
 
 #### Things we want to know next
 
