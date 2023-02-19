@@ -29,6 +29,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  Linux Directory Listing[1]
 4.  Git Rebase[2]
 5.  Git Actions[1]
+6.  Docker Images [1]
 #### Things we want to know next**
 1.  SQL[1]
 2.  Elastic Search Indexing[1]
