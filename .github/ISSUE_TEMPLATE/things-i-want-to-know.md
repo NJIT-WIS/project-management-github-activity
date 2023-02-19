@@ -3,10 +3,9 @@ name: Things I want to know
 about: Describe this issue template's purpose here.
 title: 'Thing I want to know: <file in title> [Thing I want to Knows]'
 labels: I want to know
-assignees: srinivasbojja369
+assignees: Harshithreddy123
 
 ---
-
 
 I want to Learn CI/CD Tools[2]
 I want to learn how to deploy a website to cloud[1]
