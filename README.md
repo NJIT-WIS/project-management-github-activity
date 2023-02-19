@@ -12,7 +12,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Complete the Assignment By adding your issues to these 3 lists and count how many times each issue is mentioned.  The number in the bracket next to each issue is the count, you should set your count at 1 for your issue.  We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
 
 ### Your list should look like this:
-#### Things we understand**
+#### Things we understand** 
 1.  We know how to make SSH key in the macbook, add it to the Github and Git fetch[2]
 2.  I learned GitHub Issues and creating Branch
 3.  I learned GitHub Milestones, Labels and how to use them
