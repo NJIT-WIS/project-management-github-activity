@@ -22,7 +22,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3. I dont know Git status
 4. I wish I knew something
 #### Things we want to know next**
-1.  Elastic Search Indexing [1]
+1. I want to know elastic search indexing
 2.  Cloud deployment with Kubernetes[2]
 3.  Teraform[1]
 4. fjfbdk
