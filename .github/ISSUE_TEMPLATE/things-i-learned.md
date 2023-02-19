@@ -1,12 +1,11 @@
 ---
 name: Things I learned
 about: Add one item for each thing you learned keep to max of 255 characters
-title: "[Things I Learned]"
+title: Things I Learned
 labels: I know
-assignees: srinivasbojja369
+assignees: Sumanmhalsank02
 
 ---
-
 
 I learned Npm Live Reload of Website[1]
 I learned Git Commands [1]

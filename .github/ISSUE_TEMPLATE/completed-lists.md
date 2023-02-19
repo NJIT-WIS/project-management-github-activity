@@ -1,14 +1,14 @@
 ---
 name: Completed Lists
 about: This is for your master pull request to merge your master into this repo.
-title: SB2542
-labels: Submit Master Branch
-assignees: srinivasbojja369
+title: sm637
+labels: Master List
+assignees: Sumanmhalsank02
 
 ---
 
 You need to make a pull request and add the link to the pull request to this issue when you submit.  
 
-PULL REQUEST LINK: https://github.com/NJIT-WIS/project-management-github-activity/pull/80
+PULL REQUEST LINK: https://github.com/NJIT-WIS/project-management-github-activity/pull/81
 
-UCID: SB2542
+UCID: sm637
