@@ -21,14 +21,15 @@ possible topics that people can choose to build online tutorials about.
 
 #### Things we understand
 
-1. How to use HTML and CSS to create a basic webpage layout and style it [1]
-2. How to make a pull request. [1]
-3. How to make instances using Oracle Cloud. [1]
-4. Setting up and using Docker. [1]
-5. Responsive design is important for ensuring web pages display correctly on various devices.[1]
-6. Frameworks like React, Angular, and Vue are commonly used in web development. [1]
-7. HTML is used for creating the structure of web pages, while CSS is used for styling. [1]
-8. How to use JavaScript to add interactivity and dynamic behavior to a webpage [1]
+1. How to use JavaScript to add interactivity and dynamic behavior to a webpage [1]
+2. How to use HTML and CSS to create a basic webpage layout and style it [1]
+3. How to make a pull request. [1]
+4. How to make instances using Oracle Cloud. [1]
+5. Setting up and using Docker. [1]
+6. How to use version control systems like Git to manage and collaborate on code [1]
+7. Responsive design is important for ensuring web pages display correctly on various devices.[1]
+8. Frameworks like React, Angular, and Vue are commonly used in web development. [1]
+9. HTML is used for creating the structure of web pages, while CSS is used for styling. [1]
 
 #### Things we don't understand
 1. How to create and manage a database for a web app.[1]
