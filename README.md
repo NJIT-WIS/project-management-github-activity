@@ -17,7 +17,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  How to edit a file in vim
 3.  How to clone a github repo in Pycharm
 #### Things we don't understand
-1. 
+1. How to revert a commit
 2. 
 3. 
 #### Things we want to know next**
