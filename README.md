@@ -23,7 +23,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4. I wish I knew something [2]
 #### Things we want to know next**
 1.  Elastic Search Indexing [2]
-2.  Cloud deployment with Kubernetes[2]
+2.  Cloud deployment with Kubernetes[3]
 3.  Teraform[1]
 4. test [1]
 
