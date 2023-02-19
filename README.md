@@ -33,6 +33,10 @@ possible topics that people can choose to build online tutorials about.
 5. How to use React or other front-end frameworks to build modern, responsive user interfaces [1]
 
 #### Things we want to know next
+1. How to create a responsive design that looks good on any device. [1]
+
+
+
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 
