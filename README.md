@@ -24,8 +24,9 @@ possible topics that people can choose to build online tutorials about.
 #### Things we don't understand
 1. How to create and manage a database for a web app.[1]
 2. How to integrate third-party services and APIs into a web application.[2]
-3. How git stash works [1]
-4. How to use React or other front-end frameworks to build modern, responsive user interfaces [1]
+3. How to create a responsive design that looks good on any device [3]
+4. How git stash works [1]
+5. How to use React or other front-end frameworks to build modern, responsive user interfaces [1]
 
 #### Things we want to know next
 
