@@ -13,17 +13,25 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  docker installation[1]
-2.  adding modified files[2] 
-3.  git status[1]
+1. Github Repository [1]
+2. Pull Request [1]
+3. Merge conflict [1]
+4. Docker Installation [1]
+5. Adding modified files [1]
+6. Git status [1]
 #### Things we don't understand
-1. git commit
-2. git rebase
-3. GIT status[1]
+1. Git Fetch [1]
+2. Git Rebase [2]
+3. Docker Images [1]
+4. Git commit [1]
+5. Git status [1]
 #### Things we want to know next**
-1.  how this all relates[1]
-2.  how to make a website[2]
-3.  debugging[1]
+1.  SQL [1]
+2. Javascript Frameworks[1]
+3. Kubernetes [1]
+4. how this all relates[1]
+5. how to make a website[1]
+6. debugging[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
