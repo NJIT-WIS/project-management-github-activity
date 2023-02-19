@@ -14,7 +14,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Your list should look like this:
 #### Things we understand**
 1.  PyCharm IDE[1]
-2.  Linux Directory listing[2] 
+2.  Docker Commands[1] 
 3.  Docker Installation[1]
 4.  Docker Command[1]
 5.  Github Command[1]
