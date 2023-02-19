@@ -17,9 +17,10 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. Pull Request
 3. Merge conflict
 #### Things we don't understand
-1. Git Fetch
-2. Git Rebase
-3. Docker Images
+1. Git Fetch [1]
+2. Git Rebase [1]
+3. Docker Images [1]
+4. Git pull [1]
 #### Things we want to know next**
 1.  SQL
 2. Javascript Frameworks
