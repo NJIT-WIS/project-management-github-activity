@@ -14,12 +14,12 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Your list should look like this:
 #### Things we understand**
 1.  How to create and merge branches in git[1]
-2.  How to edit a file in vim
-3.  How to clone a github repo in Pycharm
+2.  How to edit a file in vim[1]
+3.  How to clone a github repo in Pycharm[1]
 #### Things we don't understand
-1. How to revert a commit
-2. How git stores previous versions
-3. 
+1. How to revert a commit[1]
+2. How git stores previous versions[1]
+3. What makes git the standard in version control[1]
 #### Things we want to know next**
 1.  
 2.  
