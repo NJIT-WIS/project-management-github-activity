@@ -7,6 +7,6 @@ assignees: ''
 
 ---
 
-I want to learn CI/CD tools
-I want to know Devops tools and their Use
-I want to understand all steps of the Devops Automation
+I want to learn CI/CD tools [1]
+I want to know Devops tools and their Use [1]
+I want to understand all steps of the Devops Automation [1]
