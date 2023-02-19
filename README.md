@@ -21,13 +21,30 @@ possible topics that people can choose to build online tutorials about.
 
 #### Things we understand
 
+1. Responsive design is important for ensuring web pages display correctly on various devices.[1]
+2. Frameworks like React, Angular, and Vue are commonly used in web development. [2]
+3. HTML is used for creating the structure of web pages, while CSS is used for styling. [3]
+
 #### Things we don't understand
 
-1. How git stash works [1]
-2. How to use React or other front-end frameworks to build modern, responsive user interfaces [1]
-3. How to make websites accessible to users with disabilities and comply with accessibility standards [1]
+1. How to create and manage a database for a web app.[1]
+2. How to integrate third-party services and APIs into a web application.[2]
+3. How to create a responsive design that looks good on any device [3]
+4. How git stash works [1]
+5. How to use React or other front-end frameworks to build modern, responsive user interfaces [1]
+6. How to make websites accessible to users with disabilities and comply with accessibility standards [1]
 
 #### Things we want to know next
+
+1. How to create a responsive design that looks good on any device. [1]
+2. How to use containerization and other DevOps practices to streamline web application development and deployment. [2]
+3. How to create and deploy a RESTful API for a web application. [3]
+
+
+
+
+
+
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 
