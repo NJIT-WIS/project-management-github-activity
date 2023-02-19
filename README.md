@@ -13,8 +13,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  Committing in Git, Pycharm
-2.  Merging in Git, Pycharm
+1.  Committing in Git, Pycharm[2]
+2.  Merging in Git, Pycharm[2]
 3.  Creating Repos in Docker
 4.  Git Pull[1]
 #### Things we don't understand
