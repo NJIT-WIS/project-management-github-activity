@@ -16,21 +16,22 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  How to make SSH on MacBook and add it to Github[1]
 2.  Github Repository[1]
 3.  Git checkout[1]
-4. Git status[1]
-5. Git commit[1]
-6. Git pull[1]
-7. Github issues, milestones, and labels[1]
+4.  Git status[1]
+5.  Git commit[1]
+6.  Git pull[1]
+7.  Github issues, milestones, and labels[1]
+8.  Python [1]
 #### Things we don't understand
-1. Most development processes outside of this class besides some system analysis and design[1]
-2. Git Stash[1]
-3. Linux Directory Listing[1]
-4. Git Rebase[1]
-5. Git Actions[1]
+1.  Most development processes outside of this class besides some system analysis and design[1]
+2.  Git Stash[1]
+3.  Linux Directory Listing[1]
+4.  Git Rebase[1]
+5.  Git Actions[1]
 #### Things we want to know next**
 1.  SQL[1]
 2.  Elastic Search Indexing[1]
 3.  Cloud deployment with Kubernetes[1]
-4. Teraform[1]
+4.  Teraform[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
