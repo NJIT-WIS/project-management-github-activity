@@ -1,5 +1,5 @@
 ---
-name: Master Pull Request
+name: Completed list
 about: This is for your master pull request to merge your master into this repo.
 title: Put your UCID as the title (replace this text)
 labels: Submitting my master branch
