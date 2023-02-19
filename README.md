@@ -17,6 +17,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  Github Repository[2]
 3.  Git checkout[1]
 4. Git status[1]
+5. Git commit[1]
 #### Things we don't understand
 1. Most development processes outside of this class besides some system analysis and design[1]
 2. Git Stash[1]
