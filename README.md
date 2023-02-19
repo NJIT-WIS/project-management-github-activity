@@ -20,13 +20,12 @@ possible topics that people can choose to build online tutorials about.
 ### Complete the Assignment By adding your issues to these 3 lists and count how many times each issue is mentioned. The number in the bracket next to each issue is the count, you should set your count at 1 for your issue. We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
 
 #### Things we understand
-
-1. How to make a pull request. [1]
-2. How to make instances using Oracle Cloud. [1]
-3. Setting up and using Docker. [1]
+1. How to use HTML and CSS to create a basic webpage layout and style it [1]
+2. How to make a pull request. [1]
+3. How to make instances using Oracle Cloud. [1]
+4. Setting up and using Docker. [1]
 
 #### Things we don't understand
-
 1. How git stash works [1]
 2. How to use React or other front-end frameworks to build modern, responsive user interfaces [2]
 3. How to make websites accessible to users with disabilities and comply with accessibility standards [1]
