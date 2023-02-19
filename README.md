@@ -13,15 +13,15 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  Python Print[1]
+1.  How to make SSH on MacBook and add it to Github [1]
 2.  Linux Directory listing[2]
 3.  Docker Installation[1]
 #### Things we don't understand
-1. Most development processes outside of this class besides some system analysis and design
-2. Git Stash
-3. Linux Directory Listing
-4. Git Rebase
-5. Git Actions
+1. Most development processes outside of this class besides some system analysis and design [1]
+2. Git Stash [1]
+3. Linux Directory Listing [1]
+4. Git Rebase [1]
+5. Git Actions [1]
 #### Things we want to know next**
 1.  Elastic Search Indexing [1]
 2.  Cloud deployment with Kubernetes[2]
