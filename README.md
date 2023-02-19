@@ -41,8 +41,6 @@ possible topics that people can choose to build online tutorials about.
 8. How to create and manage a database for a web app. [1]
 9. How to use Kubernetes. [1]
 
-
-
 #### Things we want to know next
 1. How to create a responsive design that looks good on any device. [1]
 2. How to use containerization and other DevOps practices to streamline web application development and deployment. [1]
