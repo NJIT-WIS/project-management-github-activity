@@ -27,6 +27,14 @@ possible topics that people can choose to build online tutorials about.
 
 #### Things we don't understand
 
+1. How to create and manage a database for a web app.[1]
+2. How to integrate third-party services and APIs into a web application.[1]
+3. How to create a responsive design that looks good on any device [2]
+4. How git stash works [1]
+6. How to use Kubernetes. [1]
+
+#### Things we don't understand
+
 1. How git stash works. [1]
 2. How to create and manage a database for a web app. [1]
 3. How to use Kubernetes. [1]
