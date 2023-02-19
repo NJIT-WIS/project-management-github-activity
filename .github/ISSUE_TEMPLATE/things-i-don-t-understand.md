@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-I don't understand Docker Container, Images and their Use
+I don't understand Docker Container, Images and their Uses
