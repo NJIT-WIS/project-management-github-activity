@@ -12,26 +12,24 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Complete the Assignment By adding your issues to these 3 lists and count how many times each issue is mentioned.  The number in the bracket next to each issue is the count, you should set your count at 1 for your issue.  We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
 
 ### Your list should look like this:
-#### Things we understand**
-1.  GitHub Milestones, Labels and how to use them [1]
-2.  GitHub Milestones, Labels[1]
-3.  how to make SSH key in the macbook, add it to the Github, GitHub Repository, Git Pull[1]
-4.  docker installation[1]
-5.  adding modified files[1] 
-6.  git status[1]
+#### Things we understand** 
+1.  We know how to make SSH key in the macbook, add it to the Github, GitHub Repository, Git Pull, Merge Conflict, Git Status and Git fetch[3]
+2.  I learned GitHub Issues and creating Branch[3]
+3.  I learned GitHub Milestones, Labels and how to use them[1]
+4. Docker Installation [2]
 #### Things we don't understand
-1.  GIT Actions - Complete Workflow[1]
-2.  Git Stash[1]
-3.  git commit[1]
-4.  git rebase[2]
-5.  GIT status[1]
+1. Git Stash - what is it? [3]
+2. Git Rebase - what is it? [3]
+3. GIT Actions - Complete Workflow [2]
+4. Docker Images [2]
 #### Things we want to know next**
-1.  Elastic Search Indexing - What is it? [1]
-2.  Cloud deployment with Kubernetes [1]
-3.  Teraform [1]
-4.  how this all relates[1]
-5.  how to make a website[1]
-6.  debugging[1]
+1. Teraform [2]
+2. Cloud deployment with Kubernetes [2]
+3. Elastic Search Indexing - What is it? [2]
+4. SQL [1]
+5. Javascript Frameworks [2]
+6. Debugging [1]
+7. How to make website[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
