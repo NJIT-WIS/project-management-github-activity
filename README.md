@@ -20,10 +20,9 @@ possible topics that people can choose to build online tutorials about.
 ### Complete the Assignment By adding your issues to these 3 lists and count how many times each issue is mentioned. The number in the bracket next to each issue is the count, you should set your count at 1 for your issue. We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
 
 #### Things we understand
+1. How to use HTML and CSS to create a basic webpage layout and style it
 
 #### Things we don't understand
-
-1. How to use HTML and CSS to create a basic webpage layout and style it
 
 #### Things we want to know next
 
