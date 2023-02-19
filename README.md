@@ -15,7 +15,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we understand**
 1.  How to make SSH on MacBook and add it to Github[1]
 2.  Github Repository[2]
-3.  Docker Installation[1]
+3.  Git checkout[1]
 #### Things we don't understand
 1. Most development processes outside of this class besides some system analysis and design[1]
 2. Git Stash[1]
