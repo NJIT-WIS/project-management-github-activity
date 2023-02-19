@@ -15,15 +15,26 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we understand**
 1.  PyCharm IDE[1]
 2.  Docker Commands[1] 
-3.  GitHub Issue Management[1]
+3.  Docker Installation[1]
+4.  Docker Command[1]
+5.  Github Command[1]
+6.  Git Pull[1]
+7.  GitHub Issue Management[1]
 #### Things we don't understand
 1. PyCharm IDE Visual Merge Conflict Handling[1]
 2. Docker Compose File Structure[1]
 3. Git Rebase Versus Git Merge[1]
+4. GIt pull[2]
+5. GIT status[1]
+6. HTTPD Docker[1]
+7. Docker Images[1]
+8. Dockerfile Input[1]
 #### Things we want to know next**
 1.  Elastic Search Indexing [1]
-2.  Cloud deployment with Kubernetes[2]
+2.  Cloud deployment with Kubernetes[3]
 3.  Teraform[1]
+4.  Linux Command Line[1]
+5.  Cloud Platform: Azure, AWS, Google Cloud[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
