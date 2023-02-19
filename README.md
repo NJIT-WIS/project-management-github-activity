@@ -25,6 +25,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  Creating an application using MySQL
 2.  DRY and Yagni
 3.  Design and user interface
+4.  Linux Command Line
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
