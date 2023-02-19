@@ -27,6 +27,8 @@ possible topics that people can choose to build online tutorials about.
 2. How to use React or other front-end frameworks to build modern, responsive user interfaces [1]
 3. How to make websites accessible to users with disabilities and comply with accessibility standards [1]
 4. How to optimize website performance and improve page load speed [1]
+5. How to create and manage a database for a web app. [1]
+6. How to use Kubernetes. [1]
 
 #### Things we want to know next
 
