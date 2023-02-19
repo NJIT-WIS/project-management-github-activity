@@ -19,6 +19,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we don't understand
 1. Git Stash[1]
 2. Git Rebase[1]
+3. GIT Actions - Complete Workflow[1]
 #### Things we want to know next**
 
 
