@@ -34,7 +34,10 @@ possible topics that people can choose to build online tutorials about.
 
 #### Things we want to know next
 1. How to create a responsive design that looks good on any device. [1]
-2. How to use containerization and other DevOps practices to streamline web application development and deployment. [3]
+2. How to use containerization and other DevOps practices to streamline web application development and deployment. [2]
+3. How to create and deploy a RESTful API for a web application. [3]
+
+
 
 
 
