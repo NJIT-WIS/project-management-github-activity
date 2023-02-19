@@ -24,7 +24,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 9.  Docker Installation [1]
 #### Things we don't understand
 1.  Most development processes outside of this class besides some system analysis and design[1]
-2.  Git Stash[1]
+2.  Git Stash[2]
 3.  Linux Directory Listing[1]
 4.  Git Rebase[1]
 5.  Git Actions[1]
