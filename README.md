@@ -20,10 +20,11 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 5.  adding modified files[1] 
 6.  git status[1]
 #### Things we don't understand
-1.  Git Stash[1]
-2.  git commit[1]
-3.  git rebase[2]
-4.  GIT status[1]
+1.  GIT Actions - Complete Workflow[1]
+2.  Git Stash[1]
+3.  git commit[1]
+4.  git rebase[2]
+5.  GIT status[1]
 #### Things we want to know next**
 1.  how this all relates[1]
 2.  how to make a website[1]
