@@ -5,10 +5,8 @@ title: "[Things I Learned]"
 labels: I know
 assignees: srinivasbojja369
 
----
 
+I learned How to use Github [2]
 I learned Git Commands [1]
-I learned how to use git.[1]
 I am still learning pycharm.[1]
 I am still learning docker.[1]
-
