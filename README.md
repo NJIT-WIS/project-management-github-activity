@@ -27,10 +27,11 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 5. Object oriented design patterns[1]
 6. Coding in Java[1]
 #### Things we want to know next**
-1.  Storybook and Component Driven Development[1]
-2.  Api Mocking With Docker[1]
-3.  Recommended Stack For Modern Web Apps[1]
-4. Creating an application using MySQL
+1. Storybook and Component Driven Development[1]
+2. Api Mocking With Docker[1]
+3. Recommended Stack For Modern Web Apps[1]
+4. DRY and Yagni
+5. Creating an application using MySQL
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
