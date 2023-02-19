@@ -8,9 +8,7 @@ assignees: ''
 ---
 
 
-I learned Pycharm[1]
-I learned basics of Docker[1]
 I learned Git Commands [1]
-I learned How to use Github [2]
+I learned How to use Github [1]
 I learned Npm Live Reload of Website [1]
 
