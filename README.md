@@ -12,15 +12,19 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Complete the Assignment By adding your issues to these 3 lists and count how many times each issue is mentioned.  The number in the bracket next to each issue is the count, you should set your count at 1 for your issue.  We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
 
 ### Your list should look like this:
-#### Things we understand**
-1.  Github Repository
-2. Pull Request
+#### Things we understand** 
+1.  We know how to make SSH key in the macbook, add it to the Github, GitHub Repository, Git Pull and Git fetch[2]
+2.  I learned GitHub Issues and creating Branch
+3.  I learned GitHub Milestones, Labels and how to use them
 #### Things we don't understand
-1. Git Fetch
-2. Git Rebase
-3. Docker Images
+1. Git Stash - what is it? 
+2. Git Rebase - what is it? [2]
+3. GIT Actions - Complete Workflow
+4. Docker Images [2]
 #### Things we want to know next**
-1.  
+1. Teraform 
+2. Cloud deployment with Kubernetes
+3. Elastic Search Indexing - What is it?
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
