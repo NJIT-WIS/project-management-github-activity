@@ -13,16 +13,23 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1. how to make SSH key in the macbook, add it to the Github, GitHub Repository, Git Pull[1]
-2. GitHub Milestones, Labels[1]
-3. GitHub Milestones, Labels and how to use them [1]
+1.  GitHub Milestones, Labels and how to use them [1]
+2.  GitHub Milestones, Labels[1]
+3.  how to make SSH key in the macbook, add it to the Github, GitHub Repository, Git Pull[1]
+4.  docker installation[1]
+5.  adding modified files[1] 
+6.  git status[1]
 #### Things we don't understand
-1. Git Stash[1]
-2. Git Rebase[1]
-3. GIT Actions - Complete Workflow[1]
+1.  GIT Actions - Complete Workflow[1]
+2.  Git Stash[1]
+3.  git commit[1]
+4.  git rebase[2]
+5.  GIT status[1]
 #### Things we want to know next**
-1. Teraform [1]
-
+1.  Teraform [1]
+2.  how this all relates[1]
+3.  how to make a website[1]
+4.  debugging[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
