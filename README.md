@@ -31,7 +31,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 6. Git stash [1]
 7. Git Actions [1]
 #### Things we want to know next**
-1.  SQL [1]
+1. SQL [1]
 2. Javascript Frameworks[1]
 3. Kubernetes [2]
 4. how this all relates[1]
