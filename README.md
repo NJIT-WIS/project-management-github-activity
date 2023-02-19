@@ -20,6 +20,8 @@ possible topics that people can choose to build online tutorials about.
 ### Complete the Assignment By adding your issues to these 3 lists and count how many times each issue is mentioned. The number in the bracket next to each issue is the count, you should set your count at 1 for your issue. We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
 
 #### Things we understand
+1.Responsive design is important for ensuring web pages display correctly on various devices.[1]
+
 
 1. How to make a pull request. [1]
 2. How to make instances using Oracle Cloud. [1]
