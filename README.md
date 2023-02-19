@@ -13,23 +13,27 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
+
 1. PyCharm IDE[1]
-2. Docker Commands[1] 
+2. Docker Commands[2] 
 3. GitHub Issue Management[1]
 4. Merging in Git, PyCharm[1]
 5. Committing in Git, Pycharm[1]
 6. Creating Repos in Docker[1]
 7. Git Pull[1] 
+8. Github Command[1]
+
 #### Things we don't understand
 1. PyCharm IDE Visual Merge Conflict Handling[1]
 2. Docker Compose File Structure[1]
 3. Git Rebase Versus Git Merge[1]
-4. Python Jargon[1]
-5. Object oriented design patterns[1]
-6. Coding in Java[1]
-7. Dockerfile Input[1]
-8. Docker Images[1]
-9. Httpd for Docker[1]
+4. HTTPD Docker[1]
+5. Docker Images[1]
+6. Dockerfile Input[1]
+7. Python Jargon[1]
+8. Object oriented design patterns[1]
+9. Coding in Java[1]
+
 #### Things we want to know next**
 1. Storybook and Component Driven Development[1]
 2. Api Mocking With Docker[1]
@@ -38,7 +42,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 5. Creating an application using MySQLi[1]
 6. Design and User Interface[1]
 7. Linux Command Line[1]
-8. Cloud deployment with kubernetes[1]
+8. Cloud deployment with Kubernetes[1]
 9. Cloud platform, Azure, AWS, Google Cloud[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
