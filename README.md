@@ -15,6 +15,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we understand**
 1. Creating GIT repositories and commiting files on CMD [1]
 2. Installing Docker and Docker Hub [1]
+3. Operating GIT through cmd/terminal [1]
 #### Things we don't understand
 1. Docker Files [1]
 2. Creating Pytests and running pytests [1]
