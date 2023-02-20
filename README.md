@@ -16,10 +16,15 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  I learned Python Pytest[1]
 2.  Linux command[1] 
 3.  Docker Setup[1]
+4.  How to create and merge branches in git[1]
+5.  How to edit a file in vim[1]
+6.  How to clone a github repo in Pycharm[1]
 #### Things we don't understand
 1. Git Stash Usage[1]
 2. Git rebase Usage[1]
 3. Git show Usage[1]
+4. How to revert a commit[1]
+5. How git stores previous versions[1]
 6. What makes git the standard in version control[1]
 #### Things we want to know next**
 1.  How to deploy a web app with a database on the cloud[1]
