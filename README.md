@@ -99,6 +99,8 @@ Collaborating on GitHub:
 2. I learned Github issues
 3. The importance of having Docker running.
 ### Things you don't understand about what we are doing / web development.
+1. Need help on the assignments
+2. 
 1. I wish I knew how to read different errors on command line.
 2. The purpose of Github Actions.
 3. Resolving merge conflicts.
