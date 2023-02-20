@@ -102,6 +102,10 @@ Collaborating on GitHub:
 ### Things you want to know next
 
 1. Using different applications to create one final webpage.
+2. Becoming more comfortable with Docker.
+
+3. Learning how to use other applications that are needed in the field.
+
 
 1. How to connect viewjs to elastic search
 
