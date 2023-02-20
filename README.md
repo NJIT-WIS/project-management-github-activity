@@ -13,20 +13,18 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  Python Print[2]
-2.  Linux Directory listing[2]
-3.  Pycharm and Github workflow and integration process[1]
-4.  Docker Installation[1]
+1.  Python is integrated into pycharm[1]
+2. Pycharm and Github workflow and integration process[1]
+3.  Docker Installation[1]
 #### Things we don't understand
-1. Git Stash[2]
-2. GIt pull[1]
-3. GIT status[1]
-4. Git Push[1]
+1. dockerization[1]
+2. Git Push[1]
+3. Teraform[1]
+4. Cloud deployment with Kubernetes[1]
 #### Things we want to know next**
 1.  Elastic Search Indexing [1]
-2.  Cloud deployment with Kubernetes[2]
-3.  Teraform [2]
-4. Security within our Github and Docker workflow
+2. Security within our Github and Docker workflow[1]
+3. Linux Directory Listings[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
