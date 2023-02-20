@@ -30,6 +30,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  How to set up remote git without github[1]
 3.  How to use Terraform to set up Infrastructure as Code[1]
 4. How to better work as a PM or as a subordinate[1]
+5. Use Python program to write Hello World[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
