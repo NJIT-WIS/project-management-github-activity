@@ -28,10 +28,16 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 
 #### Things we don't understand
+
+1. Git rebase[1]
+2. GIt pull[2]
+3. GIT status[1]
+
 1. I dont know git stash
 2. I dont know python
 3. I dont know Git status
 4. I wish I knew something
+
 #### Things we want to know next**
 1. I want to know elastic search indexing
 2.  I want to know Cloud deployment with kubernetes
