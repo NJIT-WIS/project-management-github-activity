@@ -17,12 +17,12 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  Linux Directory listing[2] 
 3.  Docker Installation[1]
 #### Things we don't understand
-1. I wish to know how to undo a specific git commit or git push from myself or from my teammates
+1. I wish to know how to undo a specific git commit or git push from myself or from my teammates[1]
 2. GIt pull[2]
 3. GIT status[1]
 #### Things we want to know next**
-1.  Elastic Search Indexing [1]
-2.  Cloud deployment with Kubernetes[2]
+1.  Cloud deployment with Kubernetes[1] 
+2.  Elastic Search Indexing[1]
 3.  Teraform[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
