@@ -2,7 +2,7 @@
 name: Things we understand
 about: Add one item for each thing you learned keep to max of 255 characters
 title: "[Things we understand]"
-labels: ''
+labels: Thing we understand
 assignees: ''
 
 ---
