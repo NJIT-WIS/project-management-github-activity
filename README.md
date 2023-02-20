@@ -91,9 +91,18 @@ Collaborating on GitHub:
 ### Things you understand so far
 1. I know how to make an SSH Key and add it to Github so I don't need to login with a password
 2. I learned Github issues
+3. The importance of having Docker running.
 ### Things you don't understand about what we are doing / web development.
 1. I wish I knew how to read different errors on command line.
+
+2. The purpose of Github Actions.
+3. Resolving merge conflicts.
+
+
 ### Things you want to know next
+
+1. Using different applications to create one final webpage.
+
 1. How to connect viewjs to elastic search
 
 2. Enable issues: If you don't see the "Issues" tab in the main menu, you should enable it in the repository settings. 
@@ -124,6 +133,7 @@ Collaborating on GitHub:
 12.  Check that your task is moved from in progress to done
 13.  update your local main branch with the changes from the merge by doing git pull origin main
 14. Repeat again, and again, and again
+
 
 
 
@@ -176,4 +186,3 @@ Collaborating on GitHub:
 1. How to merge and resolve merge conflicts.
 2. Understanding how pycharm, github and docker go hand in hand.
 3. Learn more about dockerhub
-
