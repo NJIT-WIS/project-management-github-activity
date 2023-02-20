@@ -16,7 +16,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  How to create and merge branches in git[1]
 2.  How to edit a file in vim[1]
 3.  How to clone a github repo in Pycharm[1]
-4.  How to use git status [1]
+4.  How to use git fetch [1]
+5.  How to use git status [1]
 #### Things we don't understand
 1. How to revert a commit[1]
 2. How git stores previous versions[1]
