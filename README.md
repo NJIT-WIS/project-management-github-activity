@@ -18,9 +18,6 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  Docker Installation[1]
 4. 
 #### Things we don't understand
-1. Git Stash[1]
-2. GIt pull[2]
-3. GIT status[1]
 4. Docker Files [1]
 5. Creating Pytests and running pytests [1]
 6. Creating GitHub Workflows and running them [1]
