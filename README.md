@@ -17,6 +17,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  Linux command[1] 
 3.  Docker Setup[1]
 4.  How to create and merge branches in git[1]
+5.  How to edit a file in vim[1]
 #### Things we don't understand
 1. Git Stash Usage[1]
 2. Git rebase Usage[1]
