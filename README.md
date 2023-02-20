@@ -30,7 +30,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we don't understand
 
 1. Git rebase[1]
-2. GIt pull[2]
+2. GIt Stash[2]
 3. GIT status[1]
 
 1. I dont know git stash
