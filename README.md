@@ -29,9 +29,10 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we want to know next**
 1.  How to deploy a web app with a database on the cloud[1]
 2.  Cloud deployment with Kubernetes[1]
-3.  Teraform Usage[1]
+3.  How to use Terraform to set up Infrastructure as Code[2]
 4.  How to have servers automatically update their application configuration files from git[1]
 5.  How to set up remote git without github[1]
+
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
