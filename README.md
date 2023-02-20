@@ -19,13 +19,13 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4.  Docker Installation[1]
 #### Things we don't understand
 1. Git Stash[1]
-2. GIt pull2]
+2. GIt pull[2]
 3. GIT status[1]
 4. wish I knew stuff
 5. Wish I knew more stuff
 #### Things we want to know next**
 1.  Elastic Search Indexing [1]
-2.  Cloud deployment with Kubernetes[2]
+2.  Cloud deployment with Kubernetes[3]
 3.  Teraform[2]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
