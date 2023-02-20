@@ -1,10 +1,9 @@
 ---
 name: Things I Learned
 about: Things I learned in class
-title: ''
+title: ""
 labels: things I learned
-assignees: ''
-
+assignees: ""
 ---
 
 I learned...
