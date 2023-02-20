@@ -16,11 +16,15 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  git status [1]
 2.  git fetch [1] 
 3.  git checkout [1]
+4.  Docker Setup[1]
+5.  Linux command[1]
+6.  I learned Python Pytest[1]
 #### Things we don't understand
 1.  Clarity on who Merges a pull request [1]
 2.  Difference between Docker build  & Docker compose  [1] 
 3.  How docker pushes to dockerhub [1]
 4.  Git rebase Usage[1]
+5.  Git Stash Usage[1]
 #### Things we want to know next**
 1.  How to better work as a PM or as a subordinate [1]
 2.  Use Python program to write Hello World [1]
