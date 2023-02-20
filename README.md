@@ -89,12 +89,13 @@ Collaborating on GitHub:
 
 ## Put your items here
 ### Things you understand so far
-1. I know how to make an SSH Key and add it to Github so I dont need to login with a password
+1. I know how to make an SSH Key and add it to Github so I don't need to login with a password
+2. I learned Github issues
 ### Things you don't understand about what we are doing / web development.
-1. Add items to the list
+1. I wish I knew how to read different errors on command line.
 ### Things you want to know next
 1. How to connect viewjs to elastic search
-=======
+
 2. Enable issues: If you don't see the "Issues" tab in the main menu, you should enable it in the repository settings. 
 3. Go to the "Issues" tab, and click "Milestones" to add a 0.1.0 milestone and describe it as a consolidated list of issues from your team.  
 4. Go to the issues tab you should also create labels for "I Know", "Want to Know", "Don't Understand", and "Master List".  
