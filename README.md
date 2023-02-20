@@ -101,6 +101,7 @@ Collaborating on GitHub:
 ### Things you don't understand about what we are doing / web development.
 1. Need help on the assignments
 2. Need help with the commands on pycharm
+3. Some of the terminology used in class.
 2. 
 1. I wish I knew how to read different errors on command line.
 2. The purpose of Github Actions.
