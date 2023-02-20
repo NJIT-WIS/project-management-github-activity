@@ -13,17 +13,30 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
+
 1.  I Learned Git Pull[1]
+
 2.  I Learned Merge Conflict[1] 
 3.  I Learned Python Print[1]
+
+2.  I Learned Merge Conflict[2] 
+3.  Docker Installation[1]
+
+1.  I know Git pull
+2.  I know Linux 
+3.  I know docker
+
+
 #### Things we don't understand
-1. Git Stash[1]
-2. GIt pull[2]
-3. GIT status[1]
+1. I dont know git stash
+2. I dont know python
+3. I dont know Git status
+4. I wish I knew something
 #### Things we want to know next**
-1.  Elastic Search Indexing [1]
-2.  Cloud deployment with Kubernetes[2]
-3.  Teraform[1]
+1. I want to know elastic search indexing
+2.  I want to know Cloud deployment with kubernetes
+3.  I want to know Teraform
+4. fjfbdk
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
