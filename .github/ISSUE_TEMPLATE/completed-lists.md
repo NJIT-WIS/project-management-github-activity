@@ -1,9 +1,9 @@
 ---
 name: Completed Lists
 about: This is for your master pull request to merge your master into this repo.
-title: SB2542
-labels: Submit Master Branch
-assignees: srinivasbojja369
+title: Put your UCID as the title (replace this text)
+labels: Master List
+assignees: ''
 
 ---
 

@@ -1,12 +1,11 @@
 ---
 name: Things I Don't Understand
 about: This is for adding issues that you don't understand
-title: ''
-labels: I dont know
-assignees: srinivasbojja369
+title: 'Thing I Don''t Understand: <file in title> [Thing I Don''t Understand]'
+labels: Don't Understand
+assignees: ''
 
 ---
 
-I don't understand how to use docker [1]
-I dont understand push request [1]
-I dont understand pycharm [1]
+Description:<255 char description of what you don't understand.>
+
