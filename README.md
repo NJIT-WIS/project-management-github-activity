@@ -28,9 +28,8 @@ Collaborating on GitHub:
 
 ## Put your items here
 ### Things you understand so far
-1. I know how to make an SSH key and add it to GitHub, so I dont need to login with a password.
-2. I learned Github issues.
+
 ### Things you don't understand about what we are doing / web development.
-1. Add items to the list
+
 ### Things you want to know next
-1. How to connect viewjs to elastic search
+1. React [1]
