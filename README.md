@@ -14,8 +14,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Your list should look like this:
 #### Things we understand**
 1.  Python is integrated into pycharm[1]
-2. Pycharm and Github workflow and integration process[1]
-3.  Docker Installation[1]
+2.  Pycharm and Github workflow and integration process[1]
+3.  Docker Installation [2]
 #### Things we don't understand
 1. dockerization[1]
 2. Git Push[1]
