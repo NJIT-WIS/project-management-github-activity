@@ -36,6 +36,6 @@ Collaborating on GitHub:
 2. I don't understand resolving merge conflicts with 100% confidence.
 3. I don't understand milestones completely. 
 ### Things you want to know next
-1. How to connect viewjs to elastic search
+1. How to Build Landing pages using HTML, CSS, and Javascript
 2. How to use Kubernetes
 3. How to use React
