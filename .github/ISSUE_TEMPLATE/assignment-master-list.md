@@ -1,10 +1,10 @@
 ---
 name: Assignment Master List
-about: Add pull request for main branch to other student
+
+about: Describe this issue template's purpose here.
 title: ''
-labels: documentation
+labels: master
+
+
 assignees: ''
 
----
-
-Request pull of main branch to other student.
