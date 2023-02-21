@@ -24,6 +24,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  Git Flags [1]
 2.  Java [1]
 3.  Merge Conflicts [1]
+4.  Git flags (-m, -a, etc.) [1]
+
 #### Things we want to know next**
 1.  AWS [1]
 2.  Data Analytics [1]
