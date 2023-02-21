@@ -15,7 +15,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we understand**
 1.  Git Commands[1]
 2.  Using Docker[1] 
-3.  Docker Installation[1]
+3.  Using GitHub[1]
 #### Things we don't understand
 1. What is Webpack and why do we use it?[1]
 2. What are docker images, and why are they used?[1]
