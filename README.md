@@ -96,13 +96,13 @@ Collaborating on GitHub:
 ## Put your items here
 ### Things you understand so far
 
-1. Creating a SSH key and implementing it to github
-2. Creating issues with github
-3. Making a new branch
+1. Creating a SSH key and implementing it to github [3]
+2. Creating issues with github [5]
+3. Making a new branch [2]
 
 ### Things you don't understand about what we are doing / web development.
 
-1. Add items to the list
+1. If this is the most optimal way to do issues on github [9]
 2. 
 
 ### Things you want to know next
