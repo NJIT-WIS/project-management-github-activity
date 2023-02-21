@@ -13,17 +13,20 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  Creating SSH public key. [1]
-2.  [1] 
-3.  [1]
+
+1.  Python [1]
+2.  SQL [1]
+3.  R [1]
+4.  Creating SSH public key. [1]
 #### Things we don't understand
-1. [1]
-2. [1]
-3. [1]
+1.  Git Flags [1]
+2.  Java [1]
+3.  Merge Conflicts [1]
 #### Things we want to know next**
-1.  [1]
-2.  [1]
-3.  [1]
+1.  AWS [1]
+2.  Data Analytics [1]
+3.  Big Data [1]
+
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
