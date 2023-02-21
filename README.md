@@ -38,3 +38,4 @@ Collaborating on GitHub:
 ### Things you want to know next
 1. How to connect viewjs to elastic search
 2. How to use Kubernetes
+3. How to use React
