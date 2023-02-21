@@ -104,3 +104,4 @@ Collaborating on GitHub:
 3. Prepare DockerFile [1]
 
 ### Thins you want to know next
+1. Manage submodules in git repo [1]
