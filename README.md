@@ -39,7 +39,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4.  How to deploy a web app with a database on the cloud [1]
 5.  Cloud deployment with Kubernetes[2]
 6.  Teraform Usage[1]
-7.  
+7.  Elastic Search Indexing
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
