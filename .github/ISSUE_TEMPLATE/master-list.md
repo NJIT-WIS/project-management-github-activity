@@ -1,6 +1,6 @@
 ---
 name: Master List
-about: This is for your master pull request to merge your master into this repo.
+about: this is for the master list
 title: dp787
 labels: master list
 assignees: ''
