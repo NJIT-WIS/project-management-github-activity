@@ -97,6 +97,7 @@ Collaborating on GitHub:
 
 ### Things you don't understand about what we are doing 
 1. Combine different commits [1]
-2. Build Docker image based on my PC's environment
+2. Build Docker image based on my PC's environment [1]
+3. Prepare DockerFile [1]
 
 ### Thins you want to know next
