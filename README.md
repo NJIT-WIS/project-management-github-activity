@@ -13,15 +13,24 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  Python [1]
-2.  SQL [1]
-3.  R [1]
+1.  Git Work Flow [1]
+2.  DevOps Deployment [1]
+3.  MergeConflict [1]
+4.  Python [1]
+5.  SQL [1]
+6.  R [1]
 #### Things we don't understand
-1.  Git Flags [1]
-2.  Java [1]
-3.  Merge Conflicts [1]
+1. Docker Image [1]
+2. DockerFile [1]
+3. Docker [1]
+4. Git Flags [1]
+5. Java [1]
+6. Merge Conflicts [1]
 #### Things we want to know next**
-1.  AWS [1]
+1.  SQL [1]
+2.  Applying SQL to Python [1]
+3.  Data Analytics [1]
+4.  AWS [1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
