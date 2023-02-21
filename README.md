@@ -24,6 +24,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3. Teraform[1]
 4. Cloud deployment with Kubernetes[1]
 5. Undo specific git commit or git push[1]
+6. GIT Pull[1]
 #### Things we want to know next**
 1.  Elastic Search Indexing [1]
 2. Security within our Github and Docker workflow[1]
