@@ -28,10 +28,10 @@ Collaborating on GitHub:
 
 ## Put your items here
 ### Things you understand so far
-
+1. Merging Pull Requests [1]
 ### Things you don't understand about what we are doing / web development.
 
 ### Things you want to know next
 1. React [1]
 2. Css-Flexbox/GridView [1]
-3. Redux/Flask
+3. Redux/Flask [1]
