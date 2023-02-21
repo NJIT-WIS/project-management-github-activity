@@ -24,6 +24,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. GIT pull[3]
 3. Docker Storage space limitation[1]
 4. Dockerization[1]
+5. Git push[1]
 #### Things we want to know next**
 1.  Cloud deployment with Kubernetes[1] 
 2.  Elastic Search Indexing[3]
