@@ -24,6 +24,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. DockerFile [1]
 3. Docker [1]
 4. Git Flags [1]
+5. Java [1]
 #### Things we want to know next**
 1.  SQL [1]
 2.  Applying SQL to Python [1]
