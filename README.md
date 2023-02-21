@@ -34,6 +34,7 @@ Collaborating on GitHub:
 ### Things you don't understand about what we are doing / web development.
 1. Better solve merge conflicts
 2. Watchtower
+3. Github workflow
 ### Things you want to know next
 1. CI/CD
 2. More about frontend and backend together
