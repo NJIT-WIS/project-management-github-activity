@@ -33,7 +33,7 @@ Collaborating on GitHub:
 3. Docker Authentication Using Token [1]
 
 ### Things you don't understand about what we are doing / web development.
-
+1. Rebasing [1]
 ### Things you want to know next
 1. React [1]
 2. Css-Flexbox/GridView [1]
