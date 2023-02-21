@@ -12,18 +12,29 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Complete the Assignment By adding your issues to these 3 lists and count how many times each issue is mentioned.  The number in the bracket next to each issue is the count, you should set your count at 1 for your issue.  We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
 
 ### Your list should look like this:
+
 #### Things we understand**
-1.  Creating SSH public key. [1]
-2.  Docker installation [1] 
-3.  Git Commands (status, pull, push, add, commit, etc.) [1]
+1.  Python [1]
+2.  SQL [1]
+3.  R [1]
+4.  Creating SSH public key. [1]
+5.  Docker installation [1] 
+
 #### Things we don't understand
-1. Git flags (-m, -a, etc.) [1]
-2. Python [1]
-3. SQL [1]
+
+1.  Java [1]
+2.  Merge Conflicts [1]
+3.  Git flags (-m, -a, etc.) [2]
+4.  Python [1]
+5.  SQL [1]
+
 #### Things we want to know next**
-1.  VIM [1]
-2.  Python [1]
-3.  JAVA [1]
+1.  AWS [1]
+2.  Data Analytics [1]
+3.  Big Data [1]
+4.  VIM [1]
+5.  Python [1]
+6.  Java [1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
