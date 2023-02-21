@@ -16,6 +16,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  Pull Request[1]
 2.  Git Push[1] 
 3.  Git Commit[1]
+4.  Resolving Merge Conflicts [1]
 #### Things we don't understand
 1. Git Rebase[1]
 2. GIt Track[1]
@@ -24,7 +25,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  Django [1]
 2.  OpenStack[1]
 3.  Ceph[1]
-4. Kubernetes[1]
+4.  Kubernetes[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
