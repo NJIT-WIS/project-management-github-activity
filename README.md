@@ -96,7 +96,7 @@ Collaborating on GitHub:
 ### Things you understand
 
 ### Things you don't understand about what we are doing 
-Combine different commits [1]
-
+1. Combine different commits [1]
+2. Build Docker image based on my PC's environment
 
 ### Thins you want to know next
