@@ -23,7 +23,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3. Docker Storage space limitation[1]
 #### Things we want to know next**
 1.  Cloud deployment with Kubernetes[1] 
-2.  Elastic Search Indexing[2]
+2.  Elastic Search Indexing[3]
 3.  Teraform[2]
 4. Security Processes within our workflow[1]
 
