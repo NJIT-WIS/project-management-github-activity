@@ -5,9 +5,6 @@ title: 'Thing I want to know: <file in title> [Thing I want to Knows]'
 labels: Want to Know
 assignees: ''
 
-
 ---
 
-I Want to learn DevOpss[1]
-I want to know python[1]
-I want to know how automation works in web systems.[1]
+Please describe what you want to know in less than 255 characters.
