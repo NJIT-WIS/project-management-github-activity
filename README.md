@@ -36,6 +36,6 @@ Collaborating on GitHub:
 2. the proccess of resolving merge conflicts
 3. watchtower
 ### Things you want to know next
-1. How to connect viewjs to elastic search
+1. Kubernetes
 2. Browser dev tools
 3. Authentication
