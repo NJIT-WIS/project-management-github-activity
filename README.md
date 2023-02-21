@@ -107,7 +107,7 @@ Collaborating on GitHub:
 
 ### Things you want to know next
 
-1. 
+1. The most optimal way to use issues and projects [11]
 
 =======
 
