@@ -21,16 +21,20 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 5.  Docker installation [1] 
 
 #### Things we don't understand
-1.  Git Flags [1]
-2.  Java [1]
-3.  Merge Conflicts [1]
-4.  Git flags (-m, -a, etc.) [1]
+
+1.  Java [1]
+2.  Merge Conflicts [1]
+3.  Git flags (-m, -a, etc.) [2]
+4.  Python [1]
+5.  SQL [1]
 
 #### Things we want to know next**
 1.  AWS [1]
 2.  Data Analytics [1]
 3.  Big Data [1]
-
+4.  VIM [1]
+5.  Python [1]
+6.  Java [1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
