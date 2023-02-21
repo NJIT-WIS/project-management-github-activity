@@ -19,6 +19,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  R [1]
 4.  Creating SSH public key. [1]
 5.  Docker installation [1] 
+6.  Git Commands [1]
 
 #### Things we don't understand
 
