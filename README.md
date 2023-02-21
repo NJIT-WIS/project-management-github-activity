@@ -35,3 +35,4 @@ Collaborating on GitHub:
 1. Add items to the list
 ### Things you want to know next
 1. CI/CD
+2. More about frontend and backend together
