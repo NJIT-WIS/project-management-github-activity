@@ -1,8 +1,13 @@
 ---
-name: Completed Lists
+name: Master Pull Request
 about: This is for your master pull request to merge your master into this repo.
-title: Put your UCID as the title (replace this text)
-labels: Compiled List
+
+title: srp42
+labels: Submitting My Master Branch
+
+title: kp853
+labels: compiled list
+
 assignees: ''
 
 ---
