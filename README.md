@@ -96,6 +96,7 @@ Collaborating on GitHub:
 ### Things you understand
 1. Build Docker image from given DockerFile [1]
 2. Git command line [1]
+3. Setup git issue template [1]
 
 ### Things you don't understand about what we are doing 
 1. Combine different commits [1]
