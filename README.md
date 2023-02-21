@@ -31,6 +31,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 6.  Git show Usage[1]
 7.  Undo specific git commit or git push[1]
 8.  Git Pull[1]
+9.  Docker Storage space limitation[1]
+10. 
 #### Things we want to know next**
 1.  How to better work as a PM or as a subordinate [1]
 2.  Use Python program to write Hello World [1]
