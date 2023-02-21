@@ -33,6 +33,7 @@ Collaborating on GitHub:
 3. I learned how to clone and merge through github.
 ### Things you don't understand about what we are doing / web development.
 1. I don't understand merge conflicts 100%.
-2. 
+2. I don't understand resolving merge conflicts with 100% confidence.
+3. 
 ### Things you want to know next
 1. How to connect viewjs to elastic search
