@@ -20,6 +20,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 5.  Linux command[1]
 6.  I learned Python Pytest[1]
 7.  Create new branch and merge within my own repo[1]
+8. 
 #### Things we don't understand
 1.  Clarity on who Merges a pull request [1]
 2.  Difference between Docker build  & Docker compose  [1] 
