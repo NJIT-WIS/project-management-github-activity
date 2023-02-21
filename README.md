@@ -15,7 +15,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we understand**
 1.  Create new branch and merge within my own repo[1]
 2.  Linux Directory listing[2] 
-3.  Docker Installation[1]
+3.  Docker Installation[2]
 4.  Cloning Repository[1]
 #### Things we don't understand
 1. I wish to know how to undo a specific git commit or git push from myself or from my teammates[1]
