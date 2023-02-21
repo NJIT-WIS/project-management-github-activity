@@ -17,6 +17,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  DevOps Deployment [1]
 3.  MergeConflict [1]
 4.  Python [1]
+5.  SQL [1]
 #### Things we don't understand
 1. Docker Image [1]
 2. DockerFile [1]
