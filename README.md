@@ -94,6 +94,8 @@ Collaborating on GitHub:
 
 ## Put your items here
 ### Things you understand
+1. Build Docker image from given DockerFile [1]
+
 
 ### Things you don't understand about what we are doing 
 1. Combine different commits [1]
