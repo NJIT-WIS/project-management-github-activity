@@ -38,7 +38,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  How Dockerhub pushes or uses resources against repos in scalable way [1] 
 4.  How to deploy a web app with a database on the cloud [1]
 5.  Cloud deployment with Kubernetes[2]
-6.  Teraform Usage[1]
+6.  Teraform Usage[2]
 7.  Elastic Search Indexing[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
