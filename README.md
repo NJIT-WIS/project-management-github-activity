@@ -14,6 +14,19 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Your list should look like this:
 #### Things we understand**
 
+1.  I learned Python print [1]
+2.  I learned Linux command [1]
+3.  Learned to create docker images [1]
+#### Things we don't understand
+1. Git Rebase[2]
+2. GIt pull[2]
+3. GIT status[2]
+#### Things we want to know next**
+1.  Web Development[3]
+2.  Cloud deployment with Kubernetes[3]
+3.  Teraform[3]
+
+
 1.  I Learned Git Pull[1]
 
 2.  I Learned Merge Conflict[1] 
@@ -48,6 +61,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  Elastic Search indexing [1]
 2.  Cloud deployment with kubernetes[1]
 3.  Teraform[1]
+
 
 1. I want to know elastic search indexing
 2.  I want to know Cloud deployment with kubernetes
