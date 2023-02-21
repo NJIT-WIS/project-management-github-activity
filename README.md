@@ -14,7 +14,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Your list should look like this:
 #### Things we understand**
 1.  Create new branch and merge within my own repo[1]
-2.  Linux Directory listing[2] 
+2.  Linux Directory listing[3] 
 3.  Docker Installation[2]
 4.  Cloning Repository[1]
 #### Things we don't understand
