@@ -28,7 +28,9 @@ Collaborating on GitHub:
 
 ## Put your items here
 ### Things you understand so far
-1. Add items to the list
+1. 
+2. Docker
+3. Cloud Computing Fundamentals
 ### Things you don't understand about what we are doing / web development.
 1. Add items to the list
 ### Things you want to know next
