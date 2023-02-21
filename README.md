@@ -17,7 +17,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  Linux Directory listing[2] 
 3.  Docker Installation[1]
 #### Things we don't understand
-1. Git Stash[1]
+1. What is Webpack and why do we use it?[1]
 2. GIt pull[2]
 3. GIT status[1]
 #### Things we want to know next**
