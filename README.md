@@ -92,3 +92,11 @@ Collaborating on GitHub:
 13.  update your local main branch with the changes from the merge by doing git pull origin main
 14. Repeat again, and again, and again
 
+## Put your items here
+### Things you understand
+
+### Things you don't understand about what we are doing 
+Combine different commits [1]
+
+
+### Thins you want to know next
