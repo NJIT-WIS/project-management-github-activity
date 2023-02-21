@@ -17,7 +17,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  Linux Directory listing[3] 
 3.  Docker Installation[3]
 4.  Cloning Repository[1]
-5.  Github and Pycharm workflow
+5.  Github and Pycharm workflow[1]
+6.  Pycharm and python integration[1]
 #### Things we don't understand
 1. I wish to know how to undo a specific git commit or git push from myself or from my teammates[1]
 2. GIT pull[3]
