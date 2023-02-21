@@ -105,3 +105,4 @@ Collaborating on GitHub:
 
 ### Thins you want to know next
 1. Manage submodules in git repo [1]
+2. Use tag in git [1]
