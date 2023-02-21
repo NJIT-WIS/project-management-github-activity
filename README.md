@@ -24,6 +24,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  Django [1]
 2.  OpenStack[1]
 3.  Ceph[1]
+4. Kubernetes[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
@@ -91,4 +92,3 @@ Collaborating on GitHub:
 12.  Check that your task is moved from in progress to done
 13.  update your local main branch with the changes from the merge by doing git pull origin main
 14. Repeat again, and again, and again
-
