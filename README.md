@@ -30,6 +30,8 @@ Collaborating on GitHub:
 ### Things you understand so far
 1. Merging Pull Requests [1]
 2. Debugging Github Actions [1]
+3. Docker Authentication Using Token [1]
+
 ### Things you don't understand about what we are doing / web development.
 
 ### Things you want to know next
