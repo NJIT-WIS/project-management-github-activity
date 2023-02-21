@@ -15,6 +15,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we understand**
 1.  Python [1]
 2.  SQL [1]
+3.  R [1]
 #### Things we don't understand
 1. 
 #### Things we want to know next**
