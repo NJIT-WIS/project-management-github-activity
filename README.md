@@ -37,3 +37,4 @@ Collaborating on GitHub:
 3. I don't understand milestones completely. 
 ### Things you want to know next
 1. How to connect viewjs to elastic search
+2. How to use Kubernetes
