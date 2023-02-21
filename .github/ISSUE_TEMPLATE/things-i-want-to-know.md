@@ -1,11 +1,10 @@
-
+---
 name: Things I want to know
 about: Describe this issue template's purpose here.
-18-ceph
-title: "[Thing I want to Know]"
-labels: wanttoknow
-
 title: ''
+labels: wanttoknow
 assignees: ''
 
+---
 
+Add an item you want to learn
