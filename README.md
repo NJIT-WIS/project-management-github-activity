@@ -14,6 +14,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Your list should look like this:
 
 #### Things we understand**
+
 1.  Python [1]
 2.  SQL [1]
 3.  R [1]
@@ -44,7 +45,6 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 6.  Java [1]
 7.  SQL [1]
 8.  Applying SQL to Python [1]
-
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
