@@ -12,18 +12,27 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Complete the Assignment By adding your issues to these 3 lists and count how many times each issue is mentioned.  The number in the bracket next to each issue is the count, you should set your count at 1 for your issue.  We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
 
 ### Your list should look like this:
+
 #### Things we understand**
-1.  Make a branch in Git [1]
-2.  Make new repos [1]
-3.  Docker Installation[1]
+1.  Docker containers[1]
+2.  git stash[1] 
+3.  SSH keys[1]
+4.  Make a branch in Git [1]
+5.  Make new repos [1]
+
 #### Things we don't understand
-1. Importance of Docker Images [1]
-2. GIt pull[2]
-3. GIT status[1]
+1. How to avoid merge conflicts[1]
+2. Github Classroom[1]
+3. Dockerhub integration[1]
+4. Importance of Docker Images [1]
+
 #### Things we want to know next**
-1.  Thorough Understanding of Git/GitHub [1]
-2.  General Understanding of Docker [1]
-3.  How to use Git efficiently [1]
+1.  Using kubernetes with docker[1]
+2.  How to securely login [1]
+3.  How to connect to other cloud services[1]
+4.  Thorough Understanding of Git/GitHub [1]
+5.  General Understanding of Docker [1]
+6.  How to use Git efficiently [1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
