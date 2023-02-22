@@ -15,7 +15,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we understand**
 1.  Write bash scripts[1]
 2.  Manage Issues[1] 
-3.  Docker Installation[1]
+3.  Using watchtower and implementation[1]
 #### Things we don't understand
 1. I don't know anything[1]
 2. I don't know Seige[1]
