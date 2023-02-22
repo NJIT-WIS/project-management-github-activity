@@ -25,7 +25,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4. Node.js[1]
 5. Webpack[1]
 #### Things we want to know next**
-1.  Elastic Search Indexing [1]
+1.  Elastic Search Indexing [2]
 2.  Cloud deployment with Kubernetes[2]
 3.  Teraform[1]
 
@@ -117,3 +117,4 @@ Collaborating on GitHub:
 1. Manage submodules in git repo [1]
 2. Use tag in git [1]
 3. Use vim [1]
+4. Elastic Search Indexing [1]
