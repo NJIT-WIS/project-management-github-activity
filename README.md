@@ -17,6 +17,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  I learned git status.[1]
 
 #### Things we don't understand
+1. I don't understand webpack.
 
 #### Things we want to know next**
 
