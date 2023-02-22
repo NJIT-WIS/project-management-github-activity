@@ -1,9 +1,8 @@
 ---
 name: Master Pull request
-about: This is your master pull request to merge your master into this mine into this
-  repo
+about: This is for your master pull request to merge your master into this repo.
 title: bcs25
-labels: Submitting Master branch
+labels: Master List
 assignees: ''
 
 ---
