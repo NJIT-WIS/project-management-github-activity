@@ -17,6 +17,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  Pycharm[1] 
 3.  ssh keygen[1]
 4.  Docker image containerization[1]
+5.  Git fork and pull[1]
 #### Things we don't understand
 1. Docker Images[2]
 2. Node.js[1]
@@ -24,7 +25,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4. Test case creation[1]
 5. Test case creation for web pages[1]
 #### Things we want to know next**
-1.  Teraform [1]
+1.  Teraform[1]
 2.  Rest api[1]
 3.  Reactjs[1]
 
