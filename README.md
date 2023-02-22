@@ -15,11 +15,13 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we understand**
 
 
+
 1.  How to use GitHub Classroom[1]
 2.  How to use Docker commands[1] 
 3.  How to host a website using localhost[1]
 4.  Docker containers[1]
 5.  Git stash[1]
+6.  SSH keys[1]
 
 
 #### Things we don't understand
@@ -36,6 +38,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  How to program using JavaScript [1]
 2.  How to program with PHP[1]
 3.  How to host a website without Github Pages[1]
+
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
