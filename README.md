@@ -19,6 +19,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4. Virtualization[1]
 5. Docker[1]
 6. Forking[1]
+7. Cloning[1]
 #### Things we don't understand
 1. Git Stash[1]
 2. Git pull[2]
