@@ -1,8 +1,8 @@
 ---
 name: Completed Lists
 about: This is for your master pull request to merge your master into this repo.
-title: "[Completed Lists] - (insert here)"
-labels: ''
+title: Put your UCID as the title (replace this text)
+labels: Compiled List
 assignees: ''
 
 ---
