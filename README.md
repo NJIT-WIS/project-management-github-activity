@@ -21,7 +21,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. Writing test cases[1]
 3. How CI/CD is achieved[1]
 #### Things we want to know next**
-1.  Elastic Search Indexing [1]
+1.  How applications are hosted [1]
 2.  Cloud deployment with Kubernetes[2]
 3.  Teraform[1]
 
