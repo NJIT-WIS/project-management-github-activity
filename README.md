@@ -30,6 +30,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  Cloud deployment with Kubernetes[2]
 3.  Teraform[1]
 4.  Vim[1]
+5.  Lean[1]
 
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
