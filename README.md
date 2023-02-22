@@ -118,3 +118,4 @@ Collaborating on GitHub:
 2. Use tag in git [1]
 3. Use vim [1]
 4. Elastic Search Indexing [1]
+5. Cloud deployment with Kubernetes [1]
