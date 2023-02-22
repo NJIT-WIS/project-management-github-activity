@@ -14,6 +14,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Things you understand so far
 ### Things you don't understand about what we are doing
 1. I am lost on hows to pro-Docker
+2. I am lost on hows to pro-Linux
 ### Things you want to know next
 
 ### Your list should look like this:
