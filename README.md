@@ -21,7 +21,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. Building & playing Docker images[1]
 3. GIT status[1]
 #### Things we want to know next**
-1.  Elastic Search Indexing [1]
+1.  What Kubernetes is [1]
 2.  Cloud deployment with Kubernetes[2]
 3.  Teraform[1]
 
