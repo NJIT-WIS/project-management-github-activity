@@ -119,3 +119,4 @@ Collaborating on GitHub:
 3. Use vim [1]
 4. Elastic Search Indexing [1]
 5. Cloud deployment with Kubernetes [1]
+6. Terraform[1]
