@@ -6,10 +6,3 @@ labels: I don't know
 assignees: Harshithreddy123
 
 ---
-
-I don't understand The end use of Docker[3]
-I don't understand How to resolve Merge Conflicts[1]
-I dont understand push request [1]
-I dont understand pycharm [1]
-I don't understand Docker Container, Images and their Uses [2]
-I don't Understand how the process is automated [1]
