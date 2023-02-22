@@ -13,9 +13,11 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  Linux terminal and bash
-2.  Python libraries
-3.  Set up an oracle server
+1.  Pull Request[1]
+2.  Linux Directory listing[3] 
+3.  Docker Installation[1]
+4.  Python libraries
+5.  Set up an oracle server
 #### Things we don't understand
 1. sql and database
 2. traefik
