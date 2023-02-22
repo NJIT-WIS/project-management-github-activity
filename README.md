@@ -28,6 +28,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4. Containerization[1]
 5. Kibana[1]
 6. Docker Compose[1]
+7. Dockerfiles[1]
 
 #### Things we want to know next\*\*
 
