@@ -20,6 +20,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1. What is Webpack and why do we use it?[1]
 2. What are docker images, and why are they used?[1]
 3. GitHub Workflows[1]
+4. Docker vs Kubernetes [1]
 #### Things we want to know next**
 1.  Cloud Computing [1]
 2.  CI/CD[1]
