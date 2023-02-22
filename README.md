@@ -16,6 +16,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  Python Print[1]
 2.  Linux Directory listing[2] 
 3.  Docker Installation[1]
+4.  Git status[1]
 #### Things we don't understand
 1. Git Stash[1]
 2. GIt pull[2]
@@ -93,17 +94,18 @@ Collaborating on GitHub:
 14. Repeat again, and again, and again
 
 ## Put your items here
-### Things you understand
+### Things we understand
 1. Build Docker image from given DockerFile [1]
 2. Git command line [1]
 3. Setup git issue template [1]
+4. Git status[1]
 
-### Things you don't understand about what we are doing 
+### Things we don't understand about what we are doing 
 1. Combine different commits [1]
 2. Build Docker image based on my PC's environment [1]
 3. Prepare DockerFile [1]
 
-### Thins you want to know next
+### Thins we want to know next
 1. Manage submodules in git repo [1]
 2. Use tag in git [1]
 3. Use vim [1]
