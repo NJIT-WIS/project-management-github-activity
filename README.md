@@ -19,6 +19,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4.  Forking[1]
 5.  Cloning[1]
 6.  Kernel[1]
+
 #### Things we don't understand
 1. Git Stash[1]
 2. GIt pull[2]
@@ -26,6 +27,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4. File Structure[1]
 5. Github Flow[1]
 6. Collaboration[1]
+
+
 #### Things we want to know next**
 1.  Elastic Search Indexing [1]
 2.  Cloud deployment with Kubernetes[2]
@@ -33,6 +36,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4.  Vim[1]
 5.  Lean[1]
 6.  Vue JS[1]
+
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
