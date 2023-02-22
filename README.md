@@ -19,6 +19,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  SSH keys[1]
 4.  Make a branch in Git [1]
 5.  Make new repos [1]
+6. Compose Docker Images [1]
 
 #### Things we don't understand
 1. How to avoid merge conflicts[1]
