@@ -18,8 +18,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  Docker Installation[1]
 #### Things we don't understand
 1. Git pull[1]
-2. Git Stash[2]
-3. GIT status[1]
+2. Git stash[2]
+3. When to use windows cmd prompt or ubuntu[1]
 #### Things we want to know next**
 1.  Elastic Search Indexing [1]
 2.  Cloud deployment with Kubernetes[2]
