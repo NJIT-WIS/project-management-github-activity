@@ -22,8 +22,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4.  Forking[1]
 5.  Cloning[1]
 6.  Kernel[1]
-7.  Connect to cloud instance via ssh
-8.  Docker commands
+7.  Connect to cloud instance via ssh[1]
+8.  Docker commands[1]
 
 #### Things we don't understand
 
@@ -48,9 +48,9 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 7. File Structure[1]
 8. Github Flow[1]
 9. Collaboration[1]
-10.  Deploy to other cloud platforms
-11.  RESTful API
-12.  Javascript Project Configuration
+10.  Deploy to other cloud platforms[1]
+11.  RESTful API[1]
+12.  Javascript Project Configuration[1]
 
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
