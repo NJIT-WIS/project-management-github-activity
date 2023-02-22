@@ -15,10 +15,11 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we understand**
 1.  Pull Request[1]
 2.  Git Push[1] 
-3.  Linux Directory listing[3] 
-4.  Docker Installation[1]
-5.  Python libraries
-6.  Set up an oracle server
+3.  Git Commit[1]
+4.  Linux Directory listing[3] 
+5.  Docker Installation[1]
+6.  Python libraries
+7.  Set up an oracle server
 #### Things we don't understand
 1. Git Rebase[1]
 2. GIt Track[1]
