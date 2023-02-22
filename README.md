@@ -17,6 +17,9 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 5.  How to create a new branch[1]
 6.  How to switch branches[1]
 7.  How to push using gui in vscode[1]
+8.  Linux terminal and bash[1]
+9.  Python libraries[1]
+10. Set up an oracle server[1]
 #### Things we don't understand
 1. Git Rebase[1]
 2. GIt Track[1]
@@ -24,14 +27,19 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4. syncing vs merging[1]
 5. the proccess of resolving merge conflicts[1]
 6. watchtower[1]
+7. sql and database[1]
+8. traefik[1]
+9. Javascript[1]
 #### Things we want to know next**
 1.  Django [1]
 2.  OpenStack[1]
 3.  Ceph[1]
-4.  Kubernetes[1]
+4.  Kubernetes[2]
 5.  Elastic Search[1]
 6.  Browser dev tools[1]
 7.  Authentication[1]
+8.  Write Dockerfile[1]
+9.  web maintenance & security[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
