@@ -17,7 +17,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  Linux Directory listing[2] 
 3.  Docker Installation[1]
 #### Things we don't understand
-1. Git Stash[1]
+1. Git pull[1]
 2. GIt pull[2]
 3. GIT status[1]
 #### Things we want to know next**
@@ -45,7 +45,7 @@ This person should then merge the pull requests and resolve the merge conflict t
 4. The person that receives the pull request from #3 needs to resolve merge conflics and merge, so that the new issues are added and duplicate counts are incrimented as necessary.
 
 5. Once you have merged someone else's combined list into your project make an issue and a pull request to the "complete_list" branch on the upstream repository i.e. the one you forked from. Use the issue "Complete List" and put a link to the pull request.  Submit a link to the **issue** to Canvas to finish the assignment.  In your pull request include your UCID,  course number, and section.  
-
+ 
 ### You are done when you have completed the following:
  
 1.  Added your issues individually and resolved them
