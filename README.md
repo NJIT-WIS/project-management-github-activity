@@ -17,8 +17,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  Linux Directory listing[2] 
 3.  Docker Installation[1]
 #### Things we don't understand
-1. What is the purpose of Docker?[1]
-2. GIt pull[2]
+1. Git Stash[1]
+2. Watchtower on docker? What is it? [1]
 3. GIT status[1]
 #### Things we want to know next**
 1.  Elastic Search Indexing [1]
