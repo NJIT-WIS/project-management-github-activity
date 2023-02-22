@@ -30,6 +30,6 @@ Collaborating on GitHub:
 ### Things you understand so far
 1. I understand the general workflow for how we use docker to deploy our web applications
 ### Things you don't understand about what we are doing / web development.
-1. I dont understand how exactly how npm works
+1. I dont understand how exactly how npm worksq
 ### Things you want to know next
-1. How to connect viewjs to elastic search
+1. I want to know how to use node.js
