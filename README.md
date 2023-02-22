@@ -78,6 +78,7 @@ Collaborating on GitHub:
 ### Things you understand so far
 1. How to containesise a docker image
 2. How to collaborate with the team using version control
+3. How to fork and pull request on git 
 ### Things you don't understand about what we are doing / web development.
 1. How to configures docker images for various applications
 2. How to create a test case to validate the integrity of the code
