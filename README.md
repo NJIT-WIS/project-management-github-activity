@@ -38,3 +38,4 @@ Collaborating on GitHub:
 ### Things you want to know next
 1. I want to know how to use node.js
 2. I want to learn how to learn more frameworks
+3. I want to learn how to better research user needs
