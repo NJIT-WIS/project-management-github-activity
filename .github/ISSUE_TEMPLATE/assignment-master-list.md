@@ -1,5 +1,5 @@
 ---
-name: Master Pull Request
+name: Assignment Master List
 about: This is for your mater pull request to merge your master into this repo
 title: Put your UCID as the tile (replace this text)
 labels: submitting into master branch
