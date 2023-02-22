@@ -15,7 +15,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we understand**
 1.  How to use GitHub Classroom[1]
 2.  How to use Docker commands[1] 
-3.  Docker Installation[1]
+3.  How to host a website using localhost[1]
 #### Things we don't understand
 1. Git Stash[1]
 2. Watchtower on docker? What is it? [1]
