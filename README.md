@@ -14,7 +14,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Your list should look like this:
 #### Things we understand**
 1.  Using git commands in pycharm[1]
-2.  Linux Directory listing[2] 
+2.  Collaborating in a group project through github[1] 
 3.  Docker Installation[1]
 #### Things we don't understand
 1. Difference between docker containers and docker images, and what it each do[1]
