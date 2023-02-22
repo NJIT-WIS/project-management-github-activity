@@ -15,6 +15,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we understand**
 1. SSH Keygen 
 2. Create a Project Board
+3. Push code to master
 #### Things we don't understand
 1. Git Stash[1]
 2. GIt pull[2]
