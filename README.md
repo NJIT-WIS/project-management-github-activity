@@ -76,9 +76,9 @@ Collaborating on GitHub:
 
 ## Put your items here
 ### Things you understand so far
-1. I know how to make an ssh key and add it to GitHub So I don't need to login with password
-2. I learend GITHUB Issues
+1. 
 ### Things you don't understand about what we are doing / web development.
 1. How to configures docker images for various applications
+2. How to create a test case to validate the integrity of the code
 ### Things you want to know next
-1. How to connect viewjs to elastic search
+1. 
