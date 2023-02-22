@@ -21,10 +21,11 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we don't understand
 1. Git Rebase[1]
 2. GIt Track[1]
-3. GIT status[1]
-4. sql and database
-5. traefik
-6. Javascript
+3. Git Cherry-pick[1]
+4. GIT status[1]
+5. sql and database
+6. traefik
+7. Javascript
 #### Things we want to know next**
 1.  web maintenance & security
 2.  Kubernetes
