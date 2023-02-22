@@ -7,9 +7,4 @@ assignees: Sumanmhalsank02
 
 ---
 
-1. The end use of Docker[3]
-2. How to resolve Merge Conflicts[1]
-3. Push request [1]
-4. Pycharm [1]
-5. Docker Container, Images and their Uses [2]
-6. How the process is automated [1]
+
