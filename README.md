@@ -28,7 +28,7 @@ Collaborating on GitHub:
 
 ## Put your items here
 ### Things you understand so far
-1. Add items to the list
+1. I understand the general workflow for how we use docker to deploy our web applications
 ### Things you don't understand about what we are doing / web development.
 1. I dont understand how exactly how npm works
 ### Things you want to know next
