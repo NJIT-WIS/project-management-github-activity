@@ -29,7 +29,7 @@ Collaborating on GitHub:
 ## Put your items here
 ### Things you understand so far
 1. I know how to make an ssh key and add it to GitHub.
-2. I learned GITHUB Issues
+2. I learned all about GITHUB Issues
 3. I learned how to create and name repositories in Github and in Docker.
 ### Things you don't understand about what we are doing / web development.
 1. Add items to the list
