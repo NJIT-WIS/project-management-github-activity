@@ -82,5 +82,5 @@ Collaborating on GitHub:
 1. I don't fully understand python yet.
 2. I wish I knew something
 ### Things you want to know next
-1. How to connect viewjs to elastic search
+1. I would like to fully understand docker 
 2. fdsafsda
