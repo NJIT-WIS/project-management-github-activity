@@ -14,6 +14,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we understand**
 1.  I learned how to set up a Docker repository.[1]
 2.  I learned git commit.[1]
+3.  I learned git status.[1]
 
 #### Things we don't understand
 
