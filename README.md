@@ -20,7 +20,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 1. docker-compose.yml [1]
 2. I don't know anything[1]
-3. I don't know Seige[1]
+3. I don't know Seige[2]
 4. I don't know kibana[1]
 
 #### Things we want to know next**
