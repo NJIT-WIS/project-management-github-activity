@@ -33,6 +33,9 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4. Advanced Vim shortcuts
 5. Docker-compose files
 6. Pulling updates from main repository
+7. File Structure[1]
+8. Github Flow[1]
+9. Collaboration[1]
 
 #### Things we want to know next\*\*
 
