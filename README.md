@@ -109,6 +109,7 @@ Collaborating on GitHub:
 
 1. The most optimal way to use issues and projects [11]
 2. Git merge issue resolution [13]
+3. Optimal Job Applications [17]
 
 =======
 
