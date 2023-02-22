@@ -86,3 +86,4 @@ Collaborating on GitHub:
 ### Things you want to know next
 1. How to create new VMs and configure them in AWS 
 2. How to create web pages using ReactJS 
+3. How to use Kubernetes 
