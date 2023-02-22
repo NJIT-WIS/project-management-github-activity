@@ -20,7 +20,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  Linux Directory listing[2]
 3.  Docker Installation[1]
 4.  Docker[1]
-5.  Git Actions[1]
+5.  Virtualization[1]
 
 #### Things we don't understand
 
