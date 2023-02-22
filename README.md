@@ -80,5 +80,6 @@ Collaborating on GitHub:
 ### Things you don't understand about what we are doing / web development.
 1. How to configures docker images for various applications
 2. How to create a test case to validate the integrity of the code
+3. How to write test cases to for web pages
 ### Things you want to know next
 1. 
