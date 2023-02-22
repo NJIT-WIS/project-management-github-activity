@@ -30,7 +30,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  Cloud deployment with Kubernetes[1] 
 2.  Elastic Search Indexing[3]
 3.  Teraform[2]
-4. Security Processes within our workflow[1]
+4.  Security Processes within our workflow[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
