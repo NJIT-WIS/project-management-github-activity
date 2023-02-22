@@ -1,7 +1,7 @@
 ---
 name: Master Pull Request
 about: For master pull request to merge master into this repo
-title: CS525
+title: "[Your UCID Goes Here]"
 labels: Submit Master
 assignees: ''
 
