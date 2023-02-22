@@ -19,7 +19,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we don't understand
 1. Pytest & how to use testing frameworks[1]
 2. Building & playing Docker images[1]
-3. GIT status[1]
+3. Difference between *git fetch origin* & *git pull origin main*[1]
 #### Things we want to know next**
 1.  What Kubernetes is [1]
 2.  What Teraform is[1]
