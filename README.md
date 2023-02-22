@@ -20,6 +20,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1. Docker Images[2]
 2. Node.js[1]
 3. Webpack[1]
+4. Test case creation[1]
 #### Things we want to know next**
 1.  Teraform [1]
 2.  Rest api[1]
@@ -91,5 +92,4 @@ Collaborating on GitHub:
 12.  Check that your task is moved from in progress to done
 13.  update your local main branch with the changes from the merge by doing git pull origin main
 14. Repeat again, and again, and again
-
 
