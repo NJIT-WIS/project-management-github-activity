@@ -17,9 +17,12 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  Manage Issues[1] 
 3.  Using watchtower and implementation[1]
 #### Things we don't understand
-1. I don't know anything[1]
-2. I don't know Seige[1]
-3. I don't know kibana[1]
+
+1. docker-compose.yml [1]
+2. I don't know anything[1]
+3. I don't know Seige[1]
+4. I don't know kibana[1]
+
 #### Things we want to know next**
 1.  How we effect and integrate into the Stack [1]
 2.  How are changes displayed on final site[1]
