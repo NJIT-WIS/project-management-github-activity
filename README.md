@@ -107,6 +107,7 @@ Collaborating on GitHub:
 1. Combine different commits [1]
 2. Build Docker image based on my PC's environment [1]
 3. Prepare DockerFile [1]
+4. Git Stash [1]
 
 ### Thins we want to know next
 1. Manage submodules in git repo [1]
