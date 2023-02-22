@@ -21,7 +21,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. Watchtower on docker? What is it? [1]
 3. GIT status[1]
 #### Things we want to know next**
-1.  Elastic Search Indexing [1]
+1.  How to program using JavaScript [1]
 2.  How to program with PHP[1]
 3.  How to host a website without Github Pages[1]
 
