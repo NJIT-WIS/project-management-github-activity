@@ -18,16 +18,25 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  Docker Installation[2]
 4.  Git status[1]
 5.  Git commit[1]
+6.  Combine different commits[1]
+7.  Build Docker image based on my PC's environment[1]
+8.  Prepare DockerFile[1]
 #### Things we don't understand
 1. Git Stash[2]
 2. GIt pull[2]
 3. GIT status[1]
 4. Node.js[1]
 5. Webpack[1]
+6. Combine different commits[1]
+7. Build Docker image based on my PC's environment[1]
+8. Prepare DockerFile[1]
 #### Things we want to know next**
 1.  Elastic Search Indexing [2]
 2.  Cloud deployment with Kubernetes[3]
 3.  Terraform[2]
+4.  Manage submodules in git repo[1]
+5.  Use tag in git[1]
+6.  Use vim[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
@@ -96,27 +105,3 @@ Collaborating on GitHub:
 13.  update your local main branch with the changes from the merge by doing git pull origin main
 14. Repeat again, and again, and again
 
-## Put your items here
-### Things we understand
-1. Build Docker image from given DockerFile [1]
-2. Git command line [1]
-3. Setup git issue template [1]
-4. Git status [1]
-5. Docker Installation [1]
-6. Git commit [1]
-
-### Things we don't understand about what we are doing 
-1. Combine different commits [1]
-2. Build Docker image based on my PC's environment [1]
-3. Prepare DockerFile [1]
-4. Git Stash [1]
-5. Node.js [1]
-6. Webpack [1]
-
-### Thins we want to know next
-1. Manage submodules in git repo [1]
-2. Use tag in git [1]
-3. Use vim [1]
-4. Elastic Search Indexing [1]
-5. Cloud deployment with Kubernetes [1]
-6. Terraform[1]
