@@ -20,7 +20,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 5.  Set up an oracle server
 #### Things we don't understand
 1. Git Rebase[1]
-2. GIt pull[2]
+2. GIt Track[1]
 3. GIT status[1]
 4. sql and database
 5. traefik
