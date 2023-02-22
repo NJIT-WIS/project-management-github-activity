@@ -23,6 +23,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 5.  Cloning[1]
 6.  Kernel[1]
 7.  Connect to cloud instance via ssh
+8.  Docker commands
 
 #### Things we don't understand
 
