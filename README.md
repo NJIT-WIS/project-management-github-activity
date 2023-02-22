@@ -13,17 +13,32 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  Docker containers[1]
-2.  git stash[1] 
-3.  SSH keys[1]
+
+
+
+1.  How to use GitHub Classroom[1]
+2.  How to use Docker commands[1] 
+3.  How to host a website using localhost[1]
+4.  Docker containers[1]
+5.  Git stash[1]
+6.  SSH keys[1]
+
+
 #### Things we don't understand
-1. How to avoid merge conflicts[1]
-2. Github Classroom[1]
-3. Dockerhub integration[1]
+
+
+1. What is the purpose of Docker??[1]
+2. Watchtower on docker? What is it? [1]
+3. What is the point of Linux Terminal over Windows?[1]
+4. Github Classroom[1]
+5. Dockerhub integration[1]
+
+
 #### Things we want to know next**
-1.  Using kubernetes with docker[1]
-2.  How to securely login [1]
-3.  How to connect to other cloud services[1]
+1.  How to program using JavaScript [1]
+2.  How to program with PHP[1]
+3.  How to host a website without Github Pages[1]
+
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
