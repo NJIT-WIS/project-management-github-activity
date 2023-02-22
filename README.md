@@ -15,6 +15,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we understand**
 1.  Linux Commands [1]
 2.  Git Commands [1]
+3.  Project Management[2]
 #### Things we don't understand
 1.  docker-compose.yml [1]
 2.  Siege[1]
