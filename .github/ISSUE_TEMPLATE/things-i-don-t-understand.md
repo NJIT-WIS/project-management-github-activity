@@ -1,7 +1,7 @@
 ---
 name: Things I Don't Understand
 about: This is for adding issues that you don't understand
-title: ''
+title: Put your UCID as the title (replace this text)
 labels: I DON'T KNOW
 assignees: ''
 
