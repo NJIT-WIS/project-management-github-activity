@@ -99,8 +99,9 @@ Collaborating on GitHub:
 1. Build Docker image from given DockerFile [1]
 2. Git command line [1]
 3. Setup git issue template [1]
-4. Git status[1]
+4. Git status [1]
 5. Docker Installation [1]
+6. Git commit [1]
 
 ### Things we don't understand about what we are doing 
 1. Combine different commits [1]
