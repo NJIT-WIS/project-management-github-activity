@@ -18,6 +18,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 #### Things we don't understand
 1. I don't understand webpack.[1]
+2. I don't understand git fetch vs git pull.[1]
 
 #### Things we want to know next**
 
