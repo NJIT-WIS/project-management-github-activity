@@ -1,7 +1,7 @@
 ---
 name: Things I learned
 about: Add one item for each thing you learned keep to max of 255 characters
-title: Put your UCID as the title (replace this text)
+title: 'Thing I know: <file in title> [Thing I know]'
 labels: I KNOW
 assignees: ''
 
