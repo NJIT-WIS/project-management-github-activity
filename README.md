@@ -27,7 +27,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we want to know next**
 1.  Teraform[1]
 2.  Rest api[1]
-3.  Reactjs[1]
+3.  Reactjs[2]
 4.  Cloud computing[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
