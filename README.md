@@ -13,9 +13,12 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
+
 1.  Write bash scripts[1]
 2.  Manage Issues[1] 
 3.  Using watchtower and implementation[1]
+4.  Linux Commands[1]
+
 #### Things we don't understand
 
 1. docker-compose.yml [1]
