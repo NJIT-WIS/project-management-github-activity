@@ -35,6 +35,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  How are changes displayed on final site[1]
 3.  How does teraform work/what is terraforming[1]
 4.  Bash Scrpting[1]
+5.  Kubernetes[1]
 
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
