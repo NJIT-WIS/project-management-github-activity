@@ -30,6 +30,7 @@ Collaborating on GitHub:
 ### Things you understand so far
 1. I understand the general workflow for how we use docker to deploy our web applications
 ### Things you don't understand about what we are doing / web development.
-1. I dont understand how exactly how npm worksq
+1. I don't understand how exactly how npm works
+2. I don't understand how to use kubernetes and docker together
 ### Things you want to know next
 1. I want to know how to use node.js
