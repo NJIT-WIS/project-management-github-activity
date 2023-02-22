@@ -76,11 +76,16 @@ Collaborating on GitHub:
 
 ## Put your items here
 ### Things you understand so far
-1. I know how to make an ssh key and add it to GitHub So I don't need to login with password
+1. I know the basic docker commands
 2. I learend GITHUB Issues
 ### Things you don't understand about what we are doing / web development.
-1. I am completely lost and don't anything
-2. I don't understand the programming languages java, C+, or C.
+<<<<<<< HEAD
+1.  I don't understand the programming languages java, C+, or C.
+2. 
+=======
+1. I don't fully understand python yet.
+2. I wish I knew something
+>>>>>>> d3c5fbe53efbf7a432e188c6fc62caf2626f857c
 ### Things you want to know next
-1. How to connect viewjs to elastic search
+1. I would like to fully understand docker 
 2. fdsafsda
