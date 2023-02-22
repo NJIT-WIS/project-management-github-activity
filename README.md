@@ -111,6 +111,7 @@ Collaborating on GitHub:
 3. Prepare DockerFile [1]
 4. Git Stash [1]
 5. Node.js [1]
+6. Webpack [1]
 
 ### Thins we want to know next
 1. Manage submodules in git repo [1]
