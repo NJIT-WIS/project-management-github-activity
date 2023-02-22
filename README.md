@@ -30,7 +30,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 5. Bash Script[1]
 
 #### Things we want to know next**
-1.  How we effect and integrate into the Stack [1]
+
+1.  How we effect and integrate into the Stack [2]
 2.  How are changes displayed on final site[1]
 3.  How does teraform work/what is terraforming[1]
 
