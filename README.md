@@ -21,7 +21,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. I don't know Seige[1]
 3. I don't know kibana[1]
 #### Things we want to know next**
-1.  Elastic Search Indexing [1]
+1.  How we effect and integrate into the Stack [1]
 2.  Cloud deployment with Kubernetes[2]
 3.  Teraform[1]
 
