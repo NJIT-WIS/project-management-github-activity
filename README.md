@@ -19,6 +19,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  Using watchtower and implementation[1]
 4.  Linux Commands[1]
 5.  Git Commands[1]
+6.  Project Management[1]
 
 #### Things we don't understand
 
