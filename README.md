@@ -18,7 +18,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  Docker Installation[1]
 4.  Terminal [1]
 5.  Bootstrap[1]
-
+6.  Github[1]
 
 #### Things we don't understand
 1. Git Stash[1]
