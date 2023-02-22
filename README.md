@@ -18,7 +18,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  Building Docker images though pycharm terminal[1]
 #### Things we don't understand
 1. Pytest & how to use testing frameworks[1]
-2. GIt pull[2]
+2. Building & playing Docker images[1]
 3. GIT status[1]
 #### Things we want to know next**
 1.  Elastic Search Indexing [1]
