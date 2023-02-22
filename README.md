@@ -22,6 +22,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1. Git Stash[2]
 2. GIt pull[2]
 3. GIT status[1]
+4. Node.js[1]
 #### Things we want to know next**
 1.  Elastic Search Indexing [1]
 2.  Cloud deployment with Kubernetes[2]
@@ -108,6 +109,7 @@ Collaborating on GitHub:
 2. Build Docker image based on my PC's environment [1]
 3. Prepare DockerFile [1]
 4. Git Stash [1]
+5. Node.js [1]
 
 ### Thins we want to know next
 1. Manage submodules in git repo [1]
