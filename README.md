@@ -22,8 +22,9 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 #### Things we don't understand
 1. Git Stash[1]
-2. Git pull[2]
-3. Git status[1]
+2. GIt pull[2]
+3. GIT status[1]
+4. File Structure[1]
 
 #### Things we want to know next**
 1.  Elastic Search Indexing [1]
@@ -31,6 +32,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  Teraform[1]
 4.  Vim[1]
 5.  Lean[1]
+6.  Vue JS[1]
 
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
