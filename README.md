@@ -22,6 +22,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. I don't know anything[1]
 3. I don't know Seige[2]
 4. I don't know kibana[1]
+5. Bash Script[1]
 
 #### Things we want to know next**
 1.  How we effect and integrate into the Stack [1]
