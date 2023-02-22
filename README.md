@@ -18,7 +18,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  Docker Installation[1]
 #### Things we don't understand
 1. Git Stash[1]
-2. Watchtower on docker? What is it? [1]
+2. GIt pull[2]
 3. GIT status[1]
 #### Things we want to know next**
 1.  How to program using JavaScript [1]
