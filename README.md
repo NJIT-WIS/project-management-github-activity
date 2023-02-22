@@ -13,7 +13,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  Git commands[1]
+1.  Git commands[2]
 2.  Pycharm[1] 
 3.  ssh keygen[1]
 4.  Docker image containerization[1]
