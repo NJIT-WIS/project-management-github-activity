@@ -104,6 +104,7 @@ Collaborating on GitHub:
 
 1. If this is the most optimal way to do issues on github [9]
 2. How the business world works [15]
+3. Optimal job applications [16]
 
 ### Things you want to know next
 
