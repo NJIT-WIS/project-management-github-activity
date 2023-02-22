@@ -1,8 +1,8 @@
 ---
-name: Things I want to know
+name: Things I learned
 about: This is for adding things I don't understand
 title: ''
-labels: I want to know
+labels: Things I learned
 assignees: ''
 
 ---

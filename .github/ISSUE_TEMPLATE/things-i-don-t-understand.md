@@ -1,8 +1,8 @@
 ---
-name: Things I don't understand
+name: Things I Don't Understand
 about: Please add one item that you don't understand
 title: "[Don't Understand]"
-labels: I don't know
+labels: Things I Don't Understand
 assignees: ''
 
 ---
