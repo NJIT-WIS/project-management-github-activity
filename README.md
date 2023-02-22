@@ -14,6 +14,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Your list should look like this:
 #### Things we understand**
 
+
 1.  git status [1]
 2.  git fetch [1] 
 3.  git checkout [1]
@@ -52,7 +53,6 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 7.  Elastic Search Indexing[3]
 8. Security within our Github and Docker workflow[1]
 9. Linux Directory Listings[1]
-
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video

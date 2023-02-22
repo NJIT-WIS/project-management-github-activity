@@ -2,8 +2,7 @@
 name: Things we don't understand
 about: This is for adding issues that you don't understand
 title: ''
-labels: I don't understand
-assignees: ''
+
 
 ---
 
