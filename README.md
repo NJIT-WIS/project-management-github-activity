@@ -41,6 +41,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 7. File Structure[1]
 8. Github Flow[1]
 9. Collaboration[1]
+10.  Deploy to other cloud platforms
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 
