@@ -103,7 +103,7 @@ Collaborating on GitHub:
 ### Things you don't understand about what we are doing / web development.
 
 1. If this is the most optimal way to do issues on github [9]
-2. 
+2. How the business world works [15]
 
 ### Things you want to know next
 
