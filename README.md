@@ -19,7 +19,11 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  Python Print[1]
 2.  Linux Directory listing[2]
 3.  Docker Installation[1]
-4.  Docker commands
+4.  Forking[1]
+5.  Cloning[1]
+6.  Kernel[1]
+7.  Connect to cloud instance via ssh
+8.  Docker commands
 
 #### Things we don't understand
 
@@ -32,6 +36,14 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  Elastic Search Indexing [1]
 2.  Cloud deployment with Kubernetes[2]
 3.  Teraform[1]
+4.  Vim[1]
+5.  Lean[1]
+6.  Vue JS[1]
+7. File Structure[1]
+8. Github Flow[1]
+9. Collaboration[1]
+10.  Deploy to other cloud platforms
+11.  RESTful API
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 
