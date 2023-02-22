@@ -84,4 +84,4 @@ Collaborating on GitHub:
 2. How to create a test case to validate the integrity of the code
 3. How to write test cases to for web pages
 ### Things you want to know next
-1. 
+1. How to create new VMs and configure them in AWS 
