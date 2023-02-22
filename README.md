@@ -15,7 +15,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we understand**
 1.  Using git commands in pycharm[1]
 2.  Collaborating in a group project through github[1] 
-3.  Docker Installation[1]
+3.  Reloading website with npm[1]
 #### Things we don't understand
 1. Difference between docker containers and docker images, and what it each do[1]
 2. Commands/instructions that are in the docker file[1]
