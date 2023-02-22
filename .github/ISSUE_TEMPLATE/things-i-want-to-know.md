@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-Please describe what you want to know in less than 255 characters.
+I want to know <fill in what you don't here>
