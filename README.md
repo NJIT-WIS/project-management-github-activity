@@ -35,3 +35,4 @@ Collaborating on GitHub:
 2. I don't understand how to use kubernetes and docker together
 ### Things you want to know next
 1. I want to know how to use node.js
+2. I want to learn how to learn more frameworks
