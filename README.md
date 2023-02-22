@@ -108,6 +108,7 @@ Collaborating on GitHub:
 ### Things you want to know next
 
 1. The most optimal way to use issues and projects [11]
+2. Git merge issue resolution [13]
 
 =======
 
