@@ -30,6 +30,7 @@ Collaborating on GitHub:
 ### Things you understand so far
 1. I understand the general workflow for how we use docker to deploy our web applications
 2. I understand how to set up an oracle cloud instance
+3. I understand how flask templating
 ### Things you don't understand about what we are doing / web development.
 1. I don't understand how exactly how npm works
 2. I don't understand how to use kubernetes and docker together
