@@ -22,7 +22,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3. CHANGE[1]
 #### Things we want to know next**
 1.  More command line shortcuts to make using the command line smoother[1]
-2.  CHANGE[1]
+2.  How to manage forks and pull requests through the command line[1]
 3.  CHANGE[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
