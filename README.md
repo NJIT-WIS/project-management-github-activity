@@ -18,11 +18,12 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  Semantic Versioning[1]
 #### Things we don't understand
 1. Git pull[1]
-2. Git Stash[2]
-3. GIT status[1]
-4. Docker[1]
-5. CI/CD[1]
-6. Node.JS[1]
+2. Git stash[2]
+3. When to use windows cmd prompt or ubuntu[1]
+4. GIT status[1]
+5. Docker[1]
+6. CI/CD[1]
+7. Node.JS[1]
 #### Things we want to know next**
 1.  Databases [1]
 2.  Data Structures[1]
