@@ -20,7 +20,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we don't understand
 1. Git Stash[1]
 2. GIt pull[2]
-3. GIT status[1]
+3. I don't know how to deal with daemon errors[8]
 
 #### Things we want to know next**
 1.  Elastic Search Indexing [1]
