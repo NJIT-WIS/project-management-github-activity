@@ -1,8 +1,8 @@
 ---
-name: Things we know
+name: Things we understand
 about: Add one item for each thing you learned keep to max of 255 characters
 title: "[Things I Learned]"
-labels: ''
+labels: Things we understand
 assignees: aaa373373
 
 ---

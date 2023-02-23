@@ -2,7 +2,7 @@
 name: Things we want to know
 about: Describe this issue template's purpose here.
 title: ''
-labels: Things we want to know next
+labels: Things we want to know
 assignees: aaa373373
 
 ---
