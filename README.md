@@ -16,7 +16,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  Git Commands[1]
 2.  Using Docker[2] 
 3.  Using GitHub[1]
-4. Oracle Cloud Instances [1]
+4.  Oracle Cloud Instances [1]
+5.  Flask [1]
 #### Things we don't understand
 1. What is Webpack and why do we use it?[1]
 2. What are docker images, and why are they used?[1]
