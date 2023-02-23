@@ -92,25 +92,36 @@ Collaborating on GitHub:
 13.  update your local main branch with the changes from the merge by doing git pull origin main
 14. Repeat again, and again, and again
 
-### My Lists
-#### Things we understand**
-1.  Docker Installation[1]
-2. Git Fetch [1]
-3. SSH Key authentication [2]
-4. Git Issues [1]
-5. Branch Creation [1]
 
-#### Things we don't understand
-1. How to make a website publicly visible [1]
-2. Epics, User Stories, etc. [1]
-3. Optimal Job Applications [1]
-4. Github Issue Optimization [2]
-5. Working of Industry [1]
+
+
+## Put your items here
+### Things you understand so far
+
+1. Creating a SSH key and implementing it to github [1]
+2. Creating issues with github [1]
+3. Making a new branch [1]
+4. Pycharm Basics [1]
+5. Linux Commands [1]
+6. Git Push [1]
+7. Git Fetch [1]
+
+### Things you don't understand about what we are doing / web development.
+
+1. If this is the most optimal way to do issues on github [2]
+2. How the business world works [1]
+3. Optimal job applications [1]
+4. Git Pop [1]
+5. Git Stash [1]
+6. AJAX [1]
+
 
 #### Things we want to know next**
-1. How to scale a website [1]
-2. How to make an efficient website [1]
-3. Optimal Job Applications [1]
-4. Git Merge Problem Resolution [1]
-5. Optimal Git Issue and Project Use [2]
+1. The most optimal way to use issues and projects [2]
+2. Git merge issue resolution [1]
+3. Optimal job applications [1]
+4. Faster way of creating issues [1]
+5. How to make a perfect website [1]
+6. Kubernetes [1]
+
 
