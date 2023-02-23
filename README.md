@@ -28,6 +28,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4. Importance of Docker Images [1]
 5. git fetch vs. git pull [1]
 6. Troubleshooting problems in GitHub Actions [1]
+7. What is the point of Linux Terminal over Windows?[1]
 
 #### Things we want to know next**
 1.  Using kubernetes with docker[1]
