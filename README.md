@@ -20,7 +20,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 5. Python programming[1]
 6. Flutter mobile app development[1]
 #### Things we don't understand
-1. Git Stash[1]
+1. Docker Compose[1]
 2. GIt pull[2]
 3. GIT status[1]
 4. Responsive design in HTML[1]
