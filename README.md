@@ -33,5 +33,6 @@ Collaborating on GitHub:
 3. I learned how to create and name repositories in Github and in Docker.
 ### Things you don't understand about what we are doing / web development.
 1. What some git commands do. 
+2. I don't understand what exactly a DevOps Engineer does.
 ### Things you want to know next
 1. How to connect viewjs to elastic search
