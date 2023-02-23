@@ -100,3 +100,4 @@ Collaborating on GitHub:
 2. I want to know how to use Flask and the MVC pattern
 #### Things I know
 1. I know how to make websites and web apps with HTML, CSS, and Javascript
+2. I know how to use Git and GitHub
