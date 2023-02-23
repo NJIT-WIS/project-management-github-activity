@@ -33,6 +33,7 @@ Collaborating on GitHub:
 3. Version locking
 4. the requirements.txt file
 5. Basic of Agile methodology
+6. An understanding of CI/CD [1]
 ### Things we don't understand
 1. Reconciling divergent branches
 2. How a kernel functions
