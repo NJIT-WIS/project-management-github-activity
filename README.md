@@ -23,6 +23,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. Docker Images[1]
 3. JavaScript[1]
 4. Big data [1]
+5. AFS clients [1]
 #### Things we want to know next**
 1.  Kibana[1]
 2. Linux Fundamentals and Scripting Skills such as Apache[1]
