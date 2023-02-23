@@ -13,7 +13,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  Python Print[1]
+1.  HTML and CSS 
 2.  Git push and pull
 3.  Docker Installation
 #### Things we don't understand
