@@ -20,16 +20,21 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 8.  Linux terminal and bash[1]
 9.  Python libraries[1]
 10. Set up an oracle server[1]
+11. I know how to make an ssh key and add it to GitHub.[1]
+12. I learned all about GITHUB Issues[1]
+13. I learned how to create and name repositories in Github and in Docker.[1]
 #### Things we don't understand
 1. Git Rebase[1]
 2. GIt Track[1]
 3. Git Cherry-pick[1]
 4. syncing vs merging[1]
-5. the proccess of resolving merge conflicts[1]
+5. the proccess of resolving merge conflicts[2]
 6. watchtower[1]
 7. sql and database[1]
 8. traefik[1]
 9. Javascript[1]
+10. What some git commands do.[1]
+11. I don't understand what exactly a DevOps Engineer does.[1]
 #### Things we want to know next**
 1.  Django [1]
 2.  OpenStack[1]
@@ -40,6 +45,9 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 7.  Authentication[1]
 8.  Write Dockerfile[1]
 9.  web maintenance & security[1]
+10. I want to know more about Docker and its functions.[1]
+11. I want to know how what we're learning will be used in web development.[1]
+12. I want to know if it's possible to use the terminals of other IDEs to do git commands.[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
