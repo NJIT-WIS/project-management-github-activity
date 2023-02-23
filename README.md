@@ -76,8 +76,7 @@ Collaborating on GitHub:
 
 ## Put your items here
 ### Things you understand so far
-1. I know how to make an ssh key and add it to GitHub So I don't need to login with password
-2. I learend GITHUB Issues
+1. Basic Terminal/Command Prompt
 ### Things you don't understand about what we are doing / web development.
 1. I am completely lost and don't anything
 ### Things you want to know next
