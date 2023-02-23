@@ -13,23 +13,33 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  Git commands[2]
-2.  Pycharm[1] 
+1.  Git commands[3]
+2.  Pycharm[2] 
 3.  ssh keygen[1]
-4.  Docker image containerization[1]
+4.  Docker image containerization[2]
 5.  Git fork and pull[1]
+6.  Npm Live Reload of Website[1]
+7.  How to use Github [1]
 #### Things we don't understand
-1. Docker Images[2]
+1. Docker Images[4]
 2. Node.js[1]
 3. Webpack[1]
 4. Test case creation[1]
 5. Test case creation for web pages[1]
+6. How to resolve Merge Conflicts[1]
+7. Push request [1]
+8. Pycharm [1]
 #### Things we want to know next**
 1.  Teraform[1]
 2.  Rest api[1]
 3.  Reactjs[2]
-4.  Cloud computing[1]
-5.  Kubernetes[1]
+4.  Cloud computing[2]
+5.  Kubernetes[2]
+6.  CI/CD Tools[1]
+7.  DevOpss[3] 
+8.  python[1]
+9.  How automation works in web systems.[1]
+
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
