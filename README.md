@@ -19,7 +19,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we understand
 1. Git push[1]
 2. HTML and CSS[1]
-3. GIT status[1]
+3. Python Fundamentals[1]
 #### Things we want to know next**
 1.  Elastic Search Indexing [1]
 2.  Cloud deployment with Kubernetes[2]
