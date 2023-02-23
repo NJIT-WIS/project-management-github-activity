@@ -27,6 +27,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 5. the proccess of resolving merge conflicts[1]
 6. watchtower[1]
 7. Git Stash [1]
+8. Git Pull [1]
 #### Things we want to know next**
 1.  Django [1]
 2.  OpenStack[1]
