@@ -103,3 +103,4 @@ Collaborating on GitHub:
 2. Terraform Automation
 
 #### Things we want to know next**
+1. Microsoft Azure
