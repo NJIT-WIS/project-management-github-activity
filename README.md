@@ -20,7 +20,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 5.  Python[1]
 #### Things we don't understand
 1. Cloud Computing[1]
-2. Docker Images[1]
+2. Docker Images[2]
 3. JavaScript[1]
 4. Big data [1]
 5. AFS clients [1]
