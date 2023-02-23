@@ -27,10 +27,10 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 6. Tasks on GitHub[1]
 #### Things we want to know next
 1.  [Python Flask](https://flask.palletsprojects.com/en/2.2.x/) [1]
-2.  Creating pytest [1]
+2.  Creating Pytest [1]
 3.  Agile methodology [2]
 4.  AWS [1]
-5.  DevOps[1]
+5.  DevOps [1]
 
 ## Prerequisite - YOU MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
