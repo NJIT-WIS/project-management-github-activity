@@ -99,5 +99,6 @@ Collaborating on GitHub:
 3. SSH Key authentication [1]
 
 #### Things we don't understand
+1. Optimal Job Applications [1]
 
 #### Things we want to know next**
