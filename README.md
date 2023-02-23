@@ -16,21 +16,21 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  Create branch[1]
 2.  Git Status[2] 
 3.  Git Commit[1]
-4. Issue 4a for my partner
-5. Issue 5a for my partner
-6. Issue 6a for my partner
+4.  Git add, commit, push, merges and resolving merge conflicts[1]
+5.  GitHub secrets to add usernames/passwords[1]
+6.  Building Docker images though pycharm terminal[1]
 #### Things we don't understand
 1. Purpose of Fork process[1]
 2. Workflow between repositories[2]
 3. Docker Vs GitHub[1]
-4. Issue 1a for my partner
-5. Issue 2a for my partner
-6. Issue 3a for my partner
+4. Pytest & how to use testing frameworks[1]
+5. Building & playing Docker images[1]
+6. Difference between git fetch origin & git pull origin main[1]
 #### Things we want to know next**
 1.  HTML and CSS [1]
 2.  JAVASCRIPTS[2]
 3.  Python[1]
-4. issue 7a for my partner
+4.  What Kubernetes is [1]
 5.  What Teraform is[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
