@@ -96,7 +96,7 @@ Collaborating on GitHub:
 #### Things we understand**
 1.  Docker Installation[1]
 2. Git Fetch [1]
-3. SSH Key authentication [1]
+3. SSH Key authentication [2]
 
 #### Things we don't understand
 
