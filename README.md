@@ -16,6 +16,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.   PHP [1] 
 2. Agile[1]
 3.  flask[1]
+4. CSS[1]
 #### Things we don't understand
 1.code with multiple threads[1]
 2. PostgreSQL[1]
