@@ -34,5 +34,6 @@ Collaborating on GitHub:
 ### Things you don't understand about what we are doing / web development.
 1. What some git commands do. 
 2. I don't understand what exactly a DevOps Engineer does.
+3. I don't know how to fix some merge issues.
 ### Things you want to know next
 1. How to connect viewjs to elastic search
