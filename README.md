@@ -21,7 +21,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. I am not fully sure why docker hub is necessary or different from Github
 3. GIT status[1]
 #### Things we want to know next**
-1.  Elastic Search Indexing [1]
+1.  We want to know VIM
 2.  Cloud deployment with Kubernetes[2]
 3.  Teraform[1]
 
