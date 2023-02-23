@@ -14,24 +14,23 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Your list should look like this:
 #### Things we understand**
 1. Pull/Merge Requests on Github[1]
-2. Using git commands in pycharm[2]
-3. Collaborating in a group project through github[1] 
-4. Reloading website with npm[1]
-5. Cloning repositories[1]
+2. Cloning repositories[1]
+3. Using git commands in pycharm[2]
+4. Collaborating in a group project through github[1] 
+5. Reloading website with npm[1]
 #### Things we don't understand
-1. Difference between docker containers and docker images, and what it each do[1]
-2. Commands/instructions that are in the docker file[1]
-3. How to resolve merge conflicts[1]
-4. What Errors Mean[1]
-5. Package Management/Requirements[1]
-6. Auto Grading Scripts[1]
+1. What Errors Mean[1]
+2. Package Management/Requirements[1]
+3. Auto Grading Scripts[1]
+4. Difference between docker containers and docker images, and what it each do[1]
+5. Commands/instructions that are in the docker file[1]
+6. How to resolve merge conflicts[1]
 #### Things we want to know next**
-1. How to make automated tests[2]
-2. Tools used in CI/CD[1]
-3. Commands/instructions that are in the docker file[1]
-4. Packages[1]
-5. More Advanced Terminal/Command Prompt[1]
-
+1. Packages[1]
+2. More Advanced Terminal/Command Prompt[1]
+3. How to make automated tests[2]
+4. Tools used in CI/CD[1]
+5. Commands/instructions that are in the docker file[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
