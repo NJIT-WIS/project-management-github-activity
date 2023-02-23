@@ -15,7 +15,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we don't understand**
 1.  Docker container[1]
 2.  Python libraries[1] 
-3.  Cloud Computing[1]
+3.  Cloud Computing[2]
 4.  GitHub Repositories[1]
 5.  Docker Images[1]
 #### Things we understand
