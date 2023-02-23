@@ -13,17 +13,17 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  Vue[1]
-2.  Angular[2] 
-3.  React [1]
+1.  Git[1]
+2.  Github[2] 
+3.  SSH [1]
 #### Things we don't understand
-1. Git[1]
-2. Github[2]
-3. SSH[1]
+1. What are Github Issues [1]
+2. 
+3. 
 #### Things we want to know next**
-1.  
-2.  
-3.  
+1.  Vue [1]
+2.  Angular [1]
+3.  React [1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
