@@ -40,3 +40,4 @@ Collaborating on GitHub:
 2. How to use Kubernetes [1]
 3. How to use React [2]
 4. CSS-Flexbox/Gridview [1]
+5. Redux/Flask
