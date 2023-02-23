@@ -28,10 +28,22 @@ Collaborating on GitHub:
 
 ## Put your items here
 ### Things you understand so far
-1. SSH keys and Github [1]
-2. Github Issues [1]
-3. Cloning and Merging through Github [1]
+1. Merging Pull Requests [1]
+2. Debugging Github Actions [1]
+3. Docker Authentication Using Token [1]
+4. Cloning and Merging through Github [1]
+
 ### Things you don't understand about what we are doing / web development.
-1. Add items to the list
+1. Rebasing [1]
+2. Develop App from Start --> Finish [1]
+3. Practical Use of Docker [1]
+4. Github Milestones [1]
+5. Resolving Conflicts [1]
+6. Merge Conflicts [1]
+
 ### Things you want to know next
-1. Add items to the list 
+1. React [2]
+2. Css-Flexbox/GridView [1]
+3. Redux/Flask [1]
+4. How to use Kubernetes [1]
+5. How to Build Landing pages using HTML, CSS, and Javascript [1]
