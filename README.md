@@ -13,17 +13,20 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  Python Print[1]
-2.  Linux Directory listing[2] 
-3.  Docker Installation[1]
+1.  Git Workflow[1]
+2.  Project Management[1] 
+3.  Semantic Versioning[1]
 #### Things we don't understand
 1. Git pull[1]
 2. GIt pull[2]
 3. GIT status[1]
+4. Docker[1]
+5. CI/CD[1]
+6. Node.JS[1]
 #### Things we want to know next**
-1.  Elastic Search Indexing [1]
-2.  Cloud deployment with Kubernetes[2]
-3.  Teraform[1]
+1.  Databases [1]
+2.  Data Structures[1]
+3.  Basic Algorithms[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
