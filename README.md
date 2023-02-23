@@ -13,17 +13,36 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
+
 1.  GitHub and PyCharm work[8]
 2.  Building image on Docker[7]
 3.  GitHub commands[6]
+
+1.  using github commands[1]
+2.  Creating building images[2] 
+3.  Docker setup[1]
+
 #### Things we don't understand
+
 1. Auto grading[1]
+
 2. gitHub commit and push[5]
 3. Terminal Errors[3]
 #### Things we want to know next**
 1.  JavaScript [11]
 2.  Resolving Errors[10]
 3.  Web project using HTML, CSS, JavaScript[9]
+
+
+1. Creating interface[1]
+2. Debugging[2]
+3. project setup[3]
+
+#### Things we want to know next**
+1.  agile technology [1]
+2.  testing the code in pycharm[2]
+3.  cloud technologies[1]
+
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
