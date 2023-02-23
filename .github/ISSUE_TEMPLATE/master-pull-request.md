@@ -1,10 +1,15 @@
 ---
 name: Master Pull Request
-about: 'For master pull request to merge master into this repo. '
-title: ss889
-labels: Compiled List
-assignees: ss889
+about: This is for your master pull request to merge your master into this repo.
+title: Put your UCID as the title (replace this text)
+labels: compiled list
+assignees: ''
 
 ---
 
-make a pull request and add a link to the pull request to this issue when you submit.
+You need to make a pull request and add the link to the pull request to this issue when you submit.  
+
+PULL REQUEST LINK:
+
+UCID:
+
