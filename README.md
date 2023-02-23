@@ -32,7 +32,13 @@ Collaborating on GitHub:
 2. Docker
 3. Cloud Computing Fundamentals
 ### Things you don't understand about what we are doing / web development.
-1. Better solve merge conflicts
+
+
+
+
+
+
+6. Better solve merge conflicts
 ### Things you want to know next
 1. CI/CD
 2. More about frontend and backend together
