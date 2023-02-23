@@ -16,7 +16,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1. I understand the general workflow for how we use docker to deploy our web applications
 2. I understand how to set up an oracle cloud instance
 3. I understand how flask templating
-
+4. Git Commands
 5. Docker
 #### Things we don't understand
 1. I don't understand how exactly how npm works
