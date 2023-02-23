@@ -16,6 +16,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  Create branch[1]
 2.  Git Status[2] 
 3.  Git Commit[1]
+4. Issue 4a for my partner
 #### Things we don't understand
 1. Purpose of Fork process[1]
 2. Workflow between repositories[2]
