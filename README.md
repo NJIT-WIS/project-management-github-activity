@@ -94,6 +94,7 @@ Collaborating on GitHub:
 
 
 
+
 ## Put your items here
 ### Things you understand so far
 
@@ -123,3 +124,4 @@ Collaborating on GitHub:
 4. Faster way of creating issues [1]
 5. How to make a perfect website [1]
 6. Kubernetes [1]
+
