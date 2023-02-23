@@ -26,6 +26,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1. I want to know how to use node.js
 2. I want to learn how to learn more frameworks
 3. I want to learn how to better research user needs
+4. CI/CD
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
@@ -65,6 +66,7 @@ To submit this assignment you need to submit the result of step #5 to canvas.  W
 Collaborating on GitHub:
 
 1. Fork the repository: Each person should fork the repository to their own GitHub account. To do this, click the "Fork" button in the top-right corner of the repository page.
+
 2. Enable issues: If you don't see the "Issues" tab in the main menu, you should enable it in the repository settings. 
 3. Go to the "Issues" tab, and click "Milestones" to add a 0.1.0 milestone and describe it as a consolidated list of issues from your team.  
 4. Go to the issues tab you should also create labels for "I Know", "Want to Know", "Don't Understand", and "Master List".  
