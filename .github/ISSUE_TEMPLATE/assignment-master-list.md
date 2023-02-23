@@ -2,7 +2,7 @@
 name: Assignment Master List
 about: Add the reference to the pull request
 title: ''
-labels: ''
+labels: merge my list
 assignees: ''
 
 ---
