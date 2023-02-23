@@ -17,7 +17,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  Project Management[1] 
 3.  Semantic Versioning[1]
 #### Things we don't understand
-1. Docker[1]
+1. Docker [1]
 2. GIt pull[2]
 3. GIT status[1]
 #### Things we want to know next**
