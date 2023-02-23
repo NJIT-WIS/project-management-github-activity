@@ -92,3 +92,24 @@ Collaborating on GitHub:
 13.  update your local main branch with the changes from the merge by doing git pull origin main
 14. Repeat again, and again, and again
 
+
+## Put your items here
+### Things you understand so far
+
+1. Pycharm Basics [3]
+2. Linux Commands [7]
+3. 
+
+### Things you don't understand about what we are doing / web development.
+
+1. Git Pop [1]
+2. Git Stash [7]
+3. 
+
+### Things you want to know next
+
+1. Faster way of creating issues [5]
+2. How to make a perfect website [11]
+3. 
+
+=======
