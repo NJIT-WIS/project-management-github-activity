@@ -12,7 +12,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Complete the Assignment By adding your issues to these 3 lists and count how many times each issue is mentioned.  The number in the bracket next to each issue is the count, you should set your count at 1 for your issue.  We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
 
 ### Your list should look like this:
-#### Things we understand**
+#### Things we understand
 1.  How to commit to GitHub
 2.  Linux Directory listing[2] 
 3.  Docker Installation[1]
@@ -20,9 +20,9 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1. Packages
 2. I am not fully sure why docker hub is necessary or different from Github
 3. GIT status[1]
-#### Things we want to know next**
-1.  We want to know VIM
-2.  Cloud deployment with Kubernetes[2]
+#### Things we want to know next
+1.  VIM
+2.  CI
 3.  Teraform[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
