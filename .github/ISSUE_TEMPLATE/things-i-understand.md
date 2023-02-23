@@ -1,8 +1,8 @@
 ---
-name: Things we want to know
-about: Describe this issue template's purpose here.
-title: ''
-labels: Things we want to know
+name: Things I understand
+about: Add one item for each thing you learned keep to max of 255 characters
+title: "[Things I Learned]"
+labels: Things we understand
 assignees: aaa373373
 
 ---
