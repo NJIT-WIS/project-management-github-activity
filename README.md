@@ -14,6 +14,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Your list should look like this:
 
 #### Things we understand**
+
 1.  Docker containers[1]
 2.  git stash[1] 
 3.  SSH keys[1]
@@ -39,8 +40,6 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4.  Thorough Understanding of Git/GitHub [1]
 5.  General Understanding of Docker [1]
 6.  How to use Git efficiently [1]
-7.  How to program with PHP[1]
-8.  How to program using JavaScript [1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
