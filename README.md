@@ -24,9 +24,15 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1. While we discussed it in class, still not 1000% sure what docker does[1]
 
 #### Things we want to know next**
+
+1.  How learning code can benefit in other jobs, not just front and back ending [1]
+2.  Cloud deployment with Kubernetes[2]
+3.  Teraform[1]
+=======
 1.  Elastic Search Indexing [1]
 2.  For java and python how each code reacts with each other and complications with contradiction[2]
 3.  Still struggling with understand how to test code in pycharm, if i were to write from scratch[1]
+
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
