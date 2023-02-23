@@ -15,7 +15,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things I learned**
 1.  How to make an SSH on Ubuntu[1]
 2.  How to merge a branch to the master[2] 
-3.  Docker Installation[1]
+3.  How to commit all git status stuff[1]
 #### Things I don't understand**
 1. I don't know how to do anything[1]
 2. GIt pull[2]
