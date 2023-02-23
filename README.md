@@ -29,6 +29,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  Be able to master docker-github (to the point of making it fast and efficient).[1]
 3.  Database(Mysql/sql)[2]
 4.  React[1]
+5.  Javascript[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
