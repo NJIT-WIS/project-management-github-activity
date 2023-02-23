@@ -21,7 +21,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. HTML and CSS[1]
 3. Python Fundamentals[1]
 #### Things we want to know next**
-1.  Elastic Search Indexing [1]
+1.  React [1]
 2.  Cloud deployment with Kubernetes[2]
 3.  Teraform[1]
 
