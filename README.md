@@ -31,6 +31,7 @@
 2. I don't understand what exactly a DevOps Engineer does.
 3. I don't know how to fix some merge issues.
 4. GIt Track[1]
+5. Git Cherry-pick[1]
 ### Things you want to know next
 1. I want to know more about Docker and its functions.
 2. I want to know how what we're learning will be used in web development.
