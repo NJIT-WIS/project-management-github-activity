@@ -13,17 +13,36 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1. Docker images and containers
-2. Flask API
-3. VIM Command Line
+1.  SSH [1]
+2.  Docker CLI [3]
+3.  React.js [1]
+4.  Mobile Responsiveness [1]
+5.  CI/CD [1]
+6.  Flask API [1]
+7.  VIM Command Line [1]
+
 #### Things we don't understand
-1. marshmallow
-2. devops
-3. traefik
+1.  Vue.js [1]
+2.  Teraform [1]
+3.  Git CLI [1]
+4.  User Authentication [1]
+5.  MVC [1]
+6.  Elastic Search [1]
+7.  marshmallow: simplified object serialization [1]
+8.  DevOps [1]
+9.  traefik [1]
+
 #### Things we want to know next**
-1.  Auth0
-2.  Vue
-3.  Flask authentication
+1.  Git CLI [1]
+2.  Vue.js [2]
+3.  Godaddy [1]
+4.  Docker [1]
+5.  Oracle [1]
+4.  NoSQL [1]
+5.  Kubernetes [1]
+6.  AWS [1]
+7.  Auth0 [1]
+8.  JWT Authentication [1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
