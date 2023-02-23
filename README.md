@@ -23,12 +23,12 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. Working Directory vs Local Repository [1]
 3. git status [1]
 4. Actions Tab [1]
-5. Pull Request[1]
-6. Tasks on GitHub[1]
+5. Pull Request [1]
+6. Tasks on GitHub [1]
 #### Things we want to know next
 1.  [Python Flask](https://flask.palletsprojects.com/en/2.2.x/) [1]
 2.  Creating Pytest [1]
-3.  Agile methodology [2]
+3.  Agile Methodology [2]
 4.  AWS [1]
 5.  DevOps [1]
 
