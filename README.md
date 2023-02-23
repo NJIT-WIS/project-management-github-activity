@@ -92,3 +92,24 @@ Collaborating on GitHub:
 13.  update your local main branch with the changes from the merge by doing git pull origin main
 14. Repeat again, and again, and again
 
+
+## Put your items here
+### Things you understand so far
+
+1. 
+2. 
+3. 
+
+### Things you don't understand about what we are doing / web development.
+
+1. Git Pop [1]
+2. 
+3. 
+
+### Things you want to know next
+
+1. 
+2. 
+3. 
+
+=======
