@@ -4,7 +4,7 @@
 3.  using docker
 #### Things we don't understand
 1. github ssh auth
-2. 
+2. git pull
 3. 
 #### Things we want to know next**
 1.  playwright testing
