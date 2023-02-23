@@ -17,6 +17,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. I understand how to set up an oracle cloud instance
 3. I understand how flask templating
 4. Git Commands
+5. Docker
 #### Things we don't understand
 1. I don't understand how exactly how npm works
 2. I don't understand how to use kubernetes and docker together
@@ -25,6 +26,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1. I want to know how to use node.js
 2. I want to learn how to learn more frameworks
 3. I want to learn how to better research user needs
+4. CI/CD
 
 5. More about backend and frontend together
 
