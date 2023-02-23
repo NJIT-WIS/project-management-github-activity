@@ -32,6 +32,7 @@ Collaborating on GitHub:
 2. Debugging Github Actions [1]
 3. Docker Authentication Using Token [1]
 4. Cloning and Merging through Github [1]
+5. Github Issues [1]
 
 ### Things you don't understand about what we are doing / web development.
 1. Rebasing [1]
