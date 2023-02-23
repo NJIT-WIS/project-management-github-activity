@@ -31,6 +31,7 @@ Collaborating on GitHub:
 1. Merging Pull Requests [1]
 2. Debugging Github Actions [1]
 3. Docker Authentication Using Token [1]
+4. Cloning and Merging through Github [1]
 
 ### Things you don't understand about what we are doing / web development.
 1. Rebasing [1]
