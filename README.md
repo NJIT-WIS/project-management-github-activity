@@ -25,6 +25,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3. GIT status[1]
 4. How the localhost works[1]
 5. The difference between Git and SVN[1]
+6. The details of Watchtower process[1]
 #### Things we want to know next**
 1.  Elastic Search Indexing [1]
 2.  Cloud deployment with Kubernetes[2]
