@@ -28,10 +28,11 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 5. How a kernel functions
 6. Webpack.config from mywebclass
 #### Things we want to know next**
-1.  Python Flask
-2.  AWS - cloud development 
-3.  Unit Testing [2]
+1. Python Flask
+2. AWS - cloud development 
+3. Unit Testing [2]
 4. How to connect viewjs to elastic search
+5. More of what npm is capable of
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
