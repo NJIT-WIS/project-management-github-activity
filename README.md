@@ -99,3 +99,5 @@ Collaborating on GitHub:
 1. Difference between Scrum and Kanban
 
 #### Things we want to know next**
+1. Microsoft Azure
+2. AWS S3 Buckets
