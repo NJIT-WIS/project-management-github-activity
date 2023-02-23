@@ -22,13 +22,13 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1. What is the purpose of Docker??[1]
 2. Watchtower on docker? What is it? [1]
 3. What is the point of Linux Terminal over Windows?[1]
-4. Github Classroom[1]
-5. Dockerhub integration[1]
+4. Github Classroom [1]
+5. Dockerhub integration [1]
 
 
 #### Things we want to know next**
 1.  How to program using JavaScript [1]
-2.  How to program with PHP[1]
+2.  How to program with PHP [1]
 3.  How to host a website without Github Pages[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
