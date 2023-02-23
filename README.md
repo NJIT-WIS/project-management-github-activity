@@ -104,7 +104,7 @@ Collaborating on GitHub:
 1. How to make a website publicly visible [1]
 2. Epics, User Stories, etc. [1]
 3. Optimal Job Applications [1]
-4. Github Issue Optimization [1]
+4. Github Issue Optimization [2]
 5. Working of Industry [1]
 
 #### Things we want to know next**
