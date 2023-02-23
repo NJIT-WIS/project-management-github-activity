@@ -104,3 +104,4 @@ Collaborating on GitHub:
 #### Things I know
 1. I know how to make websites and web apps with HTML, CSS, and Javascript
 2. I know how to use Git and GitHub
+3. I know how to configure a web server
