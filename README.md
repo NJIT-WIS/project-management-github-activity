@@ -38,6 +38,7 @@ Collaborating on GitHub:
 2. Resolving Conflicts [1]
 3. Github Milestones [1]
 4. Rebasing [1]
+5. Develop App from Start --> Finish [1]
 ### Things you want to know next
 1. How to Build Landing pages using HTML, CSS, and Javascript [1]
 2. How to use Kubernetes [1]
