@@ -112,5 +112,5 @@ Collaborating on GitHub:
 2. How to make an efficient website [1]
 3. Optimal Job Applications [1]
 4. Git Merge Problem Resolution [1]
-5. Optimal Git Issue and Project Use [1]
+5. Optimal Git Issue and Project Use [2]
 
