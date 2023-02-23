@@ -97,25 +97,34 @@ Collaborating on GitHub:
 ## Put your items here
 ### Things you understand so far
 
-<<<<<<< HEAD
 1. Creating a SSH key and implementing it to github [1]
 2. Creating issues with github [1]
 3. Making a new branch [1]
+4. Pycharm Basics [1]
+5. Linux Commands [1]
+6. Git Push [1]
+
 
 ### Things you don't understand about what we are doing / web development.
 
 1. If this is the most optimal way to do issues on github [1]
 2. How the business world works [1]
 3. Optimal job applications [1]
+4. Git Pop [1]
+5. Git Stash [1]
+6. AJAX [1]
 
 ### Things you want to know next
 
 1. The most optimal way to use issues and projects [1]
 2. Git merge issue resolution [1]
 3. Optimal job applications [1]
+4. Faster way of creating issues [1]
+5. How to make a perfect website [1]
+6. Kubernetes [1]
 
-=======
 
+<<<<<<< HEAD
 =======
 1. Pycharm Basics [3]
 2. Linux Commands [7]
@@ -159,3 +168,5 @@ Collaborating on GitHub:
 5. Optimal Git Issue and Project Use [2]
 
 >>>>>>> f1d836e5e5dd048031a02c1d6c5a12faceebf109
+=======
+>>>>>>> 3e0188b4118fa281df5d607a686d7e1b8916cbc1
