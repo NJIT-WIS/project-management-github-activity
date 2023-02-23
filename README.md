@@ -14,7 +14,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Your list should look like this:
 #### Things we understand
 1.  SSL Error [1]
-2.  Adding SSH key to GitHub [1] 
+2.  Add SSH Key to GitHub [1] 
 3.  Docker Installation [2]
 4.  Git Merge [1]
 5.  Fix merge conflixs [1]
