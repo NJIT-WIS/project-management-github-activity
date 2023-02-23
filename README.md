@@ -18,7 +18,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  How to commit all git status stuff[4]
 #### Things I don't understand**
 1. I don't know how to do anything[1]
-2. GIt pull[2]
+2. How to use the separate branch made by an issue[6]
 3. GIT status[1]
 #### Things I want to know next**
 1.  Node.js [5]
