@@ -99,6 +99,7 @@ Collaborating on GitHub:
 #### Things I want to know
 1. I learned hot to use git project boards
 2. I want to know how to use Flask and the MVC pattern
+3. I learned how to setup a cloud instance on Oracle Cloud
 #### Things I know
 1. I know how to make websites and web apps with HTML, CSS, and Javascript
 2. I know how to use Git and GitHub
