@@ -1,5 +1,5 @@
 ---
-name: Things I Know
+name: Things I Learned
 about: Add one item for each thing you learned keep to max of 255 characters
 title: "[Things I Know]"
 labels: I Know
