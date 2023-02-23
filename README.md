@@ -97,5 +97,7 @@ Collaborating on GitHub:
 
 #### Things we don't understand
 1. Difference between Scrum and Kanban
+2. Terraform Automation
+3. Kubernetes
 
 #### Things we want to know next**
