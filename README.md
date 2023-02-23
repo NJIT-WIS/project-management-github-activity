@@ -18,6 +18,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3. Docker Installation[1]
 4. CSS.
 5. Docker Hub.
+6. Putty.
 #### Things we don't understand
 1. Git Stash[1]
 2. GIt pull[2]
