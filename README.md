@@ -28,14 +28,14 @@ Collaborating on GitHub:
 
 ## Put your items here
 ### Things you understand so far
-1. I learned how to make SSH key and add it to Github so i dont need to login with a password.
-2. I learned github issues.
-3. I learned how to clone and merge through github.
+1. SSH keys and Github [1]
+2. Github Issues [1]
+3. Cloning and Merging through Github [1]
 ### Things you don't understand about what we are doing / web development.
-1. I don't understand merge conflicts 100%.
-2. I don't understand resolving merge conflicts with 100% confidence.
-3. I don't understand milestones completely. 
+1. Merge Conflicts [1]
+2. Resolving Conflicts [1]
+3. Github Milestones [1]
 ### Things you want to know next
-1. How to Build Landing pages using HTML, CSS, and Javascript
-2. How to use Kubernetes
-3. How to use React
+1. How to Build Landing pages using HTML, CSS, and Javascript [1]
+2. How to use Kubernetes [1]
+3. How to use React [1]
