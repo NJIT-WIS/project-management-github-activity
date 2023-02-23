@@ -15,10 +15,13 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. Docker
 3. Cloud Computing Fundamentals
 #### Things we don't understand
+
 1. Better solve merge conflicts
 2. Watchtower
 3. Github workflow
 4. Webpack
+5. Docker Images
+
 #### Things we want to know next**
 1. CI/CD
 2. More about frontend and backend together
