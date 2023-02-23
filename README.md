@@ -107,19 +107,13 @@ Collaborating on GitHub:
 
 ### Things you don't understand about what we are doing / web development.
 
-1. If this is the most optimal way to do issues on github [1]
+1. If this is the most optimal way to do issues on github [2]
 2. How the business world works [1]
 3. Optimal job applications [1]
 4. Git Pop [1]
 5. Git Stash [1]
 6. AJAX [1]
 
-### Things you want to know next
-
-1. 
-
-
-#### Things we don't understand
 
 #### Things we want to know next**
 
