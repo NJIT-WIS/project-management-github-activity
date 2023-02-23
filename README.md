@@ -86,4 +86,3 @@ Collaborating on GitHub:
 ### Things you want to know next
 1. Packages
 2. More Advanced Terminal/Command Prompt
-
