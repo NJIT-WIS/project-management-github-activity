@@ -97,7 +97,7 @@ Collaborating on GitHub:
 ### Things you understand so far
 
 1. Pycharm Basics [3]
-2. 
+2. Linux Commands [7]
 3. 
 
 ### Things you don't understand about what we are doing / web development.
