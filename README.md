@@ -92,3 +92,10 @@ Collaborating on GitHub:
 13.  update your local main branch with the changes from the merge by doing git pull origin main
 14. Repeat again, and again, and again
 
+### Joshua Kaisar's List:
+#### Things we understand**
+
+#### Things we don't understand
+1. Difference between Scrum and Kanban
+
+#### Things we want to know next**
