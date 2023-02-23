@@ -18,7 +18,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  SSH keys[1]
 #### Things we don't understand
 1. How to avoid merge conflicts[1]
-2. Github Classroom[1]
+2. Watchtower on docker? What is it? [1]
 3. Dockerhub integration[1]
 #### Things we want to know next**
 1.  Using kubernetes with docker[1]
