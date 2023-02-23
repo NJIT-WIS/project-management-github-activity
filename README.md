@@ -39,3 +39,4 @@ Collaborating on GitHub:
 3. Webpack.config from mywebclass
 ### Things you want to know next
 1. Unit testing
+2. More of what npm is capable of
