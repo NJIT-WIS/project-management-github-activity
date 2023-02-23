@@ -17,6 +17,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. Cloning Repositories[1]
 3. Basic Terminal/Command Prompt[1]
 4. Using git commands in pycharm[1]
+5. Collaborating in a group project through github[1] 
 #### Things we don't understand
 1. What Errors Mean[1]
 2. Package Management/Requirements[1]
