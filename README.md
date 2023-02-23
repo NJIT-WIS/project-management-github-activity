@@ -15,7 +15,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we understand
 1.  SSL Error [1]
 2.  Add SSH Key to GitHub [1] 
-3.  Docker Installation [2]
+3.  Docker Installation/Repo [2]
 4.  Git Merge [1]
 5.  Fix merge conflixs [1]
 #### Things we don't understand
@@ -33,7 +33,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 5.  DevOps [1]
 
 ## Prerequisite - YOU MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
-Add your ssh public key to github - See video
+Add your SSH public key to GitHub - See video
 **open powershell or terminal and run "ssh-keygen -b 4096" and hit enter through the prompts and then open the file **your home directory/.ssh/id_rsa.pub** and copy that text into your github account settings under SSH/GPG keys -> add key.  in one of the prompts it will tell you where it is going to save the key.  If you already have a key reusue the one you have and cancel out of the process with control c **.  I do it on my mac with the command vi ~/.ssh/id_rsa.pub" and then i press shift colon : and q to quit
 
 ### [Assignment Video](https://youtu.be/UFLKojO3OtM)
@@ -60,7 +60,7 @@ This person should then merge the pull requests and resolve the merge conflict t
 3.  Merged 9 pull requests from someone else
 3.  Made a pull request to another person with your master branch that contains the consolidated list 
 4.  Merged the pull request of someone elsesa compiled list
-5.  Submmited a pull request to this repository to have your complete list merged
+5.  Submitted a pull request to this repository to have your complete list merged
 
 ### Canvas Submission instructions
 
