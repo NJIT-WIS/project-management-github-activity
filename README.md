@@ -17,7 +17,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. oracle server setup [1]
 3. generate SSH keys [1]
 #### Things we don't understand
-1. 
+1. docker containers and images [1]
 #### Things we want to know next
 1. agile development methodology [1]
 2. vue.js [1]
