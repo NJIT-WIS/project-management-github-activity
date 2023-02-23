@@ -25,7 +25,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3. Docker Vs GitHub[1]
 4. Pytest & how to use testing frameworks[1]
 5. Building & playing Docker images[1]
-6. Difference between *git fetch origin* & *git pull origin main*[1]
+6. Difference between git fetch origin & git pull origin main[1]
 #### Things we want to know next**
 1.  HTML and CSS [1]
 2.  JAVASCRIPTS[2]
