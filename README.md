@@ -30,7 +30,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 7. Node.JS[1]
 #### Things we want to know next**
 1.  Remove a stopped container [1]
-2.  Cloud deployment with Kubernetes[2]
+2.  View resource usage stats[2]
 3.  Teraform[1]
 4.  Databases [1]
 5.  Data Structures[1]
