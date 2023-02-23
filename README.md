@@ -14,7 +14,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Your list should look like this:
 #### Things we understand**
 1.  using github commands[1]
-2.  Linux Directory listing[2] 
+2.  Creating building images[2] 
 3.  Docker Installation[1]
 #### Things we don't understand
 1. Creating interface[1]
