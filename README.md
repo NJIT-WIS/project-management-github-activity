@@ -27,7 +27,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 6. Working Directory vs Local Repo[1]
 #### Things we want to know next**
 1.  AWS[1]
-2.  Agile[1]
+2.  Agile[2]
 3.  DevOps[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
