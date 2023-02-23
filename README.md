@@ -1,6 +1,4 @@
-# MyWebClass Collaboration and Brainstorming Assignment
-
-## Overview
+# MyWebClass collaboration and brainstorming activity to identify required content for mywebclass
 
 The purpose of this assignment is to practice collaborating using GIT/GitHub and develop the requirements for the mywebclass.org website's tutorials and courses.  To accomplish this task we are going to create three lists(What I Know, What I Don't Know, and What I Want To Learn) and consolidate the items from everyone in the class into a master list that counts the number of repeated issues.  You need at least **3 items for each list for a total of 9 items** and you should plan that these items are going to be used for project 1 as the basis for the possible topics that people can choose to build online tutorials about.   
 
@@ -13,18 +11,31 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  Python Print[1]
-2.  Linux Directory listing[2] 
-3.  Docker Installation[1]
-4.  Termianl[1]
-#### Things we don't understand
-1. Git Stash[1]
-2. GIt pull[2]
-3. GIT status[1]
+
+1.  Pull Request[1]
+2.  Git Push[1] 
+3.  Git Commit[1]
+4.  Resolving Merge Conflicts [1]
+5.  How to create a new branch[1]
+6.  How to switch branches[1]
+7.  How to push using gui in vscode[1]
+8.  Terminal [1]
+#### Things we don't understand[1]
+1. Git Rebase[1]
+2. GIt Track[1]
+3. Git Cherry-pick[1]
+4. syncing vs merging[1]
+5. the proccess of resolving merge conflicts[1]
+6. watchtower[1]
+main
 #### Things we want to know next**
-1.  Elastic Search Indexing [1]
-2.  Cloud deployment with Kubernetes[2]
-3.  Teraform[1]
+1.  Django [1]
+2.  OpenStack[1]
+3.  Ceph[1]
+4.  Kubernetes[1]
+5.  Elastic Search[1]
+6.  Browser dev tools[1]
+7.  Authentication[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
@@ -92,4 +103,3 @@ Collaborating on GitHub:
 12.  Check that your task is moved from in progress to done
 13.  update your local main branch with the changes from the merge by doing git pull origin main
 14. Repeat again, and again, and again
-
