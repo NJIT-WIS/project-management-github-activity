@@ -18,7 +18,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  Git Commit[1]
 4.  Git add, commit, push, merges and resolving merge conflicts[1]
 5.  GitHub secrets to add usernames/passwords[1]
-6. Building Docker images though pycharm terminal[1]
+6.  Building Docker images though pycharm terminal[1]
 #### Things we don't understand
 1. Purpose of Fork process[1]
 2. Workflow between repositories[2]
