@@ -96,6 +96,7 @@ Collaborating on GitHub:
 #### Things we understand**
 1. How to make a static website
 2. Git
+3. Agile
 
 #### Things we don't understand
 1. Difference between Scrum and Kanban
