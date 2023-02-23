@@ -116,21 +116,21 @@ Collaborating on GitHub:
 =======
 
 =======
-1. Pycharm Basics [3]
-2. Linux Commands [7]
-3. Git Push [13]
+1. Pycharm Basics [1]
+2. Linux Commands [1]
+3. Git Push [1]
 
 ### Things you don't understand about what we are doing / web development.
 
 1. Git Pop [1]
-2. Git Stash [7]
-3. AJAX [15]
+2. Git Stash [1]
+3. AJAX [1]
 
 ### Things you want to know next
 
-1. Faster way of creating issues [5]
-2. How to make a perfect website [11]
-3. Kubernetes [17]
+1. Faster way of creating issues [1]
+2. How to make a perfect website [1]
+3. Kubernetes [1]
 
 =======
 >>>>>>> f31a57c6c86a387ccf01d8b540d5e3e56f606715
