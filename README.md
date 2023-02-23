@@ -18,7 +18,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  Docker Installation[1]
 #### Things we don't understand
 1. Main operation of the AFS [1]
-2. GIt pull[2]
+2. To be able to have more mastery of programs with reference to big data.[2]
 3. GIT status[1]
 #### Things we want to know next**
 1.  Elastic Search Indexing [1]
