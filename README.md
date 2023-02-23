@@ -38,4 +38,4 @@ Collaborating on GitHub:
 ### Things you want to know next
 1. How to Build Landing pages using HTML, CSS, and Javascript [1]
 2. How to use Kubernetes [1]
-3. How to use React [1]
+3. How to use React [2]
