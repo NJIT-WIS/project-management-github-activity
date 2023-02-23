@@ -32,6 +32,9 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  How learning code can benefit in other jobs, not just front and back ending [1]
 2.  Cloud deployment with Kubernetes[2]
 
+3.  How a cloud server is created and protected[1]
+=======
+
 3.  Teraform[1]
 =======
 1.  Elastic Search Indexing [1]
