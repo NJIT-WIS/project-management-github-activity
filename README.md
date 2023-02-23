@@ -40,3 +40,4 @@ Collaborating on GitHub:
 ### Things you want to know next
 1. Unit testing
 2. More of what npm is capable of
+3. More standards a DevOps engineer should follow (e.g. what to do after entering pip install -r requirements.txt)
