@@ -13,17 +13,20 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  Python Print[1]
-2.  Linux Directory listing[2] 
-3.  Docker Installation[1]
+1.  github and git[2]
+2.  some coding programs (java,js,python etc.) [1]
+3.  Understand the full operation of the front end (html,css,js)[1]
 #### Things we don't understand
-1. Git Stash[1]
-2. GIt pull[2]
-3. GIT status[1]
+1. Main operation of the AFS [1]
+2. To be able to have more mastery of programs with reference to big data.[1]
+3. I would like to fully understand docker since I am not very clear about some terms such as containers etc.[1]
+4. Docker Containers[1]
+5. Python Libraries[1]
+6. Cloud Computing[1]
 #### Things we want to know next**
-1.  Elastic Search Indexing [1]
-2.  Cloud deployment with Kubernetes[2]
-3.  Teraform[1]
+1.  i want understand PHP(I don't have any kind of knowledge currently).[1]
+2.  Be able to master docker-github (to the point of making it fast and efficient).[1]
+3.  MYsql/Sql [1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
@@ -91,4 +94,3 @@ Collaborating on GitHub:
 12.  Check that your task is moved from in progress to done
 13.  update your local main branch with the changes from the merge by doing git pull origin main
 14. Repeat again, and again, and again
-
