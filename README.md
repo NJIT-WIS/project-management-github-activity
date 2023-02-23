@@ -13,24 +13,18 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-
-
 1.  How to use GitHub Classroom[1]
 2.  How to use Docker commands[1] 
 3.  How to host a website using localhost[1]
 4.  Docker containers[1]
 5.  Git stash[1]
 
-
 #### Things we don't understand
-
-
 1. What is the purpose of Docker??[1]
-2. Watchtower on docker? What is it? [1]
+2. Watchtower on docker? What is it? [2]
 3. What is the point of Linux Terminal over Windows?[1]
 4. Github Classroom[1]
 5. Dockerhub integration[1]
-
 
 #### Things we want to know next**
 1.  How to program using JavaScript [1]
