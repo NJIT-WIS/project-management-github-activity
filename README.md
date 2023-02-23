@@ -96,21 +96,21 @@ Collaborating on GitHub:
 ## Put your items here
 ### Things you understand so far
 
-1. Creating a SSH key and implementing it to github [3]
-2. Creating issues with github [5]
-3. Making a new branch [2]
+1. Creating a SSH key and implementing it to github [1]
+2. Creating issues with github [1]
+3. Making a new branch [1]
 
 ### Things you don't understand about what we are doing / web development.
 
-1. If this is the most optimal way to do issues on github [9]
-2. How the business world works [15]
-3. Optimal job applications [16]
+1. If this is the most optimal way to do issues on github [1]
+2. How the business world works [1]
+3. Optimal job applications [1]
 
 ### Things you want to know next
 
-1. The most optimal way to use issues and projects [11]
-2. Git merge issue resolution [13]
-3. Optimal job applications [17]
+1. The most optimal way to use issues and projects [1]
+2. Git merge issue resolution [1]
+3. Optimal job applications [1]
 
 =======
 
