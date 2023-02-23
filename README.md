@@ -15,25 +15,24 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we understand**
 1. I know how to make an ssh key and add it to GitHub so I don't need to login with password [2]
 2. I learned GitHub Issues [2]
-3. An understanding of CI/CD
-4. Git Commands - add, commit, push 
-5. Version locking
-6. the requirements.txt file
-7. Basic of Agile methodology
+3. An understanding of CI/CD [1]
+4. Git Commands - add, commit, push [1]
+5. Version locking [1]
+6. the requirements.txt file [1]
+7. Basic of Agile methodology [1]
 #### Things we don't understand
-1. Git Stash
-2. Dockerfile
-3. GitHub Collaboration 
-4. Reconciling divergent branches
-5. How a kernel functions
-6. Webpack.config from mywebclass
+1. Git Stash [1]
+2. Dockerfile [1]
+3. GitHub Collaboration [1]
+4. Reconciling divergent branches [1]
+5. How a kernel functions [1]
+6. Webpack.config from mywebclass [1]
 #### Things we want to know next**
-1. Python Flask
-2. AWS - cloud development 
+1. Python Flask [1]
+2. AWS - cloud development [1]
 3. Unit Testing [2]
-4. How to connect viewjs to elastic search
-5. More of what npm is capable of
-6. More standards a DevOps engineer should follow (e.g. what to do after entering pip install -r requirements.txt)
+4. More of what npm is capable of [1]
+5. More standards a DevOps engineer should follow (e.g. what to do after entering pip install -r requirements.txt) [1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
@@ -80,7 +79,6 @@ Collaborating on GitHub:
 4. Goto the project tab and create a new project (you have to click the down arrow next to "link project" to change it to new project). When you create a project you need to select "board" and name it "Documentation Tasks".
 5. Once this is completed then clone this to your computer using the SSH link **NOT THE HTTP LINK** you need the ssh link to use the key you added to your account, so you don't get an error when pushing.
 
-
 ### Project management and Collaboration workflow Steps
 1. create an issue
 2. assign issue to project task
@@ -101,4 +99,3 @@ Collaborating on GitHub:
 12.  Check that your task is moved from in progress to done
 13.  update your local main branch with the changes from the merge by doing git pull origin main
 14. Repeat again, and again, and again
-
