@@ -18,7 +18,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  Docker Installations[1]
 #### Things we don't understand
 1. Cloud Computing[1]
-2. GIt pull[2]
+2. Docker Images[1]
 3. GIT status[1]
 #### Things we want to know next**
 1.  Elastic Search Indexing [1]
