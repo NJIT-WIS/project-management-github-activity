@@ -18,7 +18,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  GitHub commands[6]
 #### Things we don't understand
 1. Auto grading[1]
-2. GIt pull[2]
+2. gitHub commit and push[5]
 3. GIT status[1]
 #### Things we want to know next**
 1.  JavaScript [11]
