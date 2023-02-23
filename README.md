@@ -18,10 +18,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.   docker ps
 2.   docker files and merging
 #### Things we want to know next**
-<<<<<<< HEAD
 
-=======
->>>>>>> f598ddd3ff4eaea3823a2de5bbe5c21e9efc6859
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
