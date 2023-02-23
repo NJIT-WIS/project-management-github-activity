@@ -19,20 +19,33 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4.  The aim of Node.js
 5.  How to Check status of git tree[1]
 6.  how to create pull and request and collaborate with teammates[1]
+7.  Prepare DockerFile[1]
+8.  Build Docker image based on my PC's environment[1]
+9.  Combine different commits[1]
+10. Git commit[1]
+11. Git status[1]
 #### Things we don't understand
-1. Git Stash[1]
+1. Git Stash[3]
 2. GIt pull[2]
 3. GIT status[1]
 4. How the localhost works[1]
 5. The difference between Git and SVN[1]
 6. The details of Watchtower process[1]
+7. Prepare DockerFile[1]
+8. Build Docker image based on my PC's environment[1]
+9. Combine different commits[1]
+10. Webpack[2]
+11. Node.js[1]
 #### Things we want to know next**
-1.  Elastic Search Indexing [1]
-2.  Cloud deployment with Kubernetes[2]
-3.  Teraform[1]
+1.  Elastic Search Indexing [3]
+2.  Cloud deployment with Kubernetes[4]
+3.  Teraform[3]
 4.  How to do the permission verification for different role of a system[1]
 5.  The logic of login and register page[1]
 6.  How to use bootstrap for development[1]
+7.  Use vim[1]
+8.  Use tag in git[1]
+9.  Manage submodules in git repo[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
