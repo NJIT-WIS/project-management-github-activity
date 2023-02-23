@@ -14,7 +14,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Your list should look like this:
 #### Things we understand**
 1.  Initialize git[1]
-2.  GitHub Repositories[1] 
+2.  GitHub Repositories[2] 
 3.  Docker Installations[1]
 4.  Html and css[1]
 5.  Python[1]
