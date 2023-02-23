@@ -108,7 +108,7 @@ Collaborating on GitHub:
 
 ### Things you want to know next
 
-1. 
+1. Faster way of creating issues [5]
 2. 
 3. 
 
