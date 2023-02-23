@@ -14,11 +14,12 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Your list should look like this:
 #### Things we understand**
 1.  Git Workflow[1]
-2.  Project Management [1] 
-3.  Docker Installation[1]
-4.  Docker hub repo creation[1]
-5.  Git fork[2] 
-6.  Git push[1]
+2.  Project Management[1] 
+3.  Semantic Versioning [1]
+4.  Docker Installation[1]
+5.  Docker hub repo creation[1]
+6.  Git fork[1] 
+7.  Git push[1]
 
 #### Things we don't understand
 1. Git pull[1]
