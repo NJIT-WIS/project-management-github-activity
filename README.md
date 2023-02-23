@@ -92,3 +92,9 @@ Collaborating on GitHub:
 13.  update your local main branch with the changes from the merge by doing git pull origin main
 14. Repeat again, and again, and again
 
+### My Lists
+#### Things we understand**
+1.  Docker Installation[1]
+#### Things we don't understand
+
+#### Things we want to know next**
