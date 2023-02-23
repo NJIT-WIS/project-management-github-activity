@@ -13,15 +13,15 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things I learned**
-1.  How to make an SSH on Ubuntu[1]
-2.  How to merge a branch to the master[2] 
-3.  How to commit all git status stuff[1]
+1.  How to make an SSH on Ubuntu[2]
+2.  How to merge a branch to the master[3] 
+3.  How to commit all git status stuff[4]
 #### Things I don't understand**
 1. I don't know how to do anything[1]
 2. GIt pull[2]
 3. GIT status[1]
 #### Things I want to know next**
-1.  Elastic Search Indexing [1]
+1.  Node.js [5]
 2.  Cloud deployment with Kubernetes[2]
 3.  Teraform[1]
 
