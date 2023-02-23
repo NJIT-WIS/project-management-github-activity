@@ -17,6 +17,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  Linux Directory listing[2] 
 3.  Docker Installation[1]
 4.  Setting up Git/GitHub with SSH [1]
+5.  Merging in Git
+
 #### Things we don't understand
 1. Git Stash[1]
 2. GIt pull[2]
