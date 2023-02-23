@@ -96,7 +96,7 @@ Collaborating on GitHub:
 ## Put your items here
 ### Things you understand so far
 
-1. 
+1. Pycharm Basics [3]
 2. 
 3. 
 
