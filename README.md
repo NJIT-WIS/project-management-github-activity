@@ -13,7 +13,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  Python Print[1]
+1.  I don't know how to do anything [1]
 2.  Linux Directory listing[2] 
 3.  Docker Installation[1]
 #### Things we don't understand
@@ -59,23 +59,7 @@ This person should then merge the pull requests and resolve the merge conflict t
 
 To submit this assignment you need to submit the result of step #5 to canvas.  When you look at the commits for your project you should see a total of 3 different users have contributed items to the list **including yourself** .  If you don't have at least 3  people's commits on the project you will lose 33 points for each person not found.
 
-
-### Each list should look like this:
-
-### Things I don't understand
-1. I don't know anything[1]
-
-### Things I learned
-
-### Things I want to know
-
-## Prerequisite
-Add your ssh public key to github
-
-## Instructions
-
 ## Project Setup Instructions
-
 Collaborating on GitHub:
 
 1. Fork the repository: Each person should fork the repository to their own GitHub account. To do this, click the "Fork" button in the top-right corner of the repository page.
@@ -107,4 +91,5 @@ Collaborating on GitHub:
 12.  Check that your task is moved from in progress to done
 13.  update your local main branch with the changes from the merge by doing git pull origin main
 14. Repeat again, and again, and again
+
 
