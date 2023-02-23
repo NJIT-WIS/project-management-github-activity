@@ -94,6 +94,7 @@ Collaborating on GitHub:
 
 ### Joshua Kaisar's List:
 #### Things we understand**
+1. How to make a static website
 
 #### Things we don't understand
 1. Difference between Scrum and Kanban
