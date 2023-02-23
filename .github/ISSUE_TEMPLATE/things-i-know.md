@@ -1,14 +1,9 @@
 ---
 name: Things I know
-about: Things I know
-title: ''
-labels: Things I know
+about: Add one item for each thing you know
+title: "[Things I know]"
+labels: I Know
 assignees: ''
 
 ---
-- Working with github
-- Semantic versioning
-- Working on separate branches
-- Merge conflict
-- Terminal github syntax
 
