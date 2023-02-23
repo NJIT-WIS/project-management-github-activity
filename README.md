@@ -37,6 +37,7 @@ Collaborating on GitHub:
 2. Develop App from Start --> Finish [1]
 3. Practical Use of Docker [1]
 4. Github Milestones [1]
+5. Resolving Conflicts [1]
 
 ### Things you want to know next
 1. React [2]
