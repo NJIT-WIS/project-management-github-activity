@@ -92,59 +92,7 @@ Collaborating on GitHub:
 13.  update your local main branch with the changes from the merge by doing git pull origin main
 14. Repeat again, and again, and again
 
-<<<<<<< HEAD
 
-## Put your items here
-### Things you understand so far
-
-1. Creating a SSH key and implementing it to github [1]
-2. Creating issues with github [1]
-3. Making a new branch [1]
-4. Pycharm Basics [1]
-5. Linux Commands [1]
-6. Git Push [1]
-
-
-### Things you don't understand about what we are doing / web development.
-
-1. If this is the most optimal way to do issues on github [1]
-2. How the business world works [1]
-3. Optimal job applications [1]
-4. Git Pop [1]
-5. Git Stash [1]
-6. AJAX [1]
-
-### Things you want to know next
-
-1. The most optimal way to use issues and projects [1]
-2. Git merge issue resolution [1]
-3. Optimal job applications [1]
-4. Faster way of creating issues [1]
-5. How to make a perfect website [1]
-6. Kubernetes [1]
-
-
-<<<<<<< HEAD
-=======
-1. Pycharm Basics [3]
-2. Linux Commands [7]
-3. Git Push [13]
-
-### Things you don't understand about what we are doing / web development.
-
-1. Git Pop [1]
-2. Git Stash [7]
-3. AJAX [15]
-
-### Things you want to know next
-
-1. Faster way of creating issues [5]
-2. How to make a perfect website [11]
-3. Kubernetes [17]
-
-=======
->>>>>>> f31a57c6c86a387ccf01d8b540d5e3e56f606715
-=======
 ### My Lists
 #### Things we understand**
 1.  Docker Installation[1]
@@ -152,6 +100,7 @@ Collaborating on GitHub:
 3. SSH Key authentication [2]
 4. Git Issues [1]
 5. Branch Creation [1]
+6. Git Push [1]
 
 #### Things we don't understand
 1. How to make a website publicly visible [1]
@@ -159,6 +108,9 @@ Collaborating on GitHub:
 3. Optimal Job Applications [1]
 4. Github Issue Optimization [2]
 5. Working of Industry [1]
+6. Git Stash [1]
+7. Git Pop [1]
+8. AJAX [1]
 
 #### Things we want to know next**
 1. How to scale a website [1]
@@ -166,7 +118,5 @@ Collaborating on GitHub:
 3. Optimal Job Applications [1]
 4. Git Merge Problem Resolution [1]
 5. Optimal Git Issue and Project Use [2]
+6. Kerbernets [1]
 
->>>>>>> f1d836e5e5dd048031a02c1d6c5a12faceebf109
-=======
->>>>>>> 3e0188b4118fa281df5d607a686d7e1b8916cbc1
