@@ -18,7 +18,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  Cloud Computing[1]
 #### Things we understand
 1. Git push[1]
-2. GIt pull[2]
+2. HTML and CSS[1]
 3. GIT status[1]
 #### Things we want to know next**
 1.  Elastic Search Indexing [1]
