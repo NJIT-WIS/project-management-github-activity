@@ -15,7 +15,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we understand**
 1.  Create branch[1]
 2.  Git Status[2] 
-3.  Git Commit[1]
+3.  Git Commit[2]
 4.  Git add, commit, push, merges and resolving merge conflicts[1]
 5.  GitHub secrets to add usernames/passwords[1]
 6.  Building Docker images though pycharm terminal[1]
