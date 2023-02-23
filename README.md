@@ -101,5 +101,7 @@ Collaborating on GitHub:
 
 #### Things we don't understand
 1. Difference between Scrum and Kanban
+2. Terraform Automation
 
 #### Things we want to know next**
+1. Microsoft Azure
