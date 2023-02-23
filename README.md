@@ -22,7 +22,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3. How to resolve merge conflicts[1]
 4. What Errors Mean[1]
 #### Things we want to know next**
-1.  How to make automated tests[1]
+1.  How to make automated tests/auto grading scripts[2]
 2.  Tools used in CI/CD[1]
 3.  How webpack works and installation[1]
 4.  Package Management Requirements[1]
@@ -93,4 +93,5 @@ Collaborating on GitHub:
 12.  Check that your task is moved from in progress to done
 13.  update your local main branch with the changes from the merge by doing git pull origin main
 14. Repeat again, and again, and again
+
 
