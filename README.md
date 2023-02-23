@@ -14,8 +14,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Your list should look like this:
 #### Things we understand**
 1.  Containerise a docker image [1]
-2.   Collaborate with the team using Github [1]
-3.  
+2.   Collaborate with the team using GitHub [1]
+3.  Fork and create a new pull request 
 #### Things we don't understand
 1. Configure docker image [1]
 2. Test case for code validity [1]
