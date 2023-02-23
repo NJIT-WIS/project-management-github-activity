@@ -92,14 +92,21 @@ Collaborating on GitHub:
 13.  update your local main branch with the changes from the merge by doing git pull origin main
 14. Repeat again, and again, and again
 
-<<<<<<< HEAD
 ## Put your items here
 ### Things you understand so far
 1. Creating a SSH key and implementing it to github
 2. Creating issues with github
+3. 1.  Docker Installation[1]
 ### Things you don't understand about what we are doing / web development.
 1. Add items to the list
 ### Things you want to know next
 1. 
 =======
->>>>>>> 0745d4df3b9ee24094b7c68d16562e838aa1e192
+
+### My Lists
+#### Things we understand**
+
+#### Things we don't understand
+
+#### Things we want to know next**
+
