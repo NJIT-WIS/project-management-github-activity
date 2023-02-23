@@ -18,7 +18,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  Docker Installation [1]
 #### Things we don't understand
 1. "npm" [1]
-2. Working directory vs Local repo [1]
+2. Working Directory vs Local Repository [1]
 3. GIT status [1]
 #### Things we want to know next
 1.  Python Flask [1]
