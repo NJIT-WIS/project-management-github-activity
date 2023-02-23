@@ -114,4 +114,4 @@ Collaborating on GitHub:
 12.  Once you have resolved an issue you should go to your partners' fork and make a pull request that to merge your issue branch.  
 13.  Your partner will then need to create an issue to merge the pull request.  You first need to save an issue and after you save it will make the right side controls active and you can select the repository / pull request you want to link and fill out the other fields like assigning the task to the milestone, assigning a developer, assiginging it to the right project with the todo status.
 14. Once your partner creates the issue they need to merge the pull request and close it with the "closes #?" in the merge message.
-15. On your own fork, you will want to make a pull request to yourself to merge their updated master into yours.
+15. On your own fork, you will want to make a pull request to yourself to merge their updated master into yours.git
