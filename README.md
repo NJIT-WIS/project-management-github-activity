@@ -11,6 +11,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
+
 1.  Pull Request[1]
 2.  Git Push[1] 
 3.  Git Commit[1]
@@ -18,6 +19,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 5.  How to create a new branch[1]
 6.  How to switch branches[1]
 7.  How to push using gui in vscode[1]
+8.  Terminal [1]
 #### Things we don't understand[1]
 1. Git Rebase[1]
 2. GIt Track[1]
@@ -25,6 +27,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4. syncing vs merging[1]
 5. the proccess of resolving merge conflicts[1]
 6. watchtower[1]
+main
 #### Things we want to know next**
 1.  Django [1]
 2.  OpenStack[1]
