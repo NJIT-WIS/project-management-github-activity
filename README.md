@@ -15,7 +15,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we understand**
 1.  Python Print[1]
 2.  Linux Directory listing[2] 
-3.  Docker Installation[4]
+3.  Docker Installation/Understanding[5]
 4.  The aim of Node.js[1]
 5.  How to Check status of git tree[1]
 6.  how to create pull and request and collaborate with teammates[1]
