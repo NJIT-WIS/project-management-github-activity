@@ -20,7 +20,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 5.  Docker Images[1]
 #### Things we understand
 1. Git push[1]
-2. HTML and CSS[1]
+2. HTML and CSS[2]
 3. Python Fundamentals[1]
 4. GitHub Repositories[1]
 5. Docker Installations[1]
