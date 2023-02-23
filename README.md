@@ -32,10 +32,10 @@
 3. I don't know how to fix some merge issues.
 4. GIt Track[1]
 5. Git Cherry-pick[1]
+6. Git Rebase[1]
 ### Things you want to know next
 1. I want to know more about Docker and its functions.
 2. I want to know how what we're learning will be used in web development.
 3. I want to know if it's possible to use the terminals of other IDEs to do git commands.
 4. OpenStack[1]
-
 
