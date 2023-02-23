@@ -22,6 +22,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1. I don't understand how exactly how npm works
 2. I don't understand how to use kubernetes and docker together
 3. I don't understand to use sass
+
+6. Watchtower
 #### Things we want to know next**
 1. I want to know how to use node.js
 2. I want to learn how to learn more frameworks
