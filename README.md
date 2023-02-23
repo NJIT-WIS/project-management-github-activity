@@ -21,10 +21,12 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1. Git Stash
 2. Dockerfile
 3. GitHub Collaboration 
+4. Reconciling divergent branches
 #### Things we want to know next**
 1.  Python Flask
 2.  AWS - cloud development 
 3.  Unit Testing
+4. How to connect viewjs to elastic search
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
