@@ -31,6 +31,6 @@ Collaborating on GitHub:
 1. I know how to make an SSH key and add it to GitHub so I don't need to log in with a password.
 2. I learned about GitHub Issues.
 ### Things you don't understand about what we are doing / web development.
-1. Add items to the list
+1. Reconciling divergent branches
 ### Things you want to know next
 1. How to connect viewjs to elastic search
