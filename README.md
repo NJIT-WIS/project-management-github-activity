@@ -16,12 +16,13 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  Create branch[1]
 2.  Git Status[2] 
 3.  Git Commit[1]
+4.  Git add, commit, push, merges and resolving merge conflicts[1]
 #### Things we don't understand
 1. Purpose of Fork process[1]
 2. Workflow between repositories[2]
 3. Docker Vs GitHub[1]
-4. Issue 1a for my partner
-5. Issue 2a for my partner
+4. Pytest & how to use testing frameworks[1]
+5. Building & playing Docker images[1]
 #### Things we want to know next**
 1.  HTML and CSS [1]
 2.  JAVASCRIPTS[2]
