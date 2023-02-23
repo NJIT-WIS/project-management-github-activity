@@ -18,6 +18,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  How to host a website using localhost[1]
 4.  Docker containers[1]
 5.  Git stash[1]
+6.  SSH keys [1]
 
 #### Things we don't understand
 1. What is the purpose of Docker??[1]
