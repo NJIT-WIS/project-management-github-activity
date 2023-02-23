@@ -32,6 +32,6 @@ Collaborating on GitHub:
 2. I learned all about GITHUB Issues
 3. I learned how to create and name repositories in Github and in Docker.
 ### Things you don't understand about what we are doing / web development.
-1. Add items to the list
+1. What some git commands do. 
 ### Things you want to know next
 1. How to connect viewjs to elastic search
