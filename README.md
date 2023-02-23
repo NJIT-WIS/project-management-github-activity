@@ -17,9 +17,15 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  Creating building images[2] 
 3.  Docker setup[1]
 #### Things we don't understand
+
+1. Auto grading[1]
+2. GIt pull[2]
+3. GIT status[1]
+
 1. Creating interface[1]
 2. Debugging[2]
 3. project setup[3]
+
 #### Things we want to know next**
 1.  agile technology [1]
 2.  testing the code in pycharm[2]
