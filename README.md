@@ -17,9 +17,10 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. Agile[1]
 3.  flask[1]
 #### Things we don't understand
-1. Git Stash[1]
+1.code with multiple threads[1]
 2. PostgreSQL[1]
 3. complex applications of docker[1]
+
 #### Things we want to know next**
 1.  Elastic Search Indexing [1]
 2.  Node js[1]
@@ -93,3 +94,4 @@ Collaborating on GitHub:
 13.  update your local main branch with the changes from the merge by doing git pull origin main
 14. Repeat again, and again, and again
 
+ 
