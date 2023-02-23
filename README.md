@@ -98,7 +98,7 @@ Collaborating on GitHub:
 
 1. Pycharm Basics [3]
 2. Linux Commands [7]
-3. 
+3. Git Push [13]
 
 ### Things you don't understand about what we are doing / web development.
 
