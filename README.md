@@ -15,7 +15,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we understand**
 1.  I learned Git[1]
 2.  I know what docker is[1]
-3.  Docker Installation[1]
+3.  I know how live relaod is done[1]
 4. Azure cloud computing[1]
 5. Python programming[1]
 6. Flutter mobile app development[1]
