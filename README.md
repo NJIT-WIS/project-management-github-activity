@@ -92,13 +92,7 @@ Collaborating on GitHub:
 13.  update your local main branch with the changes from the merge by doing git pull origin main
 14. Repeat again, and again, and again
 
-<<<<<<< HEAD
-## Put your items here
-### Things you understand so far
-1. Creating a SSH key and implementing it to github
-2. Creating issues with github
-3. 1.  Docker Installation[1]
-=======
+
 
 ## Put your items here
 ### Things you understand so far
@@ -109,9 +103,8 @@ Collaborating on GitHub:
 4. Pycharm Basics [1]
 5. Linux Commands [1]
 6. Git Push [1]
+7. Git Fetch [1]
 
-
->>>>>>> 497da4d60f57e0716b44dacb410e2f2320992a30
 ### Things you don't understand about what we are doing / web development.
 
 1. If this is the most optimal way to do issues on github [1]
@@ -122,17 +115,13 @@ Collaborating on GitHub:
 6. AJAX [1]
 
 ### Things you want to know next
-<<<<<<< HEAD
-1. 
-=======
 
-### My Lists
-#### Things we understand**
+1. 
+
 
 #### Things we don't understand
 
 #### Things we want to know next**
-=======
 
 1. The most optimal way to use issues and projects [1]
 2. Git merge issue resolution [1]
@@ -140,6 +129,3 @@ Collaborating on GitHub:
 4. Faster way of creating issues [1]
 5. How to make a perfect website [1]
 6. Kubernetes [1]
-
->>>>>>> 497da4d60f57e0716b44dacb410e2f2320992a30
-
