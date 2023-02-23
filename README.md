@@ -18,6 +18,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3. An understanding of CI/CD
 4. Git Commands - add, commit, push 
 5. Version locking
+6. the requirements.txt file
 #### Things we don't understand
 1. Git Stash
 2. Dockerfile
