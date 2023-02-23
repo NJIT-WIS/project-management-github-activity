@@ -22,7 +22,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3. I would like to fully understand docker since I am not very clear about some terms such as containers etc.[3]
 #### Things we want to know next**
 1.  i want understand PHP(I don't have any kind of knowledge currently).[7]
-2.  Cloud deployment with Kubernetes[2]
+2.  Be able to master docker-github (to the point of making it fast and efficient).[8]
 3.  Teraform[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
