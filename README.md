@@ -21,7 +21,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. To be able to have more mastery of programs with reference to big data.[2]
 3. I would like to fully understand docker since I am not very clear about some terms such as containers etc.[3]
 #### Things we want to know next**
-1.  Elastic Search Indexing [1]
+1.  i want understand PHP(I don't have any kind of knowledge currently).[7]
 2.  Cloud deployment with Kubernetes[2]
 3.  Teraform[1]
 
