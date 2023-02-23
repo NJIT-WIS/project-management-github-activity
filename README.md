@@ -21,7 +21,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. Test case for code validity [1]
 3. Test cases for web pages [1]
 #### Things we want to know next**
-1.  
+1.  Create VMs and configure them in AWS [1]
 2.  
 3.  
 
