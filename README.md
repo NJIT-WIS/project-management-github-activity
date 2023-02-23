@@ -13,17 +13,22 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
+
 1.  The importance of a repository[1]
-2.  Linux Directory listing[2] 
-3.  Docker Installation[1]
+2.  Following almost a list of steps to compose a file and testing through errors[1] 
+3.  While we discussed it in class, still not 1000% sure what docker does[1]
 #### Things we don't understand
-1. Git Stash[1]
-2. GIt pull[2]
-3. GIT status[1]
+1. How github essentially makes coding into a microsoft teams and saves all commits to the individual [1]
+2. Following almost a list of steps to compose a file and testing through errors [1]
+3. The importance of a repository [1]
+
+
 #### Things we want to know next**
-1.  Elastic Search Indexing [1]
-2.  Cloud deployment with Kubernetes[2]
-3.  Teraform[1]
+
+1. How a cloud server is created and protected [1]
+2. What makes one coding language better than the other, and how can they compliment each other [1]
+3. How learning code can benefit in other jobs, not just front and back ending [1]
+
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
