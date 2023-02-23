@@ -38,4 +38,4 @@ Collaborating on GitHub:
 2. How a kernel functions
 3. Webpack.config from mywebclass
 ### Things you want to know next
-1. How to connect viewjs to elastic search
+1. Unit testing
