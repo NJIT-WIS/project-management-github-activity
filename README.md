@@ -104,7 +104,7 @@ Collaborating on GitHub:
 
 1. Git Pop [1]
 2. Git Stash [7]
-3. 
+3. AJAX [15]
 
 ### Things you want to know next
 
