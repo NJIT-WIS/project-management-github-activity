@@ -21,6 +21,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. To be able to have more mastery of programs with reference to big data.[1]
 3. I would like to fully understand docker since I am not very clear about some terms such as containers etc.[1]
 4. Docker Containers[1]
+5. Python Libraries[1]
 #### Things we want to know next**
 1.  i want understand PHP(I don't have any kind of knowledge currently).[1]
 2.  Be able to master docker-github (to the point of making it fast and efficient).[1]
