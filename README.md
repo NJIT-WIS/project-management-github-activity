@@ -16,14 +16,21 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  Docker hub repo creation[1]
 2.  Linux Directory listing[2] 
 3.  Docker Installation[1]
+4.  Git Workflow[1]
+5.  Project Management[1] 
+6.  Semantic Versioning[1]
 #### Things we don't understand
 1. Git pull[1]
 2. Git stash[2]
 3. When to use windows cmd prompt or ubuntu[1]
+4. GIT status[1]
+5. Docker[1]
+6. CI/CD[1]
+7. Node.JS[1]
 #### Things we want to know next**
-1.  Elastic Search Indexing [1]
-2.  Cloud deployment with Kubernetes[2]
-3.  Teraform[1]
+1.  Databases [1]
+2.  Data Structures[1]
+3.  Basic Algorithms[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
