@@ -15,15 +15,28 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we understand**
 1.  Git Workflow[1]
 2.  Project Management[1] 
-3.  Semantic Versioning[1]
-#### Things we don't understand
-1. Docker[1]
-2. CI/CD[1]
-3. Node.JS[1]
+3.  Semantic Versioning [1]
+4.  Docker Installation[1]
+5.  Docker hub repo creation[1]
+6.  Git fork[1] 
+7.  Git push[1]
+
+#### Things we don't understand**
+1. Docker[2]
+2. CI/CD [1]
+3. GIt pull[1]
+4. GIT status[1]
+5. Git stash[2]
+6. When to use windows cmd prompt or ubuntu[1]
+7. Node.JS [1]
+
 #### Things we want to know next**
-1.  Databases [1]
-2.  Data Structures[1]
-3.  Basic Algorithms [1]
+1.  Remove a stopped container [1]
+2.  View resource usage stats[2]
+3.  Incorporating image files into code[1]
+4.  Databases  [1]
+5.  Data Structures[1]
+6.  Basic Algorithms [1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
@@ -45,7 +58,7 @@ This person should then merge the pull requests and resolve the merge conflict t
 4. The person that receives the pull request from #3 needs to resolve merge conflics and merge, so that the new issues are added and duplicate counts are incrimented as necessary.
 
 5. Once you have merged someone else's combined list into your project make an issue and a pull request to the "complete_list" branch on the upstream repository i.e. the one you forked from. Use the issue "Complete List" and put a link to the pull request.  Submit a link to the **issue** to Canvas to finish the assignment.  In your pull request include your UCID,  course number, and section.  
-
+ 
 ### You are done when you have completed the following:
  
 1.  Added your issues individually and resolved them
