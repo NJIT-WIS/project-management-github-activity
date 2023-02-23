@@ -13,8 +13,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1. I know how to make an ssh key and add it to GitHub so I don't need to login with password
-2. I learned GitHub Issues
+1. I know how to make an ssh key and add it to GitHub so I don't need to login with password [2]
+2. I learned GitHub Issues [2]
 3. An understanding of CI/CD
 4. Git Commands - add, commit, push 
 #### Things we don't understand
