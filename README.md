@@ -19,7 +19,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things I don't understand**
 1. I don't know how to do anything[1]
 2. How to use the separate branch made by an issue[6]
-3. GIT status[1]
+3. How do I work on someone else's repositories[7]
 #### Things I want to know next**
 1.  Node.js [5]
 2.  Cloud deployment with Kubernetes[2]
