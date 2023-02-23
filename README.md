@@ -18,8 +18,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  SSH [1]
 #### Things we don't understand
 1. What are Github Issues [1]
-2. 
-3. 
+2. What is an SSH key [1]
+3. Why do we need Git [1]
 #### Things we want to know next**
 1.  Vue [1]
 2.  Angular [1]
