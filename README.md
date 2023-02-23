@@ -21,6 +21,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 5.  Make new repos [1]
 6. Compose Docker Images [1]
 7.  How to host a website using localhost[1]
+8.  How to use GitHub Classroom[1]
 
 #### Things we don't understand
 1. How to avoid merge conflicts[1]
