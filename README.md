@@ -24,6 +24,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3. Actions Tab[1]
 4. What does "npm" stand for?[1]
 5. Git status[1]
+6. Working Directory vs Local Repo[1]
 #### Things we want to know next**
 1.  AWS[1]
 2.  Agile[1]
