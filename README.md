@@ -13,9 +13,11 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
+
 1.  I have learned to clone a code
-2.  Linux Directory listing[2] 
-3.  Docker Installation[1]
+2.  Linux Directory listing 
+3.  Docker Installation
+
 #### Things we don't understand
 1. Git Stash[1]
 2. GIt pull[2]
