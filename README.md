@@ -15,7 +15,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we understand**
 1.  Vue[1]
 2.  Angular[2] 
-3.  
+3.  React [1]
 #### Things we don't understand
 1. Git[1]
 2. Github[2]
