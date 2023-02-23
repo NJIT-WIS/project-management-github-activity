@@ -101,7 +101,7 @@ Collaborating on GitHub:
 5. Branch Creation [1]
 
 #### Things we don't understand
-
+1. Working of Industry [1]
 #### Things we want to know next**
 1. Optimal Job Applications [1]
 2. Git Merge Problem Resolution [1]
