@@ -17,6 +17,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  How to fix merge conflicts[1] 
 3.  How to make a docker repository[1]
 4.  SSL Error[1]
+5.  Adding SSH key to GitHub[1]
 #### Things we don't understand
 1. Tasks on GitHub[1]
 2. Pull Requests[1]
