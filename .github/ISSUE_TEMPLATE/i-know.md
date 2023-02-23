@@ -1,8 +1,16 @@
 ---
-name: Things I learned
+name: I Know
 about: Add one item for each thing you learned keep to max of 255 characters
 title: "[Things I Learned]"
+<<<<<<< HEAD:.github/ISSUE_TEMPLATE/things-i-learned.md
+<<<<<<< HEAD
+labels: I know
+=======
 labels: ''
+>>>>>>> b33c78eb4b383a938517f07dce8baa1420f1125b
+=======
+labels: I Know
+>>>>>>> f31a57c6c86a387ccf01d8b540d5e3e56f606715:.github/ISSUE_TEMPLATE/i-know.md
 assignees: ''
 
 ---
