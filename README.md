@@ -18,14 +18,23 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  Docker Installation[1]
 4.  Python libraries
 5.  Set up an oracle server
+6. I know how to make an ssh key and add it to GitHub.
+7. I learned all about GITHUB Issues
+8. I learned how to create and name repositories in Github and in Docker.
 #### Things we don't understand
 1. sql and database
 2. traefik
 3. Javascript
+4. What some git commands do. 
+5. I don't understand what exactly a DevOps Engineer does.
+6. I don't know how to fix some merge issues.
 #### Things we want to know next**
 1.  web maintenance & security
 2.  Kubernetes
 3.  Write Dockerfile
+4. I want to know more about Docker and its functions.
+5. I want to know how what we're learning will be used in web development.
+6. I want to know if it's possible to use the terminals of other IDEs to do git commands.
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
@@ -65,6 +74,7 @@ To submit this assignment you need to submit the result of step #5 to canvas.  W
 Collaborating on GitHub:
 
 1. Fork the repository: Each person should fork the repository to their own GitHub account. To do this, click the "Fork" button in the top-right corner of the repository page.
+2-git-pull-request
 2. Enable issues: If you don't see the "Issues" tab in the main menu, you should enable it in the repository settings. 
 3. Go to the "Issues" tab, and click "Milestones" to add a 0.1.0 milestone and describe it as a consolidated list of issues from your team.  
 4. Go to the issues tab you should also create labels for "I Know", "Want to Know", "Don't Understand", and "Master List".  
