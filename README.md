@@ -30,7 +30,7 @@ Collaborating on GitHub:
 ### Things you understand so far
 1. SSH keys and Github [1]
 2. Github Issues [1]
-3. Cloning and Merging through Github [1]
+3. Cloning and Merging through Github [2]
 ### Things you don't understand about what we are doing / web development.
 1. Merge Conflicts [1]
 2. Resolving Conflicts [1]
@@ -40,4 +40,4 @@ Collaborating on GitHub:
 2. How to use Kubernetes [1]
 3. How to use React [2]
 4. CSS-Flexbox/Gridview [1]
-5. Redux/Flask
+5. Redux/Flask [1]
