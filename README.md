@@ -18,7 +18,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  
 #### Things we don't understand
 1. Configure docker image [1]
-2. 
+2. Test case for code validity [1]
 3. Test cases for web pages [1]
 #### Things we want to know next**
 1.  
