@@ -15,7 +15,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we understand**
 1.  GitHub and PyCharm work[8]
 2.  Building image on Docker[7]
-3.  Docker Installation[1]
+3.  GitHub commands[6]
 #### Things we don't understand
 1. Auto grading[1]
 2. GIt pull[2]
