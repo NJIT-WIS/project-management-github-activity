@@ -28,15 +28,21 @@ Collaborating on GitHub:
 
 ## Put your items here
 ### Things you understand so far
-1. Merging Pull Requests [1]
-2. Debugging Github Actions [1]
-3. Docker Authentication Using Token [1]
-
+1. SSH keys and Github [1]
+2. Github Issues [1]
+3. Cloning and Merging through Github [2]
+4. Debugging Github Actions [1]
+5. Docker Authentication Using Token [1]
 ### Things you don't understand about what we are doing / web development.
-1. Rebasing [1]
-2. Develop App from Start --> Finish [1]
-3. Practical Use of Docker [1]
+1. Merge Conflicts [1]
+2. Resolving Conflicts [1]
+3. Github Milestones [1]
+4. Rebasing [1]
+5. Develop App from Start --> Finish [1]
+6. Practical Use of Docker [1]
 ### Things you want to know next
-1. React [1]
-2. Css-Flexbox/GridView [1]
-3. Redux/Flask [1]
+1. How to Build Landing pages using HTML, CSS, and Javascript [1]
+2. How to use Kubernetes [1]
+3. How to use React [2]
+4. CSS-Flexbox/Gridview [1]
+5. Redux/Flask [1]
