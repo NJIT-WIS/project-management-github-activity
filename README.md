@@ -19,6 +19,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4.  Docker containers[1]
 5.  Git stash[1]
 6.  SSH keys [1]
+7.  Make a branch in Git [1]
 
 #### Things we don't understand
 1. What is the purpose of Docker??[1]
