@@ -28,8 +28,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1. What is the purpose of Docker??[1]
 2. Watchtower on docker? What is it? [2]
 3. What is the point of Linux Terminal over Windows?[1]
-4. How to avoid merge conflicts[1]
-5. Github Classroom[1]
+4. How to avoid merge conflicts [1]
+5. Github Classroom [1]
 6. Dockerhub integration[1]
 7. Importance of Docker Images [1]
 8. git fetch vs. git pull [1]
@@ -111,4 +111,6 @@ Collaborating on GitHub:
 12.  Check that your task is moved from in progress to done
 13.  update your local main branch with the changes from the merge by doing git pull origin main
 14. Repeat again, and again, and again
+
+
 
