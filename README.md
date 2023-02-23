@@ -95,6 +95,7 @@ Collaborating on GitHub:
 ### Consolidated List
 #### Things I don't know
 1. I don't know how docker works
+2. I don't understand how this class is structured
 #### Things I want to know
 1. I learned hot to use git project boards
 2. I want to know how to use Flask and the MVC pattern
