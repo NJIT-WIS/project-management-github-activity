@@ -11,7 +11,6 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-
 1.  Pull Request[1]
 2.  Git Push[1] 
 3.  Git Commit[1]
@@ -27,7 +26,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4. syncing vs merging[1]
 5. the proccess of resolving merge conflicts[1]
 6. watchtower[1]
-main
+7. Git Stash [1]
 #### Things we want to know next**
 1.  Django [1]
 2.  OpenStack[1]
@@ -36,6 +35,7 @@ main
 5.  Elastic Search[1]
 6.  Browser dev tools[1]
 7.  Authentication[1]
+
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
