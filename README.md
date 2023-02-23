@@ -22,6 +22,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3. Auto Grading Scripts[1]
 4. Difference between docker containers and docker images, and what it each do[1]
 5. Commands/instructions that are in the docker file[1]
+6. How to resolve merge conflicts[1]
 #### Things we want to know next**
 1. Packages[1]
 2. More Advanced Terminal/Command Prompt[1]
