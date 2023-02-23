@@ -20,6 +20,9 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 5.  Docker Installation[1]
 6.  Python libraries
 7.  Set up an oracle server
+8. I know how to make an ssh key and add it to GitHub.
+9. I learned all about GITHUB Issues
+10. I learned how to create and name repositories in Github and in Docker.
 #### Things we don't understand
 1. Git Rebase[1]
 2. GIt Track[1]
@@ -28,6 +31,9 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 5. sql and database
 6. traefik
 7. Javascript
+8. What some git commands do. 
+9. I don't understand what exactly a DevOps Engineer does.
+10. I don't know how to fix some merge issues.
 #### Things we want to know next**
 1.  Django [1]
 2.  Cloud deployment with Kubernetes[2]
@@ -35,6 +41,10 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4.  web maintenance & security
 5.  Kubernetes
 6.  Write Dockerfile
+7. I want to know more about Docker and its functions.
+8. I want to know how what we're learning will be used in web development.
+9. I want to know if it's possible to use the terminals of other IDEs to do git commands.
+
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
@@ -74,6 +84,7 @@ To submit this assignment you need to submit the result of step #5 to canvas.  W
 Collaborating on GitHub:
 
 1. Fork the repository: Each person should fork the repository to their own GitHub account. To do this, click the "Fork" button in the top-right corner of the repository page.
+ 14-django
 2. Enable issues: If you don't see the "Issues" tab in the main menu, you should enable it in the repository settings. 
 3. Go to the "Issues" tab, and click "Milestones" to add a 0.1.0 milestone and describe it as a consolidated list of issues from your team.  
 4. Go to the issues tab you should also create labels for "I Know", "Want to Know", "Don't Understand", and "Master List".  
@@ -102,4 +113,6 @@ Collaborating on GitHub:
 12.  Check that your task is moved from in progress to done
 13.  update your local main branch with the changes from the merge by doing git pull origin main
 14. Repeat again, and again, and again
+
+
 
