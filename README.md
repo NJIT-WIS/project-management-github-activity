@@ -22,6 +22,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 6. Compose Docker Images [1]
 7.  How to host a website using localhost[1]
 8.  How to use GitHub Classroom[1]
+9. Docker commands in terminal
 
 #### Things we don't understand
 1. How to avoid merge conflicts[1]
@@ -31,6 +32,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 5. git fetch vs. git pull [1]
 6. Troubleshooting problems in GitHub Actions [1]
 7. What is the point of Linux Terminal over Windows?[1]
+8. Watchtower? What is it [1]
 
 #### Things we want to know next**
 1.  Using kubernetes with docker[1]
@@ -41,6 +43,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 6.  How to use Git efficiently [1]
 7.  How to program with PHP[1]
 8.  How to program using JavaScript [1]
+9.  How to host a website without Github Pages[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
