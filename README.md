@@ -32,6 +32,7 @@ Collaborating on GitHub:
 2. I learned about GitHub Issues.
 3. Version locking
 4. the requirements.txt file
+5. Basic of Agile methodology
 ### Things you don't understand about what we are doing / web development.
 1. Reconciling divergent branches
 2. How a kernel functions
