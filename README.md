@@ -13,16 +13,19 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  Python Print[1]
-2.  Linux Directory listing[2] 
-3.  Docker Installation[1]
+1. Pull/Merge Requests on Github[1]
+2. Cloning Repositories[1]
+3. Basic Terminal/Command Prompt[1]
 #### Things we don't understand
-2. GIt pull[2]
-3. GIT status[1]
+1. What Errors Mean[1]
+2. Package Management/Requirements[1]
+3. Auto Grading Scripts[1]
+4. Difference between docker containers and docker images, and what it each do[1]
+5. Commands/instructions that are in the docker file[1]
 #### Things we want to know next**
-1.  Elastic Search Indexing [1]
-2.  Cloud deployment with Kubernetes[2]
-3.  Teraform[1]
+1. Packages[1]
+2. More Advanced Terminal/Command Prompt[1]
+3. Auto Grading Scripts[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
@@ -106,22 +109,3 @@ Collaborating on GitHub:
 13.  Your partner will then need to create an issue to merge the pull request.  You first need to save an issue and after you save it will make the right side controls active and you can select the repository / pull request you want to link and fill out the other fields like assigning the task to the milestone, assigning a developer, assiginging it to the right project with the todo status.
 14. Once your partner creates the issue they need to merge the pull request and close it with the "closes #?" in the merge message.
 15. On your own fork, you will want to make a pull request to yourself to merge their updated master into yours.
-
-
-# Complete the Assignment By adding your issues to these 3 lists.
-
-## Put your items here
-### Things you understand so far
-1. Pull/Merge Requests on Github
-2. Cloning Repositories
-3. Basic Terminal/Command Prompt
-### Things you don't understand about what we are doing / web development.
-1. What Errors Mean
-2. Package Management/Requirements
-3. Auto Grading Scripts
-1. Difference between docker containers and docker images, and what it each do[1]
-### Things you want to know next
-1. Packages
-2. More Advanced Terminal/Command Prompt
-3. Auto Grading Scripts
-
