@@ -1,8 +1,8 @@
 ---
 name: Things I learned
 about: Add one item for each thing you learned keep to max of 255 characters
-title: 'Thing I know: <file in title> [Thing I know]'
-labels: I KNOW
+title: "[Things I Learned]"
+labels: I know
 assignees: ''
 
 ---
