@@ -21,13 +21,14 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 6.  Git fork[1] 
 7.  Git push[1]
 
-#### Things we don't understand
+#### Things we don't understand**
 1. Docker[2]
 2. CI/CD [1]
 3. GIt pull[1]
-3. GIT status[1]
-4. Git stash[2]
-5. When to use windows cmd prompt or ubuntu[1]
+4. GIT status[1]
+5. Git stash[2]
+6. When to use windows cmd prompt or ubuntu[1]
+7. Node.JS [1]
 
 #### Things we want to know next**
 1.  Remove a stopped container [1]
