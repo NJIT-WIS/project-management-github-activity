@@ -18,7 +18,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  How to switch branches in command line git [1]
 #### Things we don't understand
 1. When to docker build vs. docker compose up[1]
-2. CHANGE[1]
+2. docker -d command in the cheat sheet not working[1]
 3. CHANGE[1]
 #### Things we want to know next**
 1.  More command line shortcuts to make using the command line smoother[1]
