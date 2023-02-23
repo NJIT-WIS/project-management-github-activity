@@ -13,13 +13,18 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1. I know how to make an ssh key and add it to GitHub so I don't need to login with password [2]
-2. I learned GitHub Issues [2]
+1. I know how to make an ssh key and add it to GitHub so I don't need to login with password [3]
+2. I learned GitHub Issues [3]
 3. An understanding of CI/CD [1]
 4. Git Commands - add, commit, push [1]
 5. Version locking [1]
 6. the requirements.txt file [1]
 7. Basic of Agile methodology [1]
+8. Merging Pull Requests [1]
+9. Debugging Github Actions [1]
+10. Docker Authentication Using Token [1]
+11. Cloning and Merging through Github [1]
+
 #### Things we don't understand
 1. Git Stash [1]
 2. Dockerfile [1]
@@ -27,12 +32,24 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4. Reconciling divergent branches [1]
 5. How a kernel functions [1]
 6. Webpack.config from mywebclass [1]
+7. Rebasing [1]
+8. Develop App from Start --> Finish [1]
+9. Practical Use of Docker [1]
+10. Github Milestones [1]
+11. Resolving Conflicts [1]
+12. Merge Conflicts [1]
+
 #### Things we want to know next**
 1. Python Flask [1]
 2. AWS - cloud development [1]
 3. Unit Testing [2]
 4. More of what npm is capable of [1]
 5. More standards a DevOps engineer should follow (e.g. what to do after entering pip install -r requirements.txt) [1]
+6. React [2]
+7. Css-Flexbox/GridView [1]
+8. Redux/Flask [1]
+9. How to use Kubernetes [1]
+10. How to Build Landing pages using HTML, CSS, and Javascript [1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
