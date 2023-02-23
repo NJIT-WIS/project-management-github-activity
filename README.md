@@ -96,8 +96,15 @@ Collaborating on GitHub:
 #### Things we understand**
 1.  Docker Installation[1]
 2. Git Fetch [1]
-3. SSH Key authentication [1]
+3. SSH Key authentication [2]
+4. Git Issues [1]
+5. Branch Creation [1]
 
 #### Things we don't understand
 1. Github Issue Optimization
+2. Working of Industry [1]
 #### Things we want to know next**
+1. Optimal Job Applications [1]
+2. Git Merge Problem Resolution [1]
+3. Optimal Git Issue and Project Use [1]
+
