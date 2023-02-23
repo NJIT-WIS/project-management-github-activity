@@ -1,12 +1,10 @@
----
-name: Things I learned
-about: Add one item for each thing you learned keep to max of 255 characters
-title: "[Things I Learned]"
- 6-git-track
-labels: Things I know
-assignees: ''
- main
+
+
+
+labels: Things I learned
+assignees: ss889
 
 ---
 
-Please add one item that you learned:
+I understand <fill in what you don't here>
+
