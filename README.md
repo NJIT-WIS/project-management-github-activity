@@ -15,7 +15,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we understand**
 1.  Python Print[1]
 2.  Linux Directory listing[2] 
-3.  Docker Installation[1]
+3.  How github essentially makes coding into a microsoft teams and saves all commits to the individual[1]
 #### Things we don't understand
 1. While we discussed it in class, still not 1000% sure what docker does[1]
 2. GIt pull[2]
