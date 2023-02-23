@@ -78,6 +78,7 @@ Collaborating on GitHub:
 ### Things you understand so far
 1. Pull/Merge Requests on Github
 2. Cloning Repositories
+3. Basic Terminal/Command Prompt
 ### Things you don't understand about what we are doing / web development.
 1. What Errors Mean
 2. Package Management/Requirements
