@@ -23,7 +23,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3. complex applications of docker[1]
 #### Things we want to know next**
 1.  I-want to know React JS [1]
-2.  Node js[1]
+2.  Node js[2]
 3.  Vue JS[1]
 
 
