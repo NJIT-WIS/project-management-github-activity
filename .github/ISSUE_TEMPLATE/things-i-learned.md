@@ -18,4 +18,12 @@ labels: "things i know"
 assignees: "myself"
 ---
 
+---
+name: Things I learned
+about: I learned about creating Flask API CRUD
+title: "[Flask API]"
+labels: "things i know"
+assignees: "myself"
+---
+
 Please add one item that you learned. File new issues for each item that you learned. Please keep the number of characters to no more than 255.
