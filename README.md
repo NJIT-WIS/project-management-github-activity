@@ -16,14 +16,21 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  SSL Error [1]
 2.  Adding SSH key to GitHub [1] 
 3.  Docker Installation [1]
+4.  Git Merge[1]
+5.  Fix merge conflixs[1]
 #### Things we don't understand
 1. "npm" [1]
 2. Working Directory vs Local Repository [1]
 3. GIT status [1]
+4. Actions Tab[1]
+5. Pull Request[1]
+6. Tasks on GitHub[1]
 #### Things we want to know next
 1.  Python Flask [1]
 2.  Creating pytest [1]
-3.  Agile methodology [1]
+3.  Agile methodology [2]
+4.  AWS[1]
+5.  DevOps[1]
 
 ## Prerequisite - YOU MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
