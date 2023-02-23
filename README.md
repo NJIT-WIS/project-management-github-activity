@@ -117,11 +117,11 @@ Collaborating on GitHub:
 
 
 #### Things we want to know next**
-
-1. The most optimal way to use issues and projects [1]
+1. The most optimal way to use issues and projects [2]
 2. Git merge issue resolution [1]
 3. Optimal job applications [1]
 4. Faster way of creating issues [1]
 5. How to make a perfect website [1]
 6. Kubernetes [1]
+
 
