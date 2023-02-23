@@ -33,6 +33,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 6. Dockerhub integration[1]
 7. Importance of Docker Images [1]
 8. git fetch vs. git pull [1]
+9. Troubleshooting problems in GitHub Actions [1]
 
 #### Things we want to know next**
 1.  How to program using JavaScript [1]
