@@ -14,10 +14,11 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Your list should look like this:
 #### Things we understand**
 1.  Python Print[1]
-2.  Linux Directory listing[2] 
-3.  Docker Installation[2]
+2.  Linux Directory listing[2]
+3.  Docker Installation[3]
 4.  Git status[1]
 5.  Git commit[1]
+6.  The aim of Node.js[1]
 #### Things we don't understand
 1. Git Stash[2]
 2. GIt pull[2]
@@ -30,6 +31,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  Terraform[2]
 4.  How to do the permission verification for different role of a system[1]
 5.  The logic of login and register page[1]
+6.  How to use bootstrap for development[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
