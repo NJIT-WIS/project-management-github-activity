@@ -19,12 +19,14 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4.  Git status[2]
 5.  Git commit[1]
 6.  The aim of Node.js[1]
+7.  How to create pull and request and collaborate with teammates[1]
 #### Things we don't understand
 1. Git Stash[2]
 2. GIt pull[2]
 3. GIT status[1]
 4. Node.js[1]
 5. Webpack[1]
+6. How the localhost works[1]
 #### Things we want to know next**
 1.  Elastic Search Indexing [2]
 2.  Cloud deployment with Kubernetes[3]
