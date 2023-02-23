@@ -1,22 +1,3 @@
----
-name: Things I learned
-about: Docker creating images and containers and Docker overall
-title: "[Docker images and containers]"
-labels: "things i know"
-assignees: "myself"
-
-name: Things I learned
-about: I learned about creating Flask API CRUD
-title: "[Flask API]"
-labels: "things i know"
-assignees: "myself"
-
-name: Things I learned
-about: I learned about VIM command line and other shortcuts
-title: "[VIM command line]"
-labels: "things i know"
-assignees: "myself"
----
 
 name: Things I learned
 about: Docker creating images and containers and Docker overall
