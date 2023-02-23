@@ -22,7 +22,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3. Test cases for web pages [1]
 #### Things we want to know next**
 1.  Create VMs and configure them in AWS [1]
-2.  
+2.  Create webpages using ReactJS
 3.  
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
