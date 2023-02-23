@@ -22,8 +22,9 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 7.  Git push[1]
 
 #### Things we don't understand
-1. Docker [1]
-2. GIt pull[2]
+1. Docker[2]
+2. CI/CD [1]
+3. GIt pull[1]
 3. GIT status[1]
 4. Git stash[2]
 5. When to use windows cmd prompt or ubuntu[1]
