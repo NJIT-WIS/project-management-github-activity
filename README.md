@@ -18,6 +18,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  Docker Installation[1]
 4.  The aim of Node.js
 5.  How to Check status of git tree[1]
+6.  how to create pull and request and collaborate with teammates[1]
 #### Things we don't understand
 1. Git Stash[1]
 2. GIt pull[2]
