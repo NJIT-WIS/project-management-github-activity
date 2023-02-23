@@ -76,9 +76,14 @@ Collaborating on GitHub:
 
 ## Put your items here
 ### Things you understand so far
-1. I know how to make an ssh key and add it to GitHub So I don't need to login with password
-2. I learend GITHUB Issues
+1. Pull/Merge Requests on Github
+2. Cloning Repositories
+3. Basic Terminal/Command Prompt
 ### Things you don't understand about what we are doing / web development.
-1. I am completely lost and don't anything
+1. What Errors Mean
+2. Package Management/Requirements
+3. Auto Grading Scripts
 ### Things you want to know next
-1. More Advanced Terminal/Command Prompt
+1. Packages
+2. More Advanced Terminal/Command Prompt
+
