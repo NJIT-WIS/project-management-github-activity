@@ -34,7 +34,9 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  Remove a stopped container [1]
 2.  View resource usage stats[2]
 3.  Incorporating image files into code[1]
-
+4.  Databases  [1]
+5.  Cloud deployment with Kubernetes[2]
+6.  Teraform[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
