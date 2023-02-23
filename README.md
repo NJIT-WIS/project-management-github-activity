@@ -14,7 +14,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Your list should look like this:
 #### Things we understand**
 1.  github and git [4]
-2.  Linux Directory listing[2] 
+2.  some coding programs (java,js,python etc.) [5]
 3.  Docker Installation[1]
 #### Things we don't understand
 1. Main operation of the AFS [1]
