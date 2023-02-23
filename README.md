@@ -13,14 +13,13 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  Python Print[1]
+1.   PHP [1] 
 2. Agile[1]
 3.  flask[1]
 #### Things we don't understand
 1.code with multiple threads[1]
 2. PostgreSQL[1]
 3. complex applications of docker[1]
-
 #### Things we want to know next**
 1.  I-want to know React JS [1]
 2.  Node js[1]
