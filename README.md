@@ -18,6 +18,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  Fork and create a new pull request 
 4.  Docker Commands[1]
 5.  Python and Java[1]
+6.  SQL and PHP[1]
 #### Things we don't understand
 1. Configure docker image [1]
 2. Test case for code validity [1]
