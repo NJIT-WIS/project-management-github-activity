@@ -19,7 +19,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we don't understand
 1. Auto grading[1]
 2. gitHub commit and push[5]
-3. GIT status[1]
+3. Terminal Errors[3]
 #### Things we want to know next**
 1.  JavaScript [11]
 2.  Resolving Errors[10]
