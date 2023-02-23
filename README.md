@@ -43,9 +43,12 @@ To submit this assignment you need to submit the result of step #4 to canvas.  W
 
 ### Each list should look like this:
 
-### Things I know
-1. Creating an SSH public key[2]. <-count of duplicated issues should be in brackets
-2. Setting up a Traefik 
+### Things I don't understand
+1. I don't know anything[1]
+
+### Things I learned
+
+### Things I want to know
 
 ## Prerequisite
 Add your ssh public key to github
