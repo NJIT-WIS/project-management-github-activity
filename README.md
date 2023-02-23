@@ -21,7 +21,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1. Purpose of Fork process[1]
 2. Workflow between repositories[2]
 3. Docker Vs GitHub[1]
-4. Issue 1a for my partner
+4. Pytest & how to use testing frameworks[1]
 #### Things we want to know next**
 1.  HTML and CSS [1]
 2.  JAVASCRIPTS[2]
