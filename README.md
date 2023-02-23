@@ -25,8 +25,13 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 #### Things we want to know next**
 
+1.  Elastic Search Indexing [1]
+2.  What makes one coding language better than the other, and how can they compliment each other[1]
+=======
+
 1.  How learning code can benefit in other jobs, not just front and back ending [1]
 2.  Cloud deployment with Kubernetes[2]
+
 3.  Teraform[1]
 =======
 1.  Elastic Search Indexing [1]
