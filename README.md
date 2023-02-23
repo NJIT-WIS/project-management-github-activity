@@ -11,19 +11,42 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Complete the Assignment By adding your issues to these 3 lists and count how many times each issue is mentioned.  The number in the bracket next to each issue is the count, you should set your count at 1 for your issue.  We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
 
-### Your list should look like this:
+### Official Lists:
 #### Things we understand**
-1.  I learned Git[1]
-2.  I know what docker is[1]
-3.  Docker Installation[1]
+1.  Python Print[1]
+2.  Linux Directory listing[2] 
+3.  Docker Installation/Understanding[5]
+4.  The aim of Node.js[1]
+5.  How to Check status of git tree[1]
+6.  how to create pull and request and collaborate with teammates[1]
+7.  Prepare DockerFile[1]
+8.  Build Docker image based on my PC's environment[1]
+9.  Combine different commits[1]
+10. Git commit[2]
+11. Git status[3]
 #### Things we don't understand
-1. Git Stash[1]
+1. Git Stash[3]
 2. GIt pull[2]
 3. GIT status[1]
+4. How the localhost works[1]
+5. The difference between Git and SVN[1]
+6. The details of Watchtower process[1]
+7. Prepare DockerFile[1]
+8. Build Docker image based on my PC's environment[1]
+9. Combine different commits[1]
+10. Webpack[2]
+11. Node.js[1]
 #### Things we want to know next**
-1.  Elastic Search Indexing [1]
-2.  Cloud deployment with Kubernetes[2]
-3.  Teraform[1]
+1.  Elastic Search Indexing [3]
+2.  Cloud deployment with Kubernetes[4]
+3.  Teraform[3]
+
+4.  How to do the permission verification for different role of a system[1]
+5.  The logic of login and register page[1]
+6.  How to use bootstrap for development[1]
+7.  Use vim[2]
+8.  Use tag in git[2]
+9.  Manage submodules in git repo[2]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
@@ -91,4 +114,3 @@ Collaborating on GitHub:
 12.  Check that your task is moved from in progress to done
 13.  update your local main branch with the changes from the merge by doing git pull origin main
 14. Repeat again, and again, and again
-
