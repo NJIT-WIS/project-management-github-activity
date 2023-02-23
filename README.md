@@ -22,6 +22,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. Dockerfile
 3. GitHub Collaboration 
 4. Reconciling divergent branches
+5. How a kernel functions
 #### Things we want to know next**
 1.  Python Flask
 2.  AWS - cloud development 
