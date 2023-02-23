@@ -36,4 +36,4 @@ Collaborating on GitHub:
 2. I don't understand what exactly a DevOps Engineer does.
 3. I don't know how to fix some merge issues.
 ### Things you want to know next
-1. How to connect viewjs to elastic search
+1. I want to know more about Docker and its functions.
