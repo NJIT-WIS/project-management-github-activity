@@ -18,6 +18,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  Docker Installation[1]
 4.  git status 
 5.  git fetch [1]
+6.  git checkout [1]
 #### Things we don't understand
 1. Git Stash[1]
 2. GIt pull[2]
