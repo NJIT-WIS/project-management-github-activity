@@ -16,6 +16,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  Docker hub repo creation[1]
 2.  Git fork[2] 
 3.  Git push[1]
+4. Git Workflow [1]
 #### Things we don't understand
 1. Git pull[1]
 2. Git stash[2]
@@ -24,6 +25,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  Remove a stopped container [1]
 2.  View resource usage stats[2]
 3.  Incorporating image files into code[1]
+
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
