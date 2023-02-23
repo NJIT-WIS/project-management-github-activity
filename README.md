@@ -33,5 +33,6 @@ Collaborating on GitHub:
 ### Things you don't understand about what we are doing / web development.
 1. Reconciling divergent branches
 2. How a kernel functions
+3. Webpack.config from mywebclass
 ### Things you want to know next
 1. How to connect viewjs to elastic search
