@@ -16,14 +16,21 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  I learned Git[1]
 2.  I know what docker is[1]
 3.  I know how live relaod is done[1]
+4. Azure cloud computing[1]
+5. Python programming[1]
+6. Flutter mobile app development[1]
 #### Things we don't understand
 1. Git Stash[1]
 2. GIt pull[2]
 3. GIT status[1]
+4. Responsive design in HTML[1]
+5. Flexbox in CSS[1]
+6. Grid system in bootstrap[1]
 #### Things we want to know next**
 1.  Elastic Search Indexing [1]
-2.  Cloud deployment with Kubernetes[2]
-3.  Teraform[1]
+2.  Cloud deployment with Kubernetes[3]
+3.  Terraform[2]
+4. Ansible[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
