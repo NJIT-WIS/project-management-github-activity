@@ -19,9 +19,10 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4. Azure cloud computing[1]
 5. Python programming[1]
 6. Flutter mobile app development[1]
+
 #### Things we don't understand
 1. Docker Compose[1]
-2. GIt pull[2]
+2. Writing test cases[1]
 3. GIT status[1]
 4. Responsive design in HTML[1]
 5. Flexbox in CSS[1]
