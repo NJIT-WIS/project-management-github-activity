@@ -22,6 +22,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1. Tasks on GitHub[1]
 2. Pull Requests[1]
 3. Actions Tab[1]
+4. What does "npm" stand for?[1]
 #### Things we want to know next**
 1.  AWS[1]
 2.  Agile[1]
