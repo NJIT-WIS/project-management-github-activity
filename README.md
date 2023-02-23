@@ -37,3 +37,4 @@ Collaborating on GitHub:
 3. I don't know how to fix some merge issues.
 ### Things you want to know next
 1. I want to know more about Docker and its functions.
+2. I want to know how what we're learning will be used in web development.
