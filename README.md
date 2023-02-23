@@ -27,7 +27,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 13.  Bootstrap[1]
 14.  Github[1]
 
-#### Things we don't understand
+#### Things we don't understand**
 1. Git Stash[1]
 2. GIt pull[2]
 3. GIT status[1]
