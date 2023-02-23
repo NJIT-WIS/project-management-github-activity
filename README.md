@@ -22,7 +22,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3. How do I work on someone else's repositories[7]
 #### Things I want to know next**
 1.  Node.js [5]
-2.  Cloud deployment with Kubernetes[2]
+2.  Cloud deployment with Kubernetes[16]
 3.  Teraform[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
