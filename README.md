@@ -13,7 +13,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  github and git [1]
+1.  Github and Git[2]
 2.  some coding programs (java,js,python etc.) [1]
 3.  Understand the full operation of the front end (html,css,js)[1]
 #### Things we don't understand
