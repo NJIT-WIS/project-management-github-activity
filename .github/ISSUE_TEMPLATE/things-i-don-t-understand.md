@@ -1,10 +1,10 @@
 ---
-name: Things I Don't Understand
-about: This is for adding issues that you don't understand
+name: Things I don't understand
+about: Describe this issue template's purpose here.
 title: ''
-labels: Things I Don't Understand
-assignees: ''
+labels: Things I don't understand
+assignees: aaa373373
 
 ---
 
-I don't understand <fill in what you don't here>
+
