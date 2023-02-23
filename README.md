@@ -5,7 +5,7 @@
 #### Things we don't understand
 1. github ssh auth
 2. git pull
-3. 
+3. kibana
 #### Things we want to know next**
 1.  playwright testing
 2.  vue.js framework
