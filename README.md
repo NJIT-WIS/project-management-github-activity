@@ -30,7 +30,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  HTML and CSS [1]
 2.  JAVASCRIPTS[2]
 3.  Python[1]
-4. issue 7a for my partner
+4.  What Kubernetes is [1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
