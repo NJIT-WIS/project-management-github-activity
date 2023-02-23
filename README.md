@@ -23,6 +23,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. HTML and CSS[1]
 3. Python Fundamentals[1]
 4. GitHub Repositories[1]
+5. Docker Installations[1]
 #### Things we want to know next**
 1.  React [1]
 2.  Javascript[1]
