@@ -103,4 +103,5 @@ Collaborating on GitHub:
 #### Things we want to know next**
 1. Optimal Job Applications [1]
 2. Git Merge Problem Resolution [1]
+3. Optimal Git Issue and Project Use [1]
 
