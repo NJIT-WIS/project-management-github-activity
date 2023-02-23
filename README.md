@@ -103,7 +103,7 @@ Collaborating on GitHub:
 ### Things you don't understand about what we are doing / web development.
 
 1. Git Pop [1]
-2. 
+2. Git Stash [7]
 3. 
 
 ### Things you want to know next
