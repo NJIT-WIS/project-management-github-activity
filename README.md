@@ -24,6 +24,9 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  Elastic Search Indexing [1]
 2.  Cloud deployment with Kubernetes[2]
 3.  Teraform[1]
+4.  How to do the permission verification for different role of a system[1]
+5.  The logic of login and register page[1]
+6.  How to use bootstrap for development[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
