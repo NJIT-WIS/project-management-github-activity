@@ -2,8 +2,8 @@
 name: Things we want to know
 about: Describe this issue template's purpose here.
 title: ''
-labels: ''
-assignees: ''
+labels: Things we want to know next
+assignees: aaa373373
 
 ---
 
