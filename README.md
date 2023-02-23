@@ -14,7 +14,6 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Your list should look like this:
 
 #### Things we understand**
-
 1.  Docker containers[1]
 2.  git stash[1] 
 3.  SSH keys[1]
@@ -32,6 +31,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 5. git fetch vs. git pull [1]
 6. Troubleshooting problems in GitHub Actions [1]
 7. What is the point of Linux Terminal over Windows?[1]
+8. Watchtower on docker? What is it? [1]
 
 #### Things we want to know next**
 1.  Using kubernetes with docker[1]
