@@ -20,7 +20,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 5.  Fix merge conflixs[1]
 #### Things we don't understand
 1. "npm" [1]
-2. Working directory vs Local repo [1]
+2. Working Directory vs Local Repository [1]
 3. GIT status [1]
 4. Actions Tab[1]
 5. Pull Request[1]
