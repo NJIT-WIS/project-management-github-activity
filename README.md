@@ -28,8 +28,8 @@ Collaborating on GitHub:
 
 ## Put your items here
 ### Things we understand
-1. I know how to make an SSH key and add it to GitHub so I don't need to log in with a password.
-2. I learned about GitHub Issues.
+1. I know how to make an SSH key and add it to GitHub so I don't need to log in with a password. [2]
+2. I learned about GitHub Issues. [2]
 3. Version locking
 4. the requirements.txt file
 5. Basic of Agile methodology
