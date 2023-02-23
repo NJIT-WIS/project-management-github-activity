@@ -31,6 +31,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  JAVASCRIPTS[2]
 3.  Python[1]
 4. issue 7a for my partner
+5. issue 8a for my partner
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
