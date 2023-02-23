@@ -2,7 +2,7 @@
 name: Things We Want to Know
 about: Describe this issue template's purpose here.
 title: 'Thing I want to know: <file in title> [Thing I want to Knows]'
-labels: Things I want to know
+labels: Things we want to know
 assignees: Sarahsparxx
 
 ---
