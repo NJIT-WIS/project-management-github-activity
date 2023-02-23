@@ -11,8 +11,6 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Complete the Assignment By adding your issues to these 3 lists and count how many times each issue is mentioned.  The number in the bracket next to each issue is the count, you should set your count at 1 for your issue.  We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
 
-### Your list should look like this:
-#### Things we understand**
 1. Git Commands
 2. Docker
 3. Cloud Computing Fundamentals
@@ -20,10 +18,12 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1. Better solve merge conflicts
 2. Watchtower
 3. Github workflow
+4. Webpack
 #### Things we want to know next**
 1. CI/CD
 2. More about frontend and backend together
 3. Other essential software/services for websites
+
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
@@ -90,4 +90,6 @@ Collaborating on GitHub:
 11.  merge the pull request and add "closes #<issue number> i.e. closes #4 to close the issue
 12.  Check that your task is moved from in progress to done
 13.  update your local main branch with the changes from the merge by doing git pull origin main
+
 14. Repeat again, and again, and again
+
