@@ -30,6 +30,7 @@ Collaborating on GitHub:
 ### Things you understand so far
 1. I know how to make an SSH key and add it to GitHub so I don't need to log in with a password.
 2. I learned about GitHub Issues.
+3. Version locking
 ### Things you don't understand about what we are doing / web development.
 1. Reconciling divergent branches
 2. How a kernel functions
