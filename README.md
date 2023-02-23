@@ -13,7 +13,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  CHANGE[1]
+1.  How to add command line arguments to a Dockerfile[1]
 2.  CHANGE[1] 
 3.  CHANGE[1]
 #### Things we don't understand
