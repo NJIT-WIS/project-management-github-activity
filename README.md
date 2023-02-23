@@ -28,11 +28,10 @@ Collaborating on GitHub:
 
 ## Put your items here
 ### Things you understand so far
-1. I learned how to make SSH key and add it to Github so i dont need to login with a password.
-2. I learned github issues.
-3. I learned how to clone and merge through github.
+1. SSH keys and Github [1]
+2. Github Issues [1]
+3. Cloning and Merging through Github [1]
 ### Things you don't understand about what we are doing / web development.
-1. I don't understand merge conflicts 100%.
-2. 
+1. Merge Conflicts [1]
 ### Things you want to know next
-1. How to connect viewjs to elastic search
+1. Add items to the list 
