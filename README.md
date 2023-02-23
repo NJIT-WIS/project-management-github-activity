@@ -14,12 +14,15 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Your list should look like this:
 #### Things we understand**
 1.  Python Print[1]
+2.  Following almost a list of steps to compose a file and testing through errors[2] 
+3.  Docker Installation[1]
+#### Things we don't understand
+1. Git Stash[1]
 2.  Linux Directory listing[2] 
 3.  How github essentially makes coding into a microsoft teams and saves all commits to the individual[1]
 #### Things we don't understand
 1. While we discussed it in class, still not 1000% sure what docker does[1]
-2. GIt pull[2]
-3. GIT status[1]
+
 #### Things we want to know next**
 1.  Elastic Search Indexing [1]
 2.  For java and python how each code reacts with each other and complications with contradiction[2]
