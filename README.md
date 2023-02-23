@@ -17,6 +17,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we don't understand
 1.   docker ps
 2.   docker files and merging
+3.   git stash
 #### Things we want to know next**
 
 
