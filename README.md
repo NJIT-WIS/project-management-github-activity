@@ -27,9 +27,17 @@ Collaborating on GitHub:
 # Complete the Assignment By adding your issues to these 3 lists.
 
 ## Put your items here
-### Things you understand so far
-1. I know how to make an ssh key and add it to GitHub so I don't need to login with password
-### Things you don't understand about what we are doing / web development.
-1. Add items to the list
-### Things you want to know next
-1. How to connect viewjs to elastic search
+### Things we understand
+1. I know how to make an SSH key and add it to GitHub so I don't need to log in with a password. [2]
+2. I learned about GitHub Issues. [2]
+3. Version locking
+4. the requirements.txt file
+5. Basic of Agile methodology
+### Things we don't understand
+1. Reconciling divergent branches
+2. How a kernel functions
+3. Webpack.config from mywebclass
+### Things we want to know next
+1. Unit testing
+2. More of what npm is capable of
+3. More standards a DevOps engineer should follow (e.g. what to do after entering pip install -r requirements.txt)
