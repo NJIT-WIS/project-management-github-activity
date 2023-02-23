@@ -31,6 +31,7 @@ Collaborating on GitHub:
 1. SSH keys and Github [1]
 2. Github Issues [1]
 3. Cloning and Merging through Github [2]
+4. Debugging Github Actions [1]
 ### Things you don't understand about what we are doing / web development.
 1. Merge Conflicts [1]
 2. Resolving Conflicts [1]
