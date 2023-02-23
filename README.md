@@ -13,31 +13,23 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1. I understand the general workflow for how we use docker to deploy our web applications
-2. I understand how to set up an oracle cloud instance
-3. I understand how flask templating
-4. Git Commands
-5. Docker
-6. Cloud Computing Fundamentals
+1.  Git Commands[2]
+2.  Using Docker[3] 
+3.  Using GitHub[1]
+4.  Oracle Cloud Instances [2]
+5.  Flask [1]
 #### Things we don't understand
-1. I don't understand how exactly how npm works
-2. I don't understand how to use kubernetes and docker together
-3. I don't understand to use sass
-4. Watchtower
-
-6. How to better solve merge conflicts
-
-6. Github workflow
+1. What is Webpack and why do we use it?[2]
+2. What are docker images, and why are they used?[1]
+3. GitHub Workflows[2]
+4. Docker vs Kubernetes [1]
 #### Things we want to know next**
-1. I want to know how to use node.js
-2. I want to learn how to learn more frameworks
-3. I want to learn how to better research user needs
-4. CI/CD
-
-5. More about backend and frontend together
-
-
-6. Other essential software/services for websites
+1.  Cloud Computing [1]
+2.  CI/CD[2]
+3.  Git Rebasing[1]
+4. Nodejs [1]
+5. More Frameworks [2]
+6. Frontend & Backend [1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
