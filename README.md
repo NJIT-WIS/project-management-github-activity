@@ -15,7 +15,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we understand**
 1.  Github and Git[2]
 2.  some coding programs (java,js,python etc.) [1]
-3.  Understand the full operation of the front end (html,css,js)[1]
+3.  HTML and CSS[2]
 #### Things we don't understand
 1. Main operation of the AFS [1]
 2. To be able to have more mastery of programs with reference to big data.[1]
