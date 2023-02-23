@@ -37,6 +37,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 5.  How to securely login [1]
 6.  How to connect to other cloud services[1]
 7.  General Understanding of Docker [1]
+8.  Thorough Understanding of Git/GitHub [1]
+9.  How to use Git efficiently [1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
