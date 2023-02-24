@@ -27,7 +27,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4. When to docker build vs. docker compose up [1]
 5. docker -d command in the cheat sheet not working [1]
 6. How to fix OAuth token issue when actions fails [1]
-7. How learning code can benefit in other jobs, not just front and back ending [1]
+7. While we discussed it in class, still not 1000% sure what docker does [1]
 8. What makes one coding language better than the other, and how can they compliment each other [1]
 9. How Cloud Servers are created and protected [1]
 #### Things we want to know next**
@@ -37,7 +37,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4.  More command line shortcuts to make using the command line smoother [1]
 5.  How to manage forks and pull requests through the command line [1]
 6.  More experience with alternatives to Docker [1]
-
+7. How learning code can benefit in other jobs, not just front and back ending [1]
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
 **open powershell or terminal and run "ssh-keygen -b 4096" and hit enter through the prompts and then open the file **your home directory/.ssh/id_rsa.pub** and copy that text into your github account settings under SSH/GPG keys -> add key.  in one of the prompts it will tell you where it is going to save the key.  If you already have a key reusue the one you have and cancel out of the process with control c **.  I do it on my mac with the command vi ~/.ssh/id_rsa.pub" and then i press shift colon : and q to quit
