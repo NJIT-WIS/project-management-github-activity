@@ -15,7 +15,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we understand**
 1.  I learned Git issues[9]
 2.  I learned Git status[26]
-3.  I learned pycharm[11]
+3.  Docker Installation[1]
 
 #### Things we don't understand
 1. I don't understand how to resolve merge conflicts[6]
@@ -23,9 +23,9 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3. I don't know how to deal with daemon errors[8]
 
 #### Things we want to know next**
-1.  I want to know about CI/CD tools[12]
-2.  I want to know Git remote repositories[13]
-3.  I want to know about cloud deployment with Kubernetes[14]
+1.  Elastic Search Indexing [1]
+2.  Cloud deployment with Kubernetes[2]
+3.  Teraform[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
