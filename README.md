@@ -10,31 +10,22 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  You will learn to manage a basic project using GitHub Project.
 
 ### Complete the Assignment By adding your issues to these 3 lists and count how many times each issue is mentioned.  The number in the bracket next to each issue is the count, you should set your count at 1 for your issue.  We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
-
-
-### Your list should look like this:
-#### Things we understand**
-1.  Git Commands[1]
-2.  Linux Directory listing[2] 
-3.  Docker Installation[1]
-#### Things we don't understand
-1. What is Webpack and why do we use it?[1]
-2. What are docker images, and why are they used?[1]
-3. GitHub Workflows[1]
-=======
-1. Git Commands[2]
+1. Git Commands
 2. Docker
 3. Cloud Computing Fundamentals
+4. Git Commands
 #### Things we don't understand
+
 1. Better solve merge conflicts
 2. Watchtower
-3. Github workflow
+3. Github workflow[2]
 4. Webpack
 
 #### Things we want to know next**
 1. CI/CD
 2. More about frontend and backend together
 3. Other essential software/services for websites
+4. Git Rebasing
 
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
