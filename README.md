@@ -14,7 +14,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Your list should look like this:
 #### Things we understand**
 1.  I learned Git issues[9]
-2.  I learned Git status[10] 
+2.  I learned Git status[26] 
 3.  I learned pycharm[11]
 
 #### Things we don't understand
