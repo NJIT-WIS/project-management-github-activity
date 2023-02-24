@@ -15,6 +15,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  I learned how to set up a Docker repository.[2]
 2.  I learned git commit.[1]
 3.  I learned git status.[1]
+4.  SSL Error.[1]
 
 #### Things we don't understand
 1. I don't understand webpack.[1]
