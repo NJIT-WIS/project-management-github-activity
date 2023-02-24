@@ -20,7 +20,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1. Ssh Configuration.
 2. Traefik Integration.
 3. Had issues with earlier webclass integration.
-4. Postgresql[1]
+4. Docker Full web application deployment[1]
+5. Postgresql[1]
 #### Things we want to know next**
 1.  Daemons
 2.  Kubernetes
