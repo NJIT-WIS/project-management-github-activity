@@ -31,6 +31,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 6. How to fix OAuth token issue when actions fails [1]
 7. What are github issues [1]
 8. What is an SSH key [1]
+9. Why do we need Git [1]
 
 #### Things we want to know next**
 1. How a cloud server is created and protected [1]
