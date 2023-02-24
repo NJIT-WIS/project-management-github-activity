@@ -1,9 +1,9 @@
 ---
 name: Things I learned
 about: Add one item for each thing you learned keep to max of 255 characters
-title: sm637
+title: "[Things I Learned]"
 labels: I know
-assignees: Sumanmhalsank02
+assignees: srinivasbojja369
 
 ---
 
