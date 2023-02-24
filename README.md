@@ -13,7 +13,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  Clone a repo[1]
+1.  Clone a repo[2]
 2.  Pushing to Github[2] 
 3.  How to make a commit[2]
 #### Things we don't understand
