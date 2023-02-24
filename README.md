@@ -36,6 +36,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  Teraform[1]
 4.  RESTful API[1]
 5.  Deploy to other cloud platforms[1]
+6.  Javascript Project Configuration[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 
