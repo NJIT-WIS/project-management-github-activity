@@ -16,6 +16,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1. vim commands [1]
 2. oracle server setup [1]
 3. generate SSH keys [1]
+4. sass [1]
 #### Things we don't understand
 1. docker containers and images [1]
 2. ci/cd [1]
@@ -91,4 +92,3 @@ Collaborating on GitHub:
 12.  Check that your task is moved from in progress to done
 13.  update your local main branch with the changes from the merge by doing git pull origin main
 14. Repeat again, and again, and again
-
