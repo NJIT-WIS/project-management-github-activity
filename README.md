@@ -36,6 +36,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  Agile Methodology [2]
 4.  AWS [1]
 5.  DevOps [1]
+6.  I want to know Kubernetes.[1]
 
 ## Prerequisite - YOU MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your SSH public key to GitHub - See video
