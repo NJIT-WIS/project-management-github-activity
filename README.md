@@ -18,6 +18,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  Basics of Putty.
 4.  PHP[1]
 5.  Flask[1]
+6.  agile[1]
 #### Things we don't understand
 1. Ssh Configuration.
 2. Traefik Integration.
