@@ -30,6 +30,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  Angular [1]
 3.  React [1]
 4.  More command line shortcuts to make using the command line smoother [1]
+5.  How to manage forks and pull requests through the command line [1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
