@@ -17,6 +17,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. Python Programming[1]
 #### Things we don't understand
 1. Cloud deployment with Kubernetes[1]
+2. Docker commands[1]
 #### Things we want to know next**
 1. Flask Framework[1]
 
