@@ -40,8 +40,9 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  Cloud deployment with Kubernetes[3]
 3.  Terraform[2]
 4.  Manage submodules in git repo[1]
-5.  Use tag in git[1]
-6.  Use vim[1]
+5.  Use tag in git[2]
+6.  Use vim[2]
+7. How to do the permission verification for different role of a system (like: admin, manager, normal users)[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
