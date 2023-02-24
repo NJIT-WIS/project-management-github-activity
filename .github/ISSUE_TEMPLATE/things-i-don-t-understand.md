@@ -8,4 +8,4 @@ assignees: ''
 ---
 
 I don't understand <fill in what you don't here>
-1. list item added
+1. add list item
