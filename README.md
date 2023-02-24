@@ -15,10 +15,17 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we understand**
 1.  I learned Git[1]
 2.  I know what docker is[1]
-3.  I know how live relaod is done[1]
+3.  I know how live reload is done[1]
 4. Azure cloud computing[1]
 5. Python programming[1]
 6. Flutter mobile app development[1]
+7.  Python Print[1]
+8.  Linux Directory listing[2] 
+9.  Docker Installation[3]
+10.  Using Git on command line[1]
+11.  Collaborating on GitHub[1]
+12.  Git push and pull[1]
+13.  Building Docker Image [1]
 
 #### Things we don't understand
 1. Docker Compose[1]
@@ -27,14 +34,29 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4. Responsive design in HTML[1]
 5. Flexbox in CSS[1]
 6. Grid system in bootstrap[1]
+7. Git Stash[2]
+8. GIt pull[2]
+9. GIT status[1]
+10. port issues on docker[1]
+11. pull requests on GitHub[1]
+12. Watchtower[1]
+13. Git merge[1]
+14. How to resolve a daemon issue[1]
 
 #### Things we want to know next**
 1.  How applications are hosted [1]
 2.  Cloud deployment with Kubernetes[3]
-3.  Terraform[2]
+3.  Terraform[3]
 4. Ansible[1]
 5.  REST API[1]
 6.  Django[1]
+7.  Elastic Search Indexing [1]
+8.  Working with Vi[1]
+9.  Webpack[1]
+10. How write Automated Tests [1]
+11. Devops[1]
+12. How to create a webpage[1]
+
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
