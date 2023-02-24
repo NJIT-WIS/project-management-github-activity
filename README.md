@@ -13,9 +13,9 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### List:
 #### Things we understand
-1.  [1]
-2.  [1] 
-3.  [1]
+1. Linux Directory Navigation[1]
+2. [1] 
+3. [1]
 #### Things we don't understand
 1. Git Stash[1]
 2. Resolving merge conflict on fork[1]
