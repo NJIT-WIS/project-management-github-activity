@@ -30,6 +30,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. I want to know Terraform.[1]
 3. I want to know more about Node.js.[1]
 4. I want to learn Python Flask.[1]
+5. I want to learn creating Pytest.[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
