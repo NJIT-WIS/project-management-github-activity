@@ -27,7 +27,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 6. GIT FORK[1]
 #### Things we want to know next**
 1.  Managing Git Stash [1]
-2.  Cloud deployment with Kubernetes[2]
+2.  Cloud Deployment [1]
 3.  Teraform[1]
 4.  OAUTH[1]
 5.  HTTPS[1]
