@@ -15,7 +15,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we understand**
 1.  Git Commands
 2.  Issues/Projects on Git
-3.  Docker Installation[1]
+3.  Importance of different git branches
 #### Things we don't understand
 1. Using Oracle Cloud Services 
 2. Agile Project Management
