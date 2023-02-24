@@ -12,12 +12,12 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Complete the Assignment By adding your issues to these 3 lists and count how many times each issue is mentioned.  The number in the bracket next to each issue is the count, you should set your count at 1 for your issue.  We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
 ### Your list should look like this:
 #### Things we understand**
-1.  Git Commands
-2.  Using Docker 
-3.  Using GitHub
-
-
-
+1. Git Commands
+2. Docker
+3. Cloud Computing Fundamentals
+4.  Git Commands
+5.  Using Docker 
+6.  Using GitHub
 #### Things we don't understand
 1. Better solve merge conflicts
 2. Watchtower
