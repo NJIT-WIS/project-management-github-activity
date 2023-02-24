@@ -94,9 +94,28 @@ Collaborating on GitHub:
 
 ### Joshua Kaisar's List:
 #### Things we understand**
+1. How to make a static website
+2. Git
+3. Agile
 
 #### Things we don't understand
 1. Difference between Scrum and Kanban
+2. Terraform Automation
 
 #### Things we want to know next**
 1. Microsoft Azure
+=======
+### Consolidated List
+#### Things I don't know
+1. I don't know how docker works
+2. I don't understand how this class is structured
+3. I don't understand Docker
+#### Things I want to know
+1. I learned hot to use git project boards
+2. I want to know how to use Flask and the MVC pattern
+3. I learned how to setup a cloud instance on Oracle Cloud
+#### Things I know
+1. I know how to make websites and web apps with HTML, CSS, and Javascript
+2. I know how to use Git and GitHub
+3. I know how to configure a web server
+
