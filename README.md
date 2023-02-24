@@ -22,7 +22,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3. Git Forking Workflow[1]
 4. Git Sudo[1]
 #### Things we want to know next**
-1.  Git LFS [1]
+1.  Git LFS[1]
 2.  Git reflog[1]
 3.  Git reset[1]
 
