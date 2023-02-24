@@ -17,7 +17,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  Docker Installation[1] 
 3.  npm[1]
 #### Things we don't understand
-1. Git Stash[1]
+1. Docker Container and its use[1]
 2. GIt pull[2]
 3. GIT status[1]
 #### Things we want to know next**
