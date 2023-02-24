@@ -20,6 +20,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1. How Docker Works[1]
 2. The concept of SSH Keys[2]
 3. Libraries and Frameworks[1]
+4. Packages [1]
+
 #### Things we want to know next**
 1.  VIM [1]
 2.  CD (continuous development)[2]
