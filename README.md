@@ -29,6 +29,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 6. How to fix OAuth token issue when actions fails [1]
 7. How learning code can benefit in other jobs, not just front and back ending [1]
 8. What makes one coding language better than the other, and how can they compliment each other [1]
+9. How Cloud Servers are created and protected [1]
 #### Things we want to know next**
 1.  Vue [1]
 2.  Angular [1]
