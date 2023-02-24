@@ -21,24 +21,25 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  Docker Installation[1]
 4.  Docker[1]
 5.  Virtualization[1]
+6.  Forking[1]
 
 #### Things we don't understand
 
 1. Git Stash[1]
-2. GIt pull[2]
-3. GIT status[1]
-4. Containerization[1]
+2. Git pull[2]
+3. Git status[1]
+4. Docker Compose Files[1]
+5. Traefik[1]
+
+#### Things we want to know next**
+
+1. Containerization[1]
+2. Cloud deployment with Kubernetes[3]
+3. Teraform[1]
+4. Unit Testing[1]
 5. Kibana[1]
-6. Docker Compose[1]
-7. Dockerfiles[1]
+6. Git Stash[1]
 
-#### Things we want to know next\*\*
-
-1.  Elastic Search Indexing [1]
-2.  Cloud deployment with Kubernetes[2]
-3.  Teraform[1]
-4.  VueJs[1]
-5.  Unit Testing[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 
