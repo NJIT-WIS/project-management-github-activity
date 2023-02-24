@@ -21,7 +21,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. Tried to learn Java but failed to learn a lot as it's complicated.
 3. I don't understand what bootstrap is and didn't really understand it when professor went over it. 
 #### Things we want to know next**
-1.  Elastic Search Indexing [1]
+1.  I have heard of Wireframes but want to learn more about it. 
 2.  Cloud deployment with Kubernetes[2]
 3.  Teraform[1]
 
