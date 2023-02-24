@@ -18,7 +18,7 @@ Collaborating on GitHub:
 1. Vim command for line searching
 2. Pull Requests
 ### Things you don't understand about what we are doing / web development.
-1. Add items to the list
+1. Traefik
 ### Things you want to know next
 1. VueJs
 2. MVC
