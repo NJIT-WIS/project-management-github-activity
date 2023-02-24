@@ -21,6 +21,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. Resolve Merge Conflicts
 3. Python Fluency 
 4. Docker Commands
+5. Terminal Commands
 #### Things we want to know next**
 1.  Proper Use of Terminal
 2.  Essential Repositories for Resume
