@@ -19,7 +19,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  Python Print[1]
 2.  Linux Directory listing[2]
 3.  Docker Installation[1]
-4.  Connect to cloud instance via ssh
+4.  Docker commands[1]
+5.  Connect to cloud instance via ssh[1]
 
 #### Things we don't understand
 
@@ -33,7 +34,6 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  Elastic Search Indexing [1]
 2.  Cloud deployment with Kubernetes[2]
 3.  Teraform[1]
-
 4.  RESTful API[1]
 5.  Deploy to other cloud platforms[1]
 
