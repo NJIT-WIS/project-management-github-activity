@@ -24,6 +24,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. docker -d command in the cheat sheet not working[1]
 3. How to fix OAuth token issue when actions fails[1]
 4. What are github issues [1]
+5. What is an SSH key [1]
 #### Things we want to know next**
 1.  More command line shortcuts to make using the command line smoother[1]
 2.  How to manage forks and pull requests through the command line[1]
