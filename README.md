@@ -19,6 +19,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4.  Git [1]
 5.  Github [1]
 6.  SSH [1]
+7. The importance of a repository [1]
 #### Things we don't understand
 1. When to docker build vs. docker compose up[1]
 2. docker -d command in the cheat sheet not working[1]
