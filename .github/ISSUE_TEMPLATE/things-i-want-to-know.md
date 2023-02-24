@@ -1,6 +1,7 @@
 ---
 name: Things I want to know
 about: Describe this issue template's purpose here.
+
 title: 'Thing I want to know: <file in title> [Thing I want to Knows]'
 labels: I want to know
 assignees: Indiedude78
@@ -8,4 +9,5 @@ assignees: Indiedude78
 
 ---
 
-Please describe what you want to know in less than 255 characters.
+Add an item you want to learn
+
