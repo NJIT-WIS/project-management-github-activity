@@ -1,7 +1,7 @@
 ---
-name: Completed Lists
+name: Master pull request
 about: This is for your master pull request to merge your master into this repo.
-title: Put your UCID as the title (replace this text)
+title: pp234
 labels: Master list
 assignees: ''
 
