@@ -13,25 +13,30 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  git merge[1]
-2. create branches[1]
+1.  git merge[3]
+2. create branches[3]
 3. resolve merge conflicts[1]
 4. python basics[1]
 5. professional docker use[1]
 6. github[1]
+7. pull requests and pull conflicts[1]
+8. merge conflicts[1]
 #### Things we don't understand
-1. docker commands[1]
-2. terminal commands[1]
-3. docker[2]
-4. python[1]
+1. docker commands[2]
+2. terminal commands[2]
+3. docker[4]
+4. python[2]
 5. jobs that use docker[1]
+6. resolve merge conflicts[1]
 #### Things we want to know next**
-1. python[1]
-2. general security[1]
-3. advantages to help get a better internship/job[1]
+1. python[3]
+2. general security[2]
+3. advantages to help get a better internship/job[2]
 4. advanced docker use[1]
 5. what jobs will check personal github[1]
 6. how to become a web developer[1]
+7. proper terminal use[1]
+8. repositories for resume[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
