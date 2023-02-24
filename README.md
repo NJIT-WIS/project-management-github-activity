@@ -29,7 +29,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 6. How to fix OAuth token issue when actions fails [1]
 7. For java and python how each code reacts with each other and complications with contradiction
 8. what exactly is docker
-9. 
+9. Still struggling with understand how to test code in pycharm, if i were to write from scratch
 
 
 #### Things we want to know next**
