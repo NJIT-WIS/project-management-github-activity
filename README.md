@@ -29,7 +29,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4. SSH integration[1]
 5. Traefik[1]
 6. webclass[1]
-7. Docker[1]
+7. Docker / Kubernetes[1]
 8.  
 9.  
 #### Things we want to know next**
