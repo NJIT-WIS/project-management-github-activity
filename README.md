@@ -30,9 +30,10 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  Cloud deployment with Kubernetes[2]
 3.  Teraform[1]
 4.  Containers [1]
-5.  Git LFS[1]
-6.  Git Reflog[1]
-7.  GIT reset[1]
+5.  Branching Strategies [1]
+6.  Git LFS[1]
+7.  Git Reflog[1]
+8.  GIT reset[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
