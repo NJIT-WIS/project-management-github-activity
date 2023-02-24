@@ -14,14 +14,16 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 
+
 #### Things we understand\*\*
 
 1.  Python Print[1]
 2.  Linux Directory listing[2]
 3.  Docker Installation[1]
-4.  Docker[1]
-5.  Virtualization[1]
+4.  Virtualization[1]
+5.  Docker[1]
 6.  Forking[1]
+7.  Cloning[1]
 
 #### Things we don't understand
 
