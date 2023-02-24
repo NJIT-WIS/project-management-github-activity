@@ -13,17 +13,31 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  Python Print[1]
-2.  Linux Directory listing[2] 
-3.  Docker Installation[1]
+1. Npm Live Reload of Website[1] 
+2. Git Commands [1] 
+3. How to use Github [3] 
+4. Basics of Docker [2] 
+5. Pycharm [2]
+
+
 #### Things we don't understand
-1. Git Stash[1]
-2. GIt pull[2]
-3. GIT status[1]
+1. The end use of Docker[3]
+2. How to resolve Merge Conflicts[1]
+3. Push request [1]
+4. Pycharm [1]
+5. Docker Container, Images and their Uses [2]
+6. How the process is automated [1]
+
 #### Things we want to know next**
-1.  Elastic Search Indexing [1]
-2.  Cloud deployment with Kubernetes[2]
-3.  Teraform[1]
+1. CI/CD Tools[2] 
+2. How to deploy a website to cloud[1] 
+3. Kubernetes with an example project[1] 
+4. DevOpss[1] 
+5. python[1] 
+6. How automation works in web systems.[2] 
+7. Devops tools and their Use [1] 
+8. I want to understand all steps of the Devops Automation [1]
+
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
