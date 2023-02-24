@@ -38,7 +38,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  Daemons
 4.  Kubernetes
 5.  Vue JS[4]
-6.  
+6.  Flask
 7.  
 
 
