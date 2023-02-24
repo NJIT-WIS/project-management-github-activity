@@ -19,6 +19,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 #### Things we don't understand
 1.  How to resolve merge conflicts [1]
+2.  Python automation for testing framework [1]
 
 #### Things we want to know next**
 
