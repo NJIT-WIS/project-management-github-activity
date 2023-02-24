@@ -20,6 +20,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1. Ssh Configuration.
 2. Traefik Integration.
 3. Had issues with earlier webclass integration.
+4. Multiple thread programming[1]
 #### Things we want to know next**
 1.  Daemons
 2.  Kubernetes
