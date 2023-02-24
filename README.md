@@ -78,7 +78,6 @@ Collaborating on GitHub:
 4. Goto the project tab and create a new project (you have to click the down arrow next to "link project" to change it to new project). When you create a project you need to select "board" and name it "Documentation Tasks".
 5. Once this is completed then clone this to your computer using the SSH link **NOT THE HTTP LINK** you need the ssh link to use the key you added to your account, so you don't get an error when pushing.
 
-
 ### Project management and Collaboration workflow Steps
 1. create an issue
 2. assign issue to project task
