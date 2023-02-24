@@ -19,6 +19,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  Docker Installation/Repo [3]
 4.  Git Merge [1]
 5.  Fix merge conflixs [1]
+6.  I learned git commit.[1]
 #### Things we don't understand
 1. "npm" [1]
 2. Working Directory vs Local Repository [1]
