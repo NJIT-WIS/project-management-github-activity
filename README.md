@@ -33,6 +33,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4.  Vue [1]
 5.  Angular [1]
 6.  React [1]
+7. How learning code can benefit in other jobs, not just front and back ending[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
