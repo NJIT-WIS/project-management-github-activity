@@ -30,6 +30,9 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  How applications are hosted [1]
 2.  REST API[1]
 3.  Django[1]
+4.  agile technology [1]
+5.  testing the code in pycharm[2]
+6.  Teraform[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
