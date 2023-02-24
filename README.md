@@ -18,9 +18,12 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  npm[1]
 #### Things we don't understand
 
+
 1. Docker Container and its use[1]
 2. GIT Rebase[2]
 3. Implementation of Single Sign-On process[1]
+4. GIT RESET[1]
+
 
 #### Things we want to know next**
 
@@ -28,6 +31,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  Cloud Deployment [1]
 3.  How Pytest is used for Automation[1]
 4.  OAUTH[1]
+5.  HTTPS[1]
 
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
