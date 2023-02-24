@@ -36,4 +36,4 @@ Collaborating on GitHub:
 2. I don't understand Github commands
 3. I don't know how Github just works 
 ### Things you want to know next
-1. How to connect viewjs to elastic search
+1. I want to know how to use Github
