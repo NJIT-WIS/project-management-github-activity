@@ -1,3 +1,4 @@
+
 # MyWebClass Collaboration and Brainstorming Assignment
 
 ## Overview
@@ -15,12 +16,15 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 #### Things we understand**
 
-1.  Learned how to clone a code. [1]
+1.  Learned how to clone a code. [2]
 2.  Created a SSH Public key [1]
 3.  Docker Installation [1]
 4.  How to make an SSH on Ubuntu[1]
-5. How to merge a branch to the master[1] 
+5. How to merge a branch to the master[2] 
 6. How to commit all git status stuff[1]
+7. Collaborating in a group project through github[1] 
+8. Reloading website with npm[1]
+9. Cloning repositories[1]
 
 #### Things we don't understand
 
@@ -30,6 +34,12 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4. I don't know how to do anything [1]
 5. How to use the separate branch made by an issue[1]
 6. How do I work on someone else's repositories[1]
+7. Difference between docker containers and docker images, and what it each do[1]
+8. Commands/instructions that are in the docker file[1]
+9. How to resolve merge conflicts[1]
+10. What Errors Mean[1]
+11. Package Management/Requirements[1]
+12. Auto Grading Scripts[1]
 
 #### Things we want to know next**
 1.  How to code in Pycharm [1]
@@ -38,6 +48,11 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4.  Node.js [1]
 5. Cloud deployment with Kubernetes[1]
 6. Teraform[1]
+8. How to make automated tests[2]
+9. Tools used in CI/CD[1]
+10. Commands/instructions that are in the docker file[1]
+11. Packages[1]
+12. More Advanced Terminal/Command Prompt[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
@@ -105,3 +120,4 @@ Collaborating on GitHub:
 12.  Check that your task is moved from in progress to done
 13.  update your local main branch with the changes from the merge by doing git pull origin main
 14. Repeat again, and again, and again
+
