@@ -16,6 +16,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  The importance of a repository[1]
 2.  Following almost a list of steps to compose a file and testing through errors[1] 
 3.  While we discussed it in class, still not 1000% sure what docker does[1]
+4. How to add command line arguments to a Dockerfile [1]
 
 #### Things we don't understand
 1. How github essentially makes coding into a microsoft teams and saves all commits to the individual [1]
