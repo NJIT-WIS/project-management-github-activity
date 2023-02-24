@@ -32,5 +32,6 @@ Collaborating on GitHub:
 ### Things you don't understand about what we are doing / web development.
 1. I don't know anything
 2. I don't understand Github commands
+3. I don't know how Github just works 
 ### Things you want to know next
 1. How to connect viewjs to elastic search
