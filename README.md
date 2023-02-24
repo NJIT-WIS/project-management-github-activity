@@ -18,6 +18,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3. Cloning repositories[1]
 
 #### Things we don't understand
+1.  How to resolve merge conflicts [1]
 
 #### Things we want to know next**
 
