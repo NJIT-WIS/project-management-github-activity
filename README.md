@@ -21,7 +21,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. CI/CD tools
 3. difference between docker and github
 #### Things we want to know next**
-1.  Elastic Search Indexing [1]
+1.  Elastic Search Indexing 
 2.  Aurora
 3.  Teraform
 
