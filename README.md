@@ -28,7 +28,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we want to know next**
 1.  AWS[1]
 2.  Agile[2]
-3.  DevOps[1]
+3.  DevOps [1]
 4.  PYTEST[1]
 5.  Python Flask[1]
 
