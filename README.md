@@ -25,6 +25,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3. GIT status[2]
 4. Watchtower
 5. Traefik
+6. Continuous integration/continuous deployment (CI/CD)
 #### Things we want to know next**
 1.  Elastic Search Indexing [3]
 2.  Cloud deployment with Kubernetes[4]
