@@ -21,6 +21,7 @@ Collaborating on GitHub:
 ### Things you don't understand about what we are doing / web development.
 1. Traefik
 2. SSH Keys
+3. Kibana
 ### Things you want to know next
 1. VueJs
 2. MVC
