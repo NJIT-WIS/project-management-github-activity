@@ -15,6 +15,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we Know**
 1.  Hibernate ORM [2]
 2.  Collaborating in a group project through github [1]
+3. Cloning repositories[1]
 
 #### Things we don't understand
 
