@@ -19,7 +19,9 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4. How to add command line arguments to a Dockerfile [1]
 5. node.js and npm are on different versions [1]
 6. How to switch branches in command line git [1]
-
+7. Git [1]
+8. Github [1]
+9. SSH [1]
 #### Things we don't understand
 1. How github essentially makes coding into a microsoft teams and saves all commits to the individual [1]
 2. Following almost a list of steps to compose a file and testing through errors [1]
@@ -27,6 +29,9 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4. When to docker build vs. docker compose up [1]
 5. docker -d command in the cheat sheet not working [1]
 6. How to fix OAuth token issue when actions fails [1]
+7. What are github issues [1]
+8. What is an SSH key [1]
+9. Why do we need Git [1]
 
 #### Things we want to know next**
 1. How a cloud server is created and protected [1]
@@ -35,7 +40,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4. More command line shortcuts to make using the command line smoother [1]
 5. How to manage forks and pull requests through the command line [1]
 6. More experience with alternatives to Docker [1]
-
+7. Vue [1]
+8. Angular [1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
