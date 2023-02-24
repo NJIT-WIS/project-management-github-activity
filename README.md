@@ -11,21 +11,32 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Complete the Assignment By adding your issues to these 3 lists and count how many times each issue is mentioned.  The number in the bracket next to each issue is the count, you should set your count at 1 for your issue.  We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
 
+UCID: dv339
+
 ### Your list should look like this:
 #### Things we understand**
 1.  Docker Commands[1]
 2.  Python and Java[1] 
 3.  SQL and PHP[1]
-4.  Git commands[1]
-5.  Pycharm[1]
+4.  Git commands[2]
+5.  Pycharm[3]
 6.  ssh keygen[1]
+7.  Npm Live Reload of Website[1]
+8.  How to use Github [3] 
+9.  Basics of Docker [2]
 #### Things we don't understand
-1. git reflog[1]
-2. git diff[1]
-3. git stash[1]
-4. Docker Images[1]
-5. Node.js[1]
-6. Webpack[1]
+1.  git reflog[1]
+2.  git diff[1]
+3.  git stash[1]
+4.  Docker Images[1]
+5.  Node.js[1]
+6.  Webpack[1]
+7.  The end use of Docker[3]
+8.  How to resolve Merge Conflicts[1]
+9.  Push request [1]
+10. Pycharm [1]
+11. Docker Container, Images and their Uses [2]
+12. How the process is automated [1]
 #### Things we want to know next**
 1.  Kubernetes [1]
 2.  Cloud Computing[1]
@@ -33,6 +44,14 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4.  Teraform[1]
 5.  Rest api[1]
 6.  Reactjs[1]
+7.  CI/CD Tools[2] 
+8.  How to deploy a website to cloud[1] 
+9.  Kubernetes with an example project[1] 
+10. DevOpss[1] 
+11. python[1] 
+12. How automation works in web systems.[2]
+13. Devops tools and their Use [1]
+14. I want to understand all steps of the Devops Automation [1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
