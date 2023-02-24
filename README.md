@@ -20,7 +20,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 5. putty[1]
 6. Docker Hub[1].
 7. UNIX Commands[1]
-8.  
+8. Bootstrap[1]
 9.  
 #### Things we don't understand
 1. code with multiple threads[1]
