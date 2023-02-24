@@ -32,6 +32,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1. Using Browser Cookies[1]
 2. Using Azure[1]
 3. Connecting .NET to React[1]
+4. How we effect and integrate into the Stack [1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
