@@ -13,17 +13,28 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  Python Print[1]
-2.  Linux Directory listing[2] 
-3.  Docker Installation[1]
+1.  Docker Hub.
+2.  Css.
+3.  Basics of Putty.
+4.  PHP[1]
+5.  Flask[1]
+6.  agile[1]
+
 #### Things we don't understand
-1. Git Stash[1]
-2. GIt pull[2]
-3. GIT status[1]
+1. Ssh Configuration.
+2. Traefik Integration.
+3. Had issues with earlier webclass integration.
+4. Docker Full web application deployment[1]
+5. Postgresql[1]
+6. Multiple thread programming
+
 #### Things we want to know next**
-1.  Elastic Search Indexing [1]
-2.  Cloud deployment with Kubernetes[2]
-3.  Teraform[1]
+1.  Daemons
+2.  Kubernetes
+3.  Node.js
+4.  React JS[1]
+5.  Vue JS[4]
+6.  Teraform[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
