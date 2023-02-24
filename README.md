@@ -22,6 +22,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3. git stash[1]
 4. Docker Images[1]
 5. Node.js[1]
+6. Webpack[1]
 #### Things we want to know next**
 1.  Kubernetes [1]
 2.  Cloud Computing[1]
