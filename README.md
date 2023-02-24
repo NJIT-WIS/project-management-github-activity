@@ -29,6 +29,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 6. Working Directory vs Local Repo[1]
 7. I dont understand webpack[1]
 8. I dont understand git fetch vs git pull[1]
+9. I dont understand git init[1]
 #### Things we want to know next**
 1.  AWS [1]
 2.  Agile [2]
