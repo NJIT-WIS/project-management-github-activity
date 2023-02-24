@@ -13,15 +13,20 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  git merge[1]
-2. create branches[1]
-3. resolve merge conflicts[1]
+1.  Creating Different Branches[2]
+2.  Pull Requests and Pull Conflicts
+3.  Git Merge[2]
+4.  Merge Conflicts
 #### Things we don't understand
-1. docker commands[1]
-2. terminal commands[1]
-3. docker desktop[1]
+1. Docker[2] 
+2. Resolve Merge Conflicts
+3. Python Fluency 
+4. Docker Commands
+5. Terminal Commands
 #### Things we want to know next**
-1.  python[1]
+1.  Proper Use of Terminal
+2.  Essential Repositories for Resume
+3.  Learn Python Fluently[2]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
