@@ -17,7 +17,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. I learned that Docker is used for sharing, building, and running modern applications.
 3. I learned to use Webstorm in IS117 and Pycharm in this class this semester. 
 #### Things we don't understand
-1. Git Stash[1]
+1. What DevOps is and what's its use
 2. GIt pull[2]
 3. GIT status[1]
 #### Things we want to know next**
