@@ -37,9 +37,11 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  Cloud deployment with Kubernetes[3]
 3.  Teraform[1]
 4.  Working with Vi[1]
-5. How write Automated Tests [1]
-6. Devops[1]
-7. How to create a webpage[1]
+5.  Webpack[1]
+6. How write Automated Tests [1]
+7. Devops[1]
+8. How to create a webpage[1]
+
 
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
