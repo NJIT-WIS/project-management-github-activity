@@ -19,7 +19,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we don't understand
 1. What DevOps is and what's its use
 2. Tried to learn Java but failed to learn a lot as it's complicated.
-3. GIT status[1]
+3. I don't understand what bootstrap is and didn't really understand it when professor went over it. 
 #### Things we want to know next**
 1.  Elastic Search Indexing [1]
 2.  Cloud deployment with Kubernetes[2]
