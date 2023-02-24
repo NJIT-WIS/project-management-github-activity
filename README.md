@@ -1,6 +1,4 @@
-# MyWebClass Collaboration and Brainstorming Assignment
-
-## Overview
+# MyWebClass collaboration and brainstorming activity to identify required content for mywebclass
 
 The purpose of this assignment is to practice collaborating using GIT/GitHub and develop the requirements for the mywebclass.org website's tutorials and courses.  To accomplish this task we are going to create three lists(What I Know, What I Don't Know, and What I Want To Learn) and consolidate the items from everyone in the class into a master list that counts the number of repeated issues.  You need at least **3 items for each list for a total of 9 items** and you should plan that these items are going to be used for project 1 as the basis for the possible topics that people can choose to build online tutorials about.   
 
@@ -13,17 +11,51 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  Python Print[1]
-2.  Linux Directory listing[2] 
-3.  Docker Installation[1]
-#### Things we don't understand
-1. Git Stash[1]
-2. GIt pull[2]
+
+1.  Pull Request[1]
+2.  Git Push[1] 
+3.  Git Commit[1]
+4.  Resolving Merge Conflicts [1]
+5.  How to create a new branch[1]
+6.  How to switch branches[1]
+7.  How to push using gui in vscode[1]
+8.  Terminal [1]
+9.  Python Print[1]
+10. Linux Directory listing[2] 
+11. Docker Installation[1]
+12. Terminal [1]
+13. Bootstrap[1]
+14. Github[1]
+
+#### Things we don't understand**
+1. Git Stash[2]
+2. GIt pull[3]
 3. GIT status[1]
+4. Selenium[1]
+5. Kibana[1]
+6. Jenkins[1]
+7. Git Rebase[1]
+8. GIt Track[1]
+9. Git Cherry-pick[1]
+10. syncing vs merging[1]
+11. the proccess of resolving merge conflicts[1]
+12. watchtower[1]
+
+
 #### Things we want to know next**
-1.  Elastic Search Indexing [1]
-2.  Cloud deployment with Kubernetes[2]
-3.  Teraform[1]
+1. Elastic Search Indexing [2]
+2. Cloud deployment with Kubernetes[3]
+3. Teraform[2]
+4. Nagios[1]
+5. React[1]
+6.  Django [2]
+7.  OpenStack[1]
+8.  Ceph[1]
+9.  Kubernetes[1]
+10.  Elastic Search[1]
+11.  Browser dev tools[1]
+12.  Authentication[1]
+
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
@@ -91,4 +123,39 @@ Collaborating on GitHub:
 12.  Check that your task is moved from in progress to done
 13.  update your local main branch with the changes from the merge by doing git pull origin main
 14. Repeat again, and again, and again
+
+
+### Joshua Kaisar's List:
+#### Things we understand**
+1. How to make a static website
+2. Git
+3. Agile
+4. Docker
+
+#### Things we don't understand
+1. Difference between Scrum and Kanban
+2. Terraform Automation
+3. Kubernetes
+
+#### Things we want to know next**
+1. Microsoft Azure
+2. AWS S3 Buckets
+=======
+=======
+1. Microsoft Azure
+=======
+### Consolidated List
+#### Things I don't know
+1. I don't know how docker works
+2. I don't understand how this class is structured
+3. I don't understand Docker
+#### Things I want to know
+1. I learned hot to use git project boards
+2. I want to know how to use Flask and the MVC pattern
+3. I learned how to setup a cloud instance on Oracle Cloud
+#### Things I know
+1. I know how to make websites and web apps with HTML, CSS, and Javascript
+2. I know how to use Git and GitHub
+3. I know how to configure a web server
+
 
