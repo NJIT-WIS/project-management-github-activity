@@ -18,6 +18,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3. generate SSH keys [1]
 4. sass [1]
 5. python unit testing [1]
+6. docker [1]
 #### Things we don't understand
 1. docker containers and images [1]
 2. ci/cd [1]
