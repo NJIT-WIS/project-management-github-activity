@@ -2,9 +2,9 @@
 name: Master List
 about: Describe this issue template's purpose here.
 title: ''
-labels: ''
+labels: Master List
 assignees: ''
 
 ---
 
-Master list
+master list
