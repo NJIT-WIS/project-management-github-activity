@@ -24,8 +24,9 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1. Git Stash[2]
 2. GIt pull[3]
 3. GIT status[2]
-4. I wish I knew something [2]
+4. GitHub Actions [1]
 5. Webpack [1]
+6. I wish I knew something [2]
 
 
 #### Things we want to know next**
