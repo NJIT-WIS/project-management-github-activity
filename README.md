@@ -13,15 +13,18 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  Python Print[1]
-2.  Linux Directory listing[2] 
-3.  Docker Installation[1]
+1.  Connecting GitHub to pycharm[1]
+2.  Using GitHub to share files[1] 
+3.  Creating Issues on GitHub[1]
+
+
 #### Things we don't understand
-1. Git Stash[1]
-2. GIt pull[2]
-3. GIT status[1]
+1. Docker[1]
+2. GitHub Commands[1]
+3. Vi Commands[1]
+
 #### Things we want to know next**
-1.  Elastic Search Indexing [1]
+1.  How to use Kubernetes [1]
 2.  Further Knowledge in python programming[1]
 3.  Teraform[1]
 
