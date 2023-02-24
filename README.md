@@ -55,7 +55,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 #### Things we want to know next**
 1.  Git CLI [1]
-2.  Vue.js [3]
+2.  Vue.js [4]
 3.  Godaddy [1]
 4.  Docker [1]
 5.  Oracle [1]
