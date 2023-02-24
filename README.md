@@ -13,8 +13,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we understand**
 
 1.  Pull Request[1]
-2.  Git Push[1] 
-3.  Git Commit[1]
+2.  Git Push[2] 
+3.  Git Commit[2]
 4.  Resolving Merge Conflicts [1]
 5.  How to create a new branch[1]
 6.  How to switch branches[1]
@@ -26,6 +26,10 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 12. Terminal [1]
 13. Bootstrap[1]
 14. Github[1]
+15. Agile[1]
+16. Docker[1]
+17. I know how to make websites and web apps with HTML, CSS, and Javascript[1]
+18. I know how to configure a web server[1]
 
 #### Things we don't understand**
 1. Git Stash[2]
@@ -40,6 +44,11 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 10. syncing vs merging[1]
 11. the proccess of resolving merge conflicts[1]
 12. watchtower[1]
+13. Difference between Scrum and Kanban[1]
+14. Terraform Automation[1]
+15. Kubernetes[1]
+16. I don't know how docker works[2]
+17. I don't understand how this class is structured[1]
 
 
 #### Things we want to know next**
@@ -48,13 +57,17 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3. Teraform[2]
 4. Nagios[1]
 5. React[1]
-6.  Django [2]
-7.  OpenStack[1]
-8.  Ceph[1]
-9.  Kubernetes[1]
-10.  Elastic Search[1]
-11.  Browser dev tools[1]
-12.  Authentication[1]
+6. Django [2]
+7. OpenStack[1]
+8. Ceph[1]
+9. Kubernetes[1]
+10. Elastic Search[1]
+11. Browser dev tools[1]
+12. Authentication[1]
+13. Microsoft Azure[1]
+14. AWS S3 Buckets[1]
+15. Flask and the MVC pattern[1]
+
 
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
@@ -125,37 +138,5 @@ Collaborating on GitHub:
 14. Repeat again, and again, and again
 
 
-### Joshua Kaisar's List:
-#### Things we understand**
-1. How to make a static website
-2. Git
-3. Agile
-4. Docker
-
-#### Things we don't understand
-1. Difference between Scrum and Kanban
-2. Terraform Automation
-3. Kubernetes
-
-#### Things we want to know next**
-1. Microsoft Azure
-2. AWS S3 Buckets
-=======
-=======
-1. Microsoft Azure
-=======
-### Consolidated List
-#### Things I don't know
-1. I don't know how docker works
-2. I don't understand how this class is structured
-3. I don't understand Docker
-#### Things I want to know
-1. I learned hot to use git project boards
-2. I want to know how to use Flask and the MVC pattern
-3. I learned how to setup a cloud instance on Oracle Cloud
-#### Things I know
-1. I know how to make websites and web apps with HTML, CSS, and Javascript
-2. I know how to use Git and GitHub
-3. I know how to configure a web server
 
 
