@@ -13,7 +13,6 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Complete the Assignment By adding your issues to these 3 lists and count how many times each issue is mentioned. The number in the bracket next to each issue is the count, you should set your count at 1 for your issue. We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
 
 ### Your list should look like this:
-<<<<<<< HEAD
 #### Things we understand**
 1.  SSH [1]
 2.  Docker CLI [3]
@@ -21,10 +20,16 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4.  Mobile Responsiveness [1]
 5.  CI/CD [1]
 6.  Flask API [1]
-7.  VIM Command Line [1]
+7.  VIM Command Line [2]
 8.  Vim command for line searching [1]
 9.  Pull Requests [1]
 10. Git commands [1]
+11. Python Print [1]
+12. Linux Directory listing [2]
+13.  Docker Installation[1]
+14.  Docker [2]
+15.  Connect to cloud instance via ssh [1]
+
 
 #### Things we don't understand
 1.  Vue.js [1]
@@ -37,7 +42,14 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 8.  DevOps [1]
 9.  traefik [2]
 10. SSH Keys [1]
-11. Kibana [1]
+11. Kibana [2]
+12. Git Stash [1]
+13. Git pull [2]
+14. GIT status [1]
+15. Docker-compose files [2]
+16. Pulling updates from main repository [1]
+17. Advanced Vim shortcuts [1]
+18. Dockerfiles [1]
 
 #### Things we want to know next**
 1.  Git CLI [1]
@@ -52,39 +64,13 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 8.  JWT Authentication [1]
 9.  MVC [1]
 10. Playwright [1]
-=======
-
-#### Things we understand\*\*
-
-1.  Python Print[1]
-2.  Linux Directory listing[2]
-3.  Docker Installation[1]
-4.  Docker commands[1]
-5.  Connect to cloud instance via ssh[1]
-6.  Vim[1]
-
-
-#### Things we don't understand
-
-1. Git Stash[1]
-2. GIt pull[2]
-3. GIT status[1]
-4. Docker-compose files[2]
-5. Pulling updates from main repository[1]
-6. Advanced Vim shortcuts[1]
-7. Containerization[1]
-8. Kibana[1]
-9. Dockerfiles[1]
-
-#### Things we want to know next\*\*
-
-1.  Elastic Search Indexing [1]
-2.  Cloud deployment with Kubernetes[2]
-3.  Teraform[1]
-4.  RESTful API[1]
-5.  Deploy to other cloud platforms[1]
-6.  Javascript Project Configuration[1]
->>>>>>> 9268acb11387b1e77bf594dd19a6818e5df48671
+11. Elastic Search Indexing [1]
+12. Cloud deployment with Kubernetes [2]
+13. Teraform [1]
+14. RESTful API [1]
+15. Deploy to other cloud platforms [1]
+16. Javascript Project Configuration [1]
+17. Containerization [1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 
@@ -137,24 +123,6 @@ Collaborating on GitHub:
 
 1. create an issue
 2. assign issue to project task
-<<<<<<< HEAD
-*  Assign to yourself
-*  Assign to correct project board
-*  Assign to "todo" project status
-*  Assign to the correct milestone
-* create issue branch 
-3.  Go to the project board and move the task you created to in progress
-4. git fetch origin to see new branch
-5. checkout issue branch locally
-6. git status to make sure you don't have any changed files in the branch before you work
-7. Resolve the issue by adding the list item or incrementing the count of the item
-8. commit -a -m "message text" to do the commit 
-9. git push origin head <- pushes current branch to github
-10. Do a pull request for the branch and make sure you pick the correct source and destination.  Click compare forks because by default it will go to the upstream repository i.e. mine
-11.  merge the pull request and add "closes #<issue number> i.e. closes #4 to close the issue
-12.  Check that your task is moved from in progress to done
-13.  update your local main branch with the changes from the merge by doing git pull origin main
-=======
 
 - Assign to yourself
 - Assign to correct project board
@@ -173,5 +141,4 @@ Collaborating on GitHub:
 11. merge the pull request and add "closes #<issue number> i.e. closes #4 to close the issue
 12. Check that your task is moved from in progress to done
 13. update your local main branch with the changes from the merge by doing git pull origin main
->>>>>>> 9268acb11387b1e77bf594dd19a6818e5df48671
 14. Repeat again, and again, and again
