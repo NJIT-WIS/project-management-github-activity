@@ -6,9 +6,10 @@
 5.  oracle server setup [1]
 6.  generate SSH keys [1]
 #### Things we don't understand
-1. github ssh auth
-2. git pull
-3. kibana
+1. docker containers and images [1]
+2. github ssh auth
+3. git pull
+4. kibana
 #### Things we want to know next**
 1.  playwright testing
 2.  vue.js framework [2]
