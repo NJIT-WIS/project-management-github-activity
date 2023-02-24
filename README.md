@@ -23,6 +23,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. I don't understand git fetch vs git pull.[1]
 3. I don't understand git init.[1]
 4. What does "npm" stand for?[1]
+5. What is the difference between **Working Directory** and **Local Repo**?[1]
 
 #### Things we want to know next**
 1. I want to know Kubernetes.[1]
