@@ -48,7 +48,7 @@ possible topics that people can choose to build online tutorials about.
 2. How to unit test. [1]
 3. How to use debugging tools. [1]
 4. How to use Terraform. [1]
-5. How to use containerization and other DevOps practices to streamline web application development and deployment. [1]
+5. How to use containerization and other DevOps practices to streamline web application development and deployment. [2]
 6. How to create and deploy a RESTful API for a web application. [1]
 7. How to set up and configure a web server and deploy a website to it [1]
 8. How to use Git for version control, collaboration, and continuous integration [1]
