@@ -15,9 +15,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we understand**
 1. How to Setup Oracle Cloud[1]
 2. Using Docker[1]
-3. Using Bash Scripts
-3. Using Bash Scripts
-3. Using Bash Scripts
+3. Using Bash Scripts[1]
 
 #### Things we don't understand
 1. Using ELK stack[1]
