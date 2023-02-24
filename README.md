@@ -73,6 +73,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 15. Deploy to other cloud platforms [1]
 16. Javascript Project Configuration [1]
 17. Containerization [1]
+18. Unit Testing [1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 
