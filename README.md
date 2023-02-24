@@ -23,7 +23,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we want to know next**
 1.  Elastic Search Indexing [2]
 2.  Cloud deployment with Kubernetes[3]
-3.  Teraform[1]
+3.  Teraform[2]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
