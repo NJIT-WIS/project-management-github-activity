@@ -2,7 +2,7 @@
 name: Assignment Master List
 about: Combined Merged List to my Main List
 title: ''
-labels: ''
+labels: Assignment Master List
 assignees: Sumanmhalsank02
 
 ---
