@@ -2,7 +2,7 @@
 name: Completed Lists
 about: This is for your master pull request to merge your master into this repo.
 title: Put your UCID as the title (replace this text)
-labels: Compiled List
+labels: Master list
 assignees: ''
 
 ---
@@ -11,4 +11,4 @@ You need to make a pull request and add the link to the pull request to this iss
 
 PULL REQUEST LINK:
 
-UCID:
+UCID: pp234
