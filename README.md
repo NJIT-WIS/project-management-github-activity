@@ -22,6 +22,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. Following almost a list of steps to compose a file and testing through errors [1]
 3. The importance of a repository [1]
 4. When to docker build vs. docker compose up [1]
+5. docker -d command in the cheat sheet not working [1]
 
 #### Things we want to know next**
 1. How a cloud server is created and protected [1]
