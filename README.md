@@ -31,7 +31,6 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 8. what exactly is docker
 9. Still struggling with understand how to test code in pycharm, if i were to write from scratch
 
-
 #### Things we want to know next**
 1.  Vue [1]
 2.  Angular [1]
