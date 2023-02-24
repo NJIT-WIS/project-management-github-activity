@@ -20,6 +20,9 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 5.  CI/CD [1]
 6.  Flask API [1]
 7.  VIM Command Line [1]
+8.  Vim command for line searching [1]
+9.  Pull Requests [1]
+10. Git commands [1]
 
 #### Things we don't understand
 1.  Vue.js [1]
@@ -30,11 +33,13 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 6.  Elastic Search [1]
 7.  marshmallow: simplified object serialization [1]
 8.  DevOps [1]
-9.  traefik [1]
+9.  traefik [2]
+10. SSH Keys [1]
+11. Kibana [1]
 
 #### Things we want to know next**
 1.  Git CLI [1]
-2.  Vue.js [2]
+2.  Vue.js [3]
 3.  Godaddy [1]
 4.  Docker [1]
 5.  Oracle [1]
@@ -43,6 +48,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 6.  AWS [1]
 7.  Auth0 [1]
 8.  JWT Authentication [1]
+9.  MVC [1]
+10. Playwright [1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
@@ -110,4 +117,3 @@ Collaborating on GitHub:
 12.  Check that your task is moved from in progress to done
 13.  update your local main branch with the changes from the merge by doing git pull origin main
 14. Repeat again, and again, and again
-

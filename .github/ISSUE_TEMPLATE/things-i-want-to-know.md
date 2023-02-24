@@ -1,7 +1,10 @@
+---
 name: Things I want to know
 about: Describe this issue template's purpose here.
-title: "[Thing I want to Know] - (insert here)"
-labels: ''
+title: ''
+labels: thingsiwanttoknow
 assignees: ''
 
-I want to know <fill in what you don't here>
+---
+
+Please add one item that you want to know. File new issues for each item that you learned. Please keep the number of characters to no more than 255.
