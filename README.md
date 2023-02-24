@@ -13,19 +13,31 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  I learned Git issues[9]
-2.  I learned Git status[10] 
-3.  I learned pycharm[11]
+1.  I learned Git issues[1]
+2.  I learned Git status[1] 
+3.  I learned pycharm[1]
+4.  Docker Installation[2]
+5.  Git push and pull[1]
+6.  HTML and CSS[1]
+7.  Python Print[1]
+8.  Linux Directory listing[2] 
 
 #### Things we don't understand
-1. I don't understand how to resolve merge conflicts[6]
-2. I don't understand Docker container images and their use[7]
-3. I don't know how to deal with daemon errors[8]
+1. I don't understand how to resolve merge conflicts[1]
+2. I don't understand Docker container images and their use[2]
+3. I don't know how to deal with daemon errors[1]
+4. Git Stash[1]
+5. GIT status[1]
+6. CI/CD tools[1]
+7. difference between docker and github[1]
 
 #### Things we want to know next**
-1.  I want to know about CI/CD tools[12]
-2.  I want to know Git remote repositories[13]
+1.  Elastic Search Indexing [1]
+2.  Aurora[1]
 3.  Teraform[1]
+4. I want to know about CI/CD tools[1]
+5. I want to know Git remote repositories[1]
+6. I want to know cloud deployment with kubernetes
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
@@ -73,6 +85,7 @@ Collaborating on GitHub:
 5. Once you create these labels then go to settings and look for the "Issues Template" and create/edit 4 issue templates that will provide the starting text for each issue filed of that type.  At the bottom of each issue you will see that you can automaticly assign a label to that issue type, so connect the respective labels you created with the 4 issue types.  You need an issue for "I Know", "Want to Know", "Don't Understand", and "Master List".
 4. Goto the project tab and create a new project (you have to click the down arrow next to "link project" to change it to new project). When you create a project you need to select "board" and name it "Documentation Tasks".
 5. Once this is completed then clone this to your computer using the SSH link **NOT THE HTTP LINK** you need the ssh link to use the key you added to your account, so you don't get an error when pushing.
+
 
 
 ### Project management and Collaboration workflow Steps
