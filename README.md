@@ -14,15 +14,15 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Your list should look like this:
 #### Things we understand**
 1.  Python Print[1]
-2.  Linux Directory listing[2] 
+2.  Linux Directory listing[1] 
 3.  Docker Installation[1]
 #### Things we don't understand
-1. Git Stash[1]
-2. GIt pull[2]
+1. Full Stack Development[1]
+2. GIt pull[1]
 3. GIT status[1]
 #### Things we want to know next**
 1.  I want to learn Docker[1]
-2.  I want to learn TypeScript[2]
+2.  I want to learn TypeScript[1]
 3.  I want to learn Haskell[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
