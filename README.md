@@ -26,8 +26,10 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. GIt pull[2]
 3. GIT status[1]
 4. port issues on docker[1]
+5. pull requests on GHub[1]
 5. Git merge[1]
 6. How to resolve a daemon issue[1]
+
 #### Things we want to know next**
 1.  Elastic Search Indexing [1]
 2.  Cloud deployment with Kubernetes[2]
