@@ -38,3 +38,4 @@ Collaborating on GitHub:
 ### Things you want to know next
 1. More in depth SQL
 2. More HTML/CSS
+3. SEO Knowledge
