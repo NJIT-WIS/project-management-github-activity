@@ -18,7 +18,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  Docker Installation[1]
 #### Things we don't understand
 1. Git stash[1]
-2. GIt Workflows[1]
+2. Git Workflows[1]
 3. GIT Forking Workflow[1]
 4. Git Sudo[1]
 #### Things we want to know next**
