@@ -23,7 +23,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4. Packages [1]
 #### Things we want to know next**
 1.  VIM [2]
-2.  CD (continuous development)[2]
+2.  CD (continuous development)[3]
 3.  CI (continuous integration)[2] 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
