@@ -19,7 +19,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we don't understand
 1. Git Stash[1]
 2. Resolving merge conflict on fork[1]
-3. [1]
+3. Difference between Docker container and Docker repository[1]
 #### Things we want to know next
 1.  [1]
 2.  [1]
