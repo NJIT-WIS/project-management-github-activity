@@ -37,3 +37,4 @@ Collaborating on GitHub:
 3. I don't know how Github just works 
 ### Things you want to know next
 1. I want to know how to use Github
+2. I want to know how to not commit to master branch
