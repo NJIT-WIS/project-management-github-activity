@@ -27,6 +27,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 5. What is the difference between **Working Directory** and **Local Repo**?[1]
 6. I dont understand tasks on GitHub[1]
 7. I dont understand Pull Request[1]
+8. I dont understand actions tab[1]
 
 #### Things we want to know next**
 1. I want to know Kubernetes.[1]
