@@ -24,6 +24,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. ci/cd [1]
 3. git flags [1]
 4. github ssh auth [1]
+5. git pull [1]
 #### Things we want to know next
 1. agile development methodology [1]
 2. vue.js [2]
