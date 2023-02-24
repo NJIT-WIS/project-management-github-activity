@@ -22,6 +22,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3. docker desktop[1]
 #### Things we want to know next**
 1.  python[1]
+2. general security[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
