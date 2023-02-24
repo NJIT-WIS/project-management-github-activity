@@ -13,17 +13,26 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1. basics of python[1]
-2. docker in professional setting[2]
-3. github[3]
+1.  git merge[1]
+2. create branches[1]
+3. resolve merge conflicts[1]
+4. python basics[1]
+5. professional docker use[1]
+6. github[1]
 #### Things we don't understand
-1. docker[1] 
-2. python[2]
-3. jobs using docker[3]
+1. docker commands[1]
+2. terminal commands[1]
+3. docker[2]
+4. python[1]
+5. jobs that use docker[1]
 #### Things we want to know next**
-1. Advanced docker[1]
-2. How jobs look at github[2]
-3. Be a web developer[3]
+1. python[1]
+2. general security[1]
+3. advantages to help get a better internship/job[1]
+4. advanced docker use[1]
+5. what jobs will check personal github[1]
+6. how to become a web developer[1]
+
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
 **open powershell or terminal and run "ssh-keygen -b 4096" and hit enter through the prompts and then open the file **your home directory/.ssh/id_rsa.pub** and copy that text into your github account settings under SSH/GPG keys -> add key.  in one of the prompts it will tell you where it is going to save the key.  If you already have a key reusue the one you have and cancel out of the process with control c **.  I do it on my mac with the command vi ~/.ssh/id_rsa.pub" and then i press shift colon : and q to quit
