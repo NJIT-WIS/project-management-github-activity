@@ -1,3 +1,4 @@
+
 # MyWebClass Collaboration and Brainstorming Assignment
 
 ## Overview
@@ -12,26 +13,46 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Complete the Assignment By adding your issues to these 3 lists and count how many times each issue is mentioned.  The number in the bracket next to each issue is the count, you should set your count at 1 for your issue.  We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
 
 ### Your list should look like this:
-#### Things we understand**
-1. Pull/Merge Requests on Github[1]
-2. Using git commands in pycharm[2]
-3. Collaborating in a group project through github[1] 
-4. Reloading website with npm[1]
-5. Cloning repositories[1]
-#### Things we don't understand
-1. Difference between docker containers and docker images, and what it each do[1]
-2. Commands/instructions that are in the docker file[1]
-3. How to resolve merge conflicts[1]
-4. What Errors Mean[1]
-5. Package Management/Requirements[1]
-6. Auto Grading Scripts[1]
-#### Things we want to know next**
-1. How to make automated tests[2]
-2. Tools used in CI/CD[1]
-3. Commands/instructions that are in the docker file[1]
-4. Packages[1]
-5. More Advanced Terminal/Command Prompt[1]
 
+#### Things we understand**
+
+1.  Learned how to clone a code. [2]
+2.  Created a SSH Public key [1]
+3.  Docker Installation [1]
+4.  How to make an SSH on Ubuntu[1]
+5. How to merge a branch to the master[2] 
+6. How to commit all git status stuff[1]
+7. Collaborating in a group project through github[1] 
+8. Reloading website with npm[1]
+9. Cloning repositories[1]
+
+#### Things we don't understand
+
+1. How to fork a repo[1]
+2. How to change branches [1]
+3. Pull requests [1]
+4. I don't know how to do anything [1]
+5. How to use the separate branch made by an issue[1]
+6. How do I work on someone else's repositories[1]
+7. Difference between docker containers and docker images, and what it each do[1]
+8. Commands/instructions that are in the docker file[1]
+9. How to resolve merge conflicts[1]
+10. What Errors Mean[1]
+11. Package Management/Requirements[1]
+12. Auto Grading Scripts[1]
+
+#### Things we want to know next**
+1.  How to code in Pycharm [1]
+2.  How to create a Repo [1]
+3.  How to create branches [1]
+4.  Node.js [1]
+5. Cloud deployment with Kubernetes[1]
+6. Teraform[1]
+8. How to make automated tests[2]
+9. Tools used in CI/CD[1]
+10. Commands/instructions that are in the docker file[1]
+11. Packages[1]
+12. More Advanced Terminal/Command Prompt[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
@@ -75,8 +96,8 @@ Collaborating on GitHub:
 3. Go to the "Issues" tab, and click "Milestones" to add a 0.1.0 milestone and describe it as a consolidated list of issues from your team.  
 4. Go to the issues tab you should also create labels for "I Know", "Want to Know", "Don't Understand", and "Master List".  
 5. Once you create these labels then go to settings and look for the "Issues Template" and create/edit 4 issue templates that will provide the starting text for each issue filed of that type.  At the bottom of each issue you will see that you can automaticly assign a label to that issue type, so connect the respective labels you created with the 4 issue types.  You need an issue for "I Know", "Want to Know", "Don't Understand", and "Master List".
-6. Goto the project tab and create a new project (you have to click the down arrow next to "link project" to change it to new project). When you create a project you need to select "board" and name it "Documentation Tasks".
-7. Once this is completed then clone this to your computer using the SSH link **NOT THE HTTP LINK** you need the ssh link to use the key you added to your account, so you don't get an error when pushing.
+4. Goto the project tab and create a new project (you have to click the down arrow next to "link project" to change it to new project). When you create a project you need to select "board" and name it "Documentation Tasks".
+5. Once this is completed then clone this to your computer using the SSH link **NOT THE HTTP LINK** you need the ssh link to use the key you added to your account, so you don't get an error when pushing.
 
 
 ### Project management and Collaboration workflow Steps
@@ -99,3 +120,4 @@ Collaborating on GitHub:
 12.  Check that your task is moved from in progress to done
 13.  update your local main branch with the changes from the merge by doing git pull origin main
 14. Repeat again, and again, and again
+
