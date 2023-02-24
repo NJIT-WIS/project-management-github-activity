@@ -24,6 +24,9 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 6.  Forking[1]
 7.  Cloning[1]
 8.  Kernel[1]
+9.  Vim[1]
+10. Connect to cloud instance via ssh[1]
+11. Docker commands[1]
 
 #### Things we don't understand
 
@@ -32,19 +35,28 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3. Git status[1]
 4. Docker Compose Files[1]
 5. Traefik[1]
-4. File Structure[1]
-5. Github Flow[1]
-6. Collaboration[1]
+6. File Structure[1]
+7. Github Flow[1]
+8. Collaboration[1]
+9. Advanced Vim shortcuts[1]
+10. Pulling updates from main repository[1]
 
-
-#### Things we want to know next**
+#### Things we want to know next\*\*
 
 1. Containerization[1]
-2. Cloud deployment with Kubernetes[3]
-3. Teraform[1]
-4. Vim[1]
-5. Lean[1]
+2. Cloud deployment with Kubernetes[4]
+3. Teraform[2]
+4. Vim[2]
+5. Lean[2]
 6. Vue JS[1]
+7. Elastic Search Indexing [1]
+8. Vue JS[1]
+9. File Structure[1]
+10. Github Flow[1]
+11. Collaboration[1]
+12. Deploy to other cloud platforms[1]
+13. RESTful API[1]
+14. Javascript Project Configuration[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 
@@ -74,7 +86,7 @@ This person should then merge the pull requests and resolve the merge conflict t
 2.  Made 9 pull requests to another person for each item that contains the branch you want to merge
 3.  Merged 9 pull requests from someone else
 4.  Made a pull request to another person with your master branch that contains the consolidated list
-5.  Merged the pull request of someone elsesa compiled list
+5.  Merged the pull request of someone elses compiled list
 6.  Submmited a pull request to this repository to have your complete list merged
 
 ### Canvas Submission instructions
