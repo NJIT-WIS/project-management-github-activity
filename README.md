@@ -13,34 +13,35 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1. PHP [1] 
-2. Agile[1]
-3. flask[1]
-4. Css.
-5. Basics of Putty.
-6. Docker Hub.
-7. UNIX Commands[1]
-8. Bootstrap[1]
-9. Python
+1.  PHP [1]
+2.  Agile[1]
+3.  flask[1]
+4.  Css.
+5.  Basics of Putty.
+6.  Docker Hub.
+7.  UNIX Commands
+8.  Bootstrap
+9.  Python
+
 #### Things we don't understand
 1. Multi-thread programming [1]
 2. PostgreSQL[1]
-3. Docker full web-application deployment[1]
+3. Docker full web-application development[1]
 4. Ssh Configuration.
 5. Traefik Integration
 6. Had issues with earlier webclass integration.
 7. Docker / Kubernetes[1]
 8. MongoDB
 9. NodeJS
+
 #### Things we want to know next**
-1.  React JS [2]
+1.  ReactJS [2]
 2.  Node.js
 3.  Daemons
 4.  Kubernetes
 5.  Vue JS[4]
 6.  Flask
 7.  AWS
-
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
