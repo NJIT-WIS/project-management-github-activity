@@ -37,5 +37,4 @@ Collaborating on GitHub:
 3. GIT status[1]
 ### Things you want to know next
 1. Elastic Search Indexing [1]
-2. Cloud deployment with Kubernetes[2]
-3. Teraform[1]
+
