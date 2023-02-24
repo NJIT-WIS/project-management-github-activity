@@ -18,13 +18,24 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  npm[2]
 4.  MAVEN[1]
 5.  MONGODB[1]
+6.  Create branch[1]
+7.  Git Status[2] 
+8.  Git Commit[1]
+9.  Git add, commit, push, merges and resolving merge conflicts[1]
+10.  GitHub secrets to add usernames/passwords[1] 
+11.  Building Docker images though pycharm terminal[1]
 #### Things we don't understand
-1. Docker Container and its use[1]
-2. GIT Rebase[2]
-3. Implementation of Single Sign-On process[1]
+1. Docker Container and its use[2]
+2. GIT Rebase[4]
+3. Implementation of Single Sign-On process[2]
 4. GIT status[1]
-5. GIT RESET[1]
-6. GIT FORK[1]
+5. GIT RESET[2]
+6. GIT FORK[3]
+7. Workflow between repositories[2]
+8. Docker Vs GitHub[1]
+9. Pytest & how to use testing frameworks[1]
+10. Building & playing Docker images[1]
+11. Difference between git fetch origin & git pull origin main[1]
 #### Things we want to know next**
 1.  Managing Git Stash [1]
 2.  Cloud Deployment [2]
@@ -32,6 +43,14 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4.  OAUTH[1]
 5.  HTTPS[1]
 6.  HELM CHART[1]
+7.  HTML and CSS [1]
+8.  JAVASCRIPTS[2]
+9.  Python[1]
+10.  What Kubernetes is [1]
+11.  What Teraform is[1]
+12.  How to write Dockerfiles[1]
+
+
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
