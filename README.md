@@ -11,11 +11,12 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Complete the Assignment By adding your issues to these 3 lists and count how many times each issue is mentioned.  The number in the bracket next to each issue is the count, you should set your count at 1 for your issue.  We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
 
+
 ### Your list should look like this:
 #### Things we understand**
 1.  How to merge[1]
 2.  How to fix merge conflicts [1] 
-3.  How to make a docker repository [2]
+3.  How to make a docker repository [3]
 4.  SSL Error[1]
 5.  Adding SSH key to GitHub[1]
 #### Things we don't understand
@@ -60,7 +61,7 @@ This person should then merge the pull requests and resolve the merge conflict t
 3.  Merged 9 pull requests from someone else
 3.  Made a pull request to another person with your master branch that contains the consolidated list 
 4.  Merged the pull request of someone elsesa compiled list
-5.  Submmited a pull request to this repository to have your complete list merged
+5.  Submitted a pull request to this repository to have your complete list merged
 
 ### Canvas Submission instructions
 
