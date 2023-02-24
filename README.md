@@ -13,17 +13,30 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  Docker Hub.
-2.  Css.
-3.  Basics of Putty.
+1.   PHP [1] 
+2. Agile[1]
+3.  flask[1]
+4. CSS[1]
+5. putty[1]
+6. Docker Hub[1].
 #### Things we don't understand
-1. Ssh Configuration.
-2. Traefik Integration.
-3. Had issues with earlier webclass integration.
+1.code with multiple threads[1]
+2. PostgreSQL[1]
+3. complex applications of docker[1]
+4. SSH integration[1]
+5. Traefik[1]
+6. webclass[1]
 #### Things we want to know next**
-1.  Daemons
-2.  Kubernetes
-3.  Node.js
+1.  I-want to know React JS [1]
+2.  Node js[2]
+3.  vue js[1]
+4.  Daemons[1]
+5.  Kubernetes[1]
+
+
+7.  Vue JS[1]
+
+
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
@@ -92,3 +105,4 @@ Collaborating on GitHub:
 13.  update your local main branch with the changes from the merge by doing git pull origin main
 14. Repeat again, and again, and again
 
+ 
