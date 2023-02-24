@@ -29,7 +29,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 5. What is an SSH key [1]
 6. Why do we need git [1]
 7. While we discussed it in class, still not 1000% sure what docker does [1]
-8. For java and python how each code reacts with each other and complications with contradiction
+8. For java and python how each code reacts with each other and complications with contradiction [1]
+9. Still struggling with understand how to test code in pycharm, if i were to write from scratch [1]
 #### Things we want to know next**
 1.  More command line shortcuts to make using the command line smoother[1]
 2.  How to manage forks and pull requests through the command line[1]
