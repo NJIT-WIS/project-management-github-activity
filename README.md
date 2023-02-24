@@ -13,13 +13,19 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  
+1.  git merge[1]
+2. create branches[1]
+3. resolve merge conflicts[1]
 #### Things we don't understand
-1. docker[1] 
-2. python[2]
-3. jobs using docker[3]
+1. docker commands[1]
+2. terminal commands[1]
+3. docker[2]
+4. python[1]
+5. jobs that use docker[1]
 #### Things we want to know next**
-1.
+1.  python[1]
+2. general security[1]
+3. advantages to help get a better internship/job[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
