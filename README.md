@@ -17,6 +17,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  Python and Java[1] 
 3.  SQL and PHP[1]
 4.  Git commands[1]
+5.  Pycharm[1]
 #### Things we don't understand
 1. git reflog[1]
 2. git diff[1]
