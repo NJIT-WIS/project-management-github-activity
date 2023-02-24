@@ -22,6 +22,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3. Why do we need Git [1]
 4. When to docker build vs. docker compose up[1]
 5. docker -d command in the cheat sheet not working[1]
+6. How to fix OAuth token issue when actions fails[1]
 #### Things we want to know next**
 1.  Vue [1]
 2.  Angular [1]
