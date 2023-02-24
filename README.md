@@ -11,7 +11,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Complete the Assignment By adding your issues to these 3 lists and count how many times each issue is mentioned.  The number in the bracket next to each issue is the count, you should set your count at 1 for your issue.  We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
 
-### Your list should look like this:
+### Official Lists:
 #### Things we understand**
 1.  Python Print[1]
 2.  Linux Directory listing[2]
@@ -26,7 +26,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 11. The use of webpack[2]
 12. Only add and commit certain file at the same time[1]
 #### Things we don't understand
-1. Git Stash[2]
+1. Git Stash[3]
 2. GIt pull[2]
 3. GIT status[1]
 4. Node.js[1]
@@ -51,6 +51,16 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 9. Use vim[2]
 10. The details of rebase[2]
 11. How to deploy a web app to the online env[2]
+#### Things we want to know next**
+1.  Elastic Search Indexing [3]
+2.  Cloud deployment with Kubernetes[4]
+3.  Teraform[3]
+4.  How to do the permission verification for different role of a system[1]
+5.  The logic of login and register page[1]
+6.  How to use bootstrap for development[1]
+7.  Use vim[2]
+8.  Use tag in git[2]
+9.  Manage submodules in git repo[2]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
@@ -118,4 +128,7 @@ Collaborating on GitHub:
 12.  Check that your task is moved from in progress to done
 13.  update your local main branch with the changes from the merge by doing git pull origin main
 14. Repeat again, and again, and again
+<<<<<<< HEAD
 
+=======
+>>>>>>> d36ad0fe756ba292d740ca64833b831f14e55490
