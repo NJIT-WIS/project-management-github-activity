@@ -13,9 +13,12 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
+
 1.  Github[1]
 2.  Docker Installation[1] 
 3.  npm[1]
+4.  MAVEN[1]
+
 #### Things we don't understand
 
 
@@ -23,6 +26,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. GIT Rebase[2]
 3. Implementation of Single Sign-On process[1]
 4. GIT RESET[1]
+5. GIT FORK[1]
 
 
 #### Things we want to know next**
