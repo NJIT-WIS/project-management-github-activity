@@ -30,6 +30,6 @@ Collaborating on GitHub:
 ### Things you understand so far
 1. Whatever
 ### Things you don't understand about what we are doing / web development.
-1. How what we’re doing connects to Scrum
+1. How what we’re doing connects to Scrum.
 ### Things you want to know next
 1. How to connect viewjs to elastic search
