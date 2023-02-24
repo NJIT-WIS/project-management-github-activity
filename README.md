@@ -13,29 +13,28 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 
 ### Your list should look like this:
-#### Things we understand
-1.  SSL Error [1]
-2.  Add SSH Key to GitHub [1] 
-3.  Docker Installation/Repo [3]
-4.  Git Merge [1]
-5.  Fix merge conflixs [1]
+#### Things we understand**
+1.  How to merge[1]
+2.  How to fix merge conflicts [1] 
+3.  How to make a docker repository [3]
+4.  SSL Error[1]
+5.  Adding SSH key to GitHub[1]
 #### Things we don't understand
-1. "npm" [1]
-2. Working Directory vs Local Repository [1]
-3. git status [1]
-4. Actions Tab [1]
-5. Pull Request [1]
-6. Tasks on GitHub [1]
-#### Things we want to know next
-1.  [Python Flask](https://flask.palletsprojects.com/en/2.2.x/) [1]
-2.  Creating Pytest [1]
-3.  Agile Methodology [2]
-4.  AWS [1]
-5.  DevOps [1]
+1. Tasks on GitHub [1]
+2. Pull Requests [1]
+3. Actions Tab [1]
+4. What does "npm" stand for?[1]
+5. Git status[1]
+6. Working Directory vs Local Repo[1]
+#### Things we want to know next**
+1.  AWS [1]
+2.  Agile [2]
+3.  DevOps [1]
+4.  PYTEST[1]
+5.  Python Flask[1]
 
-## Prerequisite - YOU MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
-Add your SSH public key to GitHub - See video
-
+## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
+Add your ssh public key to github - See video
 **open powershell or terminal and run "ssh-keygen -b 4096" and hit enter through the prompts and then open the file **your home directory/.ssh/id_rsa.pub** and copy that text into your github account settings under SSH/GPG keys -> add key.  in one of the prompts it will tell you where it is going to save the key.  If you already have a key reusue the one you have and cancel out of the process with control c **.  I do it on my mac with the command vi ~/.ssh/id_rsa.pub" and then i press shift colon : and q to quit
 
 ### [Assignment Video](https://youtu.be/UFLKojO3OtM)
