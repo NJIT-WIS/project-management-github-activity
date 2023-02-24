@@ -37,6 +37,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  How to create branches [1]
 4.  Node.js [1]
 5. Cloud deployment with Kubernetes[1]
+6. Teraform[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
