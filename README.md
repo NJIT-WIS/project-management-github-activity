@@ -17,9 +17,11 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  Docker Installation[1] 
 3.  npm[1]
 #### Things we don't understand
+
 1. Docker Container and its use[1]
-2. GIT Rebase[1]
+2. GIT Rebase[2]
 3. Implementation of Single Sign-On process[1]
+
 #### Things we want to know next**
 1.  Managing Git Stash [1]
 2.  Cloud Deployment [1]
