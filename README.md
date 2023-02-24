@@ -21,10 +21,13 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. Traefik Integration.
 3. Had issues with earlier webclass integration.
 4. Docker Full web application deployment[1]
+5. Postgresql[1]
 #### Things we want to know next**
 1.  Daemons
 2.  Kubernetes
 3.  Node.js
+4.  React JS[1]
+5.  Vue JS[4]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
