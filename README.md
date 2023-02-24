@@ -19,7 +19,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we don't understand
 1. Certain features that are present in dockerhub [1]
 2. Certain features that we had looked into about WebClass [1]
-3. GIT status[1]
+3. A lot of the process behind the docker files that we had taken a look at [1]
 #### Things we want to know next**
 1.  Elastic Search Indexing [1]
 2.  Cloud deployment with Kubernetes[2]
