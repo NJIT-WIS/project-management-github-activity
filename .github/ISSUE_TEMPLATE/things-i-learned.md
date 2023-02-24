@@ -6,5 +6,3 @@ labels: I know
 assignees: ''
 
 ---
-
-1. issue 1 
