@@ -92,9 +92,26 @@ Collaborating on GitHub:
 13.  update your local main branch with the changes from the merge by doing git pull origin main
 14. Repeat again, and again, and again
 
-### Consolidated List
+### Consolidated List - Smit
 #### Things I don't know
 1. I don't know how docker works
 #### Things I want to know
 1. I learned hot to use git project boards
 #### Things I know
+
+#### Things I know
+### Joshua Kaisar's List:
+#### Things we understand**
+1. How to make a static website
+2. Git
+3. Agile
+4. Docker
+
+#### Things we don't understand
+1. Difference between Scrum and Kanban
+2. Terraform Automation
+3. Kubernetes
+
+#### Things we want to know next**
+1. Microsoft Azure
+2. AWS S3 Buckets
