@@ -13,9 +13,9 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  Build docker image[1]
+1. Build docker image[1]
 #### Things we don't understand
-
+1. Cloud deployment with Kubernetes[1]
 #### Things we want to know next**
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
