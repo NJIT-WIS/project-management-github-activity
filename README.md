@@ -28,7 +28,7 @@ Collaborating on GitHub:
 
 ## Put your items here
 ### Things you understand so far
-1. Whatever
+1. I know Github is used to share file access
 ### Things you don't understand about what we are doing / web development.
 1. I don't know anything
 2. I don't understand Github commands
