@@ -17,9 +17,10 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  Linux Directory listing[2] 
 3.  Docker Installation[1]
 #### Things we don't understand
-1. Git Stash[1]
-2. GIt pull[2]
+1. Docker[1]
+2. GitHub Commands[1]
 3. Vi Commands[1]
+
 #### Things we want to know next**
 1.  Elastic Search Indexing [1]
 2.  Cloud deployment with Kubernetes[2]
