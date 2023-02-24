@@ -10,26 +10,29 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  You will learn to manage a basic project using GitHub Project.
 
 ### Complete the Assignment By adding your issues to these 3 lists and count how many times each issue is mentioned.  The number in the bracket next to each issue is the count, you should set your count at 1 for your issue.  We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
-
 ### Your list should look like this:
 #### Things we understand**
-1.  Git Commands[2]
-2.  Using Docker[3] 
-3.  Using GitHub[1]
-4.  Oracle Cloud Instances [2]
-5.  Flask [1]
+1. Git Commands [3]
+2. Docker [3]
+3. Cloud Computing Fundamentals [1]
+4.  Git Commands [2]
+5.  Using GitHub [1]
+6. Oracle Cloud Instances [2]
 #### Things we don't understand
-1. What is Webpack and why do we use it?[2]
-2. What are docker images, and why are they used?[1]
-3. GitHub Workflows[2]
-4. Docker vs Kubernetes [1]
+1. Better solve merge conflicts [1]
+2. Watchtower [1]
+3. Github workflow[3]
+4. Webpack [1]
+5. What are docker images, and why are they used?[1]
+6. Docker vs Kubernetes [1]
 #### Things we want to know next**
-1.  Cloud Computing [1]
-2.  CI/CD[2]
-3.  Git Rebasing[1]
-4. Nodejs [1]
-5. More Frameworks [2]
-6. Frontend & Backend [1]
+1. CI/CD [3]
+2. More about frontend and backend together [2]
+3. Other essential software/services for websites [1]
+4. Cloud Computing [2]
+5. Teraform[1]
+6. Nodejs [1]
+7. More Frameworks [2]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
@@ -96,5 +99,6 @@ Collaborating on GitHub:
 11.  merge the pull request and add "closes #<issue number> i.e. closes #4 to close the issue
 12.  Check that your task is moved from in progress to done
 13.  update your local main branch with the changes from the merge by doing git pull origin main
+
 14. Repeat again, and again, and again
 
