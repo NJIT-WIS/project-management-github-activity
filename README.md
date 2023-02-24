@@ -1,7 +1,7 @@
 #### Things we understand**
-1.  Using sass for stylesheets
+1.  Sass
 2.  python unit tests 
-3.  using docker
+3.  Docker
 #### Things we don't understand
 1. github ssh auth
 2. git pull
