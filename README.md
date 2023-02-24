@@ -20,7 +20,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we don't understand
 1.  How to resolve merge conflicts [1]
 2.  Python automation for testing framework [1]
-3.  Node.js [1]
+3.  Cloud deployment [3]
 
 #### Things we want to know next**
 
