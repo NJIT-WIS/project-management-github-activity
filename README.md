@@ -17,6 +17,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  I learned git status.[2]
 4.  SSL Error.[1]
 5.  Adding SSH Key to GitHub.[1]
+6.  How to merge [1]
 
 #### Things we don't understand
 1. I don't understand webpack.[1]
