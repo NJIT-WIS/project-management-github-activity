@@ -18,9 +18,11 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  Docker Installation[1]
 
 #### Things we don't understand
-1. I don't understand how to resolve merge conflicts[6]
-2. GIt pull[2]
+1. Git Stash[1]
+2. I don't understand Docker container images and their use[7]
 3. GIT status[1]
+
+
 
 
 1.  GitHub and PyCharm work[8]
