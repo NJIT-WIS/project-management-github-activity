@@ -20,6 +20,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  Docker Installation [1]
 4.  How to make an SSH on Ubuntu[1]
 5. How to merge a branch to the master[1] 
+6. How to commit all git status stuff[1]
 
 #### Things we don't understand
 
