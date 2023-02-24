@@ -32,6 +32,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3. Git status[1]
 4. Docker Compose Files[1]
 5. Traefik[1]
+4. File Structure[1]
 
 #### Things we want to know next**
 
@@ -39,8 +40,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. Cloud deployment with Kubernetes[3]
 3. Teraform[1]
 4. Vim[1]
-5.  Lean[1]
-
+5. Lean[1]
+6. Vue JS[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 
