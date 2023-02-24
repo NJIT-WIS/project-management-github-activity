@@ -25,7 +25,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3. git flags [1]
 #### Things we want to know next
 1. agile development methodology [1]
-2. vue.js [1]
+2. vue.js [2]
 3. webpack [1]
 4. playwright [1]
 
