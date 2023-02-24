@@ -23,6 +23,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 5.  Connect to cloud instance via ssh[1]
 6.  Vim[1]
 
+
 #### Things we don't understand
 
 1. Git Stash[1]
@@ -31,6 +32,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4. Docker-compose files[1]
 5. Pulling updates from main repository[1]
 6. Advanced Vim shortcuts[1]
+7. Containerization[1]
 
 #### Things we want to know next\*\*
 
