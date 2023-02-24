@@ -15,21 +15,32 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we understand**
 1.  Python Print[1]
 2.  Linux Directory listing[2] 
-3.  Docker Installation[1]
+3.  Docker Installation[3]
 4.  Using Git on command line[1]
 5.  Collaborating on GitHub[1]
+6.  Git push and pull[1]
+7.  Building Docker Image [1]
+
 #### Things we don't understand
-1. Git Stash[1]
+1. Git Stash[2]
 2. GIt pull[2]
 3. GIT status[1]
 4. port issues on docker[1]
 5. pull requests on GHub[1]
 6. Watchtower[1]
+7. Git merge[1]
+8. How to resolve a daemon issue[1]
+
+
 #### Things we want to know next**
 1.  Elastic Search Indexing [1]
 2.  Cloud deployment with Kubernetes[2]
 3.  Teraform[1]
 4.  Working with Vi[1]
+5. How write Automated Tests [1]
+6. Devops[1]
+7. How to create a webpage[1]
+
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
