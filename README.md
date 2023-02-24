@@ -13,17 +13,25 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  Write bash scripts[1]
-2.  Manage Issues[1] 
-3.  Using watchtower and implementation[1]
+
+1. How to Setup Oracle Cloud[1]
+2. Using Docker[1]
+3. Using Bash Scripts[2]
+4. Manage Issues[1] 
+5. Using watchtower and implementation[1]
+
 #### Things we don't understand
-1. I don't know anything[1]
-2. I don't know Seige[1]
-3. I don't know kibana[1]
+1. Using ELK stack[1]
+2. Creating Pull Request[1]
+3. Setting Up OAuth with Azure[1]
+4. I don't know anything[1]
+5. I don't know Seige[1]
+6. I don't know kibana[1]
+
 #### Things we want to know next**
-1.  Elastic Search Indexing [1]
-2.  Cloud deployment with Kubernetes[2]
-3.  Teraform[1]
+1. Using Browser Cookies[1]
+2. Using Azure[1]
+3. Connecting .NET to React[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
