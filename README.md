@@ -20,7 +20,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  Siege[1]
 3.  Bash Script[1]
 #### Things we want to know next**
-1.  
+1.  DevOps Duty[1]
 2.  
 3.  
 
