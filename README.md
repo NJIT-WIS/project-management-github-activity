@@ -20,6 +20,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1. What are Github Issues [1]
 2. What is an SSH key [1]
 3. Why do we need Git [1]
+4. When to docker build vs. docker compose up[1]
 #### Things we want to know next**
 1.  Vue [1]
 2.  Angular [1]
