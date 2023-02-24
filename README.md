@@ -15,7 +15,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we understand**
 1.  Clone a repo[1]
 2.  Pushing to Github[2] 
-3.  Docker Installation[1]
+3.  How to make a commit[1]
 #### Things we don't understand
 1. How Docker Works[1]
 2. The concept of SSH Keys[2]
