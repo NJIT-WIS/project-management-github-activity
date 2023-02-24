@@ -18,6 +18,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3. github[3]
 4. branches[1]
 5. requests[1]
+6. git merge[1]
 #### Things we don't understand
 1. docker[2] 
 2. python[2]
