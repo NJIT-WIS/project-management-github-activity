@@ -35,7 +35,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 9. NodeJS
 
 #### Things we want to know next**
-1.  ReactJS [1]
+1.  ReactJS [2]
 2.  Node.js
 3.  Daemons
 4.  Kubernetes
