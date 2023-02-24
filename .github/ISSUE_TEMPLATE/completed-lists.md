@@ -1,8 +1,8 @@
 ---
 name: Completed Lists
 about: This is for your master pull request to merge your master into this repo.
-title: so274
-labels: ''
+title: cr432
+labels: master list
 assignees: ''
 
 ---
@@ -11,4 +11,4 @@ You need to make a pull request and add the link to the pull request to this iss
 
 PULL REQUEST LINK:
 
-UCID:so274
+UCID: cr432
