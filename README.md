@@ -26,7 +26,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 5. GIT RESET[1]
 6. GIT FORK[1]
 #### Things we want to know next**
-1.  Elastic Search Indexing [1]
+1.  Managing Git Stash [1]
 2.  Cloud deployment with Kubernetes[2]
 3.  Teraform[1]
 4.  OAUTH[1]
