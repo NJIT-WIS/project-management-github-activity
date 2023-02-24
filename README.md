@@ -30,6 +30,7 @@ Collaborating on GitHub:
 ### Things you understand so far
 1. I know how to make ssh keys
 2. I know personal domain use
+3. I know how to make a personal token
 ### Things you don't understand about what we are doing / web development.
 1. Don't understand forking
 2. Don't Understand Oracle Cloud
