@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-Please add "closes #<issue number>" in pull request comment or description when closing the pull request.
+Please add "closes #'<issue number>'" in pull request comment or description when closing the pull request.
