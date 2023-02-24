@@ -13,17 +13,35 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  Python Print[1]
-2.  Linux Directory listing[2] 
-3.  Docker Installation[1]
+
+1.  Git [3]
+2.  Github [1] 
+3.  SSH [1]
+4.  How to add command line arguments to a Dockerfile [1]
+5.  node.js and npm are on different versions [1]
+6. The importance or a repository [1]
+7. Following almost a list of steps to compose a file and testing through errors [1]
 #### Things we don't understand
-1. Git Stash[1]
-2. GIt pull[2]
-3. GIT status[1]
+1. What are Github Issues [1]
+2. What is an SSH key [1]
+3. Why do we need Git [1]
+4. When to docker build vs. docker compose up [1]
+5. docker -d command in the cheat sheet not working [1]
+6. How to fix OAuth token issue when actions fails [1]
+7. For java and python how each code reacts with each other and complications with contradiction
+8. what exactly is docker
+9. Still struggling with understand how to test code in pycharm, if i were to write from scratch
+
 #### Things we want to know next**
-1.  Elastic Search Indexing [1]
-2.  Cloud deployment with Kubernetes[2]
-3.  Teraform[1]
+1.  Vue [1]
+2.  Angular [1]
+3.  React [1]
+4.  More command line shortcuts to make using the command line smoother [1]
+5.  How to manage forks and pull requests through the command line [1]
+6.  More experience with alternatives to Docker [1]
+7. How Cloud Servers are created and protected [1]
+8. What makes one coding language better than the other, and how can they compliment each other [1]
+9. How learning code can benefit in other jobs, not just front and back ending [1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
