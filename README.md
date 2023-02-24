@@ -28,6 +28,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. How to change branches [1]
 3. Pull requests [1]
 4. I don't know how to do anything [1]
+5. How to use the separate branch made by an issue[1]
 
 #### Things we want to know next**
 1.  How to code in Pycharm [1]
