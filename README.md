@@ -22,6 +22,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. Creating Pull Request[1]
 3. Setting Up OAuth with Azure[1]
 4. I don't know anything[1]
+5. I don't know Seige[1]
 
 #### Things we want to know next**
 1. Using Browser Cookies[1]
