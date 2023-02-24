@@ -11,27 +11,41 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Complete the Assignment By adding your issues to these 3 lists and count how many times each issue is mentioned.  The number in the bracket next to each issue is the count, you should set your count at 1 for your issue.  We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
 
-### My List:
-#### Things we learned
-1. vim commands [1]
-2. oracle server setup [1]
-3. generate SSH keys [1]
-4. sass [1]
-5. python unit testing [1]
-6. docker [1]
+### Your list should look like this:
+#### Things we understand**
+1.  I learned how to add ssh key to github account and how to connect with local environment [1]
+2.  I learned how to use docker to create web applications and how using images can be effective and useful.[3]
+3.  I learned about how to ReactJS to build web applications.[1]
+4.  Mobile Responsiveness [1]
+5.  CI/CD [1]
+6. vim commands [1]
+7. oracle server setup [1]
+8. generate SSH keys [1]
+9. sass [1]
+10. python unit testing [1]
 #### Things we don't understand
-1. docker containers and images [1]
-2. ci/cd [1]
-3. git flags [1]
-4. github ssh auth [1]
-5. git pull [1]
-6. kibana [1]
-#### Things we want to know next
-1. agile development methodology [1]
-2. vue.js [2]
-3. webpack [1]
-4. playwright [1]
-5. github project management [1]
+1. How to use and implement vuejs [1]
+2. I don't know what teraform is or how to use it [1]
+3. I don't understand how to use git stash and how it temporarily gets rid of changes [1]
+4. User Authentication [1]
+5. MVC [1]
+6. Elastic Search [1]
+7. docker containers and images [1]
+8. ci/cd [1]
+9. git flags [1]
+10. github ssh auth [1]
+11. git pull [1]
+12. kibana [1]
+#### Things we want to know next**
+1.  I want to learn more about git commands so that I could just use the terminal quickly, github project management [2]
+2.  I want to learn how to use vuejs instead of reactjs [3]
+3.  I want to continue to learn about how to depoly webstite on godaddy using docker and oracle [1]
+4. NoSQL [1]
+5. Kubernetes [1]
+6. AWS [1]
+7. agile development methodology [1]
+8. webpack [1]
+9. playwright [1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
