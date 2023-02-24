@@ -15,7 +15,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we understand**
 1.  Python Print[2]
 2.  Linux Directory listing[3] 
-3.  Docker Installation[1]
+3.  Docker Installation[2]
 4.  Setting up Git/GitHub with SSH [1]
 5.  Merging in Git [1]
 6.  Forking a Git Repo [1]
