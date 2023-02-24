@@ -2,6 +2,7 @@
 1.  Sass
 2.  python unit tests 
 3.  Docker
+4.  vim commands [1]
 #### Things we don't understand
 1. github ssh auth
 2. git pull
