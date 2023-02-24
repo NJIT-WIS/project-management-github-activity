@@ -35,8 +35,9 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  Teraform[1]
 4. How write Automated Tests [1]
 5. Devops[1]
-6.  Working with Vi[1]
-7.  Webpack[1]
+6. How to create a webpage[1]
+7.  Working with Vi[1]
+8.  Webpack[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
