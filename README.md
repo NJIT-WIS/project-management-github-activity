@@ -22,7 +22,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 7.  Build Docker image based on my PC's environment[1]
 8.  Prepare DockerFile[1]
 9.  The aim of Node.js[1]
-10. The use of webpack[1]
+10. The use of webpack[2]
 11. Only add and commit certain file at the same time[1]
 #### Things we don't understand
 1. Git Stash[2]
