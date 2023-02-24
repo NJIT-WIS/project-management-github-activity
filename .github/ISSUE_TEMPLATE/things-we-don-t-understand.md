@@ -1,9 +1,9 @@
 ---
-name: Things I Don't Understand
+name: Things We Don't Understand
 about: This is for adding issues that you don't understand
 title: ''
-labels: Things I Don't Understand
-assignees: ''
+labels: Things we don't understand
+assignees: Sarahsparxx
 
 ---
 
