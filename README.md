@@ -12,26 +12,31 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Complete the Assignment By adding your issues to these 3 lists and count how many times each issue is mentioned.  The number in the bracket next to each issue is the count, you should set your count at 1 for your issue.  We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
 
 ### Your list should look like this:
-#### Things we don't understand**
-1.  Docker container[1]
-2.  Python libraries[1] 
-3.  Cloud Computing[2]
-4.  AFS clients[1]
-5.  Docker Images[1]
-#### Things we understand
-1. Git push[1]
-2. HTML and CSS[2]
-3. Python Fundamentals[1]
-4. GitHub Repositories[1]
-5. Docker Installations[1]
+#### Things we understand**
+1.  Github and Git[3]
+2.  some coding programs (java,js,python etc.)[1]
+3.  HTML and CSS[3]
+4.  Python Fundamentals[2]
+5.  GitHub Repositories[2] 
+6.  Docker Installations[1]
+#### Things we don't understand
+1. Main operation of the AFS [2]
+2. To be able to have more mastery of programs with reference to big data.[2]
+3. I would like to fully understand docker since I am not very clear about some terms such as containers etc.[1]
+4. Docker Containers[1]
+5. Python Libraries[1]
+6. Cloud Computing[2]
+7. Docker Images[2]
+8. JavaScript[1]
 #### Things we want to know next**
-1.  React [1]
-2.  Javascript[1]
-3.  Database(SQL)[1]
-4.  Kibana[1]
-5.  Linux Fundamentals and Scripting such as Apache[1]
-6.  How to use Terraform[1]
-
+1.  i want understand PHP(I don't have any kind of knowledge currently).[2]
+2.  Be able to master docker-github (to the point of making it fast and efficient).[2]
+3.  Database(Mysql/sql)[3]
+4.  React[1]
+5.  Javascript[1]
+6. Kibana[1]
+7. Linux Fundamentals and Scripting Skills such as Apache[1]
+8. How to use Terraform[1]
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
 **open powershell or terminal and run "ssh-keygen -b 4096" and hit enter through the prompts and then open the file **your home directory/.ssh/id_rsa.pub** and copy that text into your github account settings under SSH/GPG keys -> add key.  in one of the prompts it will tell you where it is going to save the key.  If you already have a key reusue the one you have and cancel out of the process with control c **.  I do it on my mac with the command vi ~/.ssh/id_rsa.pub" and then i press shift colon : and q to quit
@@ -98,6 +103,3 @@ Collaborating on GitHub:
 12.  Check that your task is moved from in progress to done
 13.  update your local main branch with the changes from the merge by doing git pull origin main
 14. Repeat again, and again, and again
-
-
-
