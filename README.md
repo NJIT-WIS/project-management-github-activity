@@ -13,6 +13,33 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
+1.  How to add command line arguments to a Dockerfile[1]
+2.  node.js and npm are on different versions[1] 
+3.  How to switch branches in command line git [1]
+4.  Git [1]
+5.  Github [2]
+6.  SSH [1]
+7. Following almost a list of steps to compose a file and testing through errors [1]
+7. The importance of a repository [1]
+#### Things we don't understand
+1. When to docker build vs. docker compose up[1]
+2. docker -d command in the cheat sheet not working[1]
+3. How to fix OAuth token issue when actions fails[1]
+4. What are github issues [1]
+5. What is an SSH key [1]
+6. Why do we need git [1]
+7. While we discussed it in class, still not 1000% sure what docker does [1]
+8. For java and python how each code reacts with each other and complications with contradiction
+#### Things we want to know next**
+1.  More command line shortcuts to make using the command line smoother[1]
+2.  How to manage forks and pull requests through the command line[1]
+3.  More experience with alternatives to Docker[1]
+4.  Vue [1]
+5.  Angular [1]
+6.  React [1]
+7. How learning code can benefit in other jobs, not just front and back ending[1]
+8. What makes one coding language better than the other, and how can they compliment each other [1]
+9. How a cloud server is created and protected [1]
 1.  Git [3]
 2.  Github [1] 
 3.  SSH [1]
@@ -42,6 +69,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 7. How Cloud Servers are created and protected [1]
 8. What makes one coding language better than the other, and how can they compliment each other [1]
 9. How learning code can benefit in other jobs, not just front and back ending [1]
+
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
