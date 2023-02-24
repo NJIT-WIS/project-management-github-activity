@@ -22,10 +22,19 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. GIt pull[2]
 3. GIT status[1]
 
+
+1.  GitHub and PyCharm work[8]
+2.  Building image on Docker[7]
+3.  GitHub commands[6]
+#### Things we don't understand
+1. Auto grading[1]
+2. gitHub commit and push[5]
+3. Terminal Errors[3]
+
 #### Things we want to know next**
-1.  Elastic Search Indexing [1]
-2.  Cloud deployment with Kubernetes[2]
-3.  Teraform[1]
+1.  JavaScript [11]
+2.  Resolving Errors[10]
+3.  Web project using HTML, CSS, JavaScript[9]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
