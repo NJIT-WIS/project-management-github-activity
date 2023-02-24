@@ -5,12 +5,15 @@
 4.  vim commands [1]
 5.  oracle server setup [1]
 6.  generate SSH keys [1]
+
 #### Things we don't understand
 1. docker containers and images [1]
 2. ci/cd [1]
-3. github ssh auth
-4. git pull
-5. kibana
+3. git flags [1]
+4. github ssh auth
+5. git pull
+6. kibana
+
 #### Things we want to know next**
 1.  playwright testing
 2.  vue.js framework [2]
