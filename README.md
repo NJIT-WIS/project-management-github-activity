@@ -17,6 +17,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  Github[1] 
 3.  SSH [1]
 4.  How to add command line arguments to a Dockerfile[1]
+5.  node.js and npm are on different versions[1]
 #### Things we don't understand
 1. What are Github Issues [1]
 2. What is an SSH key [1]
