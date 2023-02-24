@@ -33,14 +33,13 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 8. MongoDB
 9. NodeJS
 #### Things we want to know next**
-1.  React JS [1]
+1.  React JS [2]
 2.  Node.js
 3.  Daemons
 4.  Kubernetes
 5.  Vue JS[4]
 6.  
 7.  
-8.  
 
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
