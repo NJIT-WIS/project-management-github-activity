@@ -28,9 +28,13 @@ Collaborating on GitHub:
 
 ## Put your items here
 ### Things you understand so far
-1. Add items to the list
+1. Python Print[1]
+2. Linux Directory listing[2]
+3. Docker Installation[1]
 ### Things you don't understand about what we are doing / web development.
-1. Add items to the list
+1. Git Stash[1]
+2. GIt pull[2]
+3. GIT status[1]
 ### Things you want to know next
 1. Elastic Search Indexing [1]
 
