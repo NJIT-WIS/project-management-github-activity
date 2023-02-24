@@ -17,6 +17,7 @@ Collaborating on GitHub:
 ### Things you understand so far
 1. Vim command for line searching
 2. Pull Requests
+3. Git commands
 ### Things you don't understand about what we are doing / web development.
 1. Traefik
 ### Things you want to know next
