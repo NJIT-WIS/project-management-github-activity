@@ -22,7 +22,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3. I don't understand what bootstrap is and didn't really understand it when professor went over it. 
 #### Things we want to know next**
 1.  I have heard of Wireframes but want to learn more about it. 
-2.  Cloud deployment with Kubernetes[2]
+2.  Want to learn more about Node.js
 3.  Teraform[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
