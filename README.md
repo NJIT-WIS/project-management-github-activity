@@ -27,6 +27,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  Proper Use of Terminal
 2.  Essential Repositories for Resume
 3.  Learn Python Fluently[2]
+4.  General Security Practices 
+
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
