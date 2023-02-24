@@ -33,6 +33,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4. Docker Compose Files[1]
 5. Traefik[1]
 4. File Structure[1]
+5. Github Flow[1]
+
 
 #### Things we want to know next**
 
