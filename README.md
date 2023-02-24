@@ -20,7 +20,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 5. node.js and npm are on different versions [1]
 6. How to switch branches in command line git [1]
 7. Git [1]
-
+8. Github [1]
+9. SSH [1]
 #### Things we don't understand
 1. How github essentially makes coding into a microsoft teams and saves all commits to the individual [1]
 2. Following almost a list of steps to compose a file and testing through errors [1]
