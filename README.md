@@ -17,7 +17,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we don't understand
 1. Using ELK stack[1]
 2. Creating Pull Request[1]
-3. Setting Up OAuth with Azure
+3. Setting Up OAuth with Azure[1]
 
 #### Things we want to know next**
 
