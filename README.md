@@ -15,7 +15,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we understand**
 1.  Creating pull requests [1]
 2.  Creating SSH Keys and setting up authorization [1] 
-3.  Docker Installation[1]
+3.  Merging branches across various different forks [1]
 #### Things we don't understand
 1. Git Stash[1]
 2. GIt pull[2]
