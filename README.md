@@ -17,9 +17,10 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  Linux Directory listing[2] 
 3.  Docker Installation[1]
 #### Things we don't understand
-1. Git sudo[1]
+1. Git stash[1]
 2. GIt Workflows[1]
 3. GIT Forking Workflow[1]
+4. Git Sudo[1]
 #### Things we want to know next**
 1.  Git LFS [1]
 2.  Git reflog[1]
