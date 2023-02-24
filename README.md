@@ -19,7 +19,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 1. Better solve merge conflicts
 2. Watchtower
-3. Github workflow
+3. Github workflow[2]
 4. Webpack
 5. Docker Images
 
