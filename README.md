@@ -26,6 +26,7 @@
 3. I learned how to create and name repositories in Github and in Docker.
 4. Resolving Merge Conflicts [1]
 5. Pull Request[1]
+6. Git Push[1] 
 ### Things you don't understand about what we are doing / web development.
 1. What some git commands do. 
 2. I don't understand what exactly a DevOps Engineer does.
@@ -38,4 +39,5 @@
 2. I want to know how what we're learning will be used in web development.
 3. I want to know if it's possible to use the terminals of other IDEs to do git commands.
 4. OpenStack[1]
+
 
