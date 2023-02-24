@@ -12,18 +12,30 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Complete the Assignment By adding your issues to these 3 lists and count how many times each issue is mentioned.  The number in the bracket next to each issue is the count, you should set your count at 1 for your issue.  We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
 
 ### Your list should look like this:
-#### Things I learned**
-1.  How to make an SSH on Ubuntu[2]
-2.  How to merge a branch to the master[3] 
-3.  How to commit all git status stuff[4]
-#### Things I don't understand**
-1. I don't know how to do anything[1]
-2. How to use the separate branch made by an issue[6]
-3. How do I work on someone else's repositories[7]
-#### Things I want to know next**
-1.  Node.js [5]
-2.  Cloud deployment with Kubernetes[2]
-3.  Teraform[1]
+
+#### Things we understand**
+
+1.  Learned how to clone a code. [1]
+2.  Created a SSH Public key [1]
+3.  Docker Installation [1]
+4.  How to make an SSH on Ubuntu[1]
+5. How to merge a branch to the master[1] 
+6. How to commit all git status stuff[1]
+
+#### Things we don't understand
+
+1. How to fork a repo[1]
+2. How to change branches [1]
+3. Pull requests [1]
+4. I don't know how to do anything [1]
+5. How to use the separate branch made by an issue[1]
+6. How do I work on someone else's repositories[1]
+
+#### Things we want to know next**
+1.  How to code in Pycharm [1]
+2.  How to create a Repo [1]
+3.  How to create branches [1]
+4.  Node.js [1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
