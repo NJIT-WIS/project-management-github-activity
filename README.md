@@ -27,7 +27,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1. Git Stash[1]
 2. GIt pull[2]
 3. GIT status[1]
-4. Pulling updates from main repository
+4. Docker-compose files[1]
+5. Pulling updates from main repository[1]
 
 #### Things we want to know next\*\*
 
