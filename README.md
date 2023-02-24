@@ -10,7 +10,6 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  You will learn to manage a basic project using GitHub Project.
 
 ### Complete the Assignment By adding your issues to these 3 lists and count how many times each issue is mentioned.  The number in the bracket next to each issue is the count, you should set your count at 1 for your issue.  We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
-### Your list should look like this:
 1. Git Commands
 2. Docker[2]
 3. Cloud Computing Fundamentals
@@ -23,6 +22,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3. Github workflow[2]
 4. Webpack
 5. What are docker images, and why are they used?[1]
+6. Github workflows
 #### Things we want to know next**
 1. CI/CD [2]
 2. More about frontend and backend together
@@ -31,6 +31,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 5.  CI/CD[1]
 6.  Teraform[1]
 
+>>>>>>
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
