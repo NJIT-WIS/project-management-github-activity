@@ -17,7 +17,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  node.js and npm are on different versions[1] 
 3.  How to switch branches in command line git [1]
 4.  Git [1]
-5.  Github [1]
+5.  Github [2]
 6.  SSH [1]
 7. The importance of a repository [1]
 #### Things we don't understand
