@@ -17,6 +17,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  node.js and npm are on different versions[1] 
 3.  How to switch branches in command line git [1]
 4.  Git [1]
+5.  Github [2] 
 #### Things we don't understand
 1. When to docker build vs. docker compose up[1]
 2. docker -d command in the cheat sheet not working[1]
