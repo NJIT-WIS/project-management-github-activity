@@ -99,7 +99,6 @@ Collaborating on GitHub:
 1. I learned hot to use git project boards
 #### Things I know
 
-#### Things I know
 ### Joshua Kaisar's List:
 #### Things we understand**
 1. How to make a static website
