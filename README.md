@@ -13,3 +13,4 @@
 1.  playwright testing
 2.  vue.js framework
 3.  github project management
+4.  agile development methodology [1]
