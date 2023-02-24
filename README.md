@@ -17,15 +17,21 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  Linux Directory listing[3] 
 3.  Docker Installation[2]
 #### Things we don't understand
-1. Git Stash[2]
+1. Git Stash[3]
 2. GIt pull[3]
 3. GIT status[2]
 4. I wish I knew something [2]
+5. GIt Workflows[1]
+6. GIT Forking Workflow[1]
+7. Git Sudo[1]
 #### Things we want to know next**
 1.  Elastic Search Indexing [2]
 2.  Cloud deployment with Kubernetes[3]
 3.  Teraform[2]
 4. test [2]
+5.  Git LFS [1]
+6.  Git reflog[1]
+7.  Git reset[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
