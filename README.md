@@ -19,6 +19,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we don't understand
 1. Git Stash [1]
 2. Git Pull[1]
+3. GIT status [1]
 #### Things we want to know next**
 
 
