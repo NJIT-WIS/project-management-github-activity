@@ -26,6 +26,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4. What does "npm" stand for?[1]
 5. What is the difference between **Working Directory** and **Local Repo**?[1]
 6. I dont understand tasks on GitHub[1]
+7. I dont understand Pull Request[1]
 
 #### Things we want to know next**
 1. I want to know Kubernetes.[1]
