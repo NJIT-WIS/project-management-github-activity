@@ -1,8 +1,8 @@
 ---
-name: Things I learned
-about: Add one item for each thing you learned keep to max of 255 characters
+name: Things I Learned
+about: Add one item for each thing you learned. Keep to max of 255 characters.
 title: "[Things I Learned]"
-labels: ''
+labels: i know
 assignees: ''
 
 ---
