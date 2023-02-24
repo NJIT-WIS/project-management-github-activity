@@ -44,6 +44,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 6.  Use vim[2]
 7. How to do the permission verification for different role of a system (like: admin, manager, normal users)[1]
 8. The details of rebase[1]
+9. How to deploy a web app to the online env[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
