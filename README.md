@@ -34,6 +34,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3. How learning code can benefit in other jobs, not just front and back ending [1]
 4. More command line shortcuts to make using the command line smoother [1]
 5. How to manage forks and pull requests through the command line [1]
+6. More experience with alternatives to Docker [1]
 
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
