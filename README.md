@@ -19,7 +19,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4.  SSL Error[1]
 5.  Adding SSH key to GitHub[1]
 #### Things we don't understand
-1. Tasks on GitHub[1]
+1. Tasks on GitHub [1]
 2. Pull Requests [1]
 3. Actions Tab [1]
 4. What does "npm" stand for?[1]
