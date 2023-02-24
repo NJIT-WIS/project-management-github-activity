@@ -13,20 +13,22 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  Python Print[1]
-2.  Linux Directory listing[2] 
+1.  Python Print[2]
+2.  Linux Directory listing[3] 
 3.  Docker Installation[1]
 4.  Setting up Git/GitHub with SSH [1]
 5.  Merging in Git [1]
 6.  Forking a Git Repo [1]
 
 #### Things we don't understand
-1. Git Stash[2]
+1. Git Stash[3]
 2. GIt pull[2]
 3. GIT status[1]
 4. GitHub Actions [1]
 5. Webpack [1]
-
+6. Git Workflows[1]
+7. Git Forking Workflow[1]
+8. Git Sudo[1]
 #### Things we want to know next**
 1.  Elastic Search Indexing [1]
 2.  Cloud deployment with Kubernetes[2]
@@ -34,6 +36,9 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4.  Containers [1]
 5.  Branching Strategies [1]
 6.  Web Development with Python [1]
+7.  Git LFS[1]
+8.  Git Reflog[1]
+9.  GIT reset[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
