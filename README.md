@@ -13,17 +13,20 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  Python Print[1]
-2.  Linux Directory listing[2] 
+1.  I learned Git issues[9]
+2.  I learned Git status[26]
 3.  Docker Installation[1]
 
 #### Things we don't understand
-
-
-
 1. I don't understand how to resolve merge conflicts[6]
 2. I don't understand Docker container images and their use[7]
 3. I don't know how to deal with daemon errors[8]
+
+
+#### Things we want to know next**
+1.  I want to know about CI/CD tools[12]
+2.  I want to know Git remote repositories[13]
+3.  Teraform[1]
 
 
 
