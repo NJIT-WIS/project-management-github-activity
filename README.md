@@ -16,6 +16,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 #### Things we don't understand
 1. Using ELK stack[1]
+2. Creating Pull Request[1]
 
 #### Things we want to know next**
 
