@@ -52,10 +52,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 15. Kubernetes[1]
 16. I don't know how docker works[2]
 17. I don't understand how this class is structured[1]
-18. Docker-compose files[1]
-19. Pulling updates from main repository[1]
-20. Advanced Vim shortcuts[1]
-21. Containerization[1]
+18. Docker-compose files[2]
+
 
 #### Things we want to know next**
 1. Elastic Search Indexing [2]
@@ -73,7 +71,6 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 13. Microsoft Azure[1]
 14. AWS S3 Buckets[1]
 15. Flask and the MVC pattern[1]
-
 
 
 
