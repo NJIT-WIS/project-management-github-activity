@@ -51,16 +51,6 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 9. Use vim[2]
 10. The details of rebase[2]
 11. How to deploy a web app to the online env[2]
-#### Things we want to know next**
-1.  Elastic Search Indexing [3]
-2.  Cloud deployment with Kubernetes[4]
-3.  Teraform[3]
-4.  How to do the permission verification for different role of a system[1]
-5.  The logic of login and register page[1]
-6.  How to use bootstrap for development[1]
-7.  Use vim[2]
-8.  Use tag in git[2]
-9.  Manage submodules in git repo[2]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
