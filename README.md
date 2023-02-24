@@ -33,6 +33,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 5. Pulling updates from main repository[1]
 6. Advanced Vim shortcuts[1]
 7. Containerization[1]
+8. Kibana[1]
 
 #### Things we want to know next\*\*
 
