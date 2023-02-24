@@ -37,3 +37,4 @@ Collaborating on GitHub:
 3. Don't understand the difference between cloning and forking
 ### Things you want to know next
 1. More in depth SQL
+2. More HTML/CSS
