@@ -28,7 +28,7 @@ Collaborating on GitHub:
 
 ## Put your items here
 ### Things you understand so far
-1. Add items to the list
+1. I know how to make ssh keys
 ### Things you don't understand about what we are doing / web development.
 1. Don't understand forking
 2. Don't Understand Oracle Cloud
