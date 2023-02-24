@@ -13,24 +13,31 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  Python Print[1]
-2.  Linux Directory listing[2] 
-3.  Docker Installation[1]
+
+1.  Github[1]
+2.  Docker Installation[1] 
+3.  npm[1]
 4.  MAVEN[1]
+
 #### Things we don't understand
-1. Git Stash[1]
-2. GIt pull[2]
-3. GIT status[1]
-4. GIT REBASE[1]
-5. GIT RESET[1]
-6. GIT FORK[1]
+
+
+1. Docker Container and its use[1]
+2. GIT Rebase[2]
+3. Implementation of Single Sign-On process[1]
+4. GIT RESET[1]
+5. GIT FORK[1]
+
+
 #### Things we want to know next**
-1.  Elastic Search Indexing [1]
-2.  Cloud deployment with Kubernetes[2]
-3.  Teraform[1]
+
+1.  Managing Git Stash [1]
+2.  Cloud Deployment [1]
+3.  How Pytest is used for Automation[1]
 4.  OAUTH[1]
 5.  HTTPS[1]
 6.  HELM CHART[1]
+
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
