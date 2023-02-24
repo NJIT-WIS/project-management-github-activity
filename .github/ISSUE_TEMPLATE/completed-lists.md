@@ -1,8 +1,9 @@
 ---
 name: Completed Lists
 about: This is for your master pull request to merge your master into this repo.
-title: nv344
-labels: Master List
+title: jk728
+labels: Submitting master branch
+
 assignees: ''
 
 ---
