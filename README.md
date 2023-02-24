@@ -19,7 +19,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we don't understand
 1. Packages
 2. I am not fully sure why docker hub is necessary or different from Github
-3. GIT status[1]
+3. SSH Keys
 #### Things we want to know next
 1.  VIM
 2.  CI
