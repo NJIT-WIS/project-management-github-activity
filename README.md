@@ -14,7 +14,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Your list should look like this:
 #### Things we understand**
 1.  Github[1]
-2.  Docker Installation[1] 
+2.  Docker Installation[2] 
 3.  npm[2]
 4.  MAVEN[1]
 5.  MONGODB[1]
@@ -27,8 +27,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 6. GIT FORK[1]
 #### Things we want to know next**
 1.  Managing Git Stash [1]
-2.  Cloud Deployment [1]
-3.  Teraform[1]
+2.  Cloud Deployment [2]
+3.  How Pytest is used for Automation[1]
 4.  OAUTH[1]
 5.  HTTPS[1]
 6.  HELM CHART[1]
