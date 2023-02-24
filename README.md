@@ -19,7 +19,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4. CSS[1]
 5. putty[1]
 6. Docker Hub[1].
-7. 
+7. UNIX Commands[1]
 8.  
 9.  
 #### Things we don't understand
@@ -30,7 +30,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 5. Traefik[1]
 6. webclass[1]
 7. Docker / Kubernetes[1]
-8.  
+8. 
 9.  
 #### Things we want to know next**
 1.  I-want to know React JS [1]
