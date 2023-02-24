@@ -1,14 +1,10 @@
 ---
-name: Completed Lists
+name: Master Pull Request
 about: This is for your master pull request to merge your master into this repo.
-title: sg2366
-labels: question
+title: Put your UCID as the title(replace this text)
+labels: Submitting Master Branch
 assignees: ''
 
 ---
 
-You need to make a pull request and add the link to the pull request to this issue when you submit.  
-
-PULL REQUEST LINK:
-
-UCID:sg2366
+You need to make a pull request and add the link to the pull request to this issue when you submit.
