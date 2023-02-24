@@ -47,6 +47,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 6.  Javascript Project Configuration[1]
 7.  Containerization[1]
 8.  VueJs[1]
+9.  Unit Testing[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 
