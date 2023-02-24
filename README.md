@@ -20,9 +20,9 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 5.  MONGODB[1]
 #### Things we don't understand
 1. Docker Container and its use[1]
-2. GIT Rebase[1]
-3. GIT status[1]
-4. GIT REBASE[1]
+2. GIT Rebase[2]
+3. Implementation of Single Sign-On process[1]
+4. GIT status[1]
 5. GIT RESET[1]
 6. GIT FORK[1]
 #### Things we want to know next**
