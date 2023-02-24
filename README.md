@@ -22,10 +22,28 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. I don't understand Docker container images and their use[7]
 3. I don't know how to deal with daemon errors[8]
 
+
 #### Things we want to know next**
 1.  I want to know about CI/CD tools[12]
 2.  I want to know Git remote repositories[13]
 3.  Teraform[1]
+
+
+
+
+
+1.  GitHub and PyCharm work[8]
+2.  Building image on Docker[7]
+3.  GitHub commands[6]
+#### Things we don't understand
+1. Auto grading[1]
+2. gitHub commit and push[5]
+3. Terminal Errors[3]
+
+#### Things we want to know next**
+1.  JavaScript [11]
+2.  Resolving Errors[10]
+3.  Web project using HTML, CSS, JavaScript[9]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
