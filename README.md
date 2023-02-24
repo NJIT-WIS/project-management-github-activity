@@ -38,3 +38,4 @@ Collaborating on GitHub:
 ### Things you want to know next
 1. I want to know how to use Github
 2. I want to know how to not commit to master branch
+3. I want to know how to do pull requests
