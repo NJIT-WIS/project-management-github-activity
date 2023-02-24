@@ -21,6 +21,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  Docker Installation[1]
 4.  Docker commands[1]
 5.  Connect to cloud instance via ssh[1]
+6.  Vim[1]
 
 #### Things we don't understand
 
