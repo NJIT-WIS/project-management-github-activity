@@ -16,7 +16,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 1.  Github[1]
 2.  Docker Installation[1] 
-3.  npm[1]
+3.  npm[2]
 4.  MAVEN[1]
 
 #### Things we don't understand
