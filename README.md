@@ -13,41 +13,67 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Complete the Assignment By adding your issues to these 3 lists and count how many times each issue is mentioned. The number in the bracket next to each issue is the count, you should set your count at 1 for your issue. We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
 
 ### Your list should look like this:
-
-#### Things we understand\*\*
-
-1.  Python Print[1]
-2.  Linux Directory listing[2]
-3.  Docker Installation[1]
-4.  Docker[2]
-5.  Connect to cloud instance via ssh[1]
-6.  Vim[1]
-7.  Git Actions[1]
-8.  Virtualization[1]
+#### Things we understand**
+1.  SSH [1]
+2.  Docker CLI [3]
+3.  React.js [1]
+4.  Mobile Responsiveness [1]
+5.  CI/CD [1]
+6.  Flask API [1]
+7.  VIM Command Line [3]
+8.  Vim command for line searching [1]
+9.  Pull Requests [1]
+10. Git commands [1]
+11. Python Print [1]
+12. Linux Directory listing [2]
+13. Docker Installation [1]
+14. Docker [2]
+15.  Connect to cloud instance via ssh [1]
+16.  Git Actions [1]
+17.  Virtualization [1]
 
 
 #### Things we don't understand
+1.  Vue.js [1]
+2.  Teraform [1]
+3.  Git CLI [1]
+4.  User Authentication [1]
+5.  MVC [1]
+6.  Elastic Search [1]
+7.  marshmallow: simplified object serialization [1]
+8.  DevOps [1]
+9.  traefik [2]
+10. SSH Keys [1]
+11. Kibana [2]
+12. Git Stash [1]
+13. Git pull [2]
+14. GIT status [1]
+15. Docker-compose files [2]
+16. Pulling updates from main repository [1]
+17. Advanced Vim shortcuts [1]
+18. Dockerfiles [1]
 
-1. Git Stash[1]
-2. GIt pull[2]
-3. GIT status[1]
-4. Docker-compose files[2]
-5. Pulling updates from main repository[1]
-6. Advanced Vim shortcuts[1]
-7. Kibana[1]
-8. Dockerfiles[1]
-
-#### Things we want to know next\*\*
-
-1.  Elastic Search Indexing [1]
-2.  Cloud deployment with Kubernetes[2]
-3.  Teraform[1]
-4.  RESTful API[1]
-5.  Deploy to other cloud platforms[1]
-6.  Javascript Project Configuration[1]
-7.  Containerization[1]
-8.  VueJs[1]
-9.  Unit Testing[1]
+#### Things we want to know next**
+1.  Git CLI [1]
+2.  Vue.js [4]
+3.  Godaddy [1]
+4.  Docker [1]
+5.  Oracle [1]
+4.  NoSQL [1]
+5.  Kubernetes [1]
+6.  AWS [1]
+7.  Auth0 [1]
+8.  JWT Authentication [1]
+9.  MVC [1]
+10. Playwright [1]
+11. Elastic Search Indexing [1]
+12. Cloud deployment with Kubernetes [2]
+13. Teraform [1]
+14. RESTful API [1]
+15. Deploy to other cloud platforms [1]
+16. Javascript Project Configuration [1]
+17. Containerization [1]
+18. Unit Testing [1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 
