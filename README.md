@@ -21,7 +21,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. GIt pull[2]
 3. GIT status[1]
 #### Things we want to know next**
-1.  Elastic Search Indexing [1]
+1.  I want to learn Docker[1]
 2.  Cloud deployment with Kubernetes[2]
 3.  Teraform[1]
 
@@ -91,5 +91,3 @@ Collaborating on GitHub:
 12.  Check that your task is moved from in progress to done
 13.  update your local main branch with the changes from the merge by doing git pull origin main
 14. Repeat again, and again, and again
-### I wish i knew Something
-adsada
