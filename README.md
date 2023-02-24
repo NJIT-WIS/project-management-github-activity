@@ -18,7 +18,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3. I learned to use Webstorm in IS117 and Pycharm in this class this semester. 
 #### Things we don't understand
 1. What DevOps is and what's its use
-2. GIt pull[2]
+2. Tried to learn Java but failed to learn a lot as it's complicated.
 3. GIT status[1]
 #### Things we want to know next**
 1.  Elastic Search Indexing [1]
