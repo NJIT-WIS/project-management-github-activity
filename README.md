@@ -20,15 +20,16 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4.  Mobile Responsiveness [1]
 5.  CI/CD [1]
 6.  Flask API [1]
-7.  VIM Command Line [2]
+7.  VIM Command Line [3]
 8.  Vim command for line searching [1]
 9.  Pull Requests [1]
 10. Git commands [1]
 11. Python Print [1]
 12. Linux Directory listing [2]
-13.  Docker Installation[1]
-14.  Docker [2]
-15.  Connect to cloud instance via ssh [1]
+13. Docker Installation [1]
+14. Docker [2]
+5.  Connect to cloud instance via ssh [1]
+5.  Git Actions[1]
 
 
 #### Things we don't understand
