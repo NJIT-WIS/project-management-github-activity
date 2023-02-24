@@ -10,3 +10,4 @@ assignees: ''
 I don't understand <fill in what you don't here>
 1. added item list.
 2. I don't understand devops
+3. I don't understand aws
