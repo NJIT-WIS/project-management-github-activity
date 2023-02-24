@@ -12,12 +12,14 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Complete the Assignment By adding your issues to these 3 lists and count how many times each issue is mentioned.  The number in the bracket next to each issue is the count, you should set your count at 1 for your issue.  We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
 
 ### Your list should look like this:
+
 #### Things we understand**
 
 1.  Learned how to clone a code. [1]
 2.  Created a SSH Public key [1]
 3.  Docker Installation [1]
 4.  How to make an SSH on Ubuntu[1]
+5. How to merge a branch to the master[1] 
 
 #### Things we don't understand
 
