@@ -41,6 +41,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 5. How to manage forks and pull requests through the command line [1]
 6. More experience with alternatives to Docker [1]
 7. Vue [1]
+8. Angular [1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
