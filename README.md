@@ -27,6 +27,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4. Actions Tab [1]
 5. Pull Request [1]
 6. Tasks on GitHub [1]
+7. I don't understand webpack.[1]
 #### Things we want to know next
 1.  [Python Flask](https://flask.palletsprojects.com/en/2.2.x/) [1]
 2.  Creating Pytest [1]
