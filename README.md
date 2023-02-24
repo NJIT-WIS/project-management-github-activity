@@ -22,9 +22,10 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1. Git Stash[1]
 2. GIt pull[2]
 3. GIT status[1]
-4. port issues on docker[1]
-5. pull requests on GHub[1]
-6. Watchtower[1]
+4. Git merge[1]
+5. port issues on docker[1]
+6. pull requests on GHub[1]
+7. Watchtower[1]
 #### Things we want to know next**
 1.  Elastic Search Indexing [1]
 2.  Cloud deployment with Kubernetes[3]
