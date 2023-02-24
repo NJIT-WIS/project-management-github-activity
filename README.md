@@ -11,6 +11,6 @@
 3. kibana
 #### Things we want to know next**
 1.  playwright testing
-2.  vue.js framework
+2.  vue.js framework [2]
 3.  github project management
 4.  agile development methodology [1]
