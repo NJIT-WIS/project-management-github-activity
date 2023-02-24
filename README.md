@@ -15,11 +15,12 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we understand
 1.  Cloning a repo
 2.  Building a docker image
-3.  Docker Installation[1]
+3.  Commit on GitHub
 #### Things we don't understand
 1. Packages
-2. I am not fully sure why docker hub is necessary or different from Github
+2. Docker hub
 3. SSH Keys
+4. Putty
 #### Things we want to know next
 1.  VIM
 2.  CI
