@@ -21,7 +21,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 6. Docker Hub.
 7. UNIX Commands[1]
 8. Bootstrap[1]
-9.  
+9. Python
 #### Things we don't understand
 1. Multi-thread programming [1]
 2. PostgreSQL[1]
