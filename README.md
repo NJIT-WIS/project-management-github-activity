@@ -21,7 +21,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. Resolve Merge Conflicts
 3. Python Fluency 
 #### Things we want to know next**
-1.  Elastic Search Indexing [1]
+1.  Proper Use of Terminal
 2.  Cloud deployment with Kubernetes[2]
 3.  Teraform[1]
 
