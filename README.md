@@ -18,7 +18,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  Linux
 #### Things we don't understand
 1. Git Stash
-2. GIt pull[3]
+2. GIt pull
 3. GIT status[2]
 #### Things we want to know next**
 1.  Elastic Search Indexing [2]
