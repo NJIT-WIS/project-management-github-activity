@@ -39,7 +39,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4.  Kubernetes
 5.  Vue JS[4]
 6.  Flask
-7.  
+7.  AWS
 
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
