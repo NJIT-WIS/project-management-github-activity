@@ -17,6 +17,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. create branches[1]
 3. resolve merge conflicts[1]
 4. python basics[1]
+5. professional docker use[1]
 #### Things we don't understand
 1. docker commands[1]
 2. terminal commands[1]
