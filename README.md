@@ -22,3 +22,4 @@ Collaborating on GitHub:
 ### Things you want to know next
 1. VueJs
 2. MVC
+3. Playwright
