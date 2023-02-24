@@ -21,11 +21,11 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 7.  How to push using gui in vscode[1]
 8.  Terminal [1]
 9.  Python Print[1]
-10.  Linux Directory listing[2] 
-11.  Docker Installation[1]
-12.  Terminal [1]
-13.  Bootstrap[1]
-14.  Github[1]
+10. Linux Directory listing[2] 
+11. Docker Installation[1]
+12. Terminal [1]
+13. Bootstrap[1]
+14. Github[1]
 
 #### Things we don't understand**
 1. Git Stash[1]
@@ -44,13 +44,18 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 14. Git Pull [1]
 
 #### Things we want to know next**
-1.  Django [1]
-2.  OpenStack[1]
-3.  Ceph[1]
-4.  Kubernetes[1]
-5.  Elastic Search[1]
-6.  Browser dev tools[1]
-7.  Authentication[1]
+1. Elastic Search Indexing [1]
+2. Cloud deployment with Kubernetes[2]
+3. Teraform[1]
+4. Nagios[1]
+5. React[1]
+6.  Django [2]
+7.  OpenStack[1]
+8.  Ceph[1]
+9.  Kubernetes[1]
+10.  Elastic Search[1]
+11.  Browser dev tools[1]
+12.  Authentication[1]
 
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
