@@ -20,6 +20,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1. git reflog[1]
 2. git diff[1]
 3. git stash[1]
+4. Docker Images[1]
 #### Things we want to know next**
 1.  Kubernetes [1]
 2.  Cloud Computing[1]
