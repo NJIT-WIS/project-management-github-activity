@@ -33,7 +33,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 6. Combine different commits[1]
 7. Build Docker image based on my PC's environment[1]
 8. Prepare DockerFile[2]
-9. How to use bootstrap for development[1]
+9. How to use bootstrap for development[2]
 10. The logic of login and register page[1]
 11. The difference between Git and SVN[1]
 #### Things we want to know next**
