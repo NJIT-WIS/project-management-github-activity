@@ -30,6 +30,7 @@ Collaborating on GitHub:
 ### Things you understand so far
 1. I know Github is used to share file access
 2. I know how to create new issues
+3. I know how to access repositories
 ### Things you don't understand about what we are doing / web development.
 1. I don't know anything
 2. I don't understand Github commands
