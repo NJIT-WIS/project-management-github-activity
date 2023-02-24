@@ -13,22 +13,23 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  Git[2]
-2.  Github[1] 
+1.  Git [2]
+2.  Github [1] 
 3.  SSH [1]
-4.  How to add command line arguments to a Dockerfile[1]
-5.  node.js and npm are on different versions[1]
+4.  How to add command line arguments to a Dockerfile [1]
+5.  node.js and npm are on different versions [1]
 #### Things we don't understand
 1. What are Github Issues [1]
 2. What is an SSH key [1]
 3. Why do we need Git [1]
-4. When to docker build vs. docker compose up[1]
-5. docker -d command in the cheat sheet not working[1]
-6. How to fix OAuth token issue when actions fails[1]
+4. When to docker build vs. docker compose up [1]
+5. docker -d command in the cheat sheet not working [1]
+6. How to fix OAuth token issue when actions fails [1]
 #### Things we want to know next**
 1.  Vue [1]
 2.  Angular [1]
 3.  React [1]
+4.  More command line shortcuts to make using the command line smoother [1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
