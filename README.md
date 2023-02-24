@@ -32,6 +32,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 6. Had issues with earlier webclass integration.
 7. Docker / Kubernetes[1]
 8. MongoDB
+9. NodeJS
 
 #### Things we want to know next**
 1.  ReactJS [1]
