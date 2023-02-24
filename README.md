@@ -96,6 +96,8 @@ Collaborating on GitHub:
 #### Things I don't know
 1. I don't know how docker works
 #### Things I want to know
+1. I learned hot to use git project boards
+#### Things I know
 
 #### Things I know
 ### Joshua Kaisar's List:
