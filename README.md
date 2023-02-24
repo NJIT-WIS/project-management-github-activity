@@ -13,17 +13,32 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  Python Print[1]
-2.  Linux Directory listing[2] 
-3.  Docker Installation[1]
+1.  Create branch[1]
+2.  Git Status[2] 
+3.  Git Commit[1]
+4.  Git add, commit, push, merges and resolving merge conflicts[1]
+5.  GitHub secrets to add usernames/passwords[1] 
+6.  Building Docker images though pycharm terminal[1]
 #### Things we don't understand
-1. Git Stash[1]
-2. GIt pull[2]
-3. GIT status[1]
+<<<<<<< HEAD
+1. Pytest & how to use testing frameworks[1]
+2. Building & playing Docker images[1]
+3. Difference between *git fetch origin* & *git pull origin main*[1]
+=======
+1. Purpose of Fork process[1]
+2. Workflow between repositories[2]
+3. Docker Vs GitHub[1]
+4. Pytest & how to use testing frameworks[1]
+5. Building & playing Docker images[1]
+6. Difference between git fetch origin & git pull origin main[1]
+>>>>>>> 87e1ac90ea28978288a584cb1c42d2a88157fbc9
 #### Things we want to know next**
-1.  Elastic Search Indexing [1]
-2.  Cloud deployment with Kubernetes[2]
-3.  Teraform[1]
+1.  HTML and CSS [1]
+2.  JAVASCRIPTS[2]
+3.  Python[1]
+4.  What Kubernetes is [1]
+5.  What Teraform is[1]
+6.  How to write Dockerfiles[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
