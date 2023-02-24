@@ -92,13 +92,6 @@ Collaborating on GitHub:
 13.  update your local main branch with the changes from the merge by doing git pull origin main
 14. Repeat again, and again, and again
 
-### Consolidated List - Smit
-#### Things I don't know
-1. I don't know how docker works
-#### Things I want to know
-1. I learned hot to use git project boards
-#### Things I know
-
 ### Joshua Kaisar's List:
 #### Things we understand**
 1. How to make a static website
