@@ -24,6 +24,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. GIt pull[3]
 3. GIT status[2]
 4. Watchtower
+5. Traefik
 #### Things we want to know next**
 1.  Elastic Search Indexing [3]
 2.  Cloud deployment with Kubernetes[4]
