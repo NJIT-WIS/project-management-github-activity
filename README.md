@@ -19,6 +19,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4.  ReactJS[1]
 #### Things we don't understand
 1.  Git Stash
+2.  Git Actions
 #### Things we want to know next**
 
 
