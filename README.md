@@ -19,7 +19,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we don't understand
 1. Git stash[1]
 2. Git Workflows[1]
-3. GIT Forking Workflow[1]
+3. Git Forking Workflow[1]
 4. Git Sudo[1]
 #### Things we want to know next**
 1.  Git LFS [1]
