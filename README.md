@@ -16,6 +16,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  Docker Hub.
 2.  Css.
 3.  Basics of Putty.
+4.  PHP[1]
 #### Things we don't understand
 1. Ssh Configuration.
 2. Traefik Integration.
