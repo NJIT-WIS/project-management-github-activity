@@ -28,8 +28,9 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 12. Linux Directory listing [2]
 13. Docker Installation [1]
 14. Docker [2]
-5.  Connect to cloud instance via ssh [1]
-5.  Git Actions[1]
+15.  Connect to cloud instance via ssh [1]
+16.  Git Actions [1]
+17.  Virtualization [1]
 
 
 #### Things we don't understand
