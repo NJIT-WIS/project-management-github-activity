@@ -34,7 +34,6 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  Node.js
 4.  React JS[1]
 5.  Vue JS[4]
-6.  Teraform[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
