@@ -10,10 +10,10 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  You will learn to manage a basic project using GitHub Project.
 
 ### Complete the Assignment By adding your issues to these 3 lists and count how many times each issue is mentioned.  The number in the bracket next to each issue is the count, you should set your count at 1 for your issue.  We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
-
 1. Git Commands
 2. Docker[2]
 3. Cloud Computing Fundamentals
+4. Git Commands
 #### Things we don't understand
 1. Better solve merge conflicts
 2. Watchtower
