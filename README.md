@@ -23,7 +23,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we don't understand
 1. "npm" [1]
 2. Working Directory vs Local Repository [1]
-3. git status [1]
+3. git status [2]
 4. Actions Tab [1]
 5. Pull Request [1]
 6. Tasks on GitHub [1]
