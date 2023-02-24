@@ -13,7 +13,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 
-#### Things we understand
+#### Things we understand**
 1.  Cloning a repo [1]
 2.  Building a docker image [1]
 3.  How Docker Works[1]
@@ -30,37 +30,38 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 14. Cloning and Merging through Github [1]
 
 #### Things we don't understand
-1. Packages [1]
-2. Docker hub [1]
-3. SSH Keys [1]
-4. Putty [1]
-5. Git Stash [1]
-6. GitHub Collaboration [1]
-7. Reconciling divergent branches [1]
-8. How a kernel functions [1]
-9. Webpack.config from mywebclass [1]
-10. Rebasing [1]
-11. Develop App from Start --> Finish [1]
-12. Practical Use of Docker [1]
-13. Github Milestones [1]
-14. Resolving Conflicts [1]
-15. Merge Conflicts [1]
+1. How Docker Works[1]
+2. The concept of SSH Keys[3]
+3. Libraries and Frameworks[1]
+4. Packages [1]
+5. Putty [1]
+1. Git Stash [1]
+2. Dockerfile [1]
+3. GitHub Collaboration [1]
+4. Reconciling divergent branches [1]
+5. How a kernel functions [1]
+6. Webpack.config from mywebclass [1]
+7. Rebasing [1]
+8. Develop App from Start --> Finish [1]
+9. Practical Use of Docker [1]
+10. Github Milestones [1]
+11. Resolving Conflicts [1]
+12. Merge Conflicts [1]
 
-#### Things we want to know next
-1.  VIM [1]
-2.  CI [1]
-3.  CD [1]
-4. Python Flask [1]
-5. AWS - cloud development [1]
-6. Unit Testing [2]
-7. More of what npm is capable of [1]
-8. More standards a DevOps engineer should follow (e.g. what to do after entering pip install -r requirements.txt) [1]
-9. React [2]
-10. Css-Flexbox/GridView [1]
-11. Redux/Flask [1]
-12. How to use Kubernetes [1]
-13. How to Build Landing pages using HTML, CSS, and Javascript [1]
-
+#### Things we want to know next**
+1.  VIM [2]
+2.  CD (continuous development)[3]
+3.  CI (continuous integration)[2] 
+1. Python Flask [1]
+2. AWS - cloud development [1]
+3. Unit Testing [2]
+4. More of what npm is capable of [1]
+5. More standards a DevOps engineer should follow (e.g. what to do after entering pip install -r requirements.txt) [1]
+6. React [2]
+7. Css-Flexbox/GridView [1]
+8. Redux/Flask [1]
+9. How to use Kubernetes [1]
+10. How to Build Landing pages using HTML, CSS, and Javascript [1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
