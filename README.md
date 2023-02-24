@@ -16,6 +16,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  I learned git commit.[1]
 3.  I learned git status.[1]
 4.  SSL Error.[1]
+5.  Adding SSH Key to GitHub.[1]
 
 #### Things we don't understand
 1. I don't understand webpack.[1]
