@@ -29,6 +29,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 6. Tasks on GitHub [1]
 7. I don't understand webpack.[1]
 8. I don't understand git fetch vs git pull.[1]
+9. I don't understand git init.[1]
 #### Things we want to know next
 1.  [Python Flask](https://flask.palletsprojects.com/en/2.2.x/) [1]
 2.  Creating Pytest [1]
