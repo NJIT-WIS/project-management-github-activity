@@ -25,6 +25,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3. Had issues with earlier webclass integration.
 4. Docker Full web application deployment[1]
 5. Postgresql[1]
+6. Multiple thread programming
 #### Things we want to know next**
 1.  Daemons
 2.  Kubernetes
