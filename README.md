@@ -18,7 +18,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  [1]
 #### Things we don't understand
 1. Git Stash[1]
-2. [1]
+2. Resolving merge conflict on fork[1]
 3. [1]
 #### Things we want to know next
 1.  [1]
