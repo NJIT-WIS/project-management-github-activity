@@ -28,7 +28,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  Essential Repositories for Resume
 3.  Learn Python Fluently[2]
 4.  General Security Practices 
-
+5.  More Advantages That Help Get Internships
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
