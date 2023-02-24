@@ -28,6 +28,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. vue.js [2]
 3. webpack [1]
 4. playwright [1]
+5. github project management [1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
