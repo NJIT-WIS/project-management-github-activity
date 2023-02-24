@@ -2,7 +2,7 @@
 
 ## Overview
 
-The purpose of this assignment is to practice collaborating using GIT/GitHub and develop the requirements for the mywebclass.org website's tutorials and courses. To accomplish this task we are going to create three lists(What I Know, What I Don't Know, and What I Want To Learn) and consolidate the items from everyone in the class into a master list that counts the number of repeated issues. You need at least **3 items for each list for a total of 9 items** and you should plan that these items are going to be used for project 1 as the basis for the possible topics that people can choose to build online tutorials about.
+The purpose of this assignment is to practice collaborating using GIT/GitHub and develop the requirements for the mywebclass.org website's tutorials and courses.  To accomplish this task we are going to create three lists(What I Know, What I Don't Know, and What I Want To Learn) and consolidate the items from everyone in the class into a master list that counts the number of repeated issues.  You need at least **3 items for each list for a total of 9 items** and you should plan that these items are going to be used for project 1 as the basis for the possible topics that people can choose to build online tutorials about.   
 
 ## Learning Objectives:
 
@@ -13,37 +13,66 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Complete the Assignment By adding your issues to these 3 lists and count how many times each issue is mentioned. The number in the bracket next to each issue is the count, you should set your count at 1 for your issue. We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
 
 ### Your list should look like this:
+#### Things we understand**
 
-#### Things we understand\*\*
+1.  Pull Request[1]
+2.  Git Push[2] 
+3.  Git Commit[2]
+4.  Resolving Merge Conflicts [1]
+5.  How to create a new branch[1]
+6.  How to switch branches[1]
+7.  How to push using gui in vscode[1]
+8.  Terminal [1]
+9.  Python Print[1]
+10. Linux Directory listing[2] 
+11. Docker Installation[1]
+12. Terminal [1]
+13. Bootstrap[1]
+14. Github[1]
+15. Agile[1]
+16. Docker[1]
+17. I know how to make websites and web apps with HTML, CSS, and Javascript[1]
+18. I know how to configure a web server[1]
 
-1.  Python Print[1]
-2.  Linux Directory listing[2]
-3.  Docker Installation[1]
-4.  Docker commands[1]
-5.  Connect to cloud instance via ssh[1]
-6.  Vim[1]
-
-
-#### Things we don't understand
-
-1. Git Stash[1]
-2. GIt pull[2]
+#### Things we don't understand**
+1. Git Stash[2]
+2. GIt pull[3]
 3. GIT status[1]
-4. Docker-compose files[2]
-5. Pulling updates from main repository[1]
-6. Advanced Vim shortcuts[1]
-7. Containerization[1]
-8. Kibana[1]
+4. Selenium[1]
+5. Kibana[2]
+6. Jenkins[1]
+7. Git Rebase[1]
+8. GIt Track[1]
+9. Git Cherry-pick[1]
+10. syncing vs merging[1]
+11. the proccess of resolving merge conflicts[1]
+12. watchtower[1]
+13. Difference between Scrum and Kanban[1]
+14. Terraform Automation[1]
+15. Kubernetes[1]
+16. I don't know how docker works[2]
+17. I don't understand how this class is structured[1]
+18. Docker-compose files[2]
 
 
-#### Things we want to know next\*\*
+#### Things we want to know next**
+1. Elastic Search Indexing [2]
+2. Cloud deployment with Kubernetes[3]
+3. Teraform[2]
+4. Nagios[1]
+5. React[1]
+6. Django [2]
+7. OpenStack[1]
+8. Ceph[1]
+9. Kubernetes[1]
+10. Elastic Search[1]
+11. Browser dev tools[1]
+12. Authentication[1]
+13. Microsoft Azure[1]
+14. AWS S3 Buckets[1]
+15. Flask and the MVC pattern[1]
 
-1.  Elastic Search Indexing [1]
-2.  Cloud deployment with Kubernetes[2]
-3.  Teraform[1]
-4.  RESTful API[1]
-5.  Deploy to other cloud platforms[1]
-6.  Javascript Project Configuration[1]
+
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 
@@ -115,3 +144,7 @@ Collaborating on GitHub:
 12. Check that your task is moved from in progress to done
 13. update your local main branch with the changes from the merge by doing git pull origin main
 14. Repeat again, and again, and again
+
+
+
+
