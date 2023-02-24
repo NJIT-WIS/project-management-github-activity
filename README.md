@@ -19,6 +19,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4. How to add command line arguments to a Dockerfile [1]
 5. node.js and npm are on different versions [1]
 6. How to switch branches in command line git [1]
+7. Git [1]
 
 #### Things we don't understand
 1. How github essentially makes coding into a microsoft teams and saves all commits to the individual [1]
