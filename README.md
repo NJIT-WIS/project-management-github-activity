@@ -19,7 +19,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4.  Building a docker image [1]
 #### Things we don't understand
 1. How Docker Works[1]
-2. The concept of SSH Keys[2]
+2. The concept of SSH Keys[3]
 3. Libraries and Frameworks[1]
 4. Packages [1]
 #### Things we want to know next**
