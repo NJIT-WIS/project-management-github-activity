@@ -28,8 +28,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 14. Github[1]
 
 #### Things we don't understand**
-1. Git Stash[1]
-2. GIt pull[2]
+1. Git Stash[2]
+2. GIt pull[3]
 3. GIT status[1]
 4. Selenium[1]
 5. Kibana[1]
@@ -40,13 +40,12 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 10. syncing vs merging[1]
 11. the proccess of resolving merge conflicts[1]
 12. watchtower[1]
-13. Git Stash [1]
-14. Git Pull [1]
+
 
 #### Things we want to know next**
-1. Elastic Search Indexing [1]
-2. Cloud deployment with Kubernetes[2]
-3. Teraform[1]
+1. Elastic Search Indexing [2]
+2. Cloud deployment with Kubernetes[3]
+3. Teraform[2]
 4. Nagios[1]
 5. React[1]
 6.  Django [2]
