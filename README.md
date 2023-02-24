@@ -13,29 +13,35 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.   PHP [1] 
+1. PHP [1] 
 2. Agile[1]
-3.  flask[1]
+3. flask[1]
 4. CSS[1]
 5. putty[1]
 6. Docker Hub[1].
+7. 
+8.  
+9.  
 #### Things we don't understand
-1.code with multiple threads[1]
+1. code with multiple threads[1]
 2. PostgreSQL[1]
 3. complex applications of docker[1]
 4. SSH integration[1]
 5. Traefik[1]
 6. webclass[1]
+7. Docker[1]
+8.  
+9.  
 #### Things we want to know next**
 1.  I-want to know React JS [1]
 2.  Node js[2]
 3.  vue js[1]
 4.  Daemons[1]
 5.  Kubernetes[1]
-
-
-7.  Vue JS[1]
-
+6.  Vue JS[1]
+7.  
+8.  
+9.  
 
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
