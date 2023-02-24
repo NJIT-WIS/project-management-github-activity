@@ -16,10 +16,13 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  I learned Git[1]
 2.  I know what docker is[1]
 3.  I know how live reload is done[1]
+
 #### Things we don't understand
 1. Docker Compose[1]
 2. Writing test cases[1]
 3. How CI/CD is achieved[1]
+4. Creating interface[1]
+
 #### Things we want to know next**
 1.  How applications are hosted [1]
 2.  REST API[1]
