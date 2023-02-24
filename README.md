@@ -11,20 +11,34 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Complete the Assignment By adding your issues to these 3 lists and count how many times each issue is mentioned.  The number in the bracket next to each issue is the count, you should set your count at 1 for your issue.  We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
 
-#### Things we understand**
-1.  I learned how to set up a Docker repository.[1]
-2.  I learned git commit.[1]
-3.  I learned git status.[1]
 
+### Your list should look like this:
+#### Things we understand
+1.  SSL Error [1]
+2.  Add SSH Key to GitHub [1] 
+3.  Docker Installation/Repo [3]
+4.  Git Merge [1]
+5.  Fix merge conflixs [1]
+6.  I learned git commit.[1]
 #### Things we don't understand
-1. I don't understand webpack.[1]
-2. I don't understand git fetch vs git pull.[1]
+1. "npm" [1]
+2. Working Directory vs Local Repository [1]
+3. git status [2]
+4. Actions Tab [1]
+5. Pull Request [1]
+6. Tasks on GitHub [1]
+7. I don't understand webpack.[1]
+8. I don't understand git fetch vs git pull.[1]
+#### Things we want to know next
+1.  [Python Flask](https://flask.palletsprojects.com/en/2.2.x/) [1]
+2.  Creating Pytest [1]
+3.  Agile Methodology [2]
+4.  AWS [1]
+5.  DevOps [1]
 
-#### Things we want to know next**
+## Prerequisite - YOU MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
+Add your SSH public key to GitHub - See video
 
-
-## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
-Add your ssh public key to github - See video
 **open powershell or terminal and run "ssh-keygen -b 4096" and hit enter through the prompts and then open the file **your home directory/.ssh/id_rsa.pub** and copy that text into your github account settings under SSH/GPG keys -> add key.  in one of the prompts it will tell you where it is going to save the key.  If you already have a key reusue the one you have and cancel out of the process with control c **.  I do it on my mac with the command vi ~/.ssh/id_rsa.pub" and then i press shift colon : and q to quit
 
 ### [Assignment Video](https://youtu.be/UFLKojO3OtM)
@@ -51,7 +65,7 @@ This person should then merge the pull requests and resolve the merge conflict t
 3.  Merged 9 pull requests from someone else
 3.  Made a pull request to another person with your master branch that contains the consolidated list 
 4.  Merged the pull request of someone elsesa compiled list
-5.  Submmited a pull request to this repository to have your complete list merged
+5.  Submitted a pull request to this repository to have your complete list merged
 
 ### Canvas Submission instructions
 
