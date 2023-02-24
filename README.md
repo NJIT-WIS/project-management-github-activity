@@ -24,12 +24,12 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1. Git Stash[2]
 2. GIt pull[3]
 3. GIT status[2]
-4. I wish I knew something [1]
+4. I wish I knew something [2]
 5. Webpack [1]
 6. I wish I knew something [1]
 
 #### Things we want to know next**
-1.  Elastic Search Indexing [1]
+1.  Elastic Search Indexing [2]
 2.  Cloud deployment with Kubernetes[2]
 3.  Teraform[1]
 4.  Containers [1]
