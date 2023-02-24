@@ -12,28 +12,27 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Complete the Assignment By adding your issues to these 3 lists and count how many times each issue is mentioned.  The number in the bracket next to each issue is the count, you should set your count at 1 for your issue.  We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
 ### Your list should look like this:
 #### Things we understand**
-1. Git Commands
-2. Docker
-3. Cloud Computing Fundamentals
-4.  Git Commands
-5.  Using Docker 
-6.  Using GitHub
+1. Git Commands [3]
+2. Docker [3]
+3. Cloud Computing Fundamentals [1]
+4.  Git Commands [2]
+5.  Using GitHub [1]
+6. Oracle Cloud Instances [2]
 #### Things we don't understand
-1. Better solve merge conflicts
-2. Watchtower
-3. Github workflow[2]
-4. Webpack
-5. What is Webpack and why do we use it?[1]
-6. What are docker images, and why are they used?[1]
-7. GitHub Workflows
+1. Better solve merge conflicts [1]
+2. Watchtower [1]
+3. Github workflow[3]
+4. Webpack [1]
+5. What are docker images, and why are they used?[1]
+6. Docker vs Kubernetes [1]
 #### Things we want to know next**
-1. CI/CD [2]
-2. More about frontend and backend together
-3. Other essential software/services for websites
-4.  Cloud Computing [1]
-5.  CI/CD[1]
-6.  Teraform[1]
-
+1. CI/CD [3]
+2. More about frontend and backend together [2]
+3. Other essential software/services for websites [1]
+4. Cloud Computing [2]
+5. Teraform[1]
+6. Nodejs [1]
+7. More Frameworks [2]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
