@@ -13,7 +13,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Our List:
 #### Things we understand
-1. Basic BASH script commands (directory navigation, file creation, and text editing) [2]
+1. Basic BASH script commands (directory navigation, file creation, and text editing)[2]
 2. Running Docker Compose[1] 
 3. Installing NPM[1]
 4. Oracle Cloud Instance set-up [1]
