@@ -11,26 +11,35 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Complete the Assignment By adding your issues to these 3 lists and count how many times each issue is mentioned.  The number in the bracket next to each issue is the count, you should set your count at 1 for your issue.  We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
 
-### Your list should look like this:
 #### Things we understand**
-1.  How to merge[1]
-2.  How to fix merge conflicts[1] 
-3.  How to make a docker repository[2]
-4.  SSL Error[1]
-5.  Adding SSH key to GitHub[1]
+1.  I learned how to set up a Docker repository.[3]
+2.  I learned git commit.[2]
+3.  I learned git status.[2]
+4.  SSL Error.[1]
+5.  Adding SSH Key to GitHub.[1]
+6.  How to merge [1]
+7.  How to fix merge conflicts[1]
+8.  Adding SSh key to GitHub[1]
+
 #### Things we don't understand
-1. Tasks on GitHub [1]
-2. Pull Requests [1]
-3. Actions Tab [1]
+1. I don't understand webpack.[1]
+2. I don't understand git fetch vs git pull.[1]
+3. I don't understand git init.[1]
 4. What does "npm" stand for?[1]
-5. Git status[1]
-6. Working Directory vs Local Repo[1]
+5. What is the difference between **Working Directory** and **Local Repo**?[1]
+6. I dont understand tasks on GitHub[1]
+7. I dont understand Pull Request[1]
+8. I dont understand actions tab[1]
+
 #### Things we want to know next**
-1.  AWS [1]
-2.  Agile [2]
-3.  DevOps [1]
-4.  PYTEST[1]
-5.  Python Flask[1]
+1. I want to know Kubernetes.[1]
+2. I want to know Terraform.[1]
+3. I want to know more about Node.js.[1]
+4. I want to learn Python Flask.[2]
+5. I want to learn creating Pytest.[1]
+6. I want to learn Agile methodology.[3]
+7. I want to learn more about AWS[2]
+8. I want to learn more about DevOps[2]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
@@ -60,7 +69,7 @@ This person should then merge the pull requests and resolve the merge conflict t
 3.  Merged 9 pull requests from someone else
 3.  Made a pull request to another person with your master branch that contains the consolidated list 
 4.  Merged the pull request of someone elsesa compiled list
-5.  Submmited a pull request to this repository to have your complete list merged
+5.  Submitted a pull request to this repository to have your complete list merged
 
 ### Canvas Submission instructions
 
