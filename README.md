@@ -78,7 +78,7 @@ Collaborating on GitHub:
 ### Things you understand so far
 1. Creating a branch to my own Github and making the according changes.
 2. Updating my partners’ forks from PyCharm.
-3. 
+3. Making edits locally on PyCharm.
 ### Things you don't understand about what we are doing / web development.
 1. I don't understand the importance of needing a Dockerhub repository.
 2. I don't understand the process behind merging pull requests.
