@@ -17,9 +17,12 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. Installing Docker and Docker Hub [1]
 3. Operating GIT through cmd/terminal [1]
 #### Things we don't understand
+<<<<<<< HEAD
 1. Docker Files [1]
 2. Creating Pytests and running pytests [1]
 3. Creating GitHub Workflows and running them [1]
+4. Using oracle cloud services [1]
+>>>>>>> 7202b808e88cd465bfd4f6af603fe1553b208365
 #### Things we want to know next**
 1. How to properly structure our projects [1]
 2. How to create and deploy web apps [1]
