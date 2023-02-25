@@ -28,7 +28,3 @@ Collaborating on GitHub:
 
 ## Put your items here
 ### Things you understand so far
-1. Python Print[1]
-2. Linux Directory listing[2]
-3. Docker Installation[1]
-### Things you don't understand about what we are doing / web development.
