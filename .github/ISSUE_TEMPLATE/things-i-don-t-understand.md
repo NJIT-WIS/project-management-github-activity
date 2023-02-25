@@ -7,7 +7,3 @@ assignees: ''
 
 ---
 
-#### Dont Understand
-
-
-3. SSH Keygen
