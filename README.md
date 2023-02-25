@@ -66,7 +66,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 6. Django [2]
 7. OpenStack[1]
 8. Ceph[1]
-9. Kubernetes[1]
+9. Kubernetes[2]
 10. Elastic Search[1]
 11. Browser dev tools[1]
 12. Authentication[1]
