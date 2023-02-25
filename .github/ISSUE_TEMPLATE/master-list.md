@@ -20,7 +20,7 @@ Don't Understand:
 -
 -
 -
-Issues of partner 2: 
+Issues of partner 2 
 I know:
 -
 -
