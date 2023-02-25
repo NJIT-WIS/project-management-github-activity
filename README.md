@@ -14,7 +14,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Your list should look like this:
 #### Things we understand**
 1. Github pull requests [2]
-2. Docker [1]
+2. Docker [2]
 3. pycharm[1]
 #### Things we don't understand
 1. kubernetes[1]
