@@ -107,6 +107,7 @@ Collaborating on GitHub:
 13.  update your local main branch with the changes from the merge by doing git pull origin main
 14. Repeat again, and again, and again
 
+<<<<<<< HEAD
 =======
 1. Add items to the list
 ### Things you don't understand about what we are doing / web development.
@@ -117,3 +118,20 @@ Collaborating on GitHub:
 1. How to connect viewjs to elastic search
 2. This is something I want to know
 >>>>>>> f64d4009149766f89d55a555333912054e9062d6
+=======
+### Joshua Kaisar's List:
+#### Things we understand**
+1. How to make a static website
+2. Git
+3. Agile
+4. Docker
+
+#### Things we don't understand
+1. Difference between Scrum and Kanban
+2. Terraform Automation
+3. Kubernetes
+
+#### Things we want to know next**
+1. Microsoft Azure
+2. AWS S3 Buckets
+>>>>>>> f4f4c33a292f0d792ab74f3e879a71ccf9197e9d
