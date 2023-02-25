@@ -54,6 +54,25 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 6. Docker[1]
 7. DevOps[1]
 
+1.  I learned how Github works and know how to use it properly now. [4]
+2. I learned that Docker is used for sharing, building, and running modern applications.
+3. I learned to use Webstorm in IS117 and Pycharm in this class this semester. 
+#### Things we don't understand
+1. frameworks
+2. Debugging
+3. JavaScript
+3. What DevOps is and what's its use
+4. Tried to learn Java but failed to learn a lot as it's complicated.
+5. I don't understand what bootstrap is and didn't really understand it when professor went over it. 
+#### Things we want to know next**
+1.  Frontend and Backend development
+2.  Docker
+3.  DevOps
+3.  Teraform[1]
+4.  I have heard of Wireframes but want to learn more about it. 
+5.  Want to learn more about Node.js
+6.  Learn what jQuery is
+
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
 **open powershell or terminal and run "ssh-keygen -b 4096" and hit enter through the prompts and then open the file **your home directory/.ssh/id_rsa.pub** and copy that text into your github account settings under SSH/GPG keys -> add key.  in one of the prompts it will tell you where it is going to save the key.  If you already have a key reusue the one you have and cancel out of the process with control c **.  I do it on my mac with the command vi ~/.ssh/id_rsa.pub" and then i press shift colon : and q to quit
