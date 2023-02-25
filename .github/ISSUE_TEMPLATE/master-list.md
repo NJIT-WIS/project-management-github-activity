@@ -1,7 +1,9 @@
+
 ---
 name: Master List
 about: This is a master list for everyone's question in a group
 title: "[Your Name] Master List"
+=======
 labels: Master List
 assignees: ''
 
