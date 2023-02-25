@@ -11,19 +11,23 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Complete the Assignment By adding your issues to these 3 lists and count how many times each issue is mentioned.  The number in the bracket next to each issue is the count, you should set your count at 1 for your issue.  We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
 
-### Your list should look like this:
-#### Things we understand**
-1.  Python Print[1]
-2.  Linux Directory listing[2] 
-3.  Docker Installation[1]
+### Our List:
+#### Things we understand
+1. Basic BASH script commands (directory navigation, file creation, and text editing) [2]
+2. Running Docker Compose[1] 
+3. Installing NPM[1]
+4. Oracle Cloud Instance set-up[1]
+5. Adding reverse proxy load balancer (Traefik) to VM with Docker configuration[1]
 #### Things we don't understand
 1. Git Stash[1]
-2. GIt pull[2]
-3. GIT status[1]
-#### Things we want to know next**
-1.  Elastic Search Indexing [1]
-2.  Cloud deployment with Kubernetes[2]
-3.  Teraform[1]
+2. Resolving merge conflicts with GitHub forks[2]
+3. Difference between Docker container and Docker repository[1]
+4. Web domain configuration[1] 
+5. VM and Docker configuration customization[1] 
+#### Things we want to know next
+1. Host a website on Oracle Cloud from a GitHub repository[2] 
+2. Website content management[1] 
+3. Responsive web page design and development[1] 
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
