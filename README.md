@@ -23,6 +23,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  How do we write the testing codes
 2.  Directory structure
 3.  Github Actions
+4.  Github in detail
 #### Things we want to know next**
 1.  How to work with cloud
 2.  How to deploy it to the cloud server like AWS or Google Cloud or etc
