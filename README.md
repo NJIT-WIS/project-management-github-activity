@@ -12,14 +12,22 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Complete the Assignment By adding your issues to these 3 lists and count how many times each issue is mentioned.  The number in the bracket next to each issue is the count, you should set your count at 1 for your issue.  We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
 
 ### Your list should look like this:
-#### Things we understand**
-1. Docker Files [1]
+#### Things we understand
+1. Creating GIT repositories and commit files on CMD [2]
+2. Installing Docker and Docker Hub [2]
+3. Operating GIT through cmd/terminal [1]
+#### Things we don't understand
+1. Docker Files [2]
 2. Creating Pytests and running pytests [1]
 3. Creating GitHub Workflows and running them [1]
-#### Things we want to know next**
-1. How to properly structure our projects [1]
+4. Using oracle cloud services [1]
+5. Agile Project Management
+#### Things we want to know next
+1. How to properly structure our projects [2]
 2. How to create and deploy web apps [1]
 3. How to create the backend of a website [1]
+4. Python Commands/techniques
+5. Data analys/mining
 
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
