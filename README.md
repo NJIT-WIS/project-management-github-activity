@@ -81,5 +81,6 @@ Collaborating on GitHub:
 ### Things you don't understand about what we are doing / web development.
 1. I don't understand the importance of needing a Dockerhub repository.
 2. I don't understand the process behind merging pull requests.
+3. I don't understand the Terminal shortcuts on Mac.
 ### Things you want to know next
 1. How to connect viewjs to elastic search
