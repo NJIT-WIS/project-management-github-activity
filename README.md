@@ -18,11 +18,11 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  Pull requests and merging[1]
 #### Things we don't understand
 1. I don't know docker[1]
-2. I don't know linux directory listing[2]
+2. I don't know linux directory listing[1]
 3. I don't know GIT[1]
 #### Things we want to know next**
 1.  Cloud deployment [1]
-2.  Cloud deployment with Kubernetes[2]
+2.  Teraform[1]
 3.  Teraform[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
