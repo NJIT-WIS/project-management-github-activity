@@ -22,7 +22,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  Creating branches, merging the branches with other repositories, creating pull requests, pushing the work, committing the work
 #### Things we want to know next**
 1.  How to work with cloud
-
+2.  How to deploy it to the cloud server like AWS or Google Cloud or etc
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
