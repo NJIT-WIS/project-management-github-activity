@@ -18,7 +18,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  how to merge
 ### Things you don't understand about what we are doing
 1. I am lost on hows to pro-Docker
-2. I am lost on hows to pro-Linux
+2. I am lost on ho
+3. ws to pro-Linux
 3. I am lost on hows to setup my domain name with my Oracle account
 4. I am lost on hows pull for this assignment
 ### Things you want to know next
