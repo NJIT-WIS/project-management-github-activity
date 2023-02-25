@@ -6,5 +6,4 @@ labels: Things I learned
 assignees: ''
 
 ---
-### Things I Want to Know
-1. Edit/Create Components in Website
+
