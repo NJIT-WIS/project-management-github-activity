@@ -17,7 +17,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. Adding reverse proxy load balancer (Traefik) to VM with Docker configuration [1]
 3. Basic BASH script commands (directory navigation, file creation, and text editing) [1]
 #### Things we don't understand
-1. Resolving merge conflicts with GitHub forks [1]
+1. Resolving merge conflicts with GitHub forks [2]
 2. Web domain configuration [1] 
 3. VM and Docker configuration customization [1] 
 4. Git Stash [1]
