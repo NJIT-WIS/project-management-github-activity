@@ -13,20 +13,22 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  Python Print[1]
-2.  Linux Directory listing[2] 
+1.  I know how to create issues on git and fork repositories [1]
+2.  I know how to use pycharm [1] 
 3.  Docker Installation[1]
 #### Things we don't understand
-1. Git Stash[1]
-2. GIt pull[2]
-3. GIT status[1]
+1. Node Js[1]
+2. Vim [1]
+3. Git [1]
 #### Things we want to know next**
-1.  Elastic Search Indexing [1]
-2.  Cloud deployment with Kubernetes[2]
-3.  Teraform[1]
+1.  I would like to know about AWS cloud [1]
+2.  I would like to know more about DevOPs[1]
+3.  I would like to know about Azure[1]
 
-## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
-Add your ssh public key to github - See video
+
+## Prerequisite - YOU. MUST Sgit fetch origin
+SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
+Add your ssh key to github - See video
 **open powershell or terminal and run "ssh-keygen -b 4096" and hit enter through the prompts and then open the file **your home directory/.ssh/id_rsa.pub** and copy that text into your github account settings under SSH/GPG keys -> add key.  in one of the prompts it will tell you where it is going to save the key.  If you already have a key reusue the one you have and cancel out of the process with control c **.  I do it on my mac with the command vi ~/.ssh/id_rsa.pub" and then i press shift colon : and q to quit
 
 ### [Assignment Video](https://youtu.be/UFLKojO3OtM)
