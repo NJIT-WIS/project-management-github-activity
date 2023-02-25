@@ -19,7 +19,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we don't understand
 1. Node Js[1]
 2. Vim [1]
-3. GIT [1]
+3. I dont understand git  [1]
 #### Things we want to know next**
 1.  I would like to know about AWS cloud [1]
 2.  I would like to know more about DevOPs[1]
