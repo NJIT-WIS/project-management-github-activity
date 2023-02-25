@@ -8,7 +8,7 @@
 3.  
 #### Things we don't understand
 1. Who is submitting what things on Git[1]
-2. 
+2. Using the Git Command Line[1]
 3. 
 #### Things we want to know next**
 1.  
