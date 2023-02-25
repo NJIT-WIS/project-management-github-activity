@@ -12,9 +12,13 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Complete the Assignment By adding your issues to these 3 lists and count how many times each issue is mentioned.  The number in the bracket next to each issue is the count, you should set your count at 1 for your issue.  We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
 ## Put your items here
 ### Things you understand so far
+1.  I understand how to push to github
 ### Things you don't understand about what we are doing
 1. I am lost on hows to pro-Docker
+2. I am lost on hows to pro-Linux
+3. I am lost on hows to setup my domain name with my Oracle account
 ### Things you want to know next
+1. I want to know why this is tedious.
 
 ### Your list should look like this:
 #### Things we understand**
