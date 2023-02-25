@@ -14,10 +14,16 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Your list should look like this:
 #### Things we understand**
 <<<<<<< HEAD
+<<<<<<< HEAD
 1. Creating GIT repositories and commiting files on CMD [2]
 2. Installing Docker and Docker Hub [1]
 3. Operating GIT through cmd/terminal [1]
 
+=======
+1.  Git Commands
+2.  Issues/Projects on Git
+3.  Docker Installation[1]
+>>>>>>> dd3608fb18bca6a4f8fed90a86545837bf00c9fc
 #### Things we don't understand
 <<<<<<< HEAD
 <<<<<<< HEAD
