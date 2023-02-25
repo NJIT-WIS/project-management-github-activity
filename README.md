@@ -125,6 +125,10 @@ Collaborating on GitHub:
 2. Don't Understand Oracle Cloud
 3. Don't understand the difference between cloning and forking
 ### Things you want to know next
+<<<<<<< HEAD
 1. How to connect viewjs to elastic search
 2. This is something I want to know
 >>>>>>> f64d4009149766f89d55a555333912054e9062d6
+=======
+1. More in depth SQL
+>>>>>>> 8b44ab78b09b81220e9d9c5d4970d14755c6eb13
