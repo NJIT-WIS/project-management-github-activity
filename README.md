@@ -125,19 +125,25 @@ Collaborating on GitHub:
 # Complete the Assignment By adding your issues to these 3 lists.
 
 ## Put your items here
-### Things you understand so far
-1.I know now how to build branches, commit changes, and put to github.
-2.I now know how to use Terminal.
-3.I didn't know what pull requests did but now it is well known by me.
-4.making an edit locally on pycharm
-### Things you don't understand about what we are doing / web development.
-1.What is the code that connects the docker to GitHub.
-2.What are all the files already in the github when we clone a repo? 
-3.What is the code that connects the docker to the github?
-4. I don't understand the Terminal shortcuts on Mac.
-### Things you want to know next
-1.The different libraries of python, like what they are, why they are important and how do I use them.
-2.I am also interested in the database side of web development like SQL.
-3.How to actually start code now that we can work as a team. 
-4. I want to learn more about project management and how to be a good project manager.
->>>>>>> 48b05724f357acb3aa0ef95e8aab90fb134fa394
+#### Things we understand**
+1. Creating GIT repositories and commit files on CMD [4]
+2. Installing Docker and Docker Hub [2]
+3. Operating GIT through cmd/terminal [2]
+4. Making an edit locally on pycharm [1]
+#### Things we don't understand [1]
+1. Docker Files [3]
+2. Creating Pytests and running pytests [1]
+3. Creating GitHub Workflows and running them [1]
+4. Using oracle cloud services [1]
+5. Agile Project Management [1]
+6. What are all files in the github when we clone a repo? [1]
+7. 3.What is the code that connects the docker to the github? [1]
+8. I don't understand the Terminal shortcuts on Mac. [1]
+#### Things we want to know next**
+1. How to properly structure our projects [3]
+2. How to create and deploy web apps [1]
+3. How to create the backend of a website [1]
+4. Python Commands/techniques [2]
+5. Data analys/mining [1]
+6. Data side of web development like SQL [1]
+7. Learn about project management and how to be a good project manager [1]
