@@ -13,17 +13,17 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  Python Print[1]
-2.  Linux Directory listing[2] 
-3.  Docker Installation[1]
+1.  I know how to create and track projects
+2.  I know how to commit changes
+3.  I have learnt how to fork repos and work on projects
 #### Things we don't understand
-1. Git Stash[1]
-2. GIt pull[2]
-3. GIT status[1]
+1. I don't understand how to do the submissions on canvas after completing the tasks on GitHub
+2. I don't understand how to fix errors in Pycharm
+3. I do feel kind of feel lost in class, I want to know what exactly to learn and how to go about it
 #### Things we want to know next**
-1.  Elastic Search Indexing [1]
-2.  Cloud deployment with Kubernetes[2]
-3.  Teraform[1]
+1.  I want to know what job roles I can look at under Business & Information Systems major apart from a software developer
+2.  I want to learn the softwares being taught in this class properly without falling back
+3.  I do feel kind of feel lost in class, I want to know what exactly to learn and how to go about it
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
