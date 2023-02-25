@@ -26,6 +26,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  Terraform[1]
 2.  AWS[1]
 3.  Jenkins[1]
+4. teraform[1]
 4.  Kubernetes[1]
 
 
