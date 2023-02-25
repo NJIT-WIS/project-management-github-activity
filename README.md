@@ -23,6 +23,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we want to know next**
 1. JQuerry[1]
 2. Learn how to deploy a website[1]
+3. Learn How to create a wireframe[1]
 
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
