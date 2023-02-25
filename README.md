@@ -27,7 +27,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 5.  How does docker work
 6.  How does Web development Integration works
 #### Things we want to know next**
-1.  How to work with cloud
+1.  How to work with cloud [1]
 2.  How to deploy it to the cloud server like AWS or Google Cloud or etc
 3.  How to Host and continuously deploy code
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
