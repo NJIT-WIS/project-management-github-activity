@@ -12,36 +12,56 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Complete the Assignment By adding your issues to these 3 lists and count how many times each issue is mentioned.  The number in the bracket next to each issue is the count, you should set your count at 1 for your issue.  We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
 
 ### Your list should look like this:
+
 #### Things we understand**
-1.  Python Print[1]
-2.  Linux Directory listing[2] 
-3.  Docker Installation[3]
-4.  Git push and pull[1]
-5.  Building Docker Image [1]
-6.  Using Git on command line[1]
-7.  Collaborating on GitHub[1]
+1.  I learned Git issues[1]
+2.  I learned Git status[1]
+3.  Docker Installation[4]
+4.  GitHub and PyCharm work[1]
+5.  Building image on Docker[1]
+6.  GitHub commands[1]
+7. Python Print[1]
+8. Linux Directory listing[2]
+9. Git push and pull[1]
+10. Building Docker Image [1]
+11. Using Git on command line[1]
+12. Collaborating on GitHub[1]
+
 #### Things we don't understand
-1. Git Stash[2]
-2. GIt pull[2]
-3. GIT status[1]
-4. Git merge[1]
-5. How to resolve a daemon issue[1]
-6. port issues on docker[1]
-7. pull requests on GHub[1]
-8. Watchtower[1]
+1. I don't understand how to resolve merge conflicts[1]
+2. I don't understand Docker container images and their use[1]
+3. I don't know how to deal with daemon errors[2]
+4.  Auto grading[1]
+5.  gitHub commit and push[1]
+6.  Terminal Errors[1]
+7. Git Stash[2]
+8. GIt pull[2]
+9. GIT status[1]
+10. Git merge[1]
+11. port issues on docker[1]
+12. pull requests on GHub[1]
+13. Watchtower[1]
+
+
 #### Things we want to know next**
-1.  Elastic Search Indexing [1]
-2.  Cloud deployment with Kubernetes[3]
-3.  Teraform[1]
-4. How write Automated Tests [1]
-5. Devops[1]
-6. How to create a webpage[1]
-7.  Working with Vi[1]
-8.  Webpack[1]
+1.  I want to know about CI/CD tools[1]
+2.  I want to know Git remote repositories[1]
+3.  cloud deployment with kubernetes[4]
+4. Resolving Errors[1]
+5. Web project using HTML, CSS, JavaScript[2]
+6. Elastic Search Indexing [1]
+7. Teraform[1]
+8. How write Automated Tests [1]
+9. Devops[1]
+10. How to create a webpage[1]
+11. Working with Vi[1]
+12. Webpack[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
 **open powershell or terminal and run "ssh-keygen -b 4096" and hit enter through the prompts and then open the file **your home directory/.ssh/id_rsa.pub** and copy that text into your github account settings under SSH/GPG keys -> add key.  in one of the prompts it will tell you where it is going to save the key.  If you already have a key reusue the one you have and cancel out of the process with control c **.  I do it on my mac with the command vi ~/.ssh/id_rsa.pub" and then i press shift colon : and q to quit
+
+
 
 ### [Assignment Video](https://youtu.be/UFLKojO3OtM)
 
