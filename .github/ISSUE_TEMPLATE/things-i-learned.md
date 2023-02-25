@@ -8,4 +8,4 @@ assignees: ''
 ---
 ### Things I know
 
-2. Project development sprints
+
