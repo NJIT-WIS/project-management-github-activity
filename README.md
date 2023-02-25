@@ -104,3 +104,4 @@ Collaborating on GitHub:
 
 ### Things I want to know
 - Kubernetes
+- How to make custom Docker images
