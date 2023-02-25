@@ -13,6 +13,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
+
 1.  Installing Docker on Windows[1]
 2.  Importance of containerization[1] 
 3.  Basic Python[1]
@@ -21,13 +22,14 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1. Docker Terminology[1]
 2. CMD Commands[1]
 3. GIT commands[1]
-Docker[1]
+4. Docker[1]
 
 #### Things we want to know next**
 1.  Kubernetes [1]
 2.  Azure integration[1]
 3.  Full stack developer[1]
 4. I want to know how to do pull requests[1]
+
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
