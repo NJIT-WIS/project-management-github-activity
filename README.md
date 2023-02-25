@@ -13,6 +13,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ## Put your items here
 ### Things you understand so far
 <<<<<<< HEAD
+<<<<<<< HEAD
 1.  I understand how to push to github
 2.  github conflict
 3.  how to merge
@@ -110,6 +111,9 @@ Collaborating on GitHub:
 
 =======
 1. Add items to the list
+=======
+1. I know how to make ssh keys
+>>>>>>> 2716e3e74f642aa96b78a25883d4471db75400fd
 ### Things you don't understand about what we are doing / web development.
 1. Don't understand forking
 2. Don't Understand Oracle Cloud
