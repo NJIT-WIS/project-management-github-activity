@@ -21,7 +21,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. How to conceptualize a Software Solution[2]
 3. What a docker daemon is[1]
 #### Things we want to know next**
-1.  Elastic Search Indexing [1]
+1.  Solving a Merge Conflict With User Friendly Software[1]
 2.  Cloud deployment with Kubernetes[2]
 3.  Teraform[1]
 
