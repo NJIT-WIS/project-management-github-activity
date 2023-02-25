@@ -18,6 +18,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 5.  I know how to use vim
 6.  I know how to use bash scripts
 7. I know how to resolve conflicts
+8. I know how to delete directories
 ### Things you don't understand about what we are doing
 1. I am lost on hows to pro-Docker
 2. I am lost on hows to pro-Linux
