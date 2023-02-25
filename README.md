@@ -139,7 +139,7 @@ Things we understand**
 3. Docker Installation[1]
  
 Things we don't understand**
-1. Git Stash[1]
+1. forking[1] 
 2. GIt pull[2]
 3. GIT status[1]
   
