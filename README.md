@@ -84,3 +84,4 @@ Collaborating on GitHub:
 3. I don't understand the Terminal shortcuts on Mac.
 ### Things you want to know next
 1. I want to learn more about project management and how to be a good project manager.
+2. I want to learn more about utilizing Kibana.
