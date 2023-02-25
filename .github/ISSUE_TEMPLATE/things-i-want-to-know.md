@@ -1,8 +1,10 @@
-
+---
 name: Things I want to know
-about: Describe this issue template's purpose here.
-title: "[Thing I want to Know]"
+about: 'Things I want to know '
+title: ''
 labels: Things I want to learn
-assignees: ""
+assignees: ''
 
+---
 
+Please describe what you want to know
