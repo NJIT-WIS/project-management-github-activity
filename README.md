@@ -96,7 +96,7 @@ Collaborating on GitHub:
 ## Issues
 
 ### Things I Don't Understand
-
+- This assignment's instructions
 
 ### Things I learned
 - Spinning up Docker containers via CLI
