@@ -18,7 +18,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3. 
 #### Things we don't understand
 1. Resolving merge conflicts with GitHub forks [1]
-2. 
+2. Web domain configuration [1] 
 3. 
 #### Things we want to know next**
 1. 
