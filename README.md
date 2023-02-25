@@ -36,7 +36,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4. Python Commands/techniques
 =======
 1.  Python commands/techniques
-2.  Cloud deployment with Kubernetes[2]
+2.  Project management on Git
 3.  Teraform[1]
 >>>>>>> a1beba6f5dc8b69c660d2dda998b3b71d000ada2
 
