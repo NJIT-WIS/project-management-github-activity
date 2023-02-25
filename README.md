@@ -12,30 +12,50 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Complete the Assignment By adding your issues to these 3 lists and count how many times each issue is mentioned.  The number in the bracket next to each issue is the count, you should set your count at 1 for your issue.  We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
 
 ### Your list should look like this:
-**#### Things we understand**
+
+#### Things we understand**
 1.  I learned Git issues[1]
 2.  I learned Git status[1]
-3.  Docker Installation[1]
+3.  Docker Installation[4]
 4.  GitHub and PyCharm work[1]
 5.  Building image on Docker[1]
 6.  GitHub commands[1]
+7. Python Print[1]
+8. Linux Directory listing[2]
+9. Git push and pull[1]
+10. Building Docker Image [1]
+11. Using Git on command line[1]
+12. Collaborating on GitHub[1]
 
 #### Things we don't understand
 1. I don't understand how to resolve merge conflicts[1]
 2. I don't understand Docker container images and their use[1]
-3. I don't know how to deal with daemon errors[1]
+3. I don't know how to deal with daemon errors[2]
 4.  Auto grading[1]
 5.  gitHub commit and push[1]
 6.  Terminal Errors[1]
+7. Git Stash[2]
+8. GIt pull[2]
+9. GIT status[1]
+10. Git merge[1]
+11. port issues on docker[1]
+12. pull requests on GHub[1]
+13. Watchtower[1]
 
 
 #### Things we want to know next**
 1.  I want to know about CI/CD tools[1]
 2.  I want to know Git remote repositories[1]
-3.  cloud deployment with kubernetes[1]
-4. JavaScript [1]
-5. Resolving Errors[1]
-6. Web project using HTML, CSS, JavaScript[2]**
+3.  cloud deployment with kubernetes[4]
+4. Resolving Errors[1]
+5. Web project using HTML, CSS, JavaScript[2]
+6. Elastic Search Indexing [1]
+7. Teraform[1]
+8. How write Automated Tests [1]
+9. Devops[1]
+10. How to create a webpage[1]
+11. Working with Vi[1]
+12. Webpack[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
