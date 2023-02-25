@@ -2,7 +2,7 @@
 name: Assignment Master List
 about: this issue is used to merge master branches between collaborators
 title: Merge my list <UCID>
-labels: Assignment Master List
+labels: What I want to know
 assignees: ''
 
 ---
