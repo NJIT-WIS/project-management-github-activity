@@ -25,6 +25,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  Hibernate ORM [1]
 2.  Cloud deployment [2]
 3.  Python automation [1]
+4. Docker commands[1]
 
 #### Things we want to know next**
 1.  Advance terminal command [1]
