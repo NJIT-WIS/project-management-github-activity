@@ -6,10 +6,4 @@ labels: Things I learned
 assignees: ''
 
 ---
-### Things I Want to Know
-
-
-3. Interactive UI on the site
-
-
 
