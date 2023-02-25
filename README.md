@@ -76,14 +76,16 @@ Collaborating on GitHub:
 
 ## Put your items here
 ### Things you understand so far
-1. Creating a branch to my own Github and making the according changes.
-2. Updating my partners’ forks from PyCharm.
-3. Making edits locally on PyCharm.
+1.I know now how to build branches, commit changes, and put to github.
+2.I now know how to use Terminal.
+3.I didn't know what pull requests did but now it is well known by me.
+4.making an edit locally on pycharm
 ### Things you don't understand about what we are doing / web development.
-1. I don't understand the importance of needing a Dockerhub repository.
-2. I don't understand the process behind merging pull requests.
-3. I don't understand the Terminal shortcuts on Mac.
+1.What is the code that connects the docker to GitHub.
+2.What are all the files already in the github when we clone a repo? 
+3.What is the code that connects the docker to the github?
+4. I don't understand the Terminal shortcuts on Mac.
 ### Things you want to know next
-1. I want to learn more about project management and how to be a good project manager.
-2. I want to learn more about utilizing Kibana.
-3. I want to learn and get more comfortable with using SSH keys.
+1.The different libraries of python, like what they are, why they are important and how do I use them.
+2.I am also interested in the database side of web development like SQL.
+3.How to actually start code now that we can work as a team. 
