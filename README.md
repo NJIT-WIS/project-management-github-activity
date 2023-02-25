@@ -13,7 +13,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1. Creating GIT repositories and commiting files on CMD [2]
+1. Creating GIT repositories and commit files on CMD [2]
 2. Installing Docker and Docker Hub [2]
 3. Operating GIT through cmd/terminal [1]
 #### Things we don't understand
