@@ -14,19 +14,12 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Your list should look like this:
 #### Things we understand**
 
-1.  Python[2]
-2.  Linux[1] 
-3.  JavaScript[1]
-4.  ReactJS[1]
+1.  Python[1]
+
 #### Things we don't understand
-1.  Git Stash[1]
-2.  GitHub Actions[1]
-3.  Git Merge[1]
+
 #### Things we want to know next**
-1.  Terraform[1]
-2.  AWS[1]
-3.  Jenkins[1]
-4.  Kubernetes[1]
+
 
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
