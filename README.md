@@ -35,8 +35,9 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  Linux Directory listing[2] 
 3.  Docker Installation[1]
 #### Things we don't understand
+
 1. Git Stash[1]
-2. GIt pull[2]
+2. GIt pull[2] 
 3. GIT status[1]
 #### Things we want to know next**
 1.  Elastic Search Indexing [1]
@@ -111,7 +112,7 @@ Collaborating on GitHub:
 12.  Check that your task is moved from in progress to done
 13.  update your local main branch with the changes from the merge by doing git pull origin main
 14. Repeat again, and again, and again
-=======
+======= 
 2. Enable issues: If you don't see the "Issues" tab in the main menu, you should enable it in the repository settings. Go to the "Issues" tab, and click "Milestones" to add a 0.1.0 milestone and describe it as a consolidated list of issues from your team.  On the issues tab you should also create labels for "I Know", "Want to Know", and "Don't Understand".  Once you create these labels then go to settings and look for the "Issues Template" and create 3 issue templates that will provide the starting text for each issue filed of that type.  At the bottom of each issue you will see that you can automaticly assign a label to that issue type, so connect the respective labels you created with the 3 issue types.
 3. Create one issue per item in your list and assign it to the correct issue template.  
 4. Create a new project tab and create a new project (you have to click the down arrow next to "link project" to change it to new project). When you create a project you need to select "board" and name it "Documentation Tasks".
@@ -140,7 +141,7 @@ Things we understand**
  
 Things we don't understand**
 1. Git Stash[1]
-2. GIt pull[2]
+2. git pull[2]
 3. GIT status[1]
   
  
@@ -160,13 +161,13 @@ Things we want to know next**
 >>>>>>> 2716e3e74f642aa96b78a25883d4471db75400fd
 =======
 2. I know personal domain use
-<<<<<<< HEAD
+<<<<<<< HEAD 
 >>>>>>> 515aa38a7113dc8aa753aa4d7bbf4b14fc3e326a
 =======
 3. I know how to make a personal token
 >>>>>>> 028a10787611c0b89a8972e44f171a76ac36db22
 ### Things you don't understand about what we are doing / web development.
-1. Don't understand forking
+1. Don't understand forking 
 2. Don't Understand Oracle Cloud
 3. Don't understand the difference between cloning and forking
 ### Things you want to know next
@@ -176,6 +177,7 @@ Things we want to know next**
 2. This is something I want to know
 >>>>>>> f64d4009149766f89d55a555333912054e9062d6
 =======
+>
 1. More in depth SQL
 >>>>>>> 8b44ab78b09b81220e9d9c5d4970d14755c6eb13
 =======
