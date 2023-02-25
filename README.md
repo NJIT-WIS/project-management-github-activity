@@ -34,6 +34,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. Microsoft Azure[1]
 3. Teraform[2]
 4. Advance terminal command [1]
+5. Chef : configuration management [1]
 
 
 
