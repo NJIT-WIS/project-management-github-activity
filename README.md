@@ -20,6 +20,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 5.  git fetch [1]
 6.  git checkout [1]
 7.  I know how to make an ssh key and add it to GitHub. [1]
+8.  GITHUB Issues [1]
 #### Things we don't understand
 1. Git Stash[1]
 2. GIt pull[2]
@@ -101,3 +102,4 @@ Collaborating on GitHub:
 12.  Check that your task is moved from in progress to done
 13.  update your local main branch with the changes from the merge by doing git pull origin main
 14. Repeat again, and again, and again
+
