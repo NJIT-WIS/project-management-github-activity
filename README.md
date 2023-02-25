@@ -30,7 +30,8 @@ Collaborating on GitHub:
 ### Things you understand so far
 1. I know how to make an ssh key and add it to GitHub So I don't need to login with password
 2. I learend GITHUB Issues
-3. Merging and pull requests
+3. Merging 
+4. pull requests
 ### Things you don't understand about what we are doing / web development.
 1. Add items to the list
 ### Things you want to know next
