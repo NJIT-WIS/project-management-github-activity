@@ -140,7 +140,7 @@ Things we understand**
  
 Things we don't understand**
 1. Git Stash[1]
-2. GIt pull[2]
+2. git pull[2]
 3. GIT status[1]
   
  
