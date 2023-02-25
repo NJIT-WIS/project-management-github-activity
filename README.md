@@ -21,10 +21,10 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we don't understand
 1.  Git Stash[1]
 2.  GitHub Actions[1]
-3.  Git Merge[1]
+3.  Git Merge [1]
 #### Things we want to know next**
-1.  Terraform[1]
-2.  AWS[1]
+1.  Terraform [1]
+2.  AWS [1]
 3.  Jenkins[1]
 4.  Kubernetes[1]
 
