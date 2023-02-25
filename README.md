@@ -11,32 +11,32 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Complete the Assignment By adding your issues to these 3 lists and count how many times each issue is mentioned.  The number in the bracket next to each issue is the count, you should set your count at 1 for your issue.  We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
 
-### Your list should look like this:
 #### Things we understand**
-
-1.  Write bash scripts[1]
-2.  Manage Issues[1] 
-3.  Using watchtower and implementation[1]
-4.  Linux Commands[1]
-5.  Git Commands[1]
-6.  Project Management[1]
-
+=======
+1.  Linux Commands[1]
+2.  Git Commands[1] 
+3.  Project Management[1]
+4.  How to Setup Oracle Cloud[1]
+5.  Using Docker[1]
+6.  Using Bash Scripts[2]
+7.  Manage Issues[1]
+8.  Using Watchtower[1]
 #### Things we don't understand
-
-1. docker-compose.yml [1]
-2. I don't know anything[1]
-3. I don't know Seige[2]
-4. I don't know kibana[1]
-5. Bash Script[1]
-
+1.  docker-compose.yml[1]
+2.  Siege[1]
+3.  Bash Script[2]
+4.  Using Elk[1]
+5.  Creating Pull Request[1]
+6.  OAuth With Azure[1]
 #### Things we want to know next**
-
-1.  How we effect and integrate into the Stack [2]
-2.  How are changes displayed on final site[1]
-3.  How does teraform work/what is terraforming[1]
-4.  Bash Scrpting[1]
-5.  Kubernetes[1]
-
+1.  DevOps Duty[2]
+2.  Bash Scripting[1]
+3.  Kurbernetes[1]
+4.  Using Browser Cookies[1]
+5.  Using Azure[1]
+6.  Connecting .NET to React[1]
+7.  Final Product Display[1]
+8.  Terraform[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
