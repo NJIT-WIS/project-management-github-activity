@@ -18,6 +18,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  Docker [1]
 
 #### Things we don't understand
+1.  Hibernate ORM [1]
 
 #### Things we want to know next**
 
