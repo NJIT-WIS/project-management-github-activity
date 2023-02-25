@@ -17,6 +17,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1. I am lost on hows to pro-Docker
 2. I am lost on hows to pro-Linux
 3. I am lost on hows to setup my domain name with my Oracle account
+4. I am lost on hows linux commands
 ### Things you want to know next
 
 ### Your list should look like this:
