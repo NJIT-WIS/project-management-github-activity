@@ -13,16 +13,24 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  I learned Git[2]
-2.  I know what docker is[4]
-3.  I know how live reload is done[1]
-4.  Linux Directory listing[2]
-5. Python Print[1]
+
+1.  I learned Git[3]
+2.  I know what docker is[5]
+3.  I know how live reload is done[3]
+4.  Linux Directory listing[4]
+5. Python Print[4]
 6. Linux Directory listing[2] 
-7. Azure cloud computing[1]
-8. Python programming[1]
-9. Flutter mobile app development[1]
+7. Azure cloud computing[3]
+8. Python programming[4]
+9. Flutter mobile app development[2]
 10. HTML and CSS[1] 
+11. Flutter mobile app development[1]
+12.  Docker Installation[3]
+13.  Using Git on command line[1]
+14.  Collaborating on GitHub[1]
+15.  Git push and pull[1]
+16.  Building Docker Image [1]
+
 
 #### Things we don't understand
 1. Docker Compose[1]
@@ -37,20 +45,40 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 10. Responsive design in HTML[1]
 11. Flexbox in CSS[1]
 12. Grid system in bootstrap[1]
-13. Docker Image and container, repository and desktop
-14. difference between docker and github
+13. Docker Image and container, repository and desktop[1]
+14. difference between docker and github[1]
 
 #### Things we want to know next**
 1.  How applications are hosted [1]
-2.  REST API[1]
-3.  Django[1]
+2.  REST API[2]
+3.  Django[3]
 4.  agile technology [1]
 5.  testing the code in pycharm[2]
 6.  Teraform[1]
-7.  Elastic Search Indexing [2]
-8.  Cloud deployment with Kubernetes
-9.  Terraform[2]
-10.  Ansible[1]
+7.  Elastic Search Indexing [3]
+8.  Cloud deployment with Kubernetes[4]
+9.  Terraform[5]
+10.  Ansible[3]
+11. How CI/CD is achieved[1]
+12. Responsive design in HTML[1]
+13. Flexbox in CSS[1]
+14. Grid system in bootstrap[1]
+15. Git Stash[2]
+16. GIt pull[2]
+17. GIT status[1]
+18. port issues on docker[1]
+19. pull requests on GitHub[1]
+20. Watchtower[1]
+21. Git merge[1]
+22. How to resolve a daemon issue[1]
+23.  How applications are hosted [1]
+24.  Working with Vi[1]
+25.  Webpack[1]
+26. How write Automated Tests [1]
+27. Devops[1]
+28. How to create a webpage[1]
+
+
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
