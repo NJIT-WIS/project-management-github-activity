@@ -6,5 +6,6 @@ labels: Things I Don't Understand
 assignees: ''
 
 ---
+### Dont Understand
 
-I don't understand <fill in what you don't here>
+2. How docker is integrated
