@@ -17,9 +17,12 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  Importance of containerization[1] 
 3.  Basic Python[1]
 #### Things we don't understand
+
 1. Docker Terminology[1]
 2. CMD Commands[1]
 3. GIT commands[1]
+Docker[1]
+
 #### Things we want to know next**
 1.  Kubernetes [1]
 2.  Azure integration[1]
