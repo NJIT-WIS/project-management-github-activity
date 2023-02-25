@@ -28,6 +28,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1. Host a website on Oracle Cloud from a GitHub repository [2]
 2. Increasing security on web server/web page[1]
 3. Customizing parameters of docker-compose files[1]
+4. Website content management [1] 
 
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
