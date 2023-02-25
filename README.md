@@ -99,7 +99,7 @@ Collaborating on GitHub:
 
 
 ### Things I learned
-
+- Spinning up Docker containers via CLI
 
 ### Things I want to know
 - Kubernetes
