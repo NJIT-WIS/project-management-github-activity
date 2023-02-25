@@ -40,6 +40,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 5.  How to properly use git rebase [1]
 6.  How to deploy a webapp [1]
 7.  Docker and its functions [1]
+8.  I want to know how what we're learning will be used in web development [1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
