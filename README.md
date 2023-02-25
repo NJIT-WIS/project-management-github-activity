@@ -21,6 +21,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. I am lost on hows to pro-Linux
 3. I am lost on hows to setup my domain name with my Oracle account
 4. I am lost on hows pull for this assignment
+5. I am lost on how to config
 ### Things you want to know next
 1. setup domain name
 2. why tedious assignment
