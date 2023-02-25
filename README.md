@@ -33,8 +33,6 @@ Collaborating on GitHub:
 3. Docker Installation[1]
 ### Things you don't understand about what we are doing / web development.
 1. Git Stash[1]
-2. GIt pull[2]
-3. GIT status[1]
 ### Things you want to know next
 1. Elastic Search Indexing [1]
 
