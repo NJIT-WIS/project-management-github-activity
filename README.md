@@ -76,25 +76,25 @@ Collaborating on GitHub:
 
 ## Put your items here
 ### Things you understand so far
-1.I know now how to build branches, commit changes, and put to github [3]
-2.I now know how to use Terminal. [2]
-3.I didn't know what pull requests did but now it is well known by me.
-4.making an edit locally on pycharm
-5.Installing Docker and Docker Hub [2]
+1. I know now how to build branches, commit changes, and put to github [3]
+2. I now know how to use Terminal. [2]
+3. I didn't know what pull requests did but now it is well known by me.
+4. making an edit locally on pycharm
+5. Installing Docker and Docker Hub [2]
 ### Things you don't understand about what we are doing / web development.
-1.What is the code that connects the docker to GitHub. [3]
-2.What are all the files already in the github when we clone a repo? 
-3.What is the code that connects the docker to the github?
-4.I don't understand the Terminal shortcuts on Mac. 
-5.Creating Pytests and running pytests [1]
-6.Creating GitHub Workflows and running them [1]
-7.Using oracle cloud services [1]
-8.Agile Project Management [1]
+1. What is the code that connects the docker to GitHub. [3]
+2. What are all the files already in the github when we clone a repo? 
+3. What is the code that connects the docker to the github?
+4. I don't understand the Terminal shortcuts on Mac. 
+5. Creating Pytests and running pytests [1]
+6. Creating GitHub Workflows and running them [1]
+7. Using oracle cloud services [1]
+8. Agile Project Management [1]
 ### Things you want to know next
-1.The different libraries of python, like what they are, why they are important and how do I use them. [2]
-2.I am also interested in the database side of web development like SQL.
-3.How to actually start code now that we can work as a team. [3]
-4.I want to learn more about project management and how to be a good project manager.
-5.How to create and deploy web apps [1]
-6.Data analys/mining [1]
-7.How to create the backend of a website [1]
+1. The different libraries of python, like what they are, why they are important and how do I use them. [2]
+2. I am also interested in the database side of web development like SQL.
+3. How to actually start code now that we can work as a team. [3]
+4. I want to learn more about project management and how to be a good project manager.
+5. How to create and deploy web apps [1]
+6. Data analys/mining [1]
+7. How to create the backend of a website [1]
