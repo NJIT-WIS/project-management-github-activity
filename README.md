@@ -83,4 +83,4 @@ Collaborating on GitHub:
 2. I don't understand the process behind merging pull requests.
 3. I don't understand the Terminal shortcuts on Mac.
 ### Things you want to know next
-1. How to connect viewjs to elastic search
+1. I want to learn more about project management and how to be a good project manager.
