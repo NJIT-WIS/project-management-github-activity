@@ -2,11 +2,15 @@
 name: Things I learned
 about: Add one item for each thing you learned keep to max of 255 characters
 title: "[Things I Learned]"
+<<<<<<< HEAD
 
 labels: ''
 =======
 labels: I Know
 
+=======
+labels: I know
+>>>>>>> main
 assignees: ''
 
 ---

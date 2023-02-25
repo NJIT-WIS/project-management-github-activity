@@ -20,7 +20,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  Python print[1]
 2.  Git Pull[2]
 3.  Linux Commands[1]
-=======
+
 
 1.  Python Print[1]
 2.  Linux Directory listing[2]
@@ -37,6 +37,12 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  Ruby[1]
 =======
 1. Git stash[1]
+=======
+2.  Linux Directory listing[2] 
+3.  Docker Installation
+#### Things we don't understand
+1. Pull Requests
+>>>>>>> main
 2. GIt pull[2]
 3. Proper Documentation[1]
 =======
