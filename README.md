@@ -89,3 +89,4 @@ Collaborating on GitHub:
 1.The different libraries of python, like what they are, why they are important and how do I use them.
 2.I am also interested in the database side of web development like SQL.
 3.How to actually start code now that we can work as a team. 
+4. I want to learn more about project management and how to be a good project manager.
