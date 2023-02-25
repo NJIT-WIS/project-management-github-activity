@@ -172,12 +172,17 @@ Things we want to know next**
 <<<<<<< HEAD
 2. I know personal domain use
 <<<<<<< HEAD 
+<<<<<<< HEAD
 =======
 2. I know personal domai n use
 <<<<<<< HEAD
 >>>>>>> 8a42feceba08c92c55a291f8dbd708539d99e92a
 >>>>>>> 515aa38a7113dc8aa753aa4d7bbf4b14fc3e326a
 ======= 
+=======
+>>>>>>> 515aa38a7113dc8aa753aa4d7bbf4b14fc3e326a
+=======  
+>>>>>>> 6ac922a4fd5d446b172a5e87f82c50b92140edc0
 3. I know how to make a personal token
 >>>>>>> 028a10787611c0b89a8972e44f171a76ac36db22
 ### Things you don't understand about what we are doing / web development.
