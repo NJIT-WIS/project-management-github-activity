@@ -16,18 +16,31 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1. Creating GIT repositories and commit files on CMD [2]
 2. Installing Docker and Docker Hub [2]
 3. Operating GIT through cmd/terminal [1]
+4. I know now how to build branches, commit changes, and put to github.
+5. I now know how to use Terminal.
+6. I didn't know what pull requests did but now it is well known by me. [2]
+7. making an edit locally on pycharm
 #### Things we don't understand
 1. Docker Files [2]
 2. Creating Pytests and running pytests [1]
 3. Creating GitHub Workflows and running them [1]
 4. Using oracle cloud services [1]
 5. Agile Project Management [1]
+6. What is the code that connects the docker to GitHub.
+7. What are all the files already in the github when we clone a repo? 
+8. What is the code that connects the docker to the github? [2]
+9. I don't understand the Terminal shortcuts on Mac. [2]
+10. What are all the files already in the github when we clone a repo?
 #### Things we want to know next
 1. How to properly structure our projects [2]
 2. How to create and deploy web apps [1]
 3. How to create the backend of a website [1]
 4. Python Commands/techniques [1]
 5. Data analys/mining [1]
+6. The different libraries of python, like what they are, why they are important and how do I use them.
+7. I am also interested in the database side of web development like SQL.
+8. How to actually start code now that we can work as a team. 
+9. I want to learn more about project management and how to be a good project manager.
 
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
@@ -96,4 +109,3 @@ Collaborating on GitHub:
 12.  Check that your task is moved from in progress to done
 13.  update your local main branch with the changes from the merge by doing git pull origin main
 14. Repeat again, and again, and again
-
