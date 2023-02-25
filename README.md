@@ -28,6 +28,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4.  Git pull[1]
 5.  Git Status[1]
 6. i dont know kubernetes
+7. i dont know git status
 
 #### Things we want to know next**
 1.  Terraform[2]
