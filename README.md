@@ -26,6 +26,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 5. I am lost on how to config
 6. I am lost on what causes conflict
 7. I don't know why it broke
+8. Who is Linus Torvald
 ### Things you want to know next
 1. setup domain name
 2. why tedious assignment
