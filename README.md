@@ -115,7 +115,11 @@ Collaborating on GitHub:
 >>>>>>> 2716e3e74f642aa96b78a25883d4471db75400fd
 =======
 2. I know personal domain use
+<<<<<<< HEAD
 >>>>>>> 515aa38a7113dc8aa753aa4d7bbf4b14fc3e326a
+=======
+3. I know how to make a personal token
+>>>>>>> 028a10787611c0b89a8972e44f171a76ac36db22
 ### Things you don't understand about what we are doing / web development.
 1. Don't understand forking
 2. Don't Understand Oracle Cloud
