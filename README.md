@@ -2,6 +2,7 @@
 
 ## Overview
 
+
 The purpose of this assignment is to practice collaborating using GIT/GitHub and develop the requirements for the mywebclass.org website's tutorials and courses.  To accomplish this task we are going to create three lists(What I Know, What I Don't Know, and What I Want To Learn) and consolidate the items from everyone in the class into a master list that counts the number of repeated issues.  You need at least **3 items for each list for a total of 9 items** and you should plan that these items are going to be used for project 1 as the basis for the possible topics that people can choose to build online tutorials about.   
 
 ## Learning Objectives:
@@ -14,11 +15,21 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Your list should look like this:
 #### Things we understand**
 
-1.  Python[3]
-2.  Linux[3] 
+1.  Python[4]
+2.  Linux[4] 
 3.  JavaScript[1]
 4.  ReactJS[1]
-5.  Docker[2]
+5.  Docker[3]
+6.  git status [1]
+7.  git fetch [1] 
+8.  git checkout [1]
+9.  Create new branch and merge within my own repo[1]
+10. Cloning Repository[2]
+11. Python is integrated into pycharm[1]
+12. Pycharm and Github workflow and integration process[1]
+13. Create new branch and merge within my own repo[1]
+
+
 #### Things we don't understand
 1.  Git Stash[3]
 2.  GitHub Actions[1]
@@ -27,12 +38,19 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 5.  Git Status[2]
 
 #### Things we want to know next**
-1.  Terraform[3]
+
+1.  Terraform[4]
 2.  AWS[1]
 3.  Jenkins[1]
 4.  Kubernetes[3]
-5.  Elastic Search Indexing[2]
-6.  Cloud Deployment[2]
+5.  Elastic Search Indexing[3]
+6.  Cloud Deployment[3]
+7.  How to better work as a PM or as a subordinate [1]
+8.  Use Python program to write Hello World [1]
+9.  How Dockerhub pushes or uses resources against repos in scalable way [1] 
+10. How to deploy a web app with a database on the cloud [1]
+11. Security within our Github and Docker workflow[1]
+12. Linux Directory Listings[1]
 
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
@@ -101,4 +119,6 @@ Collaborating on GitHub:
 12.  Check that your task is moved from in progress to done
 13.  update your local main branch with the changes from the merge by doing git pull origin main
 14. Repeat again, and again, and again
+
+
 
