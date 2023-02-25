@@ -14,36 +14,38 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Your list should look like this:
 
 #### Things we understand**
-1.  Build docker image[1]
-2.  Merge Conflicts [1]
-3.  Github [3]
-4.  Docker [2]
-5.  Python Programming[1]
-6.  Git commands[2]
-7.  Learned about agile model and workflow
+1. Build docker image[3]
+2. Python Programming[2]
+3. Git commands[3]
+4. Merge Conflicts [2]
+5. Github [3]
+6. Docker [3]
+7. Creating branches, merging the branches with other repositories, creating pull requests, pushing the work, committing the work
+8.  Learned How github functions
+9.  Learned about agile model and workflow[1]
+
 
 #### Things we don't understand
-1.  Hibernate ORM [1]
-2.  Cloud deployment [2]
-3.  Python automation [1]
-4.  Docker commands[1]
-5.  Elastic Search Indexing[1]
-6.  How do we write the testing codes
-7.  Directory structure
-8.  Github Actions
-9.  Github in detail
-10.  How does docker work
-11.  How does Web development Integration works
-
+1. Cloud deployment with Kubernetes[3]
+2. Docker commands[4]
+3. Elastic Search Indexing[2]
+4. Hibernate ORM [2]
+5. Python automation [2]
+6.  How do we write the testing codes[2]
+7.  Directory structure[1]
+8.  Github Actions [2]
+9.  How does Web development Integration works[2]
+10.  Github in detail
+11.  How does docker work
 
 #### Things we want to know next**
-1.  Advance terminal command [1]
-2.  Teraform [2]
-3.  Chef : configuration management [1]
-4.  Flask Framework[2]
-5.  Microsoft Azure[1]
-6.  How to work with cloud [3]
-7.  How to Host and continuously deploy code [1]
+1. Flask Framework[4]
+2. Microsoft Azure[3]
+3. Teraform[3]
+4. Advance terminal command [2]
+5. Chef : configuration management [2]
+6.  How to work with cloud [4]
+7.  How to Host and continuously deploy code [2]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
