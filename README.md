@@ -13,17 +13,17 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  Docker[1]
-2.  Jobs in webdev[1] 
-3.  Git[1]
+1.  Git[1]
+2.  Jobs in dev[1] 
+3.  Docker[1]
 #### Things we don't understand
-1. This Assignment[1]
-2. Difference between git fetch and pull[1]
-3. Webpack[1]
+1. Webpack[1]
+2. Differences between git fetch and pull[1]
+3. This Assignment[1]
 #### Things we want to know next**
-1.  Ansible[1]
-2.  Kubernetes[1]
-3.  Docker-compose[1]
+1.  Docker-compose[1]
+2.  Ansible[1]
+3.  Kubernetes[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
