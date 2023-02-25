@@ -13,7 +13,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Our List:
 #### Things we understand
-1. Linux Directory Navigation[1]
+1. Basic BASH script commands (directory navigation, file creation, and text editing) [2]
 2. Running Docker Compose[1] 
 3. Installing NPM[1]
 4. Oracle Cloud Instance set-up[1]
@@ -25,7 +25,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4. Web domain configuration[1] 
 5. VM and Docker configuration customization[1] 
 #### Things we want to know next
-1. Host a website on Oracle Cloud from a GitHub repository[1] 
+1. Host a website on Oracle Cloud from a GitHub repository[2] 
 2. Website content management[1] 
 3. Responsive web page design and development[1] 
 
