@@ -6,5 +6,5 @@ labels: Things I Don't Understand
 assignees: ''
 
 ---
-
-I don't understand <fill in what you don't here>
+### Dont Understand
+1. Merge Conflicts
