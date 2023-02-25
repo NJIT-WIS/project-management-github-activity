@@ -8,7 +8,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  You will learn to merge pull requests and resolve merge conflicts
 3.  You will learn to manage a basic project using GitHub Project.
 
-### Complete the Assignment By adding your issues to these 3 lists and count how many times each issue is mentioned.  The number in the bracket next to each issue is the count, you should set your count at 1 for your issue.  We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
+### Complete the Assigqnment By adding your issues to these 3 lists and count how many times each issue is mentioned.  The number in the bracket next to each issue is the count, you should set your count at 1 for your issue.  We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
 ## Put your items here
 ### Things you understand so far
 1.  I understand how to push to github
@@ -24,10 +24,12 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4. I am lost on hows pull for this assignment
 5. I am lost on how to config
 6. I am lost on what causes conflict
+7. I don't know why it broke
 ### Things you want to know next
 1. setup domain name
 2. why tedious assignment
 3. I want to know how to resolve conflicts
+4. Kuber vs Docker
 
 ### Your list should look like this:
 #### Things we understand**
@@ -133,14 +135,24 @@ Collaborating on GitHub:
 
 # Complete the Assignment By adding your issues to these 3 lists.
 
+<<<<<<< HEAD
 Things we understand**
 1. Python Print[1]
 2. Linux Directory listing[2]
 3. Docker Installation[1]
  
 Things we don't understand**
+<<<<<<< HEAD
+<<<<<<< HEAD
 1. Git Stash[1]
+2. git pull[2]
+=======
+1.merge[1]
+=======
+1. forking[1] 
+>>>>>>> 6dcacc756cf77b5d5c4027838a64f6784dcd6d71
 2. GIt pull[2]
+>>>>>>> 2d9d62c94b9b1fd4cafb2a309e744f65da5e53c9
 3. GIT status[1]
   
  
@@ -148,6 +160,9 @@ Things we want to know next**
 1. Elastic Search Indexing [1]
 2. Cloud deployment with Kubernetes[2]
 3. Teraform[1]
+=======
+## Put your items here
+>>>>>>> parent of 8936131... Update README.md
 
 =======
 1. Add items to the list
@@ -156,14 +171,24 @@ Things we want to know next**
 <<<<<<< HEAD
 >>>>>>> 2716e3e74f642aa96b78a25883d4471db75400fd
 =======
-2. I know personal domain use
 <<<<<<< HEAD
->>>>>>> 515aa38a7113dc8aa753aa4d7bbf4b14fc3e326a
+2. I know personal domain use
+<<<<<<< HEAD 
+<<<<<<< HEAD
 =======
+2. I know personal domai n use
+<<<<<<< HEAD
+>>>>>>> 8a42feceba08c92c55a291f8dbd708539d99e92a
+>>>>>>> 515aa38a7113dc8aa753aa4d7bbf4b14fc3e326a
+======= 
+=======
+>>>>>>> 515aa38a7113dc8aa753aa4d7bbf4b14fc3e326a
+=======  
+>>>>>>> 6ac922a4fd5d446b172a5e87f82c50b92140edc0
 3. I know how to make a personal token
 >>>>>>> 028a10787611c0b89a8972e44f171a76ac36db22
 ### Things you don't understand about what we are doing / web development.
-1. Don't understand forking
+1. Don't understand forking 
 2. Don't Understand Oracle Cloud
 3. Don't understand the difference between cloning and forking
 ### Things you want to know next
