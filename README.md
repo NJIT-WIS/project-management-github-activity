@@ -163,7 +163,7 @@ Things we want to know next**
 3. I know how to make a personal token
 >>>>>>> 028a10787611c0b89a8972e44f171a76ac36db22
 ### Things you don't understand about what we are doing / web development.
-1. Don't understand forking
+1. Don't understand forking 
 2. Don't Understand Oracle Cloud
 3. Don't understand the difference between cloning and forking
 ### Things you want to know next
