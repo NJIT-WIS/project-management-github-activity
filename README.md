@@ -13,12 +13,20 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ## Put your items here
 ### Things you understand so far
 1.  I understand how to push to github
+2.  github conflict
+3.  how to merge
 ### Things you don't understand about what we are doing
 1. I am lost on hows to pro-Docker
 2. I am lost on hows to pro-Linux
 3. I am lost on hows to setup my domain name with my Oracle account
+4. I am lost on hows pull for this assignment
 ### Things you want to know next
+<<<<<<< HEAD
 1. I want to know why this is tedious.
+=======
+1. setup domain name
+2. why tedious assignment
+>>>>>>> ea878a88519878f7cad07ff82aa728c9026ddbd8
 
 ### Your list should look like this:
 #### Things we understand**
