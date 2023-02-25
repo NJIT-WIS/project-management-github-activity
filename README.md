@@ -80,5 +80,6 @@ Collaborating on GitHub:
 2. I learend GITHUB Issues
 ### Things you don't understand about what we are doing / web development.
 1.What is the code that connects the docker to GitHub.
+2.What are all the files already in the github when we clone a repo?
 ### Things you want to know next
 1. How to connect viewjs to elastic search
