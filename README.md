@@ -32,6 +32,9 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 16. Docker[1]
 17. I know how to make websites and web apps with HTML, CSS, and Javascript[1]
 18. I know how to configure a web server[1]
+19. Virtualization[1]
+
+
 
 #### Things we don't understand**
 1. Git Stash[2]
@@ -52,7 +55,6 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 16. I don't know how docker works[2]
 17. I don't understand how this class is structured[1]
 18. Docker-compose files[3]
-
 
 
 #### Things we want to know next**
