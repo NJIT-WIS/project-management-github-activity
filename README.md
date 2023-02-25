@@ -14,7 +14,6 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-
 1.  Pull Request[1]
 2.  Git Push[2] 
 3.  Git Commit[2]
@@ -72,6 +71,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 13. Microsoft Azure[1]
 14. AWS S3 Buckets[1]
 15. Flask and the MVC pattern[1]
+
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 

@@ -1,14 +1,12 @@
----
-name: Completed Lists
-about: This is for your master pull request to merge your master into this repo.
-title: mi242
-labels: Compiled List
-assignees: ''
 
----
+name: Master Pull Request
+about: This is for your master pull request to merge your master into this repo
+title: "[Master] - (docker)"
+labels: Master List
 
 You need to make a pull request and add the link to the pull request to this issue when you submit.  
 
 PULL REQUEST LINK:
 
-UCID:
+UCID:mi242
+

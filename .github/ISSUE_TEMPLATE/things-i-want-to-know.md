@@ -1,13 +1,9 @@
 ---
 name: Things I want to know
-about: Describe this issue template's purpose here.
-
-title: 'Thing I want to know: <file in title> [Thing I want to Knows]'
-labels: I want to know
-assignees: Indiedude78
-
+about: Concepts I am interested in learning
+title: ''
+labels: things I want to know Docker
+assignees: ''
 
 ---
-
-Add an item you want to learn
 
