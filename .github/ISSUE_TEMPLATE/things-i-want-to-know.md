@@ -7,5 +7,3 @@ assignees: ''
 
 ---
 ### Things I Know
-
-2. Project Development Cycle
