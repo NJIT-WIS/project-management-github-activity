@@ -19,7 +19,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we don't understand
 1. This Assignment[1]
 2. Difference between git fetch and pull[1]
-3. Webpack[1]
+3. This Assignment[1]
 #### Things we want to know next**
 1.  Ansible[1]
 2.  Kubernetes[1]
