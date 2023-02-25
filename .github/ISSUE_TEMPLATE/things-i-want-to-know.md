@@ -6,5 +6,6 @@ labels: Things I learned
 assignees: ''
 
 ---
+### Things I Know
 
-Please describe what you want to know in less than 255 characters.
+2. Project Development Cycle
