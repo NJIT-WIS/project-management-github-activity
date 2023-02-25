@@ -13,9 +13,12 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Our List:
 #### Things we understand**
-1. Oracle Cloud Instance set-up[1]
-2. Adding reverse proxy load balancer (Traefik) to VM with Docker configuration[1]
-3. Basic BASH script commands (directory navigation, file creation, and text editing)[1]
+1. Linux Directory Navigation[1]
+2. Running Docker Compose[1] 
+3. Installing NPM[1]
+3. Oracle Cloud Instance set-up[1]
+4. Adding reverse proxy load balancer (Traefik) to VM with Docker configuration[1]
+5. Basic BASH script commands (directory navigation, file creation, and text editing)[1]
 #### Things we don't understand
 1. Git Stash[1]
 2. Resolving merge conflicts with GitHub forks[2]
