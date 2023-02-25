@@ -76,11 +76,15 @@ Collaborating on GitHub:
 
 ## Put your items here
 ### Things you understand so far
-1. I know how to make an ssh key and add it to GitHub So I don't need to login with password
-2. I learend GITHUB Issues
+1.I know now how to build branches, commit changes, and put to github.
+2.I now know how to use Terminal.
+3.I didn't know what pull requests did but now it is well known by me.
 ### Things you don't understand about what we are doing / web development.
-1. I don't understand the importance of needing a Dockerhub repository.
-2. I don't understand the process behind merging pull requests.
-3. I don't understand the Terminal shortcuts on Mac.
+1.What is the code that connects the docker to GitHub.
+2.What are all the files already in the github when we clone a repo? 
+3.What is the code that connects the docker to the github?
+4. I don't understand the Terminal shortcuts on Mac.
 ### Things you want to know next
-1. How to connect viewjs to elastic search
+1.The different libraries of python, like what they are, why they are important and how do I use them.
+2.I am also interested in the database side of web development like SQL.
+3.How to actually start code now that we can work as a team. 
