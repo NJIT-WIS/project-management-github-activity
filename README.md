@@ -13,22 +13,40 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-
-1.  Installing Docker on Windows[1]
-2.  Importance of containerization[1] 
-3.  Basic Python[1]
+1.  Python Print[1]
+2.  Linux Directory listing[2] 
+3.  Docker Installation[1]
+4.  git status [1]
+5.  git fetch [1]
+6.  git checkout [1]
+7.  I know how to make an ssh key and add it to GitHub. [1]
+8.  GITHUB Issues [2]
+9.  Create and name repositories in Github and in Docker.
+10. Connecting GitHub to pycharm [1]
+11. Using GitHub to share files [1] 
 #### Things we don't understand
-
-1. Docker Terminology[1]
-2. CMD Commands[1]
-3. GIT commands[1]
-4. Docker[1]
-
+1. Git Stash[1]
+2. GIt pull[2]
+3. GIT status[1]
+4. Dockerhub [2]
+5. Undoing commits [1]
+6. git rebase [1]
+7. git commands [2]
+8. DevOps Engineer role [1]
+9. Certain Merge issues [1]
+10. Vi Commands[1]
 #### Things we want to know next**
-1.  Kubernetes [1]
-2.  Azure integration[1]
-3.  Full stack developer[1]
-4. I want to know how to do pull requests[1]
+1.  Elastic Search Indexing [1]
+2.  Cloud deployment with Kubernetes[2]
+3.  Teraform[1]
+4.  How to use Kubernetes and Docker together [1]
+5.  How to properly use git rebase [1]
+6.  How to deploy a webapp [1]
+7.  Docker and its functions [1]
+8.  I want to know how what we're learning will be used in web development [1]
+9.  How to use Kubernetes [1]
+10. More python
+11. How to use AWS [1]
 
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
@@ -69,3 +87,32 @@ To submit this assignment you need to submit the result of step #5 to canvas.  W
 Collaborating on GitHub:
 
 1. Fork the repository: Each person should fork the repository to their own GitHub account. To do this, click the "Fork" button in the top-right corner of the repository page.
+2. Enable issues: If you don't see the "Issues" tab in the main menu, you should enable it in the repository settings. 
+3. Go to the "Issues" tab, and click "Milestones" to add a 0.1.0 milestone and describe it as a consolidated list of issues from your team.  
+4. Go to the issues tab you should also create labels for "I Know", "Want to Know", "Don't Understand", and "Master List".  
+5. Once you create these labels then go to settings and look for the "Issues Template" and create/edit 4 issue templates that will provide the starting text for each issue filed of that type.  At the bottom of each issue you will see that you can automaticly assign a label to that issue type, so connect the respective labels you created with the 4 issue types.  You need an issue for "I Know", "Want to Know", "Don't Understand", and "Master List".
+4. Goto the project tab and create a new project (you have to click the down arrow next to "link project" to change it to new project). When you create a project you need to select "board" and name it "Documentation Tasks".
+5. Once this is completed then clone this to your computer using the SSH link **NOT THE HTTP LINK** you need the ssh link to use the key you added to your account, so you don't get an error when pushing.
+
+
+### Project management and Collaboration workflow Steps
+1. create an issue
+2. assign issue to project task
+*  Assign to yourself
+*  Assign to correct project board
+*  Assign to "todo" project status
+*  Assign to the correct milestone
+* create issue branch 
+3.  Go to the project board and move the task you created to in progress
+4. git fetch origin to see new branch
+5. checkout issue branch locally
+6. git status to make sure you don't have any changed files in the branch before you work
+7. Resolve the issue by adding the list item or incrementing the count of the item
+8. commit -a -m "message text" to do the commit 
+9. git push origin head <- pushes current branch to github
+10. Do a pull request for the branch and make sure you pick the correct source and destination.  Click compare forks because by default it will go to the upstream repository i.e. mine
+11.  merge the pull request and add "closes #<issue number> i.e. closes #4 to close the issue
+12.  Check that your task is moved from in progress to done
+13.  update your local main branch with the changes from the merge by doing git pull origin main
+14. Repeat again, and again, and again
+
