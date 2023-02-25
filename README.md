@@ -30,7 +30,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 #### Things we want to know next**
 1.  Advance terminal command [1]
-2.  Teraform [1]
+2.  Teraform [2]
 3.  Chef : configuration management [1]
 4.  Flask Framework[1]
 5.  Microsoft Azure[1]
