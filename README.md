@@ -130,9 +130,15 @@ Collaborating on GitHub:
 3. Don't understand the difference between cloning and forking
 ### Things you want to know next
 <<<<<<< HEAD
+<<<<<<< HEAD
 1. How to connect viewjs to elastic search
 2. This is something I want to know
 >>>>>>> f64d4009149766f89d55a555333912054e9062d6
 =======
 1. More in depth SQL
 >>>>>>> 8b44ab78b09b81220e9d9c5d4970d14755c6eb13
+=======
+1. More in depth SQL
+2. More HTML/CSS
+3. SEO Knowledge
+>>>>>>> 07602ad72650df847eeb48720cdf10b5aa199f67
