@@ -24,7 +24,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  Git Merge [1]
 #### Things we want to know next**
 
-3.  Jenkins [1]
+2.  AWS [1]
 
 
 
