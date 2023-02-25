@@ -13,6 +13,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ## Put your items here
 ### Things you understand so far
 1.  I understand how to push to github
+2.  github conflict
 ### Things you don't understand about what we are doing
 1. I am lost on hows to pro-Docker
 2. I am lost on hows to pro-Linux
