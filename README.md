@@ -14,7 +14,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Your list should look like this:
 #### Things we understand**
 1.  I know how to commit changes.
-2.  I know how to push and pull commits. 
+2.  I know how to push and pull commits.
 3.  Docker Installation[1]
 #### Things we don't understand
 1. Git Stash[1]
