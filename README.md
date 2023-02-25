@@ -78,8 +78,10 @@ Collaborating on GitHub:
 ### Things you understand so far
 1.I know now how to build branches, commit changes, and put to github.
 2.I now know how to use Terminal.
-3.I didn't know what pull requests did but now it is well known by me.
+
+3.I didn't know what pull requests did but now it is well known by me. [2]
 4.making an edit locally on pycharm
+
 ### Things you don't understand about what we are doing / web development.
 1.What is the code that connects the docker to GitHub.
 2.What are all the files already in the github when we clone a repo? 
