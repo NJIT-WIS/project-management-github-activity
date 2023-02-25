@@ -15,7 +15,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we understand**
 1.  I know how to create issues on git and fork repositories [1]
 2.  How to use pycharm [1] 
-3.  Docker Installation[1]
+3.  I know docker Installation[1]
 #### Things we don't understand
 1. Node Js[1]
 2. Vim [1]
