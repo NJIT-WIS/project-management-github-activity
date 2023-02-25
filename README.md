@@ -20,7 +20,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 #### Things we don't understand
 1. Docker[1]
-2. GitHub/GIT Commands[2]
+2. GitHub Commands[1]
 3. Vi Commands[1]
 
 #### Things we want to know next**
