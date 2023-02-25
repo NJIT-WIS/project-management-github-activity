@@ -21,6 +21,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. Resolving merge conflicts with GitHub forks [2]
 3. Difference between Docker container and Docker repository[1]
 4. Web domain configuration [1]
+5. VM and Docker configuration customization [1] 
 #### Things we want to know next
 1. How to host a website on Oracle Cloud from a Github repo[1]
 2. Increasing security on web server/web page[1]
