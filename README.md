@@ -25,9 +25,10 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4. Web domain configuration[1] 
 5. VM and Docker configuration customization[1] 
 #### Things we want to know next
-1. Host a website on Oracle Cloud from a GitHub repository[2] 
-2. Website content management[1] 
-3. Responsive web page design and development[1] 
+1. Host a website on Oracle Cloud from a GitHub repository [2]
+2. Increasing security on web server/web page[1]
+3. Customizing parameters of docker-compose files[1]
+4. Website content management [1] 
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
