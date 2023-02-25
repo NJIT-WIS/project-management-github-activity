@@ -18,7 +18,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  Linux Directory listing[2]
 3.  Docker Installation[1]
 #### Things we don't understand
-1. Git Stash[1]
+1. Git stash[1]
 2. GIt pull[2]
 3. Proper Documentation[1]
 =======
@@ -31,9 +31,15 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3. I don't understand how to use docker hub and for what purpose
 
 #### Things we want to know next**
+
+1. Vim[1]
+2. Cloud deployment with Kubernetes[2]
+3. Ruby[1]
+=======
 1.  I want to learn the softwares being taught in this class properly without falling back
 2.  I want to learn the softwares being taught in this class properly without falling back
 3.  I do feel kind of feel lost in class, I want to know what exactly to learn and how to go about it
+
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
