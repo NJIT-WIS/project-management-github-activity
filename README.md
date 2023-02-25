@@ -156,7 +156,7 @@ Things we want to know next**
 <<<<<<< HEAD
 >>>>>>> 2716e3e74f642aa96b78a25883d4471db75400fd
 =======
-2. I know personal domain use
+2. I know personal domai n use
 <<<<<<< HEAD
 >>>>>>> 515aa38a7113dc8aa753aa4d7bbf4b14fc3e326a
 =======
