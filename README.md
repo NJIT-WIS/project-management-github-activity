@@ -21,7 +21,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. I don't understand how to fix errors in Pycharm
 3. I do feel kind of feel lost in class, I want to know what exactly to learn and how to go about it
 #### Things we want to know next**
-1.  
+1.  I want to learn the softwares being taught in this class properly without falling back
 2.  I want to learn the softwares being taught in this class properly without falling back
 3.  I do feel kind of feel lost in class, I want to know what exactly to learn and how to go about it
 
