@@ -92,3 +92,14 @@ Collaborating on GitHub:
 13.  update your local main branch with the changes from the merge by doing git pull origin main
 14. Repeat again, and again, and again
 
+
+## Issues
+
+### Things I Don't Understand
+
+
+### Things I learned
+
+
+### Things I want to know
+- Kubernetes
