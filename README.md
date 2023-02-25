@@ -12,6 +12,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Complete the Assignment By adding your issues to these 3 lists and count how many times each issue is mentioned.  The number in the bracket next to each issue is the count, you should set your count at 1 for your issue.  We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
 ## Put your items here
 ### Things you understand so far
+<<<<<<< HEAD
 1.  I understand how to push to github
 2.  github conflict
 3.  how to merge
@@ -105,3 +106,12 @@ Collaborating on GitHub:
 13.  update your local main branch with the changes from the merge by doing git pull origin main
 14. Repeat again, and again, and again
 
+=======
+1. Add items to the list
+### Things you don't understand about what we are doing / web development.
+1. Add items to the list
+2. Don't understand forking
+### Things you want to know next
+1. How to connect viewjs to elastic search
+2. This is something I want to know
+>>>>>>> f64d4009149766f89d55a555333912054e9062d6
