@@ -11,19 +11,21 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Complete the Assignment By adding your issues to these 3 lists and count how many times each issue is mentioned.  The number in the bracket next to each issue is the count, you should set your count at 1 for your issue.  We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
 
-### List:
-#### Things we understand
-1.  [1]
-2.  [1] 
-3.  [1]
+### Our List:
+#### Things we understand**
+1. Oracle Cloud Instance set-up [1]
+2. Adding reverse proxy load balancer (Traefik) to VM with Docker configuration [1]
+3. Basic BASH script commands (directory navigation, file creation, and text editing) [1]
 #### Things we don't understand
-1. Git Stash[1]
-2. Resolving merge conflict on fork[1]
-3. Difference between Docker container and Docker repository[1]
-#### Things we want to know next
-1. How to host a website on Oracle Cloud from a Github repo[1]
-2. [1]
-3. [1]
+1. Resolving merge conflicts with GitHub forks [2]
+2. Web domain configuration [1] 
+3. VM and Docker configuration customization [1] 
+4. Git Stash [1]
+5. Difference between Docker container and Docker repository[1]
+#### Things we want to know next**
+1. Host a website on Oracle Cloud from a GitHub repository [2] 
+2. Website content management [1] 
+3. Responsive web page design and development [1] 
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
