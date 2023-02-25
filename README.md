@@ -20,6 +20,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4. I am lost on hows pull for this assignment
 ### Things you want to know next
 1. setup domain name
+2. why tedious assignment
 
 ### Your list should look like this:
 #### Things we understand**
