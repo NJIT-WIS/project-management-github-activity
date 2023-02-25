@@ -40,6 +40,6 @@
 3. I want to know if it's possible to use the terminals of other IDEs to do git commands.
 4. OpenStack[1]
 5. Django [1]
-6. 
+
 
 
