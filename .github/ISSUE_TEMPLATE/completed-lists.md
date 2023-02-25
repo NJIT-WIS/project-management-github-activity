@@ -1,7 +1,7 @@
 ---
 name: Completed Lists
 about: This is for your master pull request to merge your master into this repo.
-title: ps277
+
 labels: Compiled list
 assignees: ''
 
