@@ -18,6 +18,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  Merge Conflicts [1]
 3.  Github [1]
 4.  Docker [1]
+5.  Python Programming[1]
+
 
 #### Things we don't understand
 1.  Hibernate ORM [1]
