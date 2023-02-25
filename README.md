@@ -31,8 +31,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  AWS[1]
 3.  Jenkins[1]
 4.  Kubernetes[1]
-5. elastic search indexing[1]
-6. cloud Deployment[1]
+5.  Elastic search indexing[1]
+6.  Cloud Deployment[1]
 
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
