@@ -13,8 +13,6 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1. Creating GIT repositories and commiting files on CMD
-#### Things we don't understand**
 1. Docker Files [1]
 2. Creating Pytests and running pytests [1]
 3. Creating GitHub Workflows and running them [1]
