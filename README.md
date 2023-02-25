@@ -16,6 +16,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1. Github pull requests [2]
 2. Docker [2]
 3. pycharm[1]
+4. Webstorm[1]
 #### Things we don't understand
 1. kubernetes[1]
 2. Git stash[1]
