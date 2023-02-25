@@ -19,6 +19,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we don't understand
 1. frameworks
 2. Debugging
+3. JavaScript
 3. What DevOps is and what's its use
 4. Tried to learn Java but failed to learn a lot as it's complicated.
 5. I don't understand what bootstrap is and didn't really understand it when professor went over it. 
