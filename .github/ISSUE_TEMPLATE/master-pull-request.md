@@ -1,9 +1,10 @@
 ---
 
-name: Master Pull Request
-about: 'This is your master pull request to merge your master onto mine. '
+name: Master Pull request
+about: This is for your master pull request to merge your master into mine.
 title: hl62
-labels: Compiled List
+labels: compiled List
+
 assignees: ''
 
 ---
