@@ -13,17 +13,23 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  push and commit on github
-2.  how to do pull request through github
-3. I know Webstorm
+1.  I learned how Github works and know how to use it properly now. [4]
+2. I learned that Docker is used for sharing, building, and running modern applications.
+3. I learned to use Webstorm in IS117 and Pycharm in this class this semester. 
 #### Things we don't understand
 1. frameworks
 2. Debugging
 3. JavaScript
+3. What DevOps is and what's its use
+4. Tried to learn Java but failed to learn a lot as it's complicated.
+5. I don't understand what bootstrap is and didn't really understand it when professor went over it. 
 #### Things we want to know next**
 1.  Frontend and Backend development
 2.  Cloud deployment with Kubernetes[2]
 3.  Teraform[1]
+4.  I have heard of Wireframes but want to learn more about it. 
+5.  Want to learn more about Node.js
+6.  Learn what jQuery is
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
