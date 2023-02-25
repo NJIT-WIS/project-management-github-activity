@@ -100,6 +100,7 @@ Collaborating on GitHub:
 
 ### Things I learned
 - Spinning up Docker containers via CLI
+- How to make GitHub PRs
 
 ### Things I want to know
 - Kubernetes
