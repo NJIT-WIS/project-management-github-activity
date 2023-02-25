@@ -9,7 +9,7 @@
 #### Things we don't understand
 1. Who is submitting what things on Git[1]
 2. Using the Git Command Line[1]
-3. 
+3. How all the different parts of Git connect to each other[1]
 #### Things we want to know next**
 1.  
 2.  
