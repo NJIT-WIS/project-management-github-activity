@@ -15,13 +15,13 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we understand**
 1.  Python Print[1]
 2.  Linux Commands[1] 
-3.  GIT pull [2]
+3.  Git pull[2]
 #### Things we don't understand
 1. Git Stash[1]
-2. GIT pull[2]
-3. GIT status[1]
+2. Proper Documentation[2]
+3. Git status[1]
 #### Things we want to know next**
-1.  Ruby [1]
+1.  Ruby[1]
 2.  Cloud deployment with Kubernetes[2]
 3.  Vim Text Editor [3]
 
