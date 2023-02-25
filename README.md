@@ -83,6 +83,7 @@ Collaborating on GitHub:
 1.What is the code that connects the docker to GitHub.
 2.What are all the files already in the github when we clone a repo? 
 3.What is the code that connects the docker to the github?
+4. I don't understand the Terminal shortcuts on Mac.
 ### Things you want to know next
 1.The different libraries of python, like what they are, why they are important and how do I use them.
 2.I am also interested in the database side of web development like SQL.
