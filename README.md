@@ -12,19 +12,23 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Complete the Assignment By adding your issues to these 3 lists and count how many times each issue is mentioned.  The number in the bracket next to each issue is the count, you should set your count at 1 for your issue.  We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
 ## Put your items here
 ### Things you understand so far
-<<<<<<< HEAD
 1.  I understand how to push to github
 2.  github conflict
 3.  how to merge
 4.  How to merge things even better
+5.  I know how to use vim
+6.  I know how to use bash scripts
 ### Things you don't understand about what we are doing
 1. I am lost on hows to pro-Docker
 2. I am lost on hows to pro-Linux
 3. I am lost on hows to setup my domain name with my Oracle account
 4. I am lost on hows pull for this assignment
+5. I am lost on how to config
+6. I am lost on what causes conflict
 ### Things you want to know next
 1. setup domain name
 2. why tedious assignment
+3. I want to know how to resolve conflicts
 
 ### Your list should look like this:
 #### Things we understand**
@@ -109,11 +113,26 @@ Collaborating on GitHub:
 
 =======
 1. Add items to the list
+=======
+1. I know how to make ssh keys
+<<<<<<< HEAD
+>>>>>>> 2716e3e74f642aa96b78a25883d4471db75400fd
+=======
+2. I know personal domain use
+<<<<<<< HEAD
+>>>>>>> 515aa38a7113dc8aa753aa4d7bbf4b14fc3e326a
+=======
+3. I know how to make a personal token
+>>>>>>> 028a10787611c0b89a8972e44f171a76ac36db22
 ### Things you don't understand about what we are doing / web development.
 1. Don't understand forking
 2. Don't Understand Oracle Cloud
 3. Don't understand the difference between cloning and forking
 ### Things you want to know next
+<<<<<<< HEAD
 1. How to connect viewjs to elastic search
 2. This is something I want to know
 >>>>>>> f64d4009149766f89d55a555333912054e9062d6
+=======
+1. More in depth SQL
+>>>>>>> 8b44ab78b09b81220e9d9c5d4970d14755c6eb13
