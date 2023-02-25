@@ -14,30 +14,35 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Your list should look like this:
 
 #### Things we understand**
-1. Build docker image[1]
+1. Build docker image[2]
 2. Python Programming[1]
 3. Git commands[1]
 4. Merge Conflicts [1]
-5. Github [1]
-6. Docker [1]
+5. Github [2]
+6. Docker [2]
+7. Creating branches, merging the branches with other repositories, creating pull requests, pushing the work, committing the work
+8.  Learned How github functions
+9.  Learned about agile model and workflow
 
 #### Things we don't understand
 1. Cloud deployment with Kubernetes[2]
-2. Docker commands[1]
+2. Docker commands[2]
 3. Elastic Search Indexing[1]
 4. Hibernate ORM [1]
 5. Python automation [1]
-
+6.  How do we write the testing codes
+7.  Directory structure
+8.  Github Actions [1]
+9.  How does Web development Integration works
 
 #### Things we want to know next**
-1. Flask Framework[1]
-2. Microsoft Azure[1]
+1. Flask Framework[2]
+2. Microsoft Azure[2]
 3. Teraform[2]
 4. Advance terminal command [1]
 5. Chef : configuration management [1]
-
-
-
+1.  How to work with cloud [1]
+3.  How to Host and continuously deploy code [1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
