@@ -13,20 +13,28 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  push and commit on github
-2.  how to do pull request through github
-3. I know Webstorm
+1. Github pull requests [4]
+2. Docker [2]
+3. pycharm[1]
+4. Webstorm[2]
 #### Things we don't understand
-1. frameworks
-2. Debugging
-3. JavaScript
+1. kubernetes[1]
+2. Git stash[1]
+3. Bootstrap[2]
+4. DevOps[1]
+5. Java[1]
+6. frameworks[1]
+7. debugging[1]
+8. javascript[1]
 #### Things we want to know next**
-1. JQuerry[1]
+1. JQuerry[2]
 2. Learn how to deploy a website[1]
-3. Learn How to create a wireframe[1]
-4.  Frontend and Backend development
-5.  Docker
-6.  DevOpsn
+3. Learn How to create a wireframe[3]
+4. Node.js[1]
+5. Frontend and Backend development[1]
+6. Docker[1]
+7. DevOps[1]
+
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
 **open powershell or terminal and run "ssh-keygen -b 4096" and hit enter through the prompts and then open the file **your home directory/.ssh/id_rsa.pub** and copy that text into your github account settings under SSH/GPG keys -> add key.  in one of the prompts it will tell you where it is going to save the key.  If you already have a key reusue the one you have and cancel out of the process with control c **.  I do it on my mac with the command vi ~/.ssh/id_rsa.pub" and then i press shift colon : and q to quit
