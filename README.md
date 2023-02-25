@@ -19,6 +19,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  JavaScript[1]
 4.  ReactJS[1]
 5.  i knew Docker[1]
+6. i knew aws
 #### Things we don't understand
 1.  Git Stash[2]
 2.  GitHub Actions[1]
