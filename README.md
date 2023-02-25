@@ -26,6 +26,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. Docker commands[1]
 3. Elastic Search Indexing[1]
 4. Hibernate ORM [1]
+5. Python automation [1]
+
 
 #### Things we want to know next**
 1. Flask Framework[1]
