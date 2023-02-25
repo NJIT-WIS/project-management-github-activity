@@ -140,8 +140,13 @@ Things we understand**
 3. Docker Installation[1]
  
 Things we don't understand**
+<<<<<<< HEAD
 1. Git Stash[1]
 2. git pull[2]
+=======
+1.merge[1]
+2. GIt pull[2]
+>>>>>>> 2d9d62c94b9b1fd4cafb2a309e744f65da5e53c9
 3. GIT status[1]
   
  
