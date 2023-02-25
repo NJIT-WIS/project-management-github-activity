@@ -17,9 +17,11 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. I learned that Docker is used for sharing, building, and running modern applications.
 3. I learned to use Webstorm in IS117 and Pycharm in this class this semester. 
 #### Things we don't understand
-1. What DevOps is and what's its use
-2. Tried to learn Java but failed to learn a lot as it's complicated.
-3. I don't understand what bootstrap is and didn't really understand it when professor went over it. 
+1. frameworks
+2. Debugging
+3. What DevOps is and what's its use
+4. Tried to learn Java but failed to learn a lot as it's complicated.
+5. I don't understand what bootstrap is and didn't really understand it when professor went over it. 
 #### Things we want to know next**
 1.  I have heard of Wireframes but want to learn more about it. 
 2.  Want to learn more about Node.js
