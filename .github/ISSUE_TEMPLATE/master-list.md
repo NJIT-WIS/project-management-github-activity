@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-Issues of partner 1: 
+Issues of partner 1
 I know:
 -
 -
