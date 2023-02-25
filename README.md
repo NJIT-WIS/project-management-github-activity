@@ -141,10 +141,14 @@ Things we understand**
  
 Things we don't understand**
 <<<<<<< HEAD
+<<<<<<< HEAD
 1. Git Stash[1]
 2. git pull[2]
 =======
 1.merge[1]
+=======
+1. forking[1] 
+>>>>>>> 6dcacc756cf77b5d5c4027838a64f6784dcd6d71
 2. GIt pull[2]
 >>>>>>> 2d9d62c94b9b1fd4cafb2a309e744f65da5e53c9
 3. GIT status[1]
