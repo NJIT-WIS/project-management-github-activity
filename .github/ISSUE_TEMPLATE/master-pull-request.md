@@ -1,8 +1,9 @@
 ---
-name: Master Pull request
-about: This is for your master pull request to merge your master into mine.
-title: put your ucid (replace this line)
-labels: compiled List
+
+name: Master Pull Request
+about: 'This is your master pull request to merge your master onto mine. '
+title: hl62
+labels: Compiled List
 assignees: ''
 
 ---

@@ -76,11 +76,16 @@ Collaborating on GitHub:
 
 ## Put your items here
 ### Things you understand so far
-1. I know how to make an ssh key and add it to GitHub So I don't need to login with password
-2. I learend GITHUB Issues
+1. Creating a branch to my own Github and making the according changes.
+2. Updating my partners’ forks from PyCharm.
+3. Making edits locally on PyCharm.
 ### Things you don't understand about what we are doing / web development.
-1.What is the code that connects the docker to GitHub.
-2.What are all the files already in the github when we clone a repo? 
-3.What is the code that connects the docker to the github?
+
+1. I don't understand the importance of needing a Dockerhub repository. [2]
+2. I don't understand the process behind merging pull requests.
+3. I don't understand the Terminal shortcuts on Mac.
+
 ### Things you want to know next
-1. How to connect viewjs to elastic search
+1. I want to learn more about project management and how to be a good project manager.
+2. I want to learn more about utilizing Kibana.
+3. I want to learn and get more comfortable with using SSH keys.
