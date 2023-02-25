@@ -15,7 +15,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we understand**
 
 1.  Python[2]
-2.  Linux[1] 
+2.  Linux[1]
 3.  JavaScript[1]
 4.  ReactJS[1]
 #### Things we don't understand
