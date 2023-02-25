@@ -23,6 +23,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  Git Stash [2]
 2.  GitHub Actions[1]
 3.  Git Merge[1]
+4. Git status
 #### Things we want to know next**
 1.  Terraform[1]
 2.  AWS[1]
