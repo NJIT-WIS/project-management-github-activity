@@ -13,7 +13,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Our List:
 #### Things we understand**
-1. 
+1. Oracle Cloud Instance set-up [1]
 2. 
 3. 
 #### Things we don't understand
