@@ -21,6 +21,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 6.  git checkout [1]
 7.  I know how to make an ssh key and add it to GitHub. [1]
 8.  GITHUB Issues [1]
+9.  Create and name repositories in Github and in Docker.
 #### Things we don't understand
 1. Git Stash[1]
 2. GIt pull[2]
@@ -28,6 +29,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4. Dockerhub [1]
 5. Undoing commits [1]
 6. git rebase [1]
+7. git commands [1]
 #### Things we want to know next**
 1.  Elastic Search Indexing [1]
 2.  Cloud deployment with Kubernetes[2]
@@ -102,4 +104,3 @@ Collaborating on GitHub:
 12.  Check that your task is moved from in progress to done
 13.  update your local main branch with the changes from the merge by doing git pull origin main
 14. Repeat again, and again, and again
-
