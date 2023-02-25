@@ -7,4 +7,3 @@ assignees: ''
 
 ---
 
-Please describe what you want to know in less than 255 characters.
