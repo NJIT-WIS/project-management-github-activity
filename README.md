@@ -28,8 +28,4 @@ Collaborating on GitHub:
 
 ## Put your items here
 ### Things you understand so far
-1. i leanred
-### Things you don't understand about what we are doing / web development.
-1. changed
-### Things you want to know next
-1. How to connect viewjs to elastic search
+
