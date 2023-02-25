@@ -16,18 +16,73 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  using github commands[1]
 2.  Creating building images[2] 
 3.  Docker setup[1]
+4.  I learned Git issues[1]
+5. I learned Git status[1] 
+6. I learned pycharm[1]
+7. Docker Installation[7]
+8. Git push and pull[2]
+9. HTML and CSS[1]
+10. Python Print[2]
+11. Linux Directory listing[4] 
+12. I learned Git[1]
+13. I know what docker is[1]
+14. I know how live reload is done[1]
+15. Azure cloud computing[1]
+16. Python programming[1]
+17. Flutter mobile app development[1]
+18. Using Git on command line[1]
+19. Collaborating on GitHub[1]
+20. Building Docker Image [1]
+
 #### Things we don't understand
 1. Creating interface[1]
 2. Debugging[2]
 3. project setup[3]
+4. I don't understand how to resolve merge conflicts[1]
+5. I don't understand Docker container images and their use[2]
+6. How to resolve a daemon issue[2]
+7. Git Stash[3]
+8. GIT status[2]
+9. CI/CD tools[1]
+10. difference between docker and github[1]
+11. Docker Compose[1]
+12. Writing test cases[1]
+13. How CI/CD is achieved[1]
+14. Responsive design in HTML[1]
+15. Flexbox in CSS[1]
+16. Grid system in bootstrap[1]
+17. GIt pull[2]
+18. port issues on docker[1]
+19. pull requests on GitHub[1]
+20. Watchtower[1]
+21. Git merge[1]
+
 #### Things we want to know next**
-1.  agile technology [1]
-2.  testing the code in pycharm[2]
-3.  cloud technologies[1]
+1.  Elastic Search Indexing [2]
+2.  Aurora[1]
+3.  Terraform[4]
+4. I want to know about CI/CD tools[1]
+5. I want to know Git remote repositories[1]
+6. Cloud deployment with Kubernetes[4]
+7. How applications are hosted [1]
+8. Ansible[1]
+9. REST API[1]
+10. Django[1]
+11. Working with Vi[1]
+12. Webpack[1]
+13. How write Automated Tests [1]
+14. Devops[1]
+15. How to create a webpage[1]
+16.  agile technology [1]
+17. testing the code in pycharm[2]
+18. cloud technologies[1]
+
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
 **open powershell or terminal and run "ssh-keygen -b 4096" and hit enter through the prompts and then open the file **your home directory/.ssh/id_rsa.pub** and copy that text into your github account settings under SSH/GPG keys -> add key.  in one of the prompts it will tell you where it is going to save the key.  If you already have a key reusue the one you have and cancel out of the process with control c **.  I do it on my mac with the command vi ~/.ssh/id_rsa.pub" and then i press shift colon : and q to quit
+
+
 
 ### [Assignment Video](https://youtu.be/UFLKojO3OtM)
 
@@ -69,6 +124,7 @@ Collaborating on GitHub:
 5. Once you create these labels then go to settings and look for the "Issues Template" and create/edit 4 issue templates that will provide the starting text for each issue filed of that type.  At the bottom of each issue you will see that you can automaticly assign a label to that issue type, so connect the respective labels you created with the 4 issue types.  You need an issue for "I Know", "Want to Know", "Don't Understand", and "Master List".
 4. Goto the project tab and create a new project (you have to click the down arrow next to "link project" to change it to new project). When you create a project you need to select "board" and name it "Documentation Tasks".
 5. Once this is completed then clone this to your computer using the SSH link **NOT THE HTTP LINK** you need the ssh link to use the key you added to your account, so you don't get an error when pushing.
+
 
 
 ### Project management and Collaboration workflow Steps
