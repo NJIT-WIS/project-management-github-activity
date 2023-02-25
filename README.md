@@ -20,21 +20,18 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 5.  git fetch [1]
 6.  git checkout [1]
 7.  I know how to make an ssh key and add it to GitHub. [1]
-8.  GITHUB Issues [2]
+8.  GITHUB Issues [1]
 9.  Create and name repositories in Github and in Docker.
-10. Connecting GitHub to pycharm [1]
-11. Using GitHub to share files [1] 
 #### Things we don't understand
 1. Git Stash[1]
 2. GIt pull[2]
 3. GIT status[1]
-4. Dockerhub [2]
+4. Dockerhub [1]
 5. Undoing commits [1]
 6. git rebase [1]
-7. git commands [2]
+7. git commands [1]
 8. DevOps Engineer role [1]
 9. Certain Merge issues [1]
-10. Vi Commands[1]
 #### Things we want to know next**
 1.  Elastic Search Indexing [1]
 2.  Cloud deployment with Kubernetes[2]
@@ -44,9 +41,6 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 6.  How to deploy a webapp [1]
 7.  Docker and its functions [1]
 8.  I want to know how what we're learning will be used in web development [1]
-9.  How to use Kubernetes [1]
-10. More python
-11. How to use AWS [1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
