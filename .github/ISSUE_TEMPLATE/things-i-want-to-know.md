@@ -5,6 +5,8 @@ title: 'Thing I want to know: <file in title> [Thing I want to Knows]'
 
 ---
 1. issue 1
+2. issue 2
+=======
 =======
 
 Please describe what you want to know in less than 255 characters.
