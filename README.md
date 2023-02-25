@@ -22,7 +22,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3. GIT [1]
 #### Things we want to know next**
 1.  I would like to know about AWS cloud [1]
-2.  I would like to know more about DevOPs[1]
+2.  I would like to know more about DevOPs[2]
 3.  I would like to know about Azure[1]
 
 ## Prerequisite - YOU. MUST Sgit fetch origin
