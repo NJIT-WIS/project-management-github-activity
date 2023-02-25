@@ -80,5 +80,6 @@ Collaborating on GitHub:
 2. I learend GITHUB Issues
 ### Things you don't understand about what we are doing / web development.
 1. I don't understand the importance of needing a Dockerhub repository.
+2. I don't understand the process behind merging pull requests.
 ### Things you want to know next
 1. How to connect viewjs to elastic search
