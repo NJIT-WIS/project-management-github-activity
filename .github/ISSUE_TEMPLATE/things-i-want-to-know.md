@@ -6,5 +6,4 @@ labels: Things I learned
 assignees: ''
 
 ---
-### Things I Know
-1. Agile Development
+
