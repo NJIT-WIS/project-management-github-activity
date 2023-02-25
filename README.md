@@ -38,8 +38,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4.  Kubernetes[3]
 5.  Elastic Search Indexing[3]
 6.  Cloud Deployment[2]
-7. i want to know linux
-8. i want to know git stash
+7. i want to know linux [1]
+8. i want to know git stash [1]
 
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
