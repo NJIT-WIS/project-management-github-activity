@@ -32,8 +32,9 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we want to know next**
 1. Flask Framework[1]
 2. Microsoft Azure[1]
-3. Teraform[1]
+3. Teraform[2]
 4. Advance terminal command [1]
+
 
 
 
