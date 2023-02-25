@@ -19,7 +19,6 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we don't understand
 1.  Github project management, Labels, Issues
 2.  Dockerhub and its use
-3.  Creating branches, merging the branches with other repositories, creating pull requests
 #### Things we want to know next**
 
 
