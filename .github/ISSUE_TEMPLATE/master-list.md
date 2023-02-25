@@ -25,11 +25,11 @@ I know:
 -
 -
 -
-Want to know:
+I Want to know:
 -
 -
 -
-Don't Understand: 
+ I Don't Understand: 
 -
 -
 -
