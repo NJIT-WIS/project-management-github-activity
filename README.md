@@ -16,6 +16,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  I understand how to push to github
 2.  github conflict
 3.  how to merge
+4.  How to merge things even better
 ### Things you don't understand about what we are doing
 1. I am lost on hows to pro-Docker
 2. I am lost on ho
@@ -110,8 +111,9 @@ Collaborating on GitHub:
 =======
 1. Add items to the list
 ### Things you don't understand about what we are doing / web development.
-1. Add items to the list
-2. Don't understand forking
+1. Don't understand forking
+2. Don't Understand Oracle Cloud
+3. Don't understand the difference between cloning and forking
 ### Things you want to know next
 1. How to connect viewjs to elastic search
 2. This is something I want to know
