@@ -23,7 +23,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we want to know next**
 1.  I would like to know about AWS cloud [1]
 2.  I would like to know more about DevOPs[1]
-3.  I would like to know about Azure[1]
+3.  I would like to know about Azure[]
 
 ## Prerequisite - YOU. MUST Sgit fetch origin
 SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
