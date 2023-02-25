@@ -18,7 +18,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  I have learnt how to fork repos and work on projects
 #### Things we don't understand
 1. I don't understand how to do the submissions on canvas after completing the tasks on GitHub
-2. 
+2. I don't understand how to fix errors in Pycharm
 3. 
 #### Things we want to know next**
 1.  I want to learn the softwares being taught in this class properly without falling back
