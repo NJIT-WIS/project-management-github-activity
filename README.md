@@ -132,6 +132,7 @@ Collaborating on GitHub:
 
 # Complete the Assignment By adding your issues to these 3 lists.
 
+<<<<<<< HEAD
 Things we understand**
 1. Python Print[1]
 2. Linux Directory listing[2]
@@ -147,6 +148,9 @@ Things we want to know next**
 1. Elastic Search Indexing [1]
 2. Cloud deployment with Kubernetes[2]
 3. Teraform[1]
+=======
+## Put your items here
+>>>>>>> parent of 8936131... Update README.md
 
 =======
 1. Add items to the list
