@@ -6,5 +6,5 @@ labels: Things I learned
 assignees: ''
 
 ---
-
-Please describe what you want to know in less than 255 characters.
+### Things I Want to Know
+1. Edit/Create Components in Website
