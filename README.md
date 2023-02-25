@@ -25,7 +25,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 5. I don't understand what bootstrap is and didn't really understand it when professor went over it. 
 #### Things we want to know next**
 1.  Frontend and Backend development
-2.  Cloud deployment with Kubernetes[2]
+2.  Docker
 3.  Teraform[1]
 4.  I have heard of Wireframes but want to learn more about it. 
 5.  Want to learn more about Node.js
