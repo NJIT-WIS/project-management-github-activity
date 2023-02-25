@@ -1,7 +1,6 @@
-# MyWebClass Collaboration and Brainstorming Assignment
 
-## Overview
 
+<<<<<<< HEAD
 The purpose of this assignment is to practice collaborating using GIT/GitHub and develop the requirements for the mywebclass.org website's tutorials and courses.  To accomplish this task we are going to create three lists(What I Know, What I Don't Know, and What I Want To Learn) and consolidate the items from everyone in the class into a master list that counts the number of repeated issues.  You need at least **3 items for each list for a total of 9 items** and you should plan that these items are going to be used for project 1 as the basis for the possible topics that people can choose to build online tutorials about.   
 
 ## Learning Objectives:
@@ -9,7 +8,31 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  You will learn to merge pull requests and resolve merge conflicts
 3.  You will learn to manage a basic project using GitHub Project.
 
-### Complete the Assignment By adding your issues to these 3 lists and count how many times each issue is mentioned.  The number in the bracket next to each issue is the count, you should set your count at 1 for your issue.  We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
+### Complete the Assigqnment By adding your issues to these 3 lists and count how many times each issue is mentioned.  The number in the bracket next to each issue is the count, you should set your count at 1 for your issue.  We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
+## Put your items here
+### Things you understand so far
+1.  I understand how to push to github
+2.  github conflict
+3.  how to merge
+4.  How to merge things even better
+5.  I know how to use vim
+6.  I know how to use bash scripts
+7. I know how to resolve conflicts
+8. I know how to delete directories
+### Things you don't understand about what we are doing
+1. I am lost on hows to pro-Docker
+2. I am lost on hows to pro-Linux
+3. I am lost on hows to setup my domain name with my Oracle account
+4. I am lost on hows pull for this assignment
+5. I am lost on how to config
+6. I am lost on what causes conflict
+7. I don't know why it broke
+8. Who is Linus Torvald
+### Things you want to know next
+1. setup domain name
+2. why tedious assignment
+3. I want to know how to resolve conflicts
+4. Kuber vs Docker
 
 ### Your list should look like this:
 #### Things we understand**
@@ -17,8 +40,9 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  Linux Directory listing[2] 
 3.  Docker Installation[1]
 #### Things we don't understand
+
 1. Git Stash[1]
-2. GIt pull[2]
+2. GIt pull[2] 
 3. GIT status[1]
 #### Things we want to know next**
 1.  Elastic Search Indexing [1]
@@ -63,6 +87,8 @@ To submit this assignment you need to submit the result of step #5 to canvas.  W
 Collaborating on GitHub:
 
 1. Fork the repository: Each person should fork the repository to their own GitHub account. To do this, click the "Fork" button in the top-right corner of the repository page.
+=======
+>>>>>>> 252ee05600a5f08d321b1add93515fd4d0b87199
 2. Enable issues: If you don't see the "Issues" tab in the main menu, you should enable it in the repository settings. 
 3. Go to the "Issues" tab, and click "Milestones" to add a 0.1.0 milestone and describe it as a consolidated list of issues from your team.  
 4. Go to the issues tab you should also create labels for "I Know", "Want to Know", "Don't Understand", and "Master List".  
@@ -91,4 +117,95 @@ Collaborating on GitHub:
 12.  Check that your task is moved from in progress to done
 13.  update your local main branch with the changes from the merge by doing git pull origin main
 14. Repeat again, and again, and again
+======= 
+2. Enable issues: If you don't see the "Issues" tab in the main menu, you should enable it in the repository settings. Go to the "Issues" tab, and click "Milestones" to add a 0.1.0 milestone and describe it as a consolidated list of issues from your team.  On the issues tab you should also create labels for "I Know", "Want to Know", and "Don't Understand".  Once you create these labels then go to settings and look for the "Issues Template" and create 3 issue templates that will provide the starting text for each issue filed of that type.  At the bottom of each issue you will see that you can automaticly assign a label to that issue type, so connect the respective labels you created with the 3 issue types.
+3. Create one issue per item in your list and assign it to the correct issue template.  
+4. Create a new project tab and create a new project (you have to click the down arrow next to "link project" to change it to new project). When you create a project you need to select "board" and name it "Documentation Tasks".
+5.  Go back to your issues, click on each issue, and assign the issue to the following: assignee i.e. you, miletone i.e. the one you created 0.1.0, project documentation (set the status to todo) and create the branch for the issue.
+4. Go to the "Project" board, and if you see any tasks without a status move them to the todo column.  
+5. Pick one task and move it to the in progress column to indicate you are going to work on it.
+6. If you have not done so already clone the repository to your local and type "git fetch" to see the branch(s) for the issues you created. 
+7.  Do a "git checkout <name of branch>" i.e. "git checkout 1-some-issue".
+8.  Complete the issue by adding one item to one of the 3 categories.  Do a git status and make sure that only the readme is changed.  If the readme just has the change then you can do a git commit -a -m "PUT A DESCRIPTIVE MESSAGE HERE".  git commit with the -a flag adds all the new and modified files to the commit.
+9. Push the branch back by doing a git push origin head or use the push command from the drop down in Pycharm.  
+10.  Make a pull request (MAKE SURE YOU DO IT FOR YOUR OWN IT WILL DEFAULT TO MAKING A PULL REQUEST TO THE UPSTREAM REPOSITORY" for the branch and when you come to the part where you have to need the commit message you have to add "closes #?"  the ? is whatever issue number that the pull request resolves.
+11.  Check the documentation board and you should see that the task has moved from in progress to done.
+12.  Once you have resolved an issue you should go to your partners' fork and make a pull request that to merge your issue branch.  
+13.  Your partner will then need to create an issue to merge the pull request.  You first need to save an issue and after you save it will make the right side controls active and you can select the repository / pull request you want to link and fill out the other fields like assigning the task to the milestone, assigning a developer, assiginging it to the right project with the todo status.
+14. Once your partner creates the issue they need to merge the pull request and close it with the "closes #?" in the merge message.
+15. On your own fork, you will want to make a pull request to yourself to merge their updated master into yours.
 
+
+# Complete the Assignment By adding your issues to these 3 lists.
+
+<<<<<<< HEAD
+Things we understand**
+1. Python Print[1]
+2. Linux Directory listing[2]
+3. Docker Installation[1]
+ 
+Things we don't understand**
+<<<<<<< HEAD
+<<<<<<< HEAD
+1. Git Stash[1]
+2. git pull[2]
+=======
+1.merge[1]
+=======
+1. forking[1] 
+>>>>>>> 6dcacc756cf77b5d5c4027838a64f6784dcd6d71
+2. GIt pull[2]
+>>>>>>> 2d9d62c94b9b1fd4cafb2a309e744f65da5e53c9
+3. GIT status[1]
+  
+ 
+Things we want to know next**
+1. Elastic Search Indexing [1]
+2. Cloud deployment with Kubernetes[2]
+3. Teraform[1]
+=======
+## Put your items here
+>>>>>>> parent of 8936131... Update README.md
+
+=======
+1. Add items to the list
+=======
+1. I know how to make ssh keys
+<<<<<<< HEAD
+>>>>>>> 2716e3e74f642aa96b78a25883d4471db75400fd
+=======
+<<<<<<< HEAD
+2. I know personal domain use
+<<<<<<< HEAD 
+<<<<<<< HEAD
+=======
+2. I know personal domai n use
+<<<<<<< HEAD
+>>>>>>> 8a42feceba08c92c55a291f8dbd708539d99e92a
+>>>>>>> 515aa38a7113dc8aa753aa4d7bbf4b14fc3e326a
+======= 
+=======
+>>>>>>> 515aa38a7113dc8aa753aa4d7bbf4b14fc3e326a
+=======  
+>>>>>>> 6ac922a4fd5d446b172a5e87f82c50b92140edc0
+3. I know how to make a personal token
+>>>>>>> 028a10787611c0b89a8972e44f171a76ac36db22
+### Things you don't understand about what we are doing / web development.
+1. Don't understand forking 
+2. Don't Understand Oracle Cloud
+3. Don't understand the difference between cloning and forking
+### Things you want to know next
+<<<<<<< HEAD
+<<<<<<< HEAD
+1. How to connect viewjs to elastic search
+2. This is something I want to know
+>>>>>>> f64d4009149766f89d55a555333912054e9062d6
+=======
+>
+1. More in depth SQL
+>>>>>>> 8b44ab78b09b81220e9d9c5d4970d14755c6eb13
+=======
+1. More in depth SQL
+2. More HTML/CSS
+3. SEO Knowledge
+>>>>>>> 07602ad72650df847eeb48720cdf10b5aa199f67
