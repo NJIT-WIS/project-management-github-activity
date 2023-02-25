@@ -24,7 +24,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4. DevOps[1]
 5. Java[1]
 #### Things we want to know next**
-1. JQuerry[1]
+1. JQuerry[2]
 2. Learn how to deploy a website[1]
 3. Learn How to create a wireframe[2]
 4. Node.js[1]
