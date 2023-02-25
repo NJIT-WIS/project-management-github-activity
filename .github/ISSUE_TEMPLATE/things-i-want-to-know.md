@@ -8,4 +8,4 @@ assignees: ''
 ---
 ### Things I Want to Know
 
-2. Learning JS
+
