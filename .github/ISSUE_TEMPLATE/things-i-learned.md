@@ -7,7 +7,9 @@ assignees: ''
 
 ---
 
-Please add one item that you learned.  File new issues for each item that you learned.  Please keep the number of characters to no more than 255.
-Syntax Fixing
-How to pull/push
-How to merge
+### I Learned
+1. How to merge[1]
+2. pull/push[2]
+3. syntax fixing[1]
+4. agile[1]
+5. project dev sprints[1]
