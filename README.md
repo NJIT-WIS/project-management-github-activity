@@ -16,20 +16,19 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1. Basic BASH script commands (directory navigation, file creation, and text editing) [2]
 2. Running Docker Compose[1] 
 3. Installing NPM[1]
-4. Oracle Cloud Instance set-up [1]
-5. Adding reverse proxy load balancer (Traefik) to VM with Docker configuration [1]
+4. Oracle Cloud Instance set-up[1]
+5. Adding reverse proxy load balancer (Traefik) to VM with Docker configuration[1]
 #### Things we don't understand
 1. Git Stash[1]
-2. Resolving merge conflicts with GitHub forks [2]
+2. Resolving merge conflicts with GitHub forks[2]
 3. Difference between Docker container and Docker repository[1]
-4. Web domain configuration [1]
-5. VM and Docker configuration customization [1] 
+4. Web domain configuration[1] 
+5. VM and Docker configuration customization[1] 
 #### Things we want to know next
 1. Host a website on Oracle Cloud from a GitHub repository [2]
 2. Increasing security on web server/web page[1]
 3. Customizing parameters of docker-compose files[1]
 4. Website content management [1] 
-
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
