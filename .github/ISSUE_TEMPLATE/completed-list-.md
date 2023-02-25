@@ -1,8 +1,8 @@
 ---
-name: Assignment master list
+name: 'completed list '
 about: Describe this issue template's purpose here.
-title: master merging
-labels: Merge my master
+title: ''
+labels: ''
 assignees: ''
 
 ---
