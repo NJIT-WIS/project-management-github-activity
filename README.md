@@ -17,9 +17,10 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. Adding reverse proxy load balancer (Traefik) to VM with Docker configuration[1]
 3. Basic BASH script commands (directory navigation, file creation, and text editing)[1]
 #### Things we don't understand
-1. Resolving merge conflicts with GitHub forks[2]
-2. Web domain configuration[1] 
-3. VM and Docker configuration customization[1] 
+1. Git Stash[1]
+2. Resolving merge conflicts with GitHub forks[2]
+3. Web domain configuration[1] 
+4. VM and Docker configuration customization[1] 
 #### Things we want to know next**
 1. Host a website on Oracle Cloud from a GitHub repository[1] 
 2. Website content management[1] 
