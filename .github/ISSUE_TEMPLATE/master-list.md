@@ -33,7 +33,7 @@ Don't Understand:
 -
 -
 -
-Issues of partner 3: 
+Issues of partner 3
 I know:
 -
 -
