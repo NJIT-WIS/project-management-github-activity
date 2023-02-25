@@ -21,6 +21,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  Dockerhub and its use
 3.  Creating branches, merging the branches with other repositories, creating pull requests, pushing the work, committing the work
 #### Things we want to know next**
+1.  How to work with cloud
 
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
