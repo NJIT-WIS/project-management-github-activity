@@ -26,7 +26,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  Terraform [1]
 2.  AWS [1]
 3.  Jenkins [1]
-4.  Kubernetes[1]
+4.  Kubernetes [1]
 
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
