@@ -19,7 +19,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3. Git commands[1]
 4. Merge Conflicts [1]
 5. Github [1]
-
+6. Docker [1]
 
 #### Things we don't understand
 1. Cloud deployment with Kubernetes[1]
