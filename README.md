@@ -14,7 +14,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Our List:
 #### Things we understand**
 1. Oracle Cloud Instance set-up [1]
-2. 
+2. Adding reverse proxy load balancer (Traefik) to VM with Docker configuration [1]
 3. 
 #### Things we don't understand
 1. Resolving merge conflicts with GitHub forks [1]
