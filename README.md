@@ -14,8 +14,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Your list should look like this:
 #### Things we understand**
 1.  I know how to create and track projects
-2.  I know how to commit changes
-3.  I have learnt how to fork repos and work on projects
+2.  
+3.  
 #### Things we don't understand
 1. I don't understand how to do the submissions on canvas after completing the tasks on GitHub
 2. I don't understand how to fix errors in Pycharm
