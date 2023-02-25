@@ -22,7 +22,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3. What a docker daemon is[1]
 #### Things we want to know next**
 1.  Solving a Merge Conflict With User Friendly Software[1]
-2.  Cloud deployment with Kubernetes[2]
+2.  How to Optimize Workflow for a Team[1]
 3.  Teraform[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
