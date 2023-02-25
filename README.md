@@ -18,7 +18,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  Docker[1]
 #### Things we don't understand
 1. Webpack[1]
-2. Difference between git fetch and pull[1]
+2. Differences between git fetch and pull[1]
 3. This Assignment[1]
 #### Things we want to know next**
 1.  Ansible[1]
