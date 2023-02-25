@@ -27,5 +27,4 @@ Collaborating on GitHub:
 # Complete the Assignment By adding your issues to these 3 lists.
 
 ## Put your items here
-### Things you understand so far
 
