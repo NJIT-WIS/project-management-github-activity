@@ -13,7 +13,6 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-
 1.  I learned how Github works and know how to use it properly now. [4]
 2. I learned that Docker is used for sharing, building, and running modern applications.
 3. I learned to use Webstorm in IS117 and Pycharm in this class this semester. 
