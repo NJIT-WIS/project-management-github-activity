@@ -28,9 +28,11 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4. Using oracle cloud services [1]
 5. Agile Project Management
 #### Things we want to know next**
+<<<<<<< HEAD
 1. How to properly structure our projects [1]
 2. How to create and deploy web apps [1]
 3. How to create the backend of a website [1]
+4. Python Commands/techniques
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
