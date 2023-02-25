@@ -14,8 +14,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Your list should look like this:
 #### Things we understand**
 1.  Python print[1]
-2.  Git Status[2] 
-3.  Docker Installation[1]
+2.  Git Status[1] 
+3.  Pull requests and merging[1]
 #### Things we don't understand
 1. I don't know docker[1]
 2. I don't know linux directory listing[2]
