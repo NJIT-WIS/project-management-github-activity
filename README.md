@@ -14,15 +14,15 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Your list should look like this:
 #### Things we understand**
 1.  I know how to create issues on git and fork repositories [1]
-2.  How to use pycharm [2] 
+2.  How to use pycharm [1] 
 3.  Docker Installation[1]
 #### Things we don't understand
 1. Node Js[1]
-2. Vim [2]
+2. Vim [1]
 3. GIT [1]
 #### Things we want to know next**
 1.  I would like to know about AWS cloud [1]
-2.  I would like to know more about DevOPs[2]
+2.  I would like to know more about DevOPs[1]
 3.  I would like to know about Azure[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
