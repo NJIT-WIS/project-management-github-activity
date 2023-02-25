@@ -15,7 +15,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we understand**
 1.  push and commit on github
 2.  how to do pull request through github
-3.  Docker Installation[1]
+3. I know Webstorm
 #### Things we don't understand
 1. Git Stash[1]
 2. GIt pull[2]
