@@ -29,6 +29,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1. setup domain name
 2. why tedious assignment
 3. I want to know how to resolve conflicts
+4. Kuber vs Docker
 
 ### Your list should look like this:
 #### Things we understand**
