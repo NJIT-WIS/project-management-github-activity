@@ -28,6 +28,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  Advance terminal command [1]
 2.  Teraform [1]
 3.  Chef : configuration management [1]
+4.  Flask Framework[1]
+
 
 
 
