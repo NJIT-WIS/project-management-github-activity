@@ -14,47 +14,37 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Your list should look like this:
 
 #### Things we understand**
-1.  Build docker image[1]
-2.  Merge Conflicts [1]
-3.  Github [1]
-4.  Docker [1]
-5.  Python Programming[1]
-6.  Git commands[1]
+1. Build docker image[3]
+2. Python Programming[3]
+3. Git commands[2]
+4. Merge Conflicts [2]
+5. Github [3]
+6. Docker [3]
+8. Learned about agile model and workflow [1]
+
+
 
 #### Things we don't understand
-1.  Hibernate ORM [1]
-2.  Cloud deployment [2]
-3.  Python automation [1]
-4.  Docker commands[1]
-5.  Elastic Search Indexing[1]
+1. Cloud deployment with Kubernetes[3]
+2. Docker commands[3]
+3. Elastic Search Indexing[2]
+4. Hibernate ORM [2]
+5. Python automation [2]
+6.  How do we write the testing codes [1]
+7.  Directory structure [1]
+8.  Github Actions [1]
+9.  How does Web development Integration works [1]
 
 #### Things we want to know next**
-1.  Advance terminal command [1]
-2.  Teraform [2]
-3.  Chef : configuration management [1]
-4.  Flask Framework[1]
-5.  Microsoft Azure[1]
+1. Flask Framework[3]
+2. Microsoft Azure[3]
+3. Teraform[3]
+5. Advance terminal command [2]
+6. Chef : configuration management [2]
+7. How to work with cloud [1]
+8. How to Host and continuously deploy code [1]
+9. Different framework [1]
 
-
-=======
-1.  Github project management, Labels, Issues
-2.  Dockerhub and its use
-3.  Creating branches, merging the branches with other repositories, creating pull requests, pushing the work, committing the work
-4.  Learned How github functions
-5.  Learned about docker
-6.  Learned about agile model and workflow
-#### Things we don't understand
-1.  How do we write the testing codes
-2.  Directory structure
-3.  Github Actions
-4.  Github in detail
-5.  How does docker work
-6.  How does Web development Integration works
-#### Things we want to know next**
-1.  How to work with cloud [1]
-2.  How to deploy it to the cloud server like AWS or Google Cloud or etc
-3.  How to Host and continuously deploy code [1]
-4.  Different framework
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
 **open powershell or terminal and run "ssh-keygen -b 4096" and hit enter through the prompts and then open the file **your home directory/.ssh/id_rsa.pub** and copy that text into your github account settings under SSH/GPG keys -> add key.  in one of the prompts it will tell you where it is going to save the key.  If you already have a key reusue the one you have and cancel out of the process with control c **.  I do it on my mac with the command vi ~/.ssh/id_rsa.pub" and then i press shift colon : and q to quit
