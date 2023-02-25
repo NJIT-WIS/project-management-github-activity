@@ -1,8 +1,9 @@
 ---
 name: Master Pull Request
-about: 'This is for your master pull requested to merge your master into mine '
+
+about: For your master pull requested to merge your master to mine.
 title: ''
-labels: Compiled List
+labels: ''
 assignees: ''
 
 ---
