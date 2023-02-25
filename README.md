@@ -12,7 +12,31 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Complete the Assignment By adding your issues to these 3 lists and count how many times each issue is mentioned.  The number in the bracket next to each issue is the count, you should set your count at 1 for your issue.  We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
 
 ### Your list should look like this:
+
 #### Things we understand**
+1.  Build docker image[1]
+2.  Merge Conflicts [1]
+3.  Github [1]
+4.  Docker [1]
+5.  Python Programming[1]
+6.  Git commands[1]
+
+#### Things we don't understand
+1.  Hibernate ORM [1]
+2.  Cloud deployment [2]
+3.  Python automation [1]
+4.  Docker commands[1]
+5.  Elastic Search Indexing[1]
+
+#### Things we want to know next**
+1.  Advance terminal command [1]
+2.  Teraform [2]
+3.  Chef : configuration management [1]
+4.  Flask Framework[1]
+5.  Microsoft Azure[1]
+
+
+=======
 1.  Github project management, Labels, Issues
 2.  Dockerhub and its use
 3.  Creating branches, merging the branches with other repositories, creating pull requests, pushing the work, committing the work
@@ -30,7 +54,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  How to work with cloud [1]
 2.  How to deploy it to the cloud server like AWS or Google Cloud or etc
 3.  How to Host and continuously deploy code [1]
-4.  Different frameworks
+4.  Different framework
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
 **open powershell or terminal and run "ssh-keygen -b 4096" and hit enter through the prompts and then open the file **your home directory/.ssh/id_rsa.pub** and copy that text into your github account settings under SSH/GPG keys -> add key.  in one of the prompts it will tell you where it is going to save the key.  If you already have a key reusue the one you have and cancel out of the process with control c **.  I do it on my mac with the command vi ~/.ssh/id_rsa.pub" and then i press shift colon : and q to quit
