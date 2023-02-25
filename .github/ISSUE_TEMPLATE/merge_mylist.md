@@ -2,7 +2,7 @@
 name: Merge_MyList
 about: Merging my master with collaborator master to get unified List
 title: ''
-labels: Assignment_Master_List
+labels: ''
 assignees: ''
 
 ---

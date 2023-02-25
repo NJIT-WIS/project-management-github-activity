@@ -1,6 +1,6 @@
 ---
 name: Master Merge
-about: Describe this issue template's purpose here.
+about: Merge Master with other's Master
 title: ''
 labels: Merge my Master
 assignees: ''
