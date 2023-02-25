@@ -21,7 +21,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. Differences between git fetch and pull[1]
 3. This Assignment[1]
 #### Things we want to know next**
-1.  Ansible[1]
+1.  Docker-compose[1]
 2.  Docker-compose[1]
 3.  Kubernetes[1]
 
