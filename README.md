@@ -38,6 +38,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4.  Kubernetes[2]
 5.  Elastic Search Indexing[1]
 6.  Cloud Deployment[1]
+7. i want to know elastic search indexing
 
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
