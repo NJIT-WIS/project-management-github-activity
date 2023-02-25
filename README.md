@@ -16,6 +16,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  Git Commands[1] 
 3.  Project Management[1]
 4.  How to Setup Oracle Cloud[1]
+5.  Using Docker[1]
 #### Things we don't understand
 1.  docker-compose.yml[1]
 2.  Siege[1]
