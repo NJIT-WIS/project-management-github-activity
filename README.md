@@ -13,21 +13,27 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1. Github pull requests [2]
+1. Github pull requests [4]
 2. Docker [2]
 3. pycharm[1]
-4. Webstorm[1]
+4. Webstorm[2]
 #### Things we don't understand
 1. kubernetes[1]
 2. Git stash[1]
 3. Bootstrap[2]
 4. DevOps[1]
 5. Java[1]
+6. frameworks[1]
+7. debugging[1]
+8. javascript[1]
 #### Things we want to know next**
 1. JQuerry[2]
 2. Learn how to deploy a website[1]
-3. Learn How to create a wireframe[2]
+3. Learn How to create a wireframe[3]
 4. Node.js[1]
+5. Frontend and Backend development[1]
+6. Docker[1]
+7. DevOps[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
