@@ -97,6 +97,7 @@ Collaborating on GitHub:
 
 ### Things I Don't Understand
 - This assignment's instructions
+- How to use CI with docker
 
 ### Things I learned
 - Spinning up Docker containers via CLI
