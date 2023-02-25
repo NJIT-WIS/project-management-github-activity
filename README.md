@@ -30,6 +30,8 @@ Collaborating on GitHub:
 ### Things you understand so far
 1. Add items to the list
 ### Things you don't understand about what we are doing / web development.
-1. Add items to the list
+1. Git Stash[1]
+GIt pull[2]
+GIT status[1]
 ### Things you want to know next
 1. How to connect viewjs to elastic search
