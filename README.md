@@ -22,7 +22,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3. JavaScript
 #### Things we want to know next**
 1.  Frontend and Backend development
-2.  Cloud deployment with Kubernetes[2]
+2.  Docker
 3.  Teraform[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
