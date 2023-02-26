@@ -26,8 +26,9 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 5. I don't know GIT
 #### Things we want to know next**
 1.  Cloud deployment [1]
-2.  Teraform[1]
-3.  Databases[1]
+2.  Teraform[2]
+3.  Databases[2]
+4.  I want to know how to read and understand Python code.
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
