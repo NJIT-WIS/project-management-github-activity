@@ -16,18 +16,23 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  Python Print[1]
 2.  Linux Directory listing[2] 
 3.  Docker Installation[1]
+4.  GIT Push[1]
+5.  Cloning git repo[1]
+6.  Dockerfile and DockerCompose files[1]
 #### Things we don't understand
 1. Git Stash[1]
 2. GIt pull[2]
 3. GIT status[1]
 4. GIT Fetch[1]
-5. DockerContainer[1]
-6. DockerHub[1]
-
+5. GIT Staging[1]
+6. Docker Container[2]
+7. DockerHub[1]
 #### Things we want to know next**
 1.  Elastic Search Indexing [1]
-2.  Cloud deployment with Kubernetes[2]
+2.  Cloud deployment with Kubernetes[3]
 3.  Teraform[1]
+4.  Cloning git repo via SSH[1]
+5.  Semantic Versioning[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
