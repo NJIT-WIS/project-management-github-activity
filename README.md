@@ -16,7 +16,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  Python Print[1]
 2.  Linux Directory listing[2] 
 3.  Docker Installation[1]
-4.  GIT Push[1]
+4.  GIT Push[2]
 5.  Cloning git repo[1]
 6.  Dockerfile and DockerCompose files[1]
 #### Things we don't understand
