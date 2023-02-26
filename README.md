@@ -13,25 +13,42 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  Python Print[1]
-2.  Linux Directory listing[2] 
-3.  Docker Installation[1]
-4.  GitPush[1]
-5.  cloning git repo and using it[1]
-6.  importing files from git to pycharm
+1.  Python[2]
+2.  Linux[2] 
+3.  JavaScript[1]
+4.  ReactJS[1]
+5.  i knew Docker[1]
+6.  i knew aws[1]
+7.  i knew teraform[1]
+8.  Python Print[1]
+9.  Linux Directory listing[2] 
+10.  Docker Installation[1]
+11.  GitPush[1]
+12.  cloning git repo and using it[1]
+13.  importing files from git to pycharm[1]
 #### Things we don't understand
-1. Git Stash[1]
-2. GIt pull[2]
-3. GIT status[1]
-4. GIT Fetch[1]
-5. DockerContainer[1]
-6. DockerHub[1]
+1.  Git Stash[3]
+2.  GitHub Actions[1]
+3.  Git Merge[1]
+4.  Git pull[3]
+5.  Git Status[2]
+6. i dont know kubernetes[1]
+7. GIT Fetch[1]
+8. DockerContainer[1]
+9. DockerHub[1]
+
 #### Things we want to know next**
-1.  Elastic Search Indexing [2]
-2.  Cloud deployment with Kubernetes[2]
-3.  Teraform[1]
-4.  more about ssh and rsa[1]
-5.  semantic visioning
+1.  Terraform[2]
+2.  AWS[1]
+3.  Jenkins[1]
+4.  Kubernetes[2]
+5.  Elastic Search Indexing[3]
+6.  Cloud deployment with Kubernetes[3]
+7.  i want to know linux[1]
+8.  i want to know git stash[1]
+9.  Teraform[1]
+10.  more about ssh and rsa[1]
+11.  semantic versioning[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
@@ -39,7 +56,7 @@ Add your ssh public key to github - See video
 
 ### [Assignment Video](https://youtu.be/UFLKojO3OtM)
 
-## You will accomplish this assignment in 5 phases:
+## You will accomplish this assignment in 5 phases: 
 
 1.  Each person will follow the instructions below to create one issue per list item i.e. 9 issues.
   **You need one issue per item in your list for a total of 9 issues.**.  Resolve each issue to add each of your items to the appropriate list.
