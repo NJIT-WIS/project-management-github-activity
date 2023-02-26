@@ -34,8 +34,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  Cloud deployment with Kubernetes[4]
 3.  Teraform[2]
 4.  more about ssh and rsa[1]
-4.  Cloning git repo via SSH[1]
-5.  Semantic Versioning[1]
+5.  Cloning git repo via SSH[1]
+6.  Semantic Versioning[2]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
