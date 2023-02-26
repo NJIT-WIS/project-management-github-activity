@@ -19,17 +19,17 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  JavaScript[1]
 4.  ReactJS[1]
 5.  i knew Docker[1]
-6. i knew aws
-7. i knew tera form
+6. i knew aws[1]
+7. i knew tera form[1]
 #### Things we don't understand
 1.  Git Stash[2]
 2.  GitHub Actions[1]
 3.  Git Merge[1]
 4.  Git pull[1]
 5.  Git Status[1]
-6. i dont know kubernetes
-7. i dont know git status
-8. i dont know git pull
+6. i dont know kubernetes[1]
+7. i dont know git status[1]
+8. i dont know git pull[1]
 
 #### Things we want to know next**
 1.  Terraform[2]
@@ -38,9 +38,9 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4.  Kubernetes[2]
 5.  Elastic Search Indexing[1]
 6.  Cloud Deployment[1]
-7. i want to know elastic search indexing
-8. i want to know linux
-9. i want to know git stash
+7. i want to know elastic search indexing[1]
+8. i want to know linux[1]
+9. i want to know git stash[1]
 
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
