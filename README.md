@@ -17,8 +17,9 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  Linux Directory listing[2] 
 3.  Docker Installation[1]
 4.  GIT Push[2]
-5.  Cloning git repo[1]
+5.  Cloning git repo[2]
 6.  Dockerfile and DockerCompose files[1]
+7.  learnt how to import vcs files from git repo[1]
 #### Things we don't understand
 1. Git Stash[1]
 2. GIt pull[2]
