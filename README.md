@@ -18,7 +18,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  I know how to add repo secrets in Github. 
 #### Things we don't understand
 1. I don't understand what certain issues require me to fix.
-2. GIt pull[2]
+2. I don't understand how Dockerhub will be used.
 3. GIT status[1]
 #### Things we want to know next**
 1.  Elastic Search Indexing [1]
