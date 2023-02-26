@@ -21,7 +21,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. I don't understand how Dockerhub will be used.
 3. I don't understand when to change between different branches.
 #### Things we want to know next**
-1.  Elastic Search Indexing [1]
+1. I want to learn how to read Python code.
 2.  Cloud deployment with Kubernetes[2]
 3.  Teraform[1]
 
