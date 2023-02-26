@@ -13,22 +13,26 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  I know how to commit changes.
-2.  I know how to push and pull commits.[2]
+1.  I know how to commit changes. [2]
+2.  I know how to push and pull commits.[3]
 3.  I know how to add repo secrets in Github. 
 4.  Python print
 5.  Git Status
+6.  Creating SSH Keys and setting up the authorization
 #### Things we don't understand
 1. I don't understand what certain issues require me to fix.
-2. I don't understand how Dockerhub will be used. [2]
+2. I don't understand how Dockerhub will be used. [3]
 3. I don't understand when to change between different branches.
-4. I don't know linux directory listing
+4. I don't know linux directory listing [2]
 5. I don't know GIT
+6. Creating features in webclass project
 #### Things we want to know next**
 1.  Cloud deployment [1]
 2.  Teraform[2]
 3.  Databases[2]
-4.  I want to know how to read and understand Python code.
+4.  I want to know how to read and understand Python code. [1]
+5.  Learning to write up docker setup files 
+6.  Best methods to handle large scale merge conflicts
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
