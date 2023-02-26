@@ -11,44 +11,57 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Complete the Assignment By adding your issues to these 3 lists and count how many times each issue is mentioned.  The number in the bracket next to each issue is the count, you should set your count at 1 for your issue.  We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
 
-### Your list should look like this:
+### Your list should look like this
+:
 #### Things we understand**
-1.  Python[2]
-2.  Linux[2] 
-3.  JavaScript[1]
-4.  ReactJS[1]
-5.  i knew Docker[1]
-6.  i knew aws[1]
-7.  i knew teraform[1]
-8.  Python Print[1]
-9.  Linux Directory listing[2] 
-10.  Docker Installation[1]
-11.  GitPush[1]
-12.  cloning git repo and using it[1]
-13.  importing files from git to pycharm[1]
+
+1.  Python Print[2]
+2.  Linux Directory listing[4] 
+3.  Docker Installation[2]
+4.  GIT Push[6]
+5.  Cloning git repo[6]
+6.  importing files from git to pycharm[3]
+7.  Dockerfile and DockerCompose files[2]
+8.  Python[4]
+9.  Linux[4] 
+10. JavaScript[2]
+11. ReactJS[2]
+12. i knew Docker[2]
+13. i knew aws[2]
+14. i knew tera form[2]
+15. learnt how to import vcs files from git repo[1]
+
 #### Things we don't understand
-1.  Git Stash[3]
-2.  GitHub Actions[1]
-3.  Git Merge[1]
-4.  Git pull[3]
-5.  Git Status[2]
-6. i dont know kubernetes[1]
-7. GIT Fetch[1]
-8. DockerContainer[1]
-9. DockerHub[1]
+1. Git Stash[4]
+2. GIt pull[5]
+3. GIT status[3]
+4. GIT Fetch[2]
+5. DockerContainer[2]
+6. DockerHub[2]
+7. GitHub Actions[1]
+8. Git Merge[1]
+9. i dont know kubernetes[1]
 
 #### Things we want to know next**
-1.  Terraform[2]
-2.  AWS[1]
-3.  Jenkins[1]
-4.  Kubernetes[2]
-5.  Elastic Search Indexing[3]
-6.  Cloud deployment with Kubernetes[3]
-7.  i want to know linux[1]
-8.  i want to know git stash[1]
-9.  Teraform[1]
-10.  more about ssh and rsa[1]
-11.  semantic versioning[1]
+1.  Elastic Search Indexing [4]
+2.  Cloud deployment with Kubernetes[6]
+3.  Teraform[6]
+4.  more about ssh and rsa[2]
+5.  Semantic Versioning[4]
+6.  GIT Staging[2]
+7.  Docker Container[3]
+8.  GitHub Actions[1]
+9.  Git Merge[1]
+11. Cloning git repo via SSH[2]
+12. AWS[1]
+13. Jenkins[1]
+14. Kubernetes[2]
+15. i want to know linux[1]
+16. i want to know git stash[1]
+17. DockerHub[1]
+
+=======
+
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
