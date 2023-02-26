@@ -11,30 +11,37 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Complete the Assignment By adding your issues to these 3 lists and count how many times each issue is mentioned.  The number in the bracket next to each issue is the count, you should set your count at 1 for your issue.  We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
 
-### Your list should look like this:
+### Your list should look like this
+:
 #### Things we understand**
-1.  Python Print[1]
-2.  Linux Directory listing[2] 
-3.  Docker Installation[1]
-4.  GIT Push[5]
-5.  Cloning git repo[5]
-6.  importing files from git to pycharm[2]
+
+1.  Python Print[2]
+2.  Linux Directory listing[4] 
+3.  Docker Installation[2]
+4.  GIT Push[6]
+5.  Cloning git repo[6]
+6.  importing files from git to pycharm[3]
 7.  Dockerfile and DockerCompose files[2]
-8.  Python[2]
-9.  Linux[2] 
-10. JavaScript[1]
-11. ReactJS[1]
-12. i knew Docker[1]
-13. i knew aws[1]
-14. i knew tera form[1]
-8.  learnt how to import vcs files from git repo[1]
+8.  Python[4]
+9.  Linux[4] 
+10. JavaScript[2]
+11. ReactJS[2]
+12. i knew Docker[2]
+13. i knew aws[2]
+14. i knew tera form[2]
+15. learnt how to import vcs files from git repo[1]
+
 #### Things we don't understand
-1. Git Stash[3]
-2. GIt pull[3]
-3. GIT status[2]
-4. GIT Fetch[1]
-5. DockerContainer[1]
-6. DockerHub[1]
+1. Git Stash[4]
+2. GIt pull[5]
+3. GIT status[3]
+4. GIT Fetch[2]
+5. DockerContainer[2]
+6. DockerHub[2]
+7. GitHub Actions[1]
+8. Git Merge[1]
+9. i dont know kubernetes[1]
+
 #### Things we want to know next**
 1.  Elastic Search Indexing [4]
 2.  Cloud deployment with Kubernetes[6]
@@ -45,7 +52,6 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 7.  Docker Container[3]
 8.  GitHub Actions[1]
 9.  Git Merge[1]
-10. i dont know kubernetes[1]
 11. Cloning git repo via SSH[2]
 12. AWS[1]
 13. Jenkins[1]
@@ -54,13 +60,16 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 16. i want to know git stash[1]
 17. DockerHub[1]
 
+=======
+
+
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
 **open powershell or terminal and run "ssh-keygen -b 4096" and hit enter through the prompts and then open the file **your home directory/.ssh/id_rsa.pub** and copy that text into your github account settings under SSH/GPG keys -> add key.  in one of the prompts it will tell you where it is going to save the key.  If you already have a key reusue the one you have and cancel out of the process with control c **.  I do it on my mac with the command vi ~/.ssh/id_rsa.pub" and then i press shift colon : and q to quit
 
 ### [Assignment Video](https://youtu.be/UFLKojO3OtM)
 
-## You will accomplish this assignment in 5 phases:
+## You will accomplish this assignment in 5 phases: 
 
 1.  Each person will follow the instructions below to create one issue per list item i.e. 9 issues.
   **You need one issue per item in your list for a total of 9 issues.**.  Resolve each issue to add each of your items to the appropriate list.
