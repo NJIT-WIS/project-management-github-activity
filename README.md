@@ -24,12 +24,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. GIt pull[2]
 3. GIT status[1]
 4. GIT Fetch[1]
- 1-everything
-
 5. DockerContainer[1]
 6. DockerHub[1]
-
- main
 #### Things we want to know next**
 1.  Elastic Search Indexing [2]
 2.  Cloud deployment with Kubernetes[2]
