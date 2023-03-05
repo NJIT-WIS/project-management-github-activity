@@ -15,6 +15,12 @@ labels: Compiled list
 
 title: Put your UCID as the title (replace this text)
 
+
+labels: master list
+=======
+labels: Master List
+=======
+
 labels: Master List
 
 assignees: ''
@@ -31,3 +37,4 @@ labels: Master List
 UCID: ps277
 =======
 assignees: ''
+
