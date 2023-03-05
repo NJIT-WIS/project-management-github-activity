@@ -1,18 +1,24 @@
-
 ### Your list should look like this:
-#### Things we understand**
 
-1.  git status [1]
-2.  git fetch [1] 
-3.  git checkout [1]
-4.  Docker Setup[4]
-5.  Linux command[1]
-6.  I learned Python Pytest[1]
-7.  Create new branch and merge within my own repo[1]
-8.  Cloning Repository[2]
-9.  Python is integrated into pycharm[1]
-10.  Pycharm and Github workflow and integration process[1]
-11.  Create new branch and merge within my own repo[1]
+#### Things we understand** 
+1. We know how to make SSH key in the macbook, add it to the Github, GitHub Repository, Git Pull, Merge Conflict, Git Status and Git fetch[3]
+2. I learned GitHub Issues and creating Branch[3]
+3. I learned GitHub Milestones, Labels and how to use them[1]
+4. Docker Installation [2]
+#### Things we don't understand
+1. Git Stash - what is it? [3]
+2. Git Rebase - what is it? [3]
+3. GIT Actions - Complete Workflow [2]
+4. Docker Images [2]
+#### Things we want to know next**
+1. Teraform [2]
+2. Cloud deployment with Kubernetes [2]
+3. Elastic Search Indexing - What is it? [2]
+4. SQL [2]
+5. Javascript Frameworks [3]
+6. Debugging [1]
+7. How to make website[1]
+
 
 #### Things we don't understand
 1. Multi-thread programming [1]
