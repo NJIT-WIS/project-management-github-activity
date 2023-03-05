@@ -1,4 +1,5 @@
 ---
+
 name: Things I want to know
 about: Concepts I am interested in learning
 title: ''
@@ -9,8 +10,10 @@ about: Describe this issue template's purpose here.
 title: 'Thing I want to know: <file in title> [Thing I want to Knows]'
 labels: want2know
 
+=======
+name: Things I Want To Know
+about: Add one item for each thing you want to know.
+title: 'Thing I want to know: <file in title> [Thing I want to Knows]'
+labels: want to know
+ist
 assignees: ''
-
----
-
-I want to learn...
