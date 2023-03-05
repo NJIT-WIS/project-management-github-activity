@@ -1,4 +1,40 @@
 
+#### Things we understand**
+
+1. Build docker image[3]
+2. Python Programming[2]
+3. Git commands[3]
+4. Merge Conflicts [2]
+5. Github [3]
+6. Docker [3]
+7. Creating branches, merging the branches with other repositories, creating pull requests, pushing the work, committing the work
+8.  Learned How github functions
+9.  Learned about agile model and workflow[1]
+
+
+#### Things we don't understand
+1. Cloud deployment with Kubernetes[3]
+2. Docker commands[4]
+3. Elastic Search Indexing[2]
+4. Hibernate ORM [2]
+5. Python automation [2]
+6.  How do we write the testing codes[2]
+7.  Directory structure[1]
+8.  Github Actions [2]
+9.  How does Web development Integration works[2]
+10.  Github in detail
+11.  How does docker work
+
+#### Things we want to know next**
+1. Flask Framework[4]
+2. Microsoft Azure[3]
+3. Teraform[3]
+4. Advance terminal command [2]
+5. Chef : configuration management [2]
+6.  How to work with cloud [4]
+7.  How to Host and continuously deploy code [2]
+=======
+
 ### Your list should look like this:
 
 #### Things we understand** 
@@ -19,6 +55,7 @@
 5. Javascript Frameworks [3]
 6. Debugging [1]
 7. How to make website[1]
+
 
 
 
