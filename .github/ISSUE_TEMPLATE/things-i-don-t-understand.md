@@ -8,6 +8,12 @@ about: This is for adding issues that you don't understand.
 title: ''
 
 
+labels: I Don't Understand
+=======
+labels: don't understand
+
+=======
+
 
 
 labels: Things I dont understand
@@ -29,6 +35,7 @@ labels: don't understand
 
 =======
 
+
 assignees: ''
 =======
 
@@ -40,4 +47,8 @@ labels: things I don't know
 
 labels: don't understand
 
+
+I don't understand <fill in what you don't here>
+=======
 assignees: ''
+

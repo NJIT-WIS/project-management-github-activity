@@ -1,3 +1,5 @@
+
+=======
 ### Our List:
 #### Things we understand
 1. Basic BASH script commands (directory navigation, file creation, and text editing)[2]
@@ -65,7 +67,33 @@
 
 
 #### Things we understand**
+1.  git merge[3]
+2. create branches[3]
+3. resolve merge conflicts[1]
+4. python basics[1]
+5. professional docker use[1]
+6. github[1]
+7. pull requests and pull conflicts[1]
+8. merge conflicts[1]
+#### Things we don't understand
+1. docker commands[2]
+2. terminal commands[2]
+3. docker[4]
+4. python[2]
+5. jobs that use docker[1]
+6. resolve merge conflicts[1]
+#### Things we want to know next**
+1. python[3]
+2. general security[2]
+3. advantages to help get a better internship/job[2]
+4. advanced docker use[1]
+5. what jobs will check personal github[1]
+6. how to become a web developer[1]
+7. proper terminal use[1]
+8. repositories for resume[1]
 
+
+=======
 1. Build docker image[3]
 2. Python Programming[2]
 3. Git commands[3]
@@ -86,6 +114,7 @@
 9.  Python is integrated into pycharm[1]
 10.  Pycharm and Github workflow and integration process[1]
 11.  Create new branch and merge within my own repo[1]
+
 
 
 
