@@ -1,5 +1,6 @@
 
 =======
+=======
 
 #### Things we understand**
 
@@ -44,6 +45,7 @@
 
 
 
+
 #### Things we understand**
 
 1. Build docker image[3]
@@ -55,7 +57,17 @@
 7. Creating branches, merging the branches with other repositories, creating pull requests, pushing the work, committing the work
 8.  Learned How github functions
 9.  Learned about agile model and workflow[1]
-
+1.  git status [1]
+2.  git fetch [1] 
+3.  git checkout [1]
+4.  Docker Setup[4]
+5.  Linux command[1]
+6.  I learned Python Pytest[1]
+7.  Create new branch and merge within my own repo[1]
+8.  Cloning Repository[2]
+9.  Python is integrated into pycharm[1]
+10.  Pycharm and Github workflow and integration process[1]
+11.  Create new branch and merge within my own repo[1]
 
 
 #### Things we don't understand
@@ -132,6 +144,8 @@
 5. Chef : configuration management [2]
 6.  How to work with cloud [4]
 7.  How to Host and continuously deploy code [2]
+
+=======
 =======
 
 ### Your list should look like this:
@@ -181,6 +195,7 @@
 5.  Vue JS[4]
 6.  Flask
 7.  AWS
+
 1.  How to better work as a PM or as a subordinate [1]
 2.  Use Python program to write Hello World [1]
 3.  How Dockerhub pushes or uses resources against repos in scalable way [1] 
@@ -190,6 +205,8 @@
 7.  Elastic Search Indexing[3]
 8. Security within our Github and Docker workflow[1]
 9. Linux Directory Listings[1]
+
+=======
 
 
 ## Issues
@@ -208,3 +225,4 @@
 - Kubernetes
 - How to make custom Docker images
 - How to deploy a website using CI
+
