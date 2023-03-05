@@ -1,4 +1,6 @@
 
+
+
 #### Things we understand**
 
 1. Build docker image[3]
@@ -59,6 +61,7 @@
 
 
 
+
 #### Things we don't understand
 1. Multi-thread programming [1]
 2. PostgreSQL[1]
@@ -89,3 +92,20 @@
 8. Security within our Github and Docker workflow[1]
 9. Linux Directory Listings[1]
 
+
+## Issues
+
+### Things I Don't Understand
+- This assignment's instructions
+- How to use CI with docker
+- How to resolve merge conflicts
+
+### Things I learned
+- Spinning up Docker containers via CLI
+- How to make GitHub PRs
+- How to use Docker Hub
+
+### Things I want to know
+- Kubernetes
+- How to make custom Docker images
+- How to deploy a website using CI
