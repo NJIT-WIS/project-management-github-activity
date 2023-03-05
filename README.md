@@ -35,6 +35,8 @@
 
 #### Things we understand**
 
+
+=======
 1.  I learned how Github works and know how to use it properly now. [4]
 2. I learned that Docker is used for sharing, building, and running modern applications.
 3. I learned to use Webstorm in IS117 and Pycharm in this class this semester. 
@@ -54,6 +56,7 @@
 5.  Want to learn more about Node.js
 6.  Learn what jQuery is
 #### things we understand
+
 1. Github pull requests [4]
 2. Docker [2]
 3. pycharm[1]
@@ -258,6 +261,7 @@
 5. Javascript Frameworks [3]
 6. Debugging [1]
 7. How to make website[1]
+
 
 
 
