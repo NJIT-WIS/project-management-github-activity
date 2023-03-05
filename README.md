@@ -2,17 +2,28 @@
 ### Your list should look like this:
 #### Things we understand**
 
-1.  git status [1]
-2.  git fetch [1] 
-3.  git checkout [1]
-4.  Docker Setup[4]
-5.  Linux command[1]
-6.  I learned Python Pytest[1]
-7.  Create new branch and merge within my own repo[1]
-8.  Cloning Repository[2]
-9.  Python is integrated into pycharm[1]
-10.  Pycharm and Github workflow and integration process[1]
-11.  Create new branch and merge within my own repo[1]
+1. Github pull requests [4]
+2. Docker [2]
+3. pycharm[1]
+4. Webstorm[2]
+#### Things we don't understand
+1. kubernetes[1]
+2. Git stash[1]
+3. Bootstrap[2]
+4. DevOps[1]
+5. Java[1]
+6. frameworks[1]
+7. debugging[1]
+8. javascript[1]
+#### Things we want to know next**
+1. JQuerry[2]
+2. Learn how to deploy a website[1]
+3. Learn How to create a wireframe[3]
+4. Node.js[1]
+5. Frontend and Backend development[1]
+6. Docker[1]
+7. DevOps[1]
+
 
 #### Things we don't understand
 1. Multi-thread programming [1]
