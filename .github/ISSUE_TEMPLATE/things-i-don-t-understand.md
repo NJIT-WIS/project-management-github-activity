@@ -7,6 +7,9 @@ labels: idk
 about: This is for adding issues that you don't understand.
 title: ''
 
+labels: I don't know
+=======
+
 
 labels: I Don't Understand
 =======
@@ -34,6 +37,7 @@ labels: Things i don't understand
 labels: don't understand
 
 =======
+
 
 
 assignees: ''

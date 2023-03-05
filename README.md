@@ -1,5 +1,4 @@
 
-=======
 ### Our List:
 #### Things we understand
 1. Basic BASH script commands (directory navigation, file creation, and text editing)[2]
@@ -35,6 +34,69 @@
 =======
 
 #### Things we understand**
+
+1.  I learned how Github works and know how to use it properly now. [4]
+2. I learned that Docker is used for sharing, building, and running modern applications.
+3. I learned to use Webstorm in IS117 and Pycharm in this class this semester. 
+#### Things we don't understand
+1. frameworks
+2. Debugging
+3. JavaScript
+3. What DevOps is and what's its use
+4. Tried to learn Java but failed to learn a lot as it's complicated.
+5. I don't understand what bootstrap is and didn't really understand it when professor went over it. 
+#### Things we want to know next**
+1.  Frontend and Backend development
+2.  Docker
+3.  DevOps
+3.  Teraform[1]
+4.  I have heard of Wireframes but want to learn more about it. 
+5.  Want to learn more about Node.js
+6.  Learn what jQuery is
+#### things we understand
+1. Github pull requests [4]
+2. Docker [2]
+3. pycharm[1]
+4. Webstorm[2]
+#### Things we don't understand
+1. kubernetes[1]
+2. Git stash[1]
+3. Bootstrap[2]
+4. DevOps[1]
+5. Java[1]
+6. frameworks[1]
+7. debugging[1]
+8. javascript[1]
+#### Things we want to know next**
+1. JQuerry[2]
+2. Learn how to deploy a website[1]
+3. Learn How to create a wireframe[3]
+4. Node.js[1]
+5. Frontend and Backend development[1]
+6. Docker[1]
+7. DevOps[1]
+
+1.  I learned how Github works and know how to use it properly now. [4]
+2. I learned that Docker is used for sharing, building, and running modern applications.
+3. I learned to use Webstorm in IS117 and Pycharm in this class this semester. 
+#### Things we don't understand
+1. frameworks
+2. Debugging
+3. JavaScript
+3. What DevOps is and what's its use
+4. Tried to learn Java but failed to learn a lot as it's complicated.
+5. I don't understand what bootstrap is and didn't really understand it when professor went over it. 
+#### Things we want to know next**
+1.  Frontend and Backend development
+2.  Docker
+3.  DevOps
+3.  Teraform[1]
+4.  I have heard of Wireframes but want to learn more about it. 
+5.  Want to learn more about Node.js
+6.  Learn what jQuery is
+
+
+=======
 
 1. basics of python[1]
 2. docker in professional setting[1]
@@ -93,27 +155,7 @@
 8. repositories for resume[1]
 
 
-=======
-1. Build docker image[3]
-2. Python Programming[2]
-3. Git commands[3]
-4. Merge Conflicts [2]
-5. Github [3]
-6. Docker [3]
-7. Creating branches, merging the branches with other repositories, creating pull requests, pushing the work, committing the work
-8.  Learned How github functions
-9.  Learned about agile model and workflow[1]
-1.  git status [1]
-2.  git fetch [1] 
-3.  git checkout [1]
-4.  Docker Setup[4]
-5.  Linux command[1]
-6.  I learned Python Pytest[1]
-7.  Create new branch and merge within my own repo[1]
-8.  Cloning Repository[2]
-9.  Python is integrated into pycharm[1]
-10.  Pycharm and Github workflow and integration process[1]
-11.  Create new branch and merge within my own repo[1]
+
 
 
 
@@ -273,4 +315,5 @@
 - Kubernetes
 - How to make custom Docker images
 - How to deploy a website using CI
+
 
