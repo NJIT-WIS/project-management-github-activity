@@ -1,11 +1,11 @@
 ---
 name: Things I Don't Understand
-about: This is for adding issues that you don't understand
+about: This is for adding issues that you don't understand.
 title: ''
 
+
 labels: things I don't know
+=======
+labels: don't understand
+
 assignees: ''
-
----
-
-I don't understand <fill in what you don't here>
