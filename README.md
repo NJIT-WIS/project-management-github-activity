@@ -1,18 +1,40 @@
-# MyWebClass Collaboration and Brainstorming Assignment
 
-## Overview
+### Our List:
+#### Things we understand
+1. Basic BASH script commands (directory navigation, file creation, and text editing)[2]
+2. Running Docker Compose[1] 
+3. Installing NPM[1]
+4. Oracle Cloud Instance set-up [1]
+5. Adding reverse proxy load balancer (Traefik) to VM with Docker configuration [1]
+#### Things we don't understand
+1. Git Stash[1]
+2. Resolving merge conflicts with GitHub forks [2]
+3. Difference between Docker container and Docker repository[1]
+4. Web domain configuration [1]
+5. VM and Docker configuration customization [1] 
+#### Things we want to know next
+1. Host a website on Oracle Cloud from a GitHub repository [2]
+2. Increasing security on web server/web page[1]
+3. Customizing parameters of docker-compose files[1]
+4. Website content management [1] 
+5. Responsive web page design and development [1] 
 
-The purpose of this assignment is to practice collaborating using GIT/GitHub and develop the requirements for the mywebclass.org website's tutorials and courses.  To accomplish this task we are going to create three lists(What I Know, What I Don't Know, and What I Want To Learn) and consolidate the items from everyone in the class into a master list that counts the number of repeated issues.  You need at least **3 items for each list for a total of 9 items** and you should plan that these items are going to be used for project 1 as the basis for the possible topics that people can choose to build online tutorials about.   
 
-## Learning Objectives:
-1.  You will learn to collaborate online using GIT
-2.  You will learn to merge pull requests and resolve merge conflicts
-3.  You will learn to manage a basic project using GitHub Project.
 
-### Complete the Assignment By adding your issues to these 3 lists and count how many times each issue is mentioned.  The number in the bracket next to each issue is the count, you should set your count at 1 for your issue.  We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
-
-### Your list should look like this:
 #### Things we understand**
+
+1. Build docker image[3]
+2. Python Programming[3]
+3. Git commands[2]
+4. Merge Conflicts [2]
+5. Github [3]
+6. Docker [3]
+8. Learned about agile model and workflow [1]
+
+=======
+
+#### Things we understand**
+
 1.  I learned how Github works and know how to use it properly now. [4]
 2. I learned that Docker is used for sharing, building, and running modern applications.
 3. I learned to use Webstorm in IS117 and Pycharm in this class this semester. 
@@ -73,70 +95,225 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 5.  Want to learn more about Node.js
 6.  Learn what jQuery is
 
-## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
-Add your ssh public key to github - See video
-**open powershell or terminal and run "ssh-keygen -b 4096" and hit enter through the prompts and then open the file **your home directory/.ssh/id_rsa.pub** and copy that text into your github account settings under SSH/GPG keys -> add key.  in one of the prompts it will tell you where it is going to save the key.  If you already have a key reusue the one you have and cancel out of the process with control c **.  I do it on my mac with the command vi ~/.ssh/id_rsa.pub" and then i press shift colon : and q to quit
 
-### [Assignment Video](https://youtu.be/UFLKojO3OtM)
+=======
 
-## You will accomplish this assignment in 5 phases:
-
-1.  Each person will follow the instructions below to create one issue per list item i.e. 9 issues.
-  **You need one issue per item in your list for a total of 9 issues.**.  Resolve each issue to add each of your items to the appropriate list.
-
-2.  Find a person in class and then make a pull request for each item on your list to **THEIR** repository.  **You make 9 pull requests to someone else**
-
-This person should then merge the pull requests and resolve the merge conflict to add new items to their list and increment the count on dupilicate items.  We want to know how many people said the same thing, so that we can prioritize the requirement, when we decide on what to make in project 1.  
-
-3.  **Once you have merged the pull requests from someone else in class**, you need to find someone new in class to submit a pull request called "merge my list".  that asks to merge your master into their master, so that they can add new items to their list and increment the duplicate issue count for each item in the list.  Create an issue using the template "Assignment Master List" and reference the pull request that you make in the issue.  Make sure you make a issue template to accept this issue on your own repository and provide these instructions.
-
-4. The person that receives the pull request from #3 needs to resolve merge conflics and merge, so that the new issues are added and duplicate counts are incrimented as necessary.
-
-5. Once you have merged someone else's combined list into your project make an issue and a pull request to the "complete_list" branch on the upstream repository i.e. the one you forked from. Use the issue "Complete List" and put a link to the pull request.  Submit a link to the **issue** to Canvas to finish the assignment.  In your pull request include your UCID,  course number, and section.  
-
-### You are done when you have completed the following:
- 
-1.  Added your issues individually and resolved them
-2.  Made 9 pull requests to another person for each item that contains the branch you want to merge 
-3.  Merged 9 pull requests from someone else
-3.  Made a pull request to another person with your master branch that contains the consolidated list 
-4.  Merged the pull request of someone elsesa compiled list
-5.  Submmited a pull request to this repository to have your complete list merged
-
-### Canvas Submission instructions
-
-To submit this assignment you need to submit the result of step #5 to canvas.  When you look at the commits for your project you should see a total of 3 different users have contributed items to the list **including yourself** .  If you don't have at least 3  people's commits on the project you will lose 33 points for each person not found.
-
-## Project Setup Instructions
-Collaborating on GitHub:
-
-1. Fork the repository: Each person should fork the repository to their own GitHub account. To do this, click the "Fork" button in the top-right corner of the repository page.
-2. Enable issues: If you don't see the "Issues" tab in the main menu, you should enable it in the repository settings. 
-3. Go to the "Issues" tab, and click "Milestones" to add a 0.1.0 milestone and describe it as a consolidated list of issues from your team.  
-4. Go to the issues tab you should also create labels for "I Know", "Want to Know", "Don't Understand", and "Master List".  
-5. Once you create these labels then go to settings and look for the "Issues Template" and create/edit 4 issue templates that will provide the starting text for each issue filed of that type.  At the bottom of each issue you will see that you can automaticly assign a label to that issue type, so connect the respective labels you created with the 4 issue types.  You need an issue for "I Know", "Want to Know", "Don't Understand", and "Master List".
-4. Goto the project tab and create a new project (you have to click the down arrow next to "link project" to change it to new project). When you create a project you need to select "board" and name it "Documentation Tasks".
-5. Once this is completed then clone this to your computer using the SSH link **NOT THE HTTP LINK** you need the ssh link to use the key you added to your account, so you don't get an error when pushing.
+1. basics of python[1]
+2. docker in professional setting[1]
+3. github[1]
+4. branches[3]
+5. requests[1]
+6. git merge[1]
+7. resolve merge conflicts[1]
+8. git merge[3]
+#### Things we don't understand
+1. docker[4] 
+2. python[2]
+3. jobs using docker[1]
+4. merge conflicts[1]
+5. commands in docker[2]
+6. docker commands[2]
+#### Things we want to know next**
+1. Advanced docker[1]
+2. How jobs look at github[2]
+3. Be a web developer[1]
+4. Terminal[1]
+5. essential repositories[1]
+6. python[3]
+7. security[2]
+8. personal github[1]
+=======
 
 
-### Project management and Collaboration workflow Steps
-1. create an issue
-2. assign issue to project task
-*  Assign to yourself
-*  Assign to correct project board
-*  Assign to "todo" project status
-*  Assign to the correct milestone
-* create issue branch 
-3.  Go to the project board and move the task you created to in progress
-4. git fetch origin to see new branch
-5. checkout issue branch locally
-6. git status to make sure you don't have any changed files in the branch before you work
-7. Resolve the issue by adding the list item or incrementing the count of the item
-8. commit -a -m "message text" to do the commit 
-9. git push origin head <- pushes current branch to github
-10. Do a pull request for the branch and make sure you pick the correct source and destination.  Click compare forks because by default it will go to the upstream repository i.e. mine
-11.  merge the pull request and add "closes #<issue number> i.e. closes #4 to close the issue
-12.  Check that your task is moved from in progress to done
-13.  update your local main branch with the changes from the merge by doing git pull origin main
-14. Repeat again, and again, and again
+
+
+
+#### Things we understand**
+1.  git merge[3]
+2. create branches[3]
+3. resolve merge conflicts[1]
+4. python basics[1]
+5. professional docker use[1]
+6. github[1]
+7. pull requests and pull conflicts[1]
+8. merge conflicts[1]
+#### Things we don't understand
+1. docker commands[2]
+2. terminal commands[2]
+3. docker[4]
+4. python[2]
+5. jobs that use docker[1]
+6. resolve merge conflicts[1]
+#### Things we want to know next**
+1. python[3]
+2. general security[2]
+3. advantages to help get a better internship/job[2]
+4. advanced docker use[1]
+5. what jobs will check personal github[1]
+6. how to become a web developer[1]
+7. proper terminal use[1]
+8. repositories for resume[1]
+
+
+
+
+
+
+
+#### Things we don't understand
+1. Cloud deployment with Kubernetes[3]
+
+2. Docker commands[3]
+3. Elastic Search Indexing[2]
+4. Hibernate ORM [2]
+5. Python automation [2]
+6.  How do we write the testing codes [1]
+7.  Directory structure [1]
+8.  Github Actions [1]
+9.  How does Web development Integration works [1]
+
+#### Things we want to know next**
+1. Flask Framework[3]
+2. Microsoft Azure[3]
+3. Teraform[3]
+5. Advance terminal command [2]
+6. Chef : configuration management [2]
+7. How to work with cloud [1]
+8. How to Host and continuously deploy code [1]
+9. Different framework [1]
+=======
+2. Docker commands[4]
+3. Elastic Search Indexing[2]
+4. Hibernate ORM [2]
+5. Python automation [2]
+6.  How do we write the testing codes[2]
+7.  Directory structure[1]
+8.  Github Actions [2]
+9.  How does Web development Integration works[2]
+10.  Github in detail
+11.  How does docker work
+
+
+
+
+#### Things we don't understand
+1. Multi-thread programming [1]
+2. PostgreSQL[1]
+3. Docker full web-application development[1]
+4. Ssh Configuration.
+5. Traefik Integration
+6. Had issues with earlier webclass integration.
+7. Docker / Kubernetes[1]
+8. MongoDB
+9. NodeJS
+
+#### Things we want to know next**
+
+1.  ReactJS [2]
+2.  Node.js
+3.  Daemons
+4.  Kubernetes
+5.  Vue JS[4]
+6.  Flask
+7.  AWS
+1.  How to better work as a PM or as a subordinate [1]
+2.  Use Python program to write Hello World [1]
+3.  How Dockerhub pushes or uses resources against repos in scalable way [1] 
+4.  How to deploy a web app with a database on the cloud [1]
+5.  Cloud deployment with Kubernetes[3]
+6.  Teraform Usage[3]
+7.  Elastic Search Indexing[3]
+8. Security within our Github and Docker workflow[1]
+9. Linux Directory Listings[1]
+=======
+#### Things we want to know next**
+1. Flask Framework[4]
+2. Microsoft Azure[3]
+3. Teraform[3]
+4. Advance terminal command [2]
+5. Chef : configuration management [2]
+6.  How to work with cloud [4]
+7.  How to Host and continuously deploy code [2]
+
+=======
+=======
+
+### Your list should look like this:
+
+#### Things we understand** 
+1. We know how to make SSH key in the macbook, add it to the Github, GitHub Repository, Git Pull, Merge Conflict, Git Status and Git fetch[3]
+2. I learned GitHub Issues and creating Branch[3]
+3. I learned GitHub Milestones, Labels and how to use them[1]
+4. Docker Installation [2]
+#### Things we don't understand
+1. Git Stash - what is it? [3]
+2. Git Rebase - what is it? [3]
+3. GIT Actions - Complete Workflow [2]
+4. Docker Images [2]
+#### Things we want to know next**
+1. Teraform [2]
+2. Cloud deployment with Kubernetes [2]
+3. Elastic Search Indexing - What is it? [2]
+4. SQL [2]
+5. Javascript Frameworks [3]
+6. Debugging [1]
+7. How to make website[1]
+
+
+
+
+
+
+#### Things we don't understand
+1. Multi-thread programming [1]
+2. PostgreSQL[1]
+3. Docker full web-application development[1]
+4. Ssh Configuration.
+5. Traefik Integration
+6. Had issues with earlier webclass integration.
+7. Docker / Kubernetes[1]
+8. MongoDB
+9. NodeJS
+
+#### Things we want to know next**
+
+
+1.  ReactJS [2]
+2.  Node.js
+3.  Daemons
+4.  Kubernetes
+5.  Vue JS[4]
+6.  Flask
+7.  AWS
+
+1.  How to better work as a PM or as a subordinate [1]
+2.  Use Python program to write Hello World [1]
+3.  How Dockerhub pushes or uses resources against repos in scalable way [1] 
+4.  How to deploy a web app with a database on the cloud [1]
+5.  Cloud deployment with Kubernetes[3]
+6.  Teraform Usage[3]
+7.  Elastic Search Indexing[3]
+8. Security within our Github and Docker workflow[1]
+9. Linux Directory Listings[1]
+
+=======
+
+
+## Issues
+
+### Things I Don't Understand
+- This assignment's instructions
+- How to use CI with docker
+- How to resolve merge conflicts
+
+### Things I learned
+- Spinning up Docker containers via CLI
+- How to make GitHub PRs
+- How to use Docker Hub
+
+### Things I want to know
+- Kubernetes
+- How to make custom Docker images
+- How to deploy a website using CI
+
 
