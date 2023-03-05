@@ -1,4 +1,32 @@
 
+#### Things we understand**
+
+1. basics of python[1]
+2. docker in professional setting[1]
+3. github[1]
+4. branches[3]
+5. requests[1]
+6. git merge[1]
+7. resolve merge conflicts[1]
+8. git merge[3]
+#### Things we don't understand
+1. docker[4] 
+2. python[2]
+3. jobs using docker[1]
+4. merge conflicts[1]
+5. commands in docker[2]
+6. docker commands[2]
+#### Things we want to know next**
+1. Advanced docker[1]
+2. How jobs look at github[2]
+3. Be a web developer[1]
+4. Terminal[1]
+5. essential repositories[1]
+6. python[3]
+7. security[2]
+8. personal github[1]
+=======
+
 
 
 #### Things we understand**
@@ -57,6 +85,7 @@
 5. Javascript Frameworks [3]
 6. Debugging [1]
 7. How to make website[1]
+
 
 
 
