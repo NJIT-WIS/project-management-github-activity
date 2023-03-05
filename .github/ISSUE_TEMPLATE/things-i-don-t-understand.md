@@ -1,4 +1,16 @@
 
+---
+name: Things I Don't Understand
+about: This is for adding issues that you don't understand.
+title: ''
+
+labels: Things I don't understand
+=======
+labels: don't understand
+
+assignees: ''
+=======
+
 name: Things I Don't Understand
 about: This is for adding issues that you don't understand.
 title: ''
@@ -71,4 +83,5 @@ assignees: ''
 
 
 assignees: ''
+
 
