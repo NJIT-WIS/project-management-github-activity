@@ -1,5 +1,3 @@
-
-
 name: Completed Lists
 about: This is for your master pull request to merge your master into this repo.
 
@@ -33,5 +31,3 @@ labels: Master List
 UCID: ps277
 =======
 assignees: ''
-
-
