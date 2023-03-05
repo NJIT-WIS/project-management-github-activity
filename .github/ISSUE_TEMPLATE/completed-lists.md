@@ -6,6 +6,16 @@ title: dp787
 =======
 title: Put your UCID as the title (replace this text)
 
+
+labels: ''
+=======
+labels: master list
+=======
+labels: Master List
+
+assignees: ''
+=======
+
 labels: Submitting master branch
 =======
 
@@ -66,4 +76,5 @@ labels: Master List
 UCID: ps277
 =======
 assignees: ''
+
 

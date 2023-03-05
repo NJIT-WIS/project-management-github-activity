@@ -1,9 +1,22 @@
 
 ---
+
+name: Things I want to know
+about: Concepts I am interested in learning
+title: ''
+labels: things I want to know
+
+name: Things I Want to Know
+about: Describe this issue template's purpose here.
+title: 'Thing I want to know: <file in title> [Thing I want to Knows]'
+labels: want2know
+
+=======
 name: Things I Want to Know
 about: Describe this issue template's purpose here.
 title: 'Thing I want to know: <file in title> [Thing I want to Knows]'
 labels: I want to know
+
 =======
 name: Things I Want To Know
 about: Add one item for each thing you want to know.
@@ -12,6 +25,10 @@ title: 'Thing I want to know: <file in title> [Thing I want to Knows]'
 labels: Things I want to know
 =======
 labels: want to know
+
+ist
+assignees: ''
+=======
 
 assignees: ''
 =======
@@ -104,4 +121,5 @@ labels: want to know
 
 assignees: ''
 =======
+
 
