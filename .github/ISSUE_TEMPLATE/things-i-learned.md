@@ -17,6 +17,8 @@ labels: I know
 assignees: Sumanmhalsank02
 =======
 title: "[Things I Learned]"
+labels: ''
+=======
 
 labels: Things I know
 

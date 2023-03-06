@@ -42,6 +42,38 @@ UCID: dv339
 ### Your list should look like this:
 
 #### Things we understand**
+1.  How to use GitHub Classroom[1]
+2.  How to use Docker commands[1] 
+3.  How to host a website using localhost[1]
+4.  Docker containers[1]
+5.  Git stash[1]
+6.  SSH keys [1]
+7.  Make a branch in Git [1]
+8.  Make new repos [1]
+9.  Compose Docker Images [1]
+
+#### Things we don't understand
+1. What is the purpose of Docker??[1]
+2. Watchtower on docker? What is it? [2]
+3. What is the point of Linux Terminal over Windows?[1]
+4. How to avoid merge conflicts [1]
+5. Github Classroom [1]
+6. Dockerhub integration[1]
+7. Importance of Docker Images [1]
+8. git fetch vs. git pull [1]
+9. Troubleshooting problems in GitHub Actions [1]
+
+#### Things we want to know next**
+1.  How to program using JavaScript [1]
+2.  How to program with PHP[1]
+3.  How to host a website without Github Pages[1]
+4.  Using kubernetes with docker[1]
+5.  How to securely login [1]
+6.  How to connect to other cloud services[1]
+7.  General Understanding of Docker [1]
+8.  Thorough Understanding of Git/GitHub [1]
+9.  How to use Git efficiently [1]
+=======
 1.  Docker containers[1]
 2.  git stash[1] 
 3.  SSH keys[1]
@@ -538,6 +570,7 @@ UCID: dv339
 
 
 
+=======
 #### Things we understand**
 1.  git merge[3]
 2. create branches[3]
