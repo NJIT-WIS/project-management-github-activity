@@ -1,4 +1,11 @@
 
+---
+name: Things I learned
+about: Describe this issue template's purpose here.
+title: ''
+labels: thingsilearned
+=======
+
 
 name: Things I learned
 about: Add one item for each thing you learned keep to max of 255 characters
@@ -57,10 +64,15 @@ labels: i know
 
 
 
+
 assignees: ''
 =======
 
 
+---
+
+Please add one item that you learned. File new issues for each item that you learned. Please keep the number of characters to no more than 255.
+=======
 I learned <fill in what you don't here>
 =======
 
@@ -168,5 +180,6 @@ assignees: ''
 
 
 assignees: ''
+
 
 

@@ -171,6 +171,9 @@ UCID: dv339
 5.  CI/CD [1]
 6.  Flask API [1]
 7.  VIM Command Line [1]
+8.  Vim command for line searching [1]
+9.  Pull Requests [1]
+10. Git commands [1]
 
 #### Things we don't understand
 1.  Vue.js [1]
@@ -181,11 +184,13 @@ UCID: dv339
 6.  Elastic Search [1]
 7.  marshmallow: simplified object serialization [1]
 8.  DevOps [1]
-9.  traefik [1]
+9.  traefik [2]
+10. SSH Keys [1]
+11. Kibana [1]
 
 #### Things we want to know next**
 1.  Git CLI [1]
-2.  Vue.js [2]
+2.  Vue.js [3]
 3.  Godaddy [1]
 4.  Docker [1]
 5.  Oracle [1]
@@ -194,6 +199,10 @@ UCID: dv339
 6.  AWS [1]
 7.  Auth0 [1]
 8.  JWT Authentication [1]
+
+9.  MVC [1]
+10. Playwright [1]
+=======
 =======
 
 1.  I learned how to set up a Docker repository.[3]
@@ -634,6 +643,28 @@ UCID: dv339
 
 
 
+### Project management and Collaboration workflow Steps
+1. create an issue
+2. assign issue to project task
+*  Assign to yourself
+*  Assign to correct project board
+*  Assign to "todo" project status
+*  Assign to the correct milestone
+* create issue branch 
+3.  Go to the project board and move the task you created to in progress
+4. git fetch origin to see new branch
+5. checkout issue branch locally
+6. git status to make sure you don't have any changed files in the branch before you work
+7. Resolve the issue by adding the list item or incrementing the count of the item
+8. commit -a -m "message text" to do the commit 
+9. git push origin head <- pushes current branch to github
+10. Do a pull request for the branch and make sure you pick the correct source and destination.  Click compare forks because by default it will go to the upstream repository i.e. mine
+11.  merge the pull request and add "closes #<issue number> i.e. closes #4 to close the issue
+12.  Check that your task is moved from in progress to done
+13.  update your local main branch with the changes from the merge by doing git pull origin main
+14. Repeat again, and again, and again
+=======
+
 
 #### Things we don't understand
 1. Cloud deployment with Kubernetes[3]
@@ -815,3 +846,4 @@ UCID: dv339
 15. Deploy to other cloud platforms[1]
 16. RESTful API[1]
 17. Javascript Project Configuration[1]
+

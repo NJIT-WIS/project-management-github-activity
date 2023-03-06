@@ -1,7 +1,10 @@
 
 =======
 
+=======
+
 ---
+
 
 name: Things I want to know
 about: Concepts I am interested in learning
@@ -10,6 +13,10 @@ labels: things I want to know
 
 name: Things I Want to Know
 about: Describe this issue template's purpose here.
+
+title: ''
+labels: thingsiwanttoknow
+=======
 
 title: "[Thing I want to Know] - (insert here)"
 labels: ''
@@ -48,12 +55,18 @@ labels: want to know
 ist
 
 
+
 assignees: ''
 =======
 =======
 
 
 
+<
+---
+
+Please add one item that you want to know. File new issues for each item that you learned. Please keep the number of characters to no more than 255.
+=======
 I want to know <fill in what you don't here>
 =======
 ---
@@ -164,3 +177,4 @@ assignees: ''
 
 Please describe what you want to know in less than 255 characters.
 =======
+
