@@ -7,6 +7,11 @@ name: Things I Don't Understand
 about: This is for adding issues that you don't understand.
 title: ''
 
+labels: Complied List, Things I Don't Understand
+labels: IDontKnow
+labels: Complied List, Things I Don't Understand
+=======
+
 labels: Don't Know
 =======
 
@@ -24,6 +29,7 @@ labels: don't understand
 labels: Things I don't understand
 =======
 labels: don't understand
+
 
 assignees: ''
 =======
