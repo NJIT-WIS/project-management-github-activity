@@ -1,5 +1,8 @@
 
+=======
+
 ---
+
 name: Things I Don't Understand
 about: This is for adding issues that you don't understand.
 title: ''
@@ -60,6 +63,9 @@ labels: idk
 about: This is for adding issues that you don't understand.
 title: ''
 
+labels: ''
+=======
+
 
 labels: I don't know
 =======
@@ -109,6 +115,9 @@ labels: things I don't know
 
 
 labels: don't understand
+
+
+=======
 
 
 I don't understand <fill in what you don't here>

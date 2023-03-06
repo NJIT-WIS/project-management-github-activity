@@ -1,4 +1,6 @@
 
+=======
+
 ---
 
 name: Things I want to know
@@ -8,6 +10,10 @@ labels: things I want to know
 
 name: Things I Want to Know
 about: Describe this issue template's purpose here.
+
+title: "[Thing I want to Know] - (insert here)"
+labels: ''
+=======
 title: 'Thing I want to know: <file in title> [Thing I want to Knows]'
 
 labels: Want to Know
@@ -39,10 +45,14 @@ labels: want to know
 
 ist
 
+
 assignees: ''
 =======
 
 
+
+I want to know <fill in what you don't here>
+=======
 ---
 ### Things I Want to Know
 1. Docker integraion[1]
