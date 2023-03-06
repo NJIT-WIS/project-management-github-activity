@@ -39,37 +39,30 @@
 UCID: dv339
 
 #### Things we understand**
-
-
 1.  Github[1]
 2.  Docker Installation[2] 
 3.  npm[2]
 4.  MAVEN[1]
 5.  MONGODB[1]
-6.  Create branch[1]
-7.  Git Status[2] 
-8.  Git Commit[1]
-9.  Git add, commit, push, merges and resolving merge conflicts[1]
-10.  GitHub secrets to add usernames/passwords[1] 
-11.  Building Docker images though pycharm terminal[1]
-
+6.  Create branch[2]
+7.  Git Status[3] 
+8.  Git Commit[2]
+9.  Git add, commit, push, merges and resolving merge conflicts[2]
+10.  GitHub secrets to add usernames/passwords[2] 
+11.  Building Docker images though pycharm terminal[2]
 #### Things we don't understand
-
-
-1. Docker Container and its use[1]
-2. GIT Rebase[2]
-3. Implementation of Single Sign-On process[1]
-4. GIT RESET[1]
-5. GIT FORK[2]
-6. Workflow between repositories[2]
-7. Docker Vs GitHub[1]
-8. Pytest & how to use testing frameworks[1]
-9. Building & playing Docker images[1]
-10. Difference between git fetch origin & git pull origin main[1]
-
-
+1. Docker Container and its use[2]
+2. GIT Rebase[4]
+3. Implementation of Single Sign-On process[2]
+4. GIT status[1]
+5. GIT RESET[2]
+6. GIT FORK[3]
+7. Workflow between repositories[2]
+8. Docker Vs GitHub[1]
+9. Pytest & how to use testing frameworks[1]
+10. Building & playing Docker images[1]
+11. Difference between git fetch origin & git pull origin main[1]
 #### Things we want to know next**
-
 1.  Managing Git Stash [1]
 2.  Cloud Deployment [2]
 3.  How Pytest is used for Automation[1]
