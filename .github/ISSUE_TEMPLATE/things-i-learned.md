@@ -5,6 +5,11 @@ name: Things I learned
 ---
 name: Things I Learned
 about: Add one item for each thing you learned keep to max of 255 characters
+
+title: sm637
+labels: I know
+assignees: Sumanmhalsank02
+=======
 title: "[Things I Learned]"
 labels: learned
 =======
@@ -32,6 +37,7 @@ labels: i know
 
 assignees: ''
 =======
+
 
 assignees: ''
 =======

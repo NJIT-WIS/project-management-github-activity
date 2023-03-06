@@ -36,8 +36,49 @@
 
 =======
 
+UCID: dv339
+
 ### Your list should look like this:
 #### Things we understand**
+
+1.  Docker Commands[1]
+2.  Python and Java[1] 
+3.  SQL and PHP[1]
+4.  Git commands[2]
+5.  Pycharm[3]
+6.  ssh keygen[1]
+7.  Npm Live Reload of Website[1]
+8.  How to use Github [3] 
+9.  Basics of Docker [2]
+#### Things we don't understand
+1.  git reflog[1]
+2.  git diff[1]
+3.  git stash[1]
+4.  Docker Images[1]
+5.  Node.js[1]
+6.  Webpack[1]
+7.  The end use of Docker[3]
+8.  How to resolve Merge Conflicts[1]
+9.  Push request [1]
+10. Pycharm [1]
+11. Docker Container, Images and their Uses [2]
+12. How the process is automated [1]
+#### Things we want to know next**
+1.  Kubernetes [1]
+2.  Cloud Computing[1]
+3.  Kibana[1]
+4.  Teraform[1]
+5.  Rest api[1]
+6.  Reactjs[1]
+7.  CI/CD Tools[2] 
+8.  How to deploy a website to cloud[1] 
+9.  Kubernetes with an example project[1] 
+10. DevOpss[1] 
+11. python[1] 
+12. How automation works in web systems.[2]
+13. Devops tools and their Use [1]
+14. I want to understand all steps of the Devops Automation [1]
+=======
 
 
 1.  I learned how to add ssh key to github account and how to connect with local environment [1]
