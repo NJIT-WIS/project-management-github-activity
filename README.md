@@ -43,6 +43,16 @@ UCID: dv339
 
 #### Things we understand**
 
+1. Github Repository [2]
+2. Pull Request [1]
+3. Merge conflict [1]
+4. Docker Installation [1]
+5. Adding modified files [1]
+6. Git status [1]
+7. I learned GitHub Issues and creating Branch [1]
+8. I learned GitHub Milestones, Labels and how to use them [1]
+=======
+
 
 1.  Python [1]
 2.  SQL [1]
@@ -887,12 +897,27 @@ UCID: dv339
 3. I learned GitHub Milestones, Labels and how to use them[1]
 
 4. Docker Installation [2]
+
 #### Things we don't understand
-1. Git Stash - what is it? [3]
-2. Git Rebase - what is it? [3]
-3. GIT Actions - Complete Workflow [2]
-4. Docker Images [2]
+1. Git Fetch [1]
+2. Git Rebase [3]
+3. Docker Images [1]
+4. Git commit [1]
+5. Git status [1]
+6. Git stash [1]
+7. Git Actions [1]
 #### Things we want to know next**
+
+1.  SQL [1]
+2. Javascript Frameworks[1]
+3. Kubernetes [2]
+4. how this all relates[1]
+5. how to make a website[1]
+6. debugging[1]
+7. Teraform [1]
+8. Elastic Search Indexing [1]
+
+=======
 1. Teraform [2]
 2. Cloud deployment with Kubernetes [2]
 3. Elastic Search Indexing - What is it? [2]
@@ -900,6 +925,7 @@ UCID: dv339
 5. Javascript Frameworks [3]
 6. Debugging [1]
 7. How to make website[1]
+
 
 
 
