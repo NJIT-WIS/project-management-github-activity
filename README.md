@@ -42,6 +42,24 @@ UCID: dv339
 ### Your list should look like this:
 
 #### Things we understand**
+1.  Containerise a docker image [3]
+2.  Collaborate with the team using GitHub [1]
+3.  Fork and create a new pull request [1]
+4.  Docker Commands[1]
+5.  Python and Java[1]
+6.  SQL and PHP[1]
+7.  Npm Live Reload of Website[1] 
+8.  Git Commands [1] 
+9.  How to use GitHub [3] 
+10. Pycharm [2]
+#### Things we don't understand
+1.  Configure docker image [2]
+2.  Test case for code validity [1]
+3.  Test cases for web pages [1]
+4.  git reflog[1]
+5.  git diff[1]
+6.  git stash[1]
+=======
 1.  How to use GitHub Classroom[1]
 2.  How to use Docker commands[1] 
 3.  How to host a website using localhost[1]
@@ -271,6 +289,20 @@ UCID: dv339
 8.  How to resolve Merge Conflicts[1]
 9.  Push request [1]
 10. Pycharm [1]
+11. How the process is automated [1]
+#### Things we want to know next**
+1.  Create VMs and configure them in AWS [1]
+2.  Create webpages using ReactJS [1]
+3.  Kubernetes [3]
+4.  Cloud Computing[2]
+5.  Kibana[1]
+6.  CI/CD Tools[2] 
+7.  DevOpss[1] 
+8.  python[1] 
+9.  How automation works in web systems.[2]
+10. Devops tools and their Use [1] 
+11. I want to understand all steps of the Devops Automation [1]
+=======
 11. Docker Container, Images and their Uses [2]
 12. How the process is automated [1]
 #### Things we want to know next**
