@@ -11,19 +11,34 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Complete the Assignment By adding your issues to these 3 lists and count how many times each issue is mentioned.  The number in the bracket next to each issue is the count, you should set your count at 1 for your issue.  We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
 
+
 ### Your list should look like this:
 #### Things we understand**
-1.  Python Print[1]
-2.  Linux Directory listing[2] 
-3.  Docker Installation[1]
+1.  How to merge[1]
+2.  How to fix merge conflicts [1] 
+3.  How to make a docker repository [3]
+4.  SSL Error[1]
+5.  Adding SSH key to GitHub[1]
+6.  Git commit[1]
 #### Things we don't understand
-1. Git Stash[1]
-2. GIt pull[2]
-3. GIT status[1]
+1. Tasks on GitHub [1]
+2. Pull Requests [1]
+3. Actions Tab [1]
+4. What does "npm" stand for?[1]
+5. Git status[2]
+6. Working Directory vs Local Repo[1]
+7. I dont understand webpack[1]
+8. I dont understand git fetch vs git pull[1]
+9. I dont understand git init[1]
 #### Things we want to know next**
-1.  Elastic Search Indexing [1]
-2.  Cloud deployment with Kubernetes[2]
-3.  Teraform[1]
+1.  AWS [1]
+2.  Agile [2]
+3.  DevOps [1]
+4.  PYTEST[1]
+5.  Python Flask[1]
+6.  I want to know kubernetes[1]
+7.  I want to know terraform[1]
+8. I want to know more about nodesjs[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
@@ -53,7 +68,7 @@ This person should then merge the pull requests and resolve the merge conflict t
 3.  Merged 9 pull requests from someone else
 3.  Made a pull request to another person with your master branch that contains the consolidated list 
 4.  Merged the pull request of someone elsesa compiled list
-5.  Submmited a pull request to this repository to have your complete list merged
+5.  Submitted a pull request to this repository to have your complete list merged
 
 ### Canvas Submission instructions
 
