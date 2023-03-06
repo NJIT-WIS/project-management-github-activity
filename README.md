@@ -41,6 +41,36 @@ UCID: dv339
 ### Your list should look like this:
 #### Things we understand**
 
+1. How to Setup Oracle Cloud[1]
+2. Using Docker[1]
+3. Using Bash Scripts[2]
+4. Manage Issues[1] 
+5. Using watchtower and implementation[1]
+6. Linux Commands[1]
+7. Git Commands[1]
+8. Project Management[1]
+
+#### Things we don't understand
+1. Using ELK stack[1]
+2. Creating Pull Request[1]
+3. Setting Up OAuth with Azure[1]
+4. I don't know anything[1]
+5. I don't know Seige[2]
+6. I don't know kibana[1]
+7. docker-compose.yml[1]
+8. Bash Script[1]
+
+#### Things we want to know next**
+1. Using Browser Cookies[1]
+2. Using Azure[1]
+3. Connecting .NET to React[1]
+4. How we effect and integrate into the Stack [1]
+5. How are changes displayed on final site[1]
+6. How does teraform work/what is terraforming[1]
+7. DevOps Duty[1]
+8. Bash Scripting[1]
+9. Kurbernetes[1]
+=======
 1.  Syntax Fixing[1]
 2.  Push/Pulling [2]
 3.  Merge[1]
@@ -465,6 +495,7 @@ UCID: dv339
 5. Javascript Frameworks [3]
 6. Debugging [1]
 7. How to make website[1]
+
 
 
 
