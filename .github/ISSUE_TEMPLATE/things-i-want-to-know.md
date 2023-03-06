@@ -36,6 +36,8 @@ name: Things I Want To Know
 about: Add one item for each thing you want to know.
 title: 'Thing I want to know: <file in title> [Thing I want to Knows]'
 
+labels: Things I want to know
+=======
 labels: Things I Want To Learn
 =======
 
