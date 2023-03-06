@@ -41,6 +41,19 @@ UCID: dv339
 ### Your list should look like this:
 #### Things we understand**
 
+1.  Syntax Fixing[1]
+2.  Push/Pulling [2]
+3.  Merge[1]
+#### Things we don't understand
+1. Make commits into 1 pull[1]
+2. Increment List[1]
+3. Merge[1]
+#### Things we want to know next**
+1.  Repetition of this pull req [1]
+2.  How docker is integrated[2]
+3.  Why keygen is used[1]
+=======
+
 1.  Docker Commands[1]
 2.  Python and Java[1] 
 3.  SQL and PHP[1]
@@ -287,6 +300,7 @@ UCID: dv339
 4.  I have heard of Wireframes but want to learn more about it. 
 5.  Want to learn more about Node.js
 6.  Learn what jQuery is
+
 
 
 =======
