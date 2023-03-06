@@ -38,8 +38,37 @@
 
 UCID: dv339
 
-### Your list should look like this:
 #### Things we understand**
+
+1.  I learned how to set up a Docker repository.[3]
+2.  I learned git commit.[2]
+3.  I learned git status.[2]
+4.  SSL Error.[1]
+5.  Adding SSH Key to GitHub.[1]
+6.  How to merge [1]
+7.  How to fix merge conflicts[1]
+8.  Adding SSh key to GitHub[1]
+
+#### Things we don't understand
+1. I don't understand webpack.[1]
+2. I don't understand git fetch vs git pull.[1]
+3. I don't understand git init.[1]
+4. What does "npm" stand for?[1]
+5. What is the difference between **Working Directory** and **Local Repo**?[1]
+6. I dont understand tasks on GitHub[1]
+7. I dont understand Pull Request[1]
+8. I dont understand actions tab[1]
+
+#### Things we want to know next**
+1. I want to know Kubernetes.[1]
+2. I want to know Terraform.[1]
+3. I want to know more about Node.js.[1]
+4. I want to learn Python Flask.[2]
+5. I want to learn creating Pytest.[1]
+6. I want to learn Agile methodology.[3]
+7. I want to learn more about AWS[2]
+8. I want to learn more about DevOps[2]
+=======
 
 1. How to Setup Oracle Cloud[1]
 2. Using Docker[1]
@@ -266,7 +295,18 @@ UCID: dv339
 
 =======
 
+
+### You are done when you have completed the following:
+ 
+1.  Added your issues individually and resolved them
+2.  Made 9 pull requests to another person for each item that contains the branch you want to merge 
+3.  Merged 9 pull requests from someone else
+3.  Made a pull request to another person with your master branch that contains the consolidated list 
+4.  Merged the pull request of someone elsesa compiled list
+5.  Submitted a pull request to this repository to have your complete list merged
+=======
 #### Things we understand**
+
 
 
 =======

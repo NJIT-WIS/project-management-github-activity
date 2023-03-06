@@ -12,6 +12,9 @@ assignees: Sumanmhalsank02
 =======
 title: "[Things I Learned]"
 
+labels: I Know
+=======
+
 labels: Things I Learned
 =======
 labels: learned
@@ -37,6 +40,7 @@ labels: i know
 
 
 =======
+
 
 
 assignees: ''
