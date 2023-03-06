@@ -36,6 +36,9 @@ title: 'Thing I want to know: <file in title> [Thing I want to Knows]'
 
 labels: Want to Know
 =======
+
+labels: Want to Know
+=======
 labels: want2know
 
 =======
@@ -84,6 +87,7 @@ labels: Things I want to know
 labels: want to know
 
 ist
+
 
 
 

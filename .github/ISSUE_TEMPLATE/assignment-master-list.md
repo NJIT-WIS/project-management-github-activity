@@ -1,5 +1,15 @@
 ---
 name: Assignment Master List
+
+
+about: Describe this issue template's purpose here.
+title: ''
+labels: master
+
+
+assignees: ''
+
+=======
 about: 'Combined merged list to my main '
 title: ''
 labels: Assignment master list
@@ -22,5 +32,6 @@ Pull request  : https://github.com/asce1001/project-management-github-activity/p
 
 Reference your pull request here
 =======
+
 
 

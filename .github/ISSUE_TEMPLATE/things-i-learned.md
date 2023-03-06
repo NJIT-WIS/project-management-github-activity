@@ -25,6 +25,9 @@ assignees: Sumanmhalsank02
 =======
 title: "[Things I Learned]"
 
+labels: I Know
+=======
+
  2-ssh-keygen-and-github
 labels: ''
 
